@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 
 type AppMode = "atlas" | "lernen";
 type OverviewMode = "clean" | "annotated";
@@ -61,6 +61,13 @@ type AtlasAnnotation = {
   atlas_image: string;
   exercise_image: string;
   didactic_note?: string;
+  didactic_quality?: "adequate" | "limited";
+  didactic_role?:
+    | "diagnostic"
+    | "physiological"
+    | "supportive"
+    | "technical";
+  didactic_badge?: string;
 };
 
 type AtlasIndex = {
@@ -457,6 +464,7 @@ function ZoomViewer({
   const [zoom, setZoom] = useState(100);
   const [dragging, setDragging] = useState(false);
   const stageRef = useRef<HTMLDivElement>(null);
+  const zoomFocus = useRef<{ x: number; y: number } | null>(null);
   const dragState = useRef({
     active: false,
     startX: 0,
@@ -471,6 +479,31 @@ function ZoomViewer({
       stageRef.current.scrollTo({ left: 0, top: 0 });
     }
   }, [src]);
+
+  useLayoutEffect(() => {
+    const stage = stageRef.current;
+    const focus = zoomFocus.current;
+    if (!stage || !focus) return;
+
+    stage.scrollTo({
+      left: focus.x * stage.scrollWidth - stage.clientWidth / 2,
+      top: focus.y * stage.scrollHeight - stage.clientHeight / 2,
+    });
+    zoomFocus.current = null;
+  }, [zoom]);
+
+  function changeZoom(nextZoom: number | ((current: number) => number)) {
+    const stage = stageRef.current;
+    if (stage) {
+      zoomFocus.current = {
+        x: (stage.scrollLeft + stage.clientWidth / 2) / stage.scrollWidth,
+        y: (stage.scrollTop + stage.clientHeight / 2) / stage.scrollHeight,
+      };
+    }
+    setZoom((current) =>
+      typeof nextZoom === "function" ? nextZoom(current) : nextZoom,
+    );
+  }
 
   function startDragging(event: React.PointerEvent<HTMLDivElement>) {
     if (event.button !== 0 || !stageRef.current) return;
@@ -517,23 +550,27 @@ function ZoomViewer({
           max={maxZoom}
           step="20"
           value={zoom}
-          onChange={(event) => setZoom(Number(event.target.value))}
+          onChange={(event) => changeZoom(Number(event.target.value))}
         />
         <button
           type="button"
           aria-label="Verkleinern"
-          onClick={() => setZoom((value) => Math.max(60, value - 20))}
+          onClick={() =>
+            changeZoom((value) => Math.max(60, value - 20))
+          }
         >
           −
         </button>
         <button
           type="button"
           aria-label="Vergrößern"
-          onClick={() => setZoom((value) => Math.min(maxZoom, value + 20))}
+          onClick={() =>
+            changeZoom((value) => Math.min(maxZoom, value + 20))
+          }
         >
           +
         </button>
-        <button type="button" onClick={() => setZoom(100)}>
+        <button type="button" onClick={() => changeZoom(100)}>
           Zurücksetzen
         </button>
       </div>
@@ -1651,12 +1688,22 @@ function PreparationAtlas({ record }: { record: CourseRecord }) {
                   <i>vergrößern</i>
                 </span>
                 <span className="detail-copy">
-                  {annotation.didactic_note && (
-                    <small>Didaktische Einordnung</small>
-                  )}
+                  <span className="detail-tags">
+                    {annotation.didactic_badge && (
+                      <small className={`finding-tag ${annotation.didactic_role ?? ""}`}>
+                        {annotation.didactic_badge}
+                      </small>
+                    )}
+                    {annotation.didactic_quality === "limited" && (
+                      <small className="quality-flag">Eingeschränkte Bildqualität</small>
+                    )}
+                  </span>
                   <strong>{annotation.label}</strong>
                   {annotation.didactic_note && (
-                    <span>{annotation.didactic_note}</span>
+                    <span className="didactic-note">
+                      <b>Didaktische Einordnung</b>
+                      {annotation.didactic_note}
+                    </span>
                   )}
                 </span>
               </button>
@@ -1693,6 +1740,17 @@ function PreparationAtlas({ record }: { record: CourseRecord }) {
             />
             {selectedDetail.didactic_note && (
               <p className="lightbox-didactic">
+                <span className="detail-tags">
+                  {selectedDetail.didactic_badge && (
+                    <small className={`finding-tag ${selectedDetail.didactic_role ?? ""}`}>
+                      {selectedDetail.didactic_badge}
+                    </small>
+                  )}
+                  {selectedDetail.didactic_quality === "limited" && (
+                    <small className="quality-flag">Eingeschränkte Bildqualität</small>
+                  )}
+                </span>
+                <b>Didaktische Einordnung</b>
                 {selectedDetail.didactic_note}
               </p>
             )}

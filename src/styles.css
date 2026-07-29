@@ -1297,6 +1297,47 @@ img {
   text-transform: uppercase;
 }
 
+.detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+}
+
+.detail-tags small {
+  display: inline-flex;
+  width: fit-content;
+  padding: 6px 9px;
+  border-radius: 999px;
+  letter-spacing: 0.05em;
+}
+
+.finding-tag {
+  background: var(--turquoise-soft);
+  color: var(--petrol-2) !important;
+}
+
+.finding-tag.diagnostic {
+  background: var(--burgundy-soft);
+  color: var(--burgundy) !important;
+}
+
+.finding-tag.supportive {
+  background: #f3ead8;
+  color: #76551d !important;
+}
+
+.finding-tag.technical {
+  background: #e8e9ef;
+  color: #51586b !important;
+}
+
+.quality-flag {
+  border: 1px solid #d69a37;
+  background: #fff4d8;
+  color: #795515 !important;
+}
+
 .detail-copy strong {
   margin-top: 7px;
   color: var(--petrol);
@@ -1312,6 +1353,20 @@ img {
   line-height: 1.55;
 }
 
+.detail-copy .didactic-note {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.didactic-note b,
+.lightbox-didactic > b {
+  color: var(--petrol);
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .lightbox-didactic {
   margin: 0;
   padding: 18px 22px 21px;
@@ -1320,6 +1375,15 @@ img {
   color: var(--petrol-2);
   font-size: 12px;
   line-height: 1.62;
+}
+
+.lightbox-didactic .detail-tags {
+  margin-bottom: 12px;
+}
+
+.lightbox-didactic > b {
+  display: block;
+  margin-bottom: 6px;
 }
 
 .exam-answer {

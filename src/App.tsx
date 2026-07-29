@@ -1360,7 +1360,7 @@ function ReferenceAtlas() {
           </div>
           <ZoomViewer
             src={overviewSrc}
-            maxZoom={500}
+            maxZoom={800}
             alt={
               overviewMode === "annotated"
                 ? "Kolonübersicht mit exakt umrahmten Detailausschnitten"
@@ -1581,7 +1581,7 @@ function PreparationAtlas({ record }: { record: CourseRecord }) {
           </div>
           <ZoomViewer
             src={overviewSrc}
-            maxZoom={500}
+            maxZoom={800}
             alt={
               overviewMode === "annotated"
                 ? `${displayDiagnosis}: Übersicht mit umrahmten Detailausschnitten`
@@ -2043,7 +2043,13 @@ function ExamSlide({ record }: { record: CourseRecord }) {
   );
 }
 
-function TrainingMode({ records }: { records: CourseRecord[] }) {
+function TrainingMode({
+  records,
+  openPreparation,
+}: {
+  records: CourseRecord[];
+  openPreparation: (record: CourseRecord) => void;
+}) {
   const [phase, setPhase] = useState<"configure" | "exam" | "results">(
     "configure",
   );
@@ -2529,10 +2535,18 @@ function TrainingMode({ records }: { records: CourseRecord[] }) {
             <span>Punkte</span>
           </div>
           {answers.map((answer, index) => (
-            <article key={`${answer.record.number}-${index}`}>
+            <button
+              type="button"
+              className="exam-result-entry"
+              key={`${answer.record.number}-${index}`}
+              onClick={() => openPreparation(answer.record)}
+              aria-label={`Präparat ${answer.record.number} im Atlas öffnen`}
+            >
               <span>{String(index + 1).padStart(2, "0")}</span>
               <div>
-                <strong>{answer.record.organ}</strong>
+                <strong>
+                  #{answer.record.number} · {answer.record.organ}
+                </strong>
                 <small>{diagnosisForRecord(answer.record)}</small>
               </div>
               <span className={answer.organPoint ? "correct" : "wrong"}>
@@ -2545,7 +2559,7 @@ function TrainingMode({ records }: { records: CourseRecord[] }) {
                 {answer.organPoint + answer.diagnosisPoints} /{" "}
                 {1 + diagnosisWeight}
               </strong>
-            </article>
+            </button>
           ))}
         </section>
       </main>
@@ -2677,6 +2691,12 @@ function TrainingMode({ records }: { records: CourseRecord[] }) {
                   : "Lösung vergleichen"}
               </p>
               <dl>
+                <div>
+                  <dt>Präparat</dt>
+                  <dd>
+                    <strong>Lösung: #{currentRecord.number}</strong>
+                  </dd>
+                </div>
                 <div>
                   <dt>Organ</dt>
                   <dd>
@@ -2830,9 +2850,19 @@ export default function Home() {
       if (timeoutId !== null) window.clearTimeout(timeoutId);
       window.history.replaceState(null, "", `#${targetId}`);
       setActivePreparationNumber(pendingPreparationNumber);
-      setPendingPreparationNumber(null);
       window.requestAnimationFrame(() => {
-        target.scrollIntoView({ behavior: "auto", block: "start" });
+        window.requestAnimationFrame(() => {
+          const headerHeight =
+            document.querySelector<HTMLElement>(".app-header")
+              ?.getBoundingClientRect().height ?? 78;
+          const top =
+            target.getBoundingClientRect().top +
+            window.scrollY -
+            headerHeight -
+            16;
+          window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
+          setPendingPreparationNumber(null);
+        });
       });
       return true;
     };
@@ -2927,7 +2957,10 @@ export default function Home() {
           </main>
         )
       ) : (
-        <TrainingMode records={courseRecords} />
+        <TrainingMode
+          records={courseRecords}
+          openPreparation={openPreparation}
+        />
       )}
       <footer className="app-footer">
         <div>

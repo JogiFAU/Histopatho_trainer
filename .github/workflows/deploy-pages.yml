@@ -1,9 +1,10 @@
 name: Histopathologie-Atlas auf GitHub Pages veröffentlichen
 
 on:
-  push:
-    branches:
-      - main
+  # Pages must publish Vite's compiled dist directory, not a source branch.
+  # Run this workflow for every pushed branch so a PR branch selected for a
+  # test deployment is built in exactly the same way as main.
+  push: {}
   workflow_dispatch:
 
 permissions:

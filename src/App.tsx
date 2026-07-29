@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 
 type AppMode = "atlas" | "lernen";
 type OverviewMode = "clean" | "annotated";
@@ -25,6 +25,8 @@ type ExamRepresentativeImage = {
   label: string;
   exercise_image: string;
   rationale: string;
+  didactic_quality?: AtlasAnnotation["didactic_quality"];
+  didactic_role?: AtlasAnnotation["didactic_role"];
 };
 
 type CourseRecord = {
@@ -61,6 +63,13 @@ type AtlasAnnotation = {
   atlas_image: string;
   exercise_image: string;
   didactic_note?: string;
+  didactic_quality?: "adequate" | "limited";
+  didactic_role?:
+    | "diagnostic"
+    | "physiological"
+    | "supportive"
+    | "technical";
+  didactic_badge?: string;
 };
 
 type AtlasIndex = {
@@ -457,6 +466,7 @@ function ZoomViewer({
   const [zoom, setZoom] = useState(100);
   const [dragging, setDragging] = useState(false);
   const stageRef = useRef<HTMLDivElement>(null);
+  const zoomFocus = useRef<{ x: number; y: number } | null>(null);
   const dragState = useRef({
     active: false,
     startX: 0,
@@ -471,6 +481,31 @@ function ZoomViewer({
       stageRef.current.scrollTo({ left: 0, top: 0 });
     }
   }, [src]);
+
+  useLayoutEffect(() => {
+    const stage = stageRef.current;
+    const focus = zoomFocus.current;
+    if (!stage || !focus) return;
+
+    stage.scrollTo({
+      left: focus.x * stage.scrollWidth - stage.clientWidth / 2,
+      top: focus.y * stage.scrollHeight - stage.clientHeight / 2,
+    });
+    zoomFocus.current = null;
+  }, [zoom]);
+
+  function changeZoom(nextZoom: number | ((current: number) => number)) {
+    const stage = stageRef.current;
+    if (stage) {
+      zoomFocus.current = {
+        x: (stage.scrollLeft + stage.clientWidth / 2) / stage.scrollWidth,
+        y: (stage.scrollTop + stage.clientHeight / 2) / stage.scrollHeight,
+      };
+    }
+    setZoom((current) =>
+      typeof nextZoom === "function" ? nextZoom(current) : nextZoom,
+    );
+  }
 
   function startDragging(event: React.PointerEvent<HTMLDivElement>) {
     if (event.button !== 0 || !stageRef.current) return;
@@ -517,23 +552,27 @@ function ZoomViewer({
           max={maxZoom}
           step="20"
           value={zoom}
-          onChange={(event) => setZoom(Number(event.target.value))}
+          onChange={(event) => changeZoom(Number(event.target.value))}
         />
         <button
           type="button"
           aria-label="Verkleinern"
-          onClick={() => setZoom((value) => Math.max(60, value - 20))}
+          onClick={() =>
+            changeZoom((value) => Math.max(60, value - 20))
+          }
         >
           −
         </button>
         <button
           type="button"
           aria-label="Vergrößern"
-          onClick={() => setZoom((value) => Math.min(maxZoom, value + 20))}
+          onClick={() =>
+            changeZoom((value) => Math.min(maxZoom, value + 20))
+          }
         >
           +
         </button>
-        <button type="button" onClick={() => setZoom(100)}>
+        <button type="button" onClick={() => changeZoom(100)}>
           Zurücksetzen
         </button>
       </div>
@@ -1651,12 +1690,22 @@ function PreparationAtlas({ record }: { record: CourseRecord }) {
                   <i>vergrößern</i>
                 </span>
                 <span className="detail-copy">
-                  {annotation.didactic_note && (
-                    <small>Didaktische Einordnung</small>
-                  )}
+                  <span className="detail-tags">
+                    {annotation.didactic_badge && (
+                      <small className={`finding-tag ${annotation.didactic_role ?? ""}`}>
+                        {annotation.didactic_badge}
+                      </small>
+                    )}
+                    {annotation.didactic_quality === "limited" && (
+                      <small className="quality-flag">Eingeschränkte Bildqualität</small>
+                    )}
+                  </span>
                   <strong>{annotation.label}</strong>
                   {annotation.didactic_note && (
-                    <span>{annotation.didactic_note}</span>
+                    <span className="didactic-note">
+                      <b>Didaktische Einordnung</b>
+                      {annotation.didactic_note}
+                    </span>
                   )}
                 </span>
               </button>
@@ -1693,6 +1742,17 @@ function PreparationAtlas({ record }: { record: CourseRecord }) {
             />
             {selectedDetail.didactic_note && (
               <p className="lightbox-didactic">
+                <span className="detail-tags">
+                  {selectedDetail.didactic_badge && (
+                    <small className={`finding-tag ${selectedDetail.didactic_role ?? ""}`}>
+                      {selectedDetail.didactic_badge}
+                    </small>
+                  )}
+                  {selectedDetail.didactic_quality === "limited" && (
+                    <small className="quality-flag">Eingeschränkte Bildqualität</small>
+                  )}
+                </span>
+                <b>Didaktische Einordnung</b>
                 {selectedDetail.didactic_note}
               </p>
             )}
@@ -1962,6 +2022,56 @@ function diagnosisForRecord(record: CourseRecord) {
     : record.diagnosis;
 }
 
+function examImageCandidates(record: CourseRecord): string[] {
+  const annotations = record.annotations ?? [];
+  const representatives = record.exam_representative_images ?? [];
+  const representativeIds = new Set(
+    representatives.map((image) => image.annotation_id),
+  );
+  const isAdequate = (annotation: AtlasAnnotation) =>
+    annotation.didactic_quality === "adequate";
+  const isDiagnostic = (annotation: AtlasAnnotation) =>
+    annotation.didactic_role === "diagnostic";
+  const uniquePaths = (items: AtlasAnnotation[]) =>
+    Array.from(new Set(items.map((item) => item.exercise_image).filter(Boolean)));
+
+  const preferred = annotations.filter(
+    (annotation) => isAdequate(annotation) && isDiagnostic(annotation),
+  );
+  const representativePreferred = preferred.filter((annotation) =>
+    representativeIds.has(annotation.id),
+  );
+
+  if (representativePreferred.length > 0) {
+    return uniquePaths(representativePreferred);
+  }
+  if (preferred.length > 0) return uniquePaths(preferred);
+
+  // A preparation without an adequate diagnostic crop remains examinable. In
+  // that exceptional case, an accompanying pathological finding is preferred
+  // over a normal structure. Limited-quality crops never enter an exam.
+  const adequateFallbacks = annotations.filter(isAdequate);
+  const fallbackTiers = [
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "supportive",
+    ),
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "physiological",
+    ),
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "technical",
+    ),
+  ];
+  const fallback = fallbackTiers.find((tier) => tier.length > 0) ?? [];
+  const representativeFallback = fallback.filter((annotation) =>
+    representativeIds.has(annotation.id),
+  );
+
+  return uniquePaths(
+    representativeFallback.length > 0 ? representativeFallback : fallback,
+  );
+}
+
 function shuffleRecords(records: CourseRecord[]) {
   const shuffled = [...records];
   for (let index = shuffled.length - 1; index > 0; index -= 1) {
@@ -1975,9 +2085,7 @@ function shuffleRecords(records: CourseRecord[]) {
 }
 
 function ExamSlide({ record }: { record: CourseRecord }) {
-  const cellImage =
-    record.examImage ||
-    record.annotations?.[0]?.exercise_image;
+  const cellImage = record.examImage;
 
   if (record.overview || cellImage) {
     return (
@@ -2078,6 +2186,7 @@ function TrainingMode({
     () =>
       records.filter(
         (record) =>
+          Boolean(record.overview) &&
           !excludedOrgans.has(record.organ) &&
           (includeReferences ||
             normalizeAnswer(record.diagnosis) !== "referenz"),
@@ -2136,13 +2245,11 @@ function TrainingMode({
     const selectedRecords = shuffleRecords(eligibleRecords)
       .slice(0, effectiveQuestionCount)
       .map((record) => {
-        const images = record.exam_representative_images
-          ?.map((representative) => representative.exercise_image)
-          .filter(Boolean);
+        const images = examImageCandidates(record);
         const examImage =
-          images && images.length > 0
+          images.length > 0
             ? images[Math.floor(Math.random() * images.length)]
-            : record.annotations?.[0]?.exercise_image || record.overview;
+            : undefined;
 
         return { ...record, examImage };
       });

@@ -78,9 +78,12 @@
       "atlas_image": "atlas/03-metastase-im-markraum-annotiert.jpg",
       "exercise_image": "pruefung/03-metastase-im-markraum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Drüsen- oder Zellverbände ersetzen hämatopoetisches Knochenmark zwischen verbreiterten Trabekeln. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Prostatakarzinommetastase im Knochenmark als definierender Befund.",
-      "didactic_note": "Prostatakarzinommetastase im Knochenmark als definierender Befund. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+      "exam_rationale": "Prostatakarzinommetastase im Knochenmark als definierender Befund."
     },
     {
       "id": 5,
@@ -120,9 +123,12 @@
       "atlas_image": "atlas/05-verbreiterte-knochentrabekel-annotiert.jpg",
       "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Prostatakarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Reaktion.",
-      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Reaktion. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Reaktion."
     }
   ],
   "quality": {
@@ -135,14 +141,20 @@
       "label": "Metastase im Markraum",
       "exercise_image": "pruefung/03-metastase-im-markraum.jpg",
       "rationale": "Prostatakarzinommetastase im Knochenmark als definierender Befund.",
-      "didactic_note": "Prostatakarzinommetastase im Knochenmark als definierender Befund. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+      "didactic_note": "Atypische epitheliale Drüsen- oder Zellverbände ersetzen hämatopoetisches Knochenmark zwischen verbreiterten Trabekeln. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "verbreiterte Knochentrabekel",
       "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
       "rationale": "Verbreiterte Knochentrabekel als osteoblastische Reaktion.",
-      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Reaktion. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Prostatakarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."

@@ -78,7 +78,10 @@
       "atlas_image": "atlas/09-knochen-annotiert.jpg",
       "exercise_image": "pruefung/09-knochen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knochen“ dient hier als anatomischer Orientierungspunkt. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Gangrän.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -114,7 +117,10 @@
       "atlas_image": "atlas/11-beugesehnen-annotiert.jpg",
       "exercise_image": "pruefung/11-beugesehnen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Beugesehnen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Parallel ausgerichtete, straffe Kollagenfaserbündel mit flachen Tendinozyten kennzeichnen Sehnengewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Gangrän.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/18-einblutungen-annotiert.jpg",
       "exercise_image": "pruefung/18-einblutungen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Einblutungen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 19,
@@ -190,7 +199,10 @@
       "atlas_image": "atlas/19-neutrophile-granulozyten-annotiert.jpg",
       "exercise_image": "pruefung/19-neutrophile-granulozyten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „neutrophile Granulozyten“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 20,
@@ -230,7 +242,10 @@
       "atlas_image": "atlas/20-hornschwielen-annotiert.jpg",
       "exercise_image": "pruefung/20-hornschwielen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Hornschwielen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Eine stark verbreiterte kompakte Hornschicht über der Epidermis entspricht einer druckbedingten Hyperkeratose. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 21,
@@ -322,9 +337,12 @@
       "atlas_image": "atlas/21-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/21-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Nekrose als zentraler Befund der Gangrän.",
-      "didactic_note": "Nekrose als zentraler Befund der Gangrän. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "exam_rationale": "Nekrose als zentraler Befund der Gangrän."
     },
     {
       "id": 22,
@@ -432,25 +450,28 @@
         ]
       },
       "anchor": {
-        "x": 52166.96,
-        "y": 28639.43
+        "x": 55330.79,
+        "y": 32613.0
       },
       "crop": {
-        "left": 51200,
-        "top": 27904,
+        "left": 54528,
+        "top": 32000,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 966.96,
-        "y": 735.43
+        "x": 802.79,
+        "y": 613.0
       },
       "atlas_image": "atlas/22-nekrose-und-eitrige-entzundung-annotiert.jpg",
       "exercise_image": "pruefung/22-nekrose-und-eitrige-entzundung.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion.",
-      "didactic_note": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "exam_rationale": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion."
     }
   ],
   "quality": {
@@ -463,14 +484,20 @@
       "label": "Nekrose",
       "exercise_image": "pruefung/21-nekrose.jpg",
       "rationale": "Nekrose als zentraler Befund der Gangrän.",
-      "didactic_note": "Nekrose als zentraler Befund der Gangrän. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 22,
       "label": "Nekrose und eitrige Entzündung",
       "exercise_image": "pruefung/22-nekrose-und-eitrige-entzundung.jpg",
       "rationale": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion.",
-      "didactic_note": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."

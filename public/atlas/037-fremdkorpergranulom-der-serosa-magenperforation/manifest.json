@@ -61,23 +61,26 @@
         ]
       },
       "anchor": {
-        "x": 16539.8,
-        "y": 58095.59
+        "x": 30441.68,
+        "y": 59415.31
       },
       "crop": {
-        "left": 15616,
-        "top": 57344,
+        "left": 29440,
+        "top": 58880,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 923.8,
-        "y": 751.59
+        "x": 1001.68,
+        "y": 535.31
       },
       "atlas_image": "atlas/01-entzundung-und-hamorrhagie-annotiert.jpg",
       "exercise_image": "pruefung/01-entzundung-und-hamorrhagie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Entzündung und Hämorrhagie“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 24,
@@ -97,25 +100,28 @@
         ]
       },
       "anchor": {
-        "x": 17427.6,
-        "y": 56413.58
+        "x": 31368.84,
+        "y": 57715.52
       },
       "crop": {
-        "left": 16640,
-        "top": 55808,
+        "left": 30464,
+        "top": 57088,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 787.6,
-        "y": 605.58
+        "x": 904.84,
+        "y": 627.52
       },
       "atlas_image": "atlas/24-fremdkorperriesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/24-fremdkorperriesenzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms.",
-      "didactic_note": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "exam_rationale": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms."
     },
     {
       "id": 25,
@@ -151,9 +157,12 @@
       "atlas_image": "atlas/25-fremdmaterial-annotiert.jpg",
       "exercise_image": "pruefung/25-fremdmaterial.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unregelmäßig geformtes, teils refraktiles körperfremdes Material liegt im kollagenen Stroma und ist von Makrophagen umgeben. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Fremdmaterial als auslösender krankheitsspezifischer Befund.",
-      "didactic_note": "Fremdmaterial als auslösender krankheitsspezifischer Befund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "exam_rationale": "Fremdmaterial als auslösender krankheitsspezifischer Befund."
     },
     {
       "id": 26,
@@ -189,7 +198,10 @@
       "atlas_image": "atlas/26-fremdmaterial-annotiert.jpg",
       "exercise_image": "pruefung/26-fremdmaterial.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Fremdmaterial“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "didactic_note": "Unregelmäßig geformtes, teils refraktiles körperfremdes Material liegt im kollagenen Stroma und ist von Makrophagen umgeben. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 27,
@@ -297,7 +309,10 @@
       "atlas_image": "atlas/27-epitheloidzellen-annotiert.jpg",
       "exercise_image": "pruefung/27-epitheloidzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Epitheloidzellen“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "didactic_note": "Dicht gelagerte, hell eosinophile Epitheloidzellen bilden ein Granulom; sie entsprechen aktivierten Makrophagen. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -310,14 +325,20 @@
       "label": "Fremdkörperriesenzelle",
       "exercise_image": "pruefung/24-fremdkorperriesenzelle.jpg",
       "rationale": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms.",
-      "didactic_note": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 25,
       "label": "Fremdmaterial",
       "exercise_image": "pruefung/25-fremdmaterial.jpg",
       "rationale": "Fremdmaterial als auslösender krankheitsspezifischer Befund.",
-      "didactic_note": "Fremdmaterial als auslösender krankheitsspezifischer Befund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+      "didactic_note": "Unregelmäßig geformtes, teils refraktiles körperfremdes Material liegt im kollagenen Stroma und ist von Makrophagen umgeben. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."

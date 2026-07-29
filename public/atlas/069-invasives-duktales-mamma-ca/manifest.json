@@ -62,23 +62,26 @@
         ]
       },
       "anchor": {
-        "x": 15990.55,
-        "y": 58602.5
+        "x": 16196.18,
+        "y": 79814.01
       },
       "crop": {
-        "left": 15104,
-        "top": 57856,
+        "left": 15360,
+        "top": 79104,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 886.55,
-        "y": 746.5
+        "x": 836.18,
+        "y": 710.01
       },
       "atlas_image": "atlas/01-das-fettgewebe-infiltrierendes-wachstum-annotiert.jpg",
       "exercise_image": "pruefung/01-das-fettgewebe-infiltrierendes-wachstum.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „das Fettgewebe infiltrierendes Wachstum“ dient hier als anatomischer Orientierungspunkt. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "didactic_note": "Atypische Tumordrüsen beziehungsweise Tumorzellverbände liegen zwischen reifen Adipozyten und belegen invasives Wachstum. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei invasives Mammakarzinom (NST), ehemals invasives-duktales Mammakarzinom (IDC).",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 9,
@@ -102,23 +105,26 @@
         ]
       },
       "anchor": {
-        "x": 56527.15,
-        "y": 44811.73
+        "x": 71366.13,
+        "y": 60984.16
       },
       "crop": {
-        "left": 55552,
-        "top": 44288,
+        "left": 70400,
+        "top": 60416,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 975.15,
-        "y": 523.73
+        "x": 966.13,
+        "y": 568.16
       },
       "atlas_image": "atlas/09-dcis-komponente-annotiert.jpg",
       "exercise_image": "pruefung/09-dcis-komponente.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „DCIS Komponente“ als morphologischen Teilbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "didactic_note": "Ein präexistenter Milchgang ist durch eine atypische epitheliale Zellproliferation erweitert, während die Begrenzung des Gangsystems erhalten bleibt. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 10,
@@ -674,25 +680,28 @@
         ]
       },
       "anchor": {
-        "x": 36910.6,
-        "y": 41298.36
+        "x": 44495.28,
+        "y": 68894.47
       },
       "crop": {
-        "left": 36096,
-        "top": 40704,
+        "left": 43520,
+        "top": 68352,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 814.6,
-        "y": 594.36
+        "x": 975.28,
+        "y": 542.47
       },
       "atlas_image": "atlas/10-invasives-duktales-mammakarzinom-annotiert.jpg",
       "exercise_image": "pruefung/10-invasives-duktales-mammakarzinom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Invasives Mammakarzinom als diagnostischer Hauptbefund.",
-      "didactic_note": "Invasives Mammakarzinom als diagnostischer Hauptbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "exam_rationale": "Invasives Mammakarzinom als diagnostischer Hauptbefund."
     },
     {
       "id": 11,
@@ -712,25 +721,28 @@
         ]
       },
       "anchor": {
-        "x": 35560.88,
-        "y": 29346.85
+        "x": 39818.98,
+        "y": 41663.19
       },
       "crop": {
-        "left": 34560,
-        "top": 28672,
+        "left": 38912,
+        "top": 40960,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1000.88,
-        "y": 674.85
+        "x": 906.98,
+        "y": 703.19
       },
       "atlas_image": "atlas/11-angedeutet-tubulares-wachstum-annotiert.jpg",
       "exercise_image": "pruefung/11-angedeutet-tubulares-wachstum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine atypische Tumorzellverbände bilden fokal erkennbare tubuläre Lumina im desmoplastischen Stroma. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei invasives Mammakarzinom (NST), ehemals invasives-duktales Mammakarzinom (IDC).",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster.",
-      "didactic_note": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "exam_rationale": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster."
     }
   ],
   "quality": {
@@ -743,14 +755,20 @@
       "label": "Invasives duktales Mammakarzinom",
       "exercise_image": "pruefung/10-invasives-duktales-mammakarzinom.jpg",
       "rationale": "Invasives Mammakarzinom als diagnostischer Hauptbefund.",
-      "didactic_note": "Invasives Mammakarzinom als diagnostischer Hauptbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 11,
       "label": "angedeutet tubuläres Wachstum",
       "exercise_image": "pruefung/11-angedeutet-tubulares-wachstum.jpg",
       "rationale": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster.",
-      "didactic_note": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+      "didactic_note": "Kleine atypische Tumorzellverbände bilden fokal erkennbare tubuläre Lumina im desmoplastischen Stroma. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei invasives Mammakarzinom (NST), ehemals invasives-duktales Mammakarzinom (IDC).",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."

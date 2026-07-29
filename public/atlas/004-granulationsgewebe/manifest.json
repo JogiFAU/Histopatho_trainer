@@ -79,7 +79,10 @@
       "atlas_image": "atlas/01-beginnende-vernarbung-annotiert.jpg",
       "exercise_image": "pruefung/01-beginnende-vernarbung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „beginnende Vernarbung“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 5,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/05-skelettmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/05-skelettmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Skelettmuskulatur“ dient hier als anatomischer Orientierungspunkt. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Quergestreifte Muskelfasern zeigen eosinophiles Zytoplasma, periphere Kerne und je nach Schnittebene Querstreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Granulationsgewebe.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 7,
@@ -151,7 +157,10 @@
       "atlas_image": "atlas/07-einblutung-annotiert.jpg",
       "exercise_image": "pruefung/07-einblutung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Einblutung“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -187,9 +196,12 @@
       "atlas_image": "atlas/09-gefasseinsprossung-annotiert.jpg",
       "exercise_image": "pruefung/09-gefasseinsprossung.jpg",
       "missing_tiles": [],
+      "didactic_note": "Lockeres, zellreiches Stroma mit zahlreichen dünnwandigen Kapillaren, Fibroblasten und Entzündungszellen entspricht Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe.",
-      "didactic_note": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "exam_rationale": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe."
     },
     {
       "id": 13,
@@ -229,9 +241,12 @@
       "atlas_image": "atlas/13-granulozytares-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/13-granulozytares-infiltrat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion.",
-      "didactic_note": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "exam_rationale": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion."
     },
     {
       "id": 15,
@@ -267,7 +282,10 @@
       "atlas_image": "atlas/15-abgeschlossenes-granulationsgewebe-annotiert.jpg",
       "exercise_image": "pruefung/15-abgeschlossenes-granulationsgewebe.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „abgeschlossenes Granulationsgewebe“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Lockeres, zellreiches Stroma mit zahlreichen dünnwandigen Kapillaren, Fibroblasten und Entzündungszellen entspricht Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -280,14 +298,20 @@
       "label": "Gefäßeinsprossung",
       "exercise_image": "pruefung/09-gefasseinsprossung.jpg",
       "rationale": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe.",
-      "didactic_note": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Lockeres, zellreiches Stroma mit zahlreichen dünnwandigen Kapillaren, Fibroblasten und Entzündungszellen entspricht Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 13,
       "label": "granulozytäres Infiltrat",
       "exercise_image": "pruefung/13-granulozytares-infiltrat.jpg",
       "rationale": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion.",
-      "didactic_note": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."

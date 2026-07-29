@@ -60,23 +60,26 @@
         ]
       },
       "anchor": {
-        "x": 14986.25,
-        "y": 16606.76
+        "x": 20628.68,
+        "y": 23160.96
       },
       "crop": {
-        "left": 14080,
-        "top": 15872,
+        "left": 19712,
+        "top": 22528,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 906.25,
-        "y": 734.76
+        "x": 916.68,
+        "y": 632.96
       },
       "atlas_image": "atlas/07-herzmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/07-herzmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Herzmuskulatur“ dient hier als anatomischer Orientierungspunkt. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Verzweigte eosinophile Kardiomyozyten mit zentralen Kernen bilden das Myokard. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei fibrinöse Perikarditis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -112,9 +115,12 @@
       "atlas_image": "atlas/13-fibrinauflagerungen-annotiert.jpg",
       "exercise_image": "pruefung/13-fibrinauflagerungen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Myokard; oberflächliche Fibrinauflagerungen sind nicht sicher erfasst. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Fibrinauflagerungen als definierender Befund der fibrinösen Perikarditis.",
-      "didactic_note": "Fibrinauflagerungen als definierender Befund der fibrinösen Perikarditis. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "exam_rationale": "Fibrinauflagerungen als definierender Befund der fibrinösen Perikarditis."
     },
     {
       "id": 14,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/14-odem-annotiert.jpg",
       "exercise_image": "pruefung/14-odem.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ödem“ als morphologischen Teilbefund. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -194,9 +203,12 @@
       "atlas_image": "atlas/15-lymphozyten-annotiert.jpg",
       "exercise_image": "pruefung/15-lymphozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Myokard; ein lymphozytäres Infiltrat ist nur sehr spärlich und nicht sicher beurteilbar. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Entzündliche Lymphozyten als ergänzender zellulärer Befund.",
-      "didactic_note": "Entzündliche Lymphozyten als ergänzender zellulärer Befund. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "exam_rationale": "Entzündliche Lymphozyten als ergänzender zellulärer Befund."
     },
     {
       "id": 16,
@@ -236,7 +248,10 @@
       "atlas_image": "atlas/16-perikard-annotiert.jpg",
       "exercise_image": "pruefung/16-perikard.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Perikard“ als morphologischen Teilbefund. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Kollagenes, mesothelbekleidetes Perikard liegt der äußeren Myokardoberfläche an und kann entzündlich verdickt sein. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -272,7 +287,10 @@
       "atlas_image": "atlas/17-vermehrte-kapillaren-annotiert.jpg",
       "exercise_image": "pruefung/17-vermehrte-kapillaren.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „vermehrte Kapillaren“ als morphologischen Teilbefund. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Lockeres, zellreiches Stroma mit zahlreichen dünnwandigen Kapillaren, Fibroblasten und Entzündungszellen entspricht Granulationsgewebe. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -285,14 +303,20 @@
       "label": "Fibrinauflagerungen",
       "exercise_image": "pruefung/13-fibrinauflagerungen.jpg",
       "rationale": "Fibrinauflagerungen als definierender Befund der fibrinösen Perikarditis.",
-      "didactic_note": "Fibrinauflagerungen als definierender Befund der fibrinösen Perikarditis. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Myokard; oberflächliche Fibrinauflagerungen sind nicht sicher erfasst. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 15,
       "label": "Lymphozyten",
       "exercise_image": "pruefung/15-lymphozyten.jpg",
       "rationale": "Entzündliche Lymphozyten als ergänzender zellulärer Befund.",
-      "didactic_note": "Entzündliche Lymphozyten als ergänzender zellulärer Befund. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Myokard; ein lymphozytäres Infiltrat ist nur sehr spärlich und nicht sicher beurteilbar. Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die fibrinöse Perikarditis zeigt zottige, stark eosinophile Fibrinauflagerungen auf dem Perikard mit begleitender Entzündung; Organisation kann später zu fibrösen Verwachsungen führen."

@@ -72,23 +72,26 @@
         ]
       },
       "anchor": {
-        "x": 0,
-        "y": 65536
+        "x": 31293.17,
+        "y": 90428.4
       },
       "crop": {
-        "left": 0,
-        "top": 64512,
+        "left": 30464,
+        "top": 89856,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 0,
-        "y": 1024
+        "x": 829.17,
+        "y": 572.4
       },
       "atlas_image": "atlas/09-intakte-serosa-annotiert.jpg",
       "exercise_image": "pruefung/09-intakte-serosa.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „intakte Serosa“ dient hier als anatomischer Orientierungspunkt. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt vor allem glatte Muskulatur; eine intakte Serosaoberfläche ist nicht sicher abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Siegelringzellkarzinom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 10,
@@ -112,23 +115,26 @@
         ]
       },
       "anchor": {
-        "x": 65536,
-        "y": 65536
+        "x": 46258.89,
+        "y": 77125.75
       },
       "crop": {
-        "left": 64000,
-        "top": 64512,
+        "left": 45312,
+        "top": 76544,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 1024
+        "x": 946.89,
+        "y": 581.75
       },
       "atlas_image": "atlas/10-serosadurchbruch-annotiert.jpg",
       "exercise_image": "pruefung/10-serosadurchbruch.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Serosadurchbruch“ dient hier als anatomischer Orientierungspunkt. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend glatte Muskulatur; ein Tumordurchbruch der Serosa ist nicht sicher erkennbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Siegelringzellkarzinom.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -148,25 +154,28 @@
         ]
       },
       "anchor": {
-        "x": 0,
-        "y": 65536
+        "x": 31302.19,
+        "y": 52640.98
       },
       "crop": {
-        "left": 0,
-        "top": 64512,
+        "left": 30464,
+        "top": 51968,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 0,
-        "y": 1024
+        "x": 838.19,
+        "y": 672.98
       },
       "atlas_image": "atlas/11-siegelringzelle-annotiert.jpg",
       "exercise_image": "pruefung/11-siegelringzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie.",
-      "didactic_note": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "exam_rationale": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie."
     },
     {
       "id": 12,
@@ -850,25 +859,28 @@
         ]
       },
       "anchor": {
-        "x": 65536,
-        "y": 65536
+        "x": 51114.28,
+        "y": 59221.91
       },
       "crop": {
-        "left": 64000,
-        "top": 64512,
+        "left": 50176,
+        "top": 58624,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 1024
+        "x": 938.28,
+        "y": 597.91
       },
       "atlas_image": "atlas/12-lymphgefassinfiltration-annotiert.jpg",
       "exercise_image": "pruefung/12-lymphgefassinfiltration.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Muskulatur und Stroma; eine Lymphgefäßinvasion ist nicht sicher getroffen. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung.",
-      "didactic_note": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "exam_rationale": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung."
     },
     {
       "id": 13,
@@ -1064,23 +1076,26 @@
         ]
       },
       "anchor": {
-        "x": 65536,
-        "y": 65536
+        "x": 56479.37,
+        "y": 56737.94
       },
       "crop": {
-        "left": 64000,
-        "top": 64512,
+        "left": 55552,
+        "top": 56064,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 1024
+        "x": 927.37,
+        "y": 673.94
       },
       "atlas_image": "atlas/13-lymphgefassinfiltration-annotiert.jpg",
       "exercise_image": "pruefung/13-lymphgefassinfiltration.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lymphgefäßinfiltration“ als morphologischen Teilbefund. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Muskulatur und einen Spaltraum; intralymphatische Tumorzellen sind nicht eindeutig erkennbar. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -1093,14 +1108,20 @@
       "label": "Siegelringzelle",
       "exercise_image": "pruefung/11-siegelringzelle.jpg",
       "rationale": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie.",
-      "didactic_note": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 12,
       "label": "Lymphgefäßinfiltration",
       "exercise_image": "pruefung/12-lymphgefassinfiltration.jpg",
       "rationale": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung.",
-      "didactic_note": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Muskulatur und Stroma; eine Lymphgefäßinvasion ist nicht sicher getroffen. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."

@@ -79,9 +79,12 @@
       "atlas_image": "atlas/03-blutgestaute-septen-annotiert.jpg",
       "exercise_image": "pruefung/03-blutgestaute-septen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Blutgestaute Alveolarsepten als typischer Begleitbefund.",
-      "didactic_note": "Blutgestaute Alveolarsepten als typischer Begleitbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "exam_rationale": "Blutgestaute Alveolarsepten als typischer Begleitbefund."
     },
     {
       "id": 5,
@@ -117,9 +120,12 @@
       "atlas_image": "atlas/05-odem-annotiert.jpg",
       "exercise_image": "pruefung/05-odem.jpg",
       "missing_tiles": [],
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Intraalveoläres Ödem als definierender Befund.",
-      "didactic_note": "Intraalveoläres Ödem als definierender Befund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "exam_rationale": "Intraalveoläres Ödem als definierender Befund."
     },
     {
       "id": 7,
@@ -155,7 +161,10 @@
       "atlas_image": "atlas/07-thrombus-annotiert.jpg",
       "exercise_image": "pruefung/07-thrombus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Thrombus“ als morphologischen Teilbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -179,23 +188,26 @@
         ]
       },
       "anchor": {
-        "x": 14679,
-        "y": 30210
+        "x": 16743.13,
+        "y": 25139.4
       },
       "crop": {
-        "left": 13824,
-        "top": 29696,
+        "left": 15872,
+        "top": 24576,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 855,
-        "y": 514
+        "x": 871.13,
+        "y": 563.4
       },
       "atlas_image": "atlas/11-alveolen-annotiert.jpg",
       "exercise_image": "pruefung/11-alveolen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Feine Alveolarsepten mit flachen Pneumozyten begrenzen luftgefüllte Alveolarräume und kennzeichnen Lungenparenchym. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Ödem.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 12,
@@ -243,7 +255,10 @@
       "atlas_image": "atlas/12-exsudat-mit-entzundungskomponente-annotiert.jpg",
       "exercise_image": "pruefung/12-exsudat-mit-entzundungskomponente.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Exsudat mit Entzündungskomponente“ als morphologischen Teilbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Eiweißreiche eosinophile Flüssigkeit, Fibrin und Entzündungszellen füllen den Gewebespalt beziehungsweise Hohlraum. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 13,
@@ -279,7 +294,10 @@
       "atlas_image": "atlas/13-alveolarmakrophage-annotiert.jpg",
       "exercise_image": "pruefung/13-alveolarmakrophage.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Alveolarmakrophage“ dient hier als anatomischer Orientierungspunkt. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Im Alveolarlumen liegt ein großer Makrophage mit hellem, teils vakuolisiertem Zytoplasma. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Ödem.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -292,14 +310,20 @@
       "label": "Ödem",
       "exercise_image": "pruefung/05-odem.jpg",
       "rationale": "Intraalveoläres Ödem als definierender Befund.",
-      "didactic_note": "Intraalveoläres Ödem als definierender Befund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 3,
       "label": "Blutgestaute Septen",
       "exercise_image": "pruefung/03-blutgestaute-septen.jpg",
       "rationale": "Blutgestaute Alveolarsepten als typischer Begleitbefund.",
-      "didactic_note": "Blutgestaute Alveolarsepten als typischer Begleitbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."

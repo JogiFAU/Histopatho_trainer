@@ -77,9 +77,12 @@
       "atlas_image": "atlas/04-extrazellulare-amyloidablagerungen-annotiert.jpg",
       "exercise_image": "pruefung/04-extrazellulare-amyloidablagerungen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats.",
-      "didactic_note": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."
+      "exam_rationale": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats."
     }
   ],
   "quality": {
@@ -92,7 +95,10 @@
       "label": "extrazelluläre Amyloidablagerungen",
       "exercise_image": "pruefung/04-extrazellulare-amyloidablagerungen.jpg",
       "rationale": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats.",
-      "didactic_note": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."

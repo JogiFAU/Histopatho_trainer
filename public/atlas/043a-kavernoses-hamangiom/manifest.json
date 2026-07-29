@@ -82,9 +82,12 @@
       "atlas_image": "atlas/11-thrombus-annotiert.jpg",
       "exercise_image": "pruefung/11-thrombus.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Thrombus als typischer intraläsionaler Begleitbefund.",
-      "didactic_note": "Thrombus als typischer intraläsionaler Begleitbefund. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "exam_rationale": "Thrombus als typischer intraläsionaler Begleitbefund."
     },
     {
       "id": 13,
@@ -120,9 +123,12 @@
       "atlas_image": "atlas/13-hamangiom-annotiert.jpg",
       "exercise_image": "pruefung/13-hamangiom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Große, unregelmäßig erweiterte und endothelbekleidete Bluträume liegen in dünnen bindegewebigen Septen. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Kavernöses Hämangiom als definierender Gefäßtumorbefund.",
-      "didactic_note": "Kavernöses Hämangiom als definierender Gefäßtumorbefund. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "exam_rationale": "Kavernöses Hämangiom als definierender Gefäßtumorbefund."
     },
     {
       "id": 15,
@@ -206,7 +212,10 @@
       "atlas_image": "atlas/15-vene-annotiert.jpg",
       "exercise_image": "pruefung/15-vene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Vene“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Leberparenchym; eine Vene ist nicht eindeutig getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -242,7 +251,10 @@
       "atlas_image": "atlas/16-arterie-annotiert.jpg",
       "exercise_image": "pruefung/16-arterie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Leberparenchym; eine Arterie ist nicht eindeutig getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -278,7 +290,10 @@
       "atlas_image": "atlas/17-gallengang-annotiert.jpg",
       "exercise_image": "pruefung/17-gallengang.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Hepatozyten; ein Gallengang ist nicht sicher erkennbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -314,7 +329,10 @@
       "atlas_image": "atlas/18-glisson-trias-annotiert.jpg",
       "exercise_image": "pruefung/18-glisson-trias.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Glisson Trias“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Hepatozyten; eine vollständige Glisson-Trias ist nicht sicher getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 19,
@@ -350,7 +368,10 @@
       "atlas_image": "atlas/19-zentralvene-annotiert.jpg",
       "exercise_image": "pruefung/19-zentralvene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Zentralvene“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Leberzellbalken; eine Zentralvene ist nicht eindeutig abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 20,
@@ -386,7 +407,10 @@
       "atlas_image": "atlas/20-hepatozyten-annotiert.jpg",
       "exercise_image": "pruefung/20-hepatozyten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Hepatozyten“ dient hier als anatomischer Orientierungspunkt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Polygonale Hepatozyten mit rundem Kern bilden ein- bis zweireihige Zellbalken zwischen Sinusoiden. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Kavernöses Hämangiom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -399,14 +423,20 @@
       "label": "Hämangiom",
       "exercise_image": "pruefung/13-hamangiom.jpg",
       "rationale": "Kavernöses Hämangiom als definierender Gefäßtumorbefund.",
-      "didactic_note": "Kavernöses Hämangiom als definierender Gefäßtumorbefund. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Große, unregelmäßig erweiterte und endothelbekleidete Bluträume liegen in dünnen bindegewebigen Septen. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 11,
       "label": "Thrombus",
       "exercise_image": "pruefung/11-thrombus.jpg",
       "rationale": "Thrombus als typischer intraläsionaler Begleitbefund.",
-      "didactic_note": "Thrombus als typischer intraläsionaler Begleitbefund. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein kavernöses Hämangiom besteht aus weiten blutgefüllten Gefäßräumen mit flachem, zytologisch blandem Endothel; langsamer Blutfluss begünstigt intraläsionale Thromben."

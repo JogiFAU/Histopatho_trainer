@@ -85,7 +85,10 @@
       "atlas_image": "atlas/03-ausgedehnte-prostatakarzinominfiltrate-annotiert.jpg",
       "exercise_image": "pruefung/03-ausgedehnte-prostatakarzinominfiltrate.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „ausgedehnte Prostatakarzinominfiltrate“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Zahlreiche kleine, unregelmäßig verteilte atypische Drüsen infiltrieren das fibromuskuläre Prostatastroma. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 9,
@@ -121,9 +124,12 @@
       "atlas_image": "atlas/09-einreihiges-epithel-mit-deutlichen-nucleolen-annotiert.jpg",
       "exercise_image": "pruefung/09-einreihiges-epithel-mit-deutlichen-nucleolen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie.",
-      "didactic_note": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "exam_rationale": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie."
     },
     {
       "id": 15,
@@ -159,7 +165,10 @@
       "atlas_image": "atlas/15-zweireihiges-drusenepithel-annotiert.jpg",
       "exercise_image": "pruefung/15-zweireihiges-drusenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „zweireihiges Drüsenepithel“ dient hier als anatomischer Orientierungspunkt. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt kollagenes Stroma und Fettgewebe; zweireihiges Prostatadrüsenepithel ist nicht sicher erkennbar. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -687,7 +696,10 @@
       "atlas_image": "atlas/16-normales-prostataparenchym-annotiert.jpg",
       "exercise_image": "pruefung/16-normales-prostataparenchym.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „normales Prostataparenchym“ dient hier als anatomischer Orientierungspunkt. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt kollagenes Stroma und Fettgewebe; regelrechtes Prostataparenchym ist nicht eindeutig abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom der Prostata.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -723,7 +735,10 @@
       "atlas_image": "atlas/17-tumorareal-annotiert.jpg",
       "exercise_image": "pruefung/17-tumorareal.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Tumorareal“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend fibromuskuläres Stroma; ein Tumorareal ist nicht sicher getroffen. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 18,
@@ -1315,7 +1330,10 @@
       "atlas_image": "atlas/18-tumorareal-annotiert.jpg",
       "exercise_image": "pruefung/18-tumorareal.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Tumorareal“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 19,
@@ -1351,9 +1369,12 @@
       "atlas_image": "atlas/19-perineuralscheideninfiltration-annotiert.jpg",
       "exercise_image": "pruefung/19-perineuralscheideninfiltration.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt fibromuskuläres Stroma; eine perineurale Tumorausbreitung ist nicht sicher erkennbar. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund.",
-      "didactic_note": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "exam_rationale": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund."
     }
   ],
   "quality": {
@@ -1366,14 +1387,20 @@
       "label": "einreihiges Epithel mit deutlichen Nucleolen",
       "exercise_image": "pruefung/09-einreihiges-epithel-mit-deutlichen-nucleolen.jpg",
       "rationale": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie.",
-      "didactic_note": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 19,
       "label": "Perineuralscheideninfiltration",
       "exercise_image": "pruefung/19-perineuralscheideninfiltration.jpg",
       "rationale": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund.",
-      "didactic_note": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt fibromuskuläres Stroma; eine perineurale Tumorausbreitung ist nicht sicher erkennbar. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."

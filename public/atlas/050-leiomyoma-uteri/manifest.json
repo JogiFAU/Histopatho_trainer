@@ -79,9 +79,12 @@
       "atlas_image": "atlas/01-zigarrenformige-kerne-annotiert.jpg",
       "exercise_image": "pruefung/01-zigarrenformige-kerne.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die gleichförmigen glatten Muskelzellen besitzen lange, stumpf endende, zigarrenförmige Kerne ohne wesentliche Atypie. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms.",
-      "didactic_note": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "exam_rationale": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms."
     },
     {
       "id": 9,
@@ -525,9 +528,12 @@
       "atlas_image": "atlas/09-tumor-annotiert.jpg",
       "exercise_image": "pruefung/09-tumor.jpg",
       "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt eine gegenüber dem Nachbargewebe zellreichere, architektonisch ungeordnete Zellproliferation. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Tumorgewebe als ergänzender Gesamtbefund.",
-      "didactic_note": "Tumorgewebe als ergänzender Gesamtbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "exam_rationale": "Tumorgewebe als ergänzender Gesamtbefund."
     },
     {
       "id": 10,
@@ -563,7 +569,10 @@
       "atlas_image": "atlas/10-glatte-uterusmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/10-glatte-uterusmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „glatte Uterusmuskulatur“ dient hier als anatomischer Orientierungspunkt. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Leiomyom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -599,7 +608,10 @@
       "atlas_image": "atlas/11-gut-vaskularisierte-myometrium-annotiert.jpg",
       "exercise_image": "pruefung/11-gut-vaskularisierte-myometrium.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „gut vaskularisierte Myometrium“ als morphologischen Teilbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -612,14 +624,20 @@
       "label": "zigarrenförmige Kerne",
       "exercise_image": "pruefung/01-zigarrenformige-kerne.jpg",
       "rationale": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms.",
-      "didactic_note": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "didactic_note": "Die gleichförmigen glatten Muskelzellen besitzen lange, stumpf endende, zigarrenförmige Kerne ohne wesentliche Atypie. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 9,
       "label": "Tumor",
       "exercise_image": "pruefung/09-tumor.jpg",
       "rationale": "Tumorgewebe als ergänzender Gesamtbefund.",
-      "didactic_note": "Tumorgewebe als ergänzender Gesamtbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+      "didactic_note": "Der Ausschnitt zeigt eine gegenüber dem Nachbargewebe zellreichere, architektonisch ungeordnete Zellproliferation. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."

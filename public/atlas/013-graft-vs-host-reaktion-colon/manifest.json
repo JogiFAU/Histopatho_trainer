@@ -81,7 +81,10 @@
       "atlas_image": "atlas/12-odematose-auflockerung-annotiert.jpg",
       "exercise_image": "pruefung/12-odematose-auflockerung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „ödematöse Auflockerung“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 13,
@@ -105,23 +108,26 @@
         ]
       },
       "anchor": {
-        "x": 14869,
-        "y": 9790.0
+        "x": 16213.24,
+        "y": 8004.45
       },
       "crop": {
-        "left": 14080,
-        "top": 9216,
+        "left": 15360,
+        "top": 7424,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 789,
-        "y": 574.0
+        "x": 853.24,
+        "y": 580.45
       },
       "atlas_image": "atlas/13-odem-annotiert.jpg",
       "exercise_image": "pruefung/13-odem.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ödem“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 14,
@@ -157,9 +163,12 @@
       "atlas_image": "atlas/14-apoptotic-bodies-annotiert.jpg",
       "exercise_image": "pruefung/14-apoptotic-bodies.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine kondensierte beziehungsweise fragmentierte Kernreste markieren apoptotischen Zelluntergang. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion.",
-      "didactic_note": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "exam_rationale": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion."
     },
     {
       "id": 15,
@@ -199,7 +208,10 @@
       "atlas_image": "atlas/15-totaler-kryptenverlust-annotiert.jpg",
       "exercise_image": "pruefung/15-totaler-kryptenverlust.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „totaler Kryptenverlust“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "didactic_note": "Kolonkrypten sind tubuläre Drüsen; bei einem Kryptenabszess füllen neutrophile Granulozyten und Detritus das Kryptenlumen. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 16,
@@ -235,9 +247,12 @@
       "atlas_image": "atlas/16-subtotaler-kryptenuntergang-annotiert.jpg",
       "exercise_image": "pruefung/16-subtotaler-kryptenuntergang.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kolonkrypten sind tubuläre Drüsen; bei einem Kryptenabszess füllen neutrophile Granulozyten und Detritus das Kryptenlumen. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster.",
-      "didactic_note": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "exam_rationale": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster."
     }
   ],
   "quality": {
@@ -250,14 +265,20 @@
       "label": "Apoptotic Bodies",
       "exercise_image": "pruefung/14-apoptotic-bodies.jpg",
       "rationale": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion.",
-      "didactic_note": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "didactic_note": "Kleine kondensierte beziehungsweise fragmentierte Kernreste markieren apoptotischen Zelluntergang. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 16,
       "label": "subtotaler Kryptenuntergang",
       "exercise_image": "pruefung/16-subtotaler-kryptenuntergang.jpg",
       "rationale": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster.",
-      "didactic_note": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+      "didactic_note": "Kolonkrypten sind tubuläre Drüsen; bei einem Kryptenabszess füllen neutrophile Granulozyten und Detritus das Kryptenlumen. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."

@@ -79,9 +79,12 @@
       "atlas_image": "atlas/12-hypervaskularisation-annotiert.jpg",
       "exercise_image": "pruefung/12-hypervaskularisation.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zwischen den endokrinen Zellsträngen fallen zahlreiche dünnwandige, blutgefüllte Kapillaren auf. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Hypervaskularisation als typischer ergänzender Tumorbefund.",
-      "didactic_note": "Hypervaskularisation als typischer ergänzender Tumorbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "exam_rationale": "Hypervaskularisation als typischer ergänzender Tumorbefund."
     },
     {
       "id": 13,
@@ -105,23 +108,26 @@
         ]
       },
       "anchor": {
-        "x": 41874.0,
-        "y": 5103.67
+        "x": 33000,
+        "y": 3200
       },
       "crop": {
-        "left": 40960,
-        "top": 4352,
+        "left": 32000,
+        "top": 2560,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 914.0,
-        "y": 751.67
+        "x": 1000,
+        "y": 640
       },
       "atlas_image": "atlas/13-teils-sich-ablosende-tumorkapsel-annotiert.jpg",
       "exercise_image": "pruefung/13-teils-sich-ablosende-tumorkapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „teils sich ablösende Tumorkapsel“ dient hier als anatomischer Orientierungspunkt. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "didactic_note": "Straffes kollagenes Bindegewebe begrenzt das Organ beziehungsweise den Tumorknoten gegenüber dem Nachbargewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 14,
@@ -161,7 +167,10 @@
       "atlas_image": "atlas/14-normales-nebenschilddrusenparenchym-annotiert.jpg",
       "exercise_image": "pruefung/14-normales-nebenschilddrusenparenchym.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „normales Nebenschilddrüsenparenchym“ dient hier als anatomischer Orientierungspunkt. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "didactic_note": "Dicht gelagerte endokrine Hauptzellen bilden Zellstränge um ein feines Kapillarnetz; normales Parenchym enthält eingestreute Fettzellen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -1057,9 +1066,12 @@
       "atlas_image": "atlas/15-nebenschilddrusenadenom-annotiert.jpg",
       "exercise_image": "pruefung/15-nebenschilddrusenadenom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht stehende, gegenüber dem Nachbargewebe veränderte Drüsen- beziehungsweise Zellverbände bilden eine umschriebene benigne Neoplasie. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund.",
-      "didactic_note": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "exam_rationale": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund."
     }
   ],
   "quality": {
@@ -1072,14 +1084,20 @@
       "label": "Nebenschilddrüsenadenom",
       "exercise_image": "pruefung/15-nebenschilddrusenadenom.jpg",
       "rationale": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund.",
-      "didactic_note": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "didactic_note": "Dicht stehende, gegenüber dem Nachbargewebe veränderte Drüsen- beziehungsweise Zellverbände bilden eine umschriebene benigne Neoplasie. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 12,
       "label": "Hypervaskularisation",
       "exercise_image": "pruefung/12-hypervaskularisation.jpg",
       "rationale": "Hypervaskularisation als typischer ergänzender Tumorbefund.",
-      "didactic_note": "Hypervaskularisation als typischer ergänzender Tumorbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+      "didactic_note": "Zwischen den endokrinen Zellsträngen fallen zahlreiche dünnwandige, blutgefüllte Kapillaren auf. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."

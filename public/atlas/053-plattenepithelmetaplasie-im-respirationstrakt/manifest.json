@@ -75,7 +75,10 @@
       "atlas_image": "atlas/03-flimmerepithel-annotiert.jpg",
       "exercise_image": "pruefung/03-flimmerepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Flimmerepithel“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt hyalinen Trachealknorpel; respiratorisches Flimmerepithel ist nicht abgebildet. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -135,9 +138,12 @@
       "atlas_image": "atlas/15-ubergang-von-flimmerepithel-zur-metaplasie-annotiert.jpg",
       "exercise_image": "pruefung/15-ubergang-von-flimmerepithel-zur-metaplasie.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt subepitheliales Bindegewebe; der Übergang vom Flimmerepithel zur Plattenepithelmetaplasie ist nicht vollständig getroffen. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund.",
-      "didactic_note": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "exam_rationale": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund."
     },
     {
       "id": 16,
@@ -157,23 +163,26 @@
         ]
       },
       "anchor": {
-        "x": 39018.36,
-        "y": 8502.43
+        "x": 45137.83,
+        "y": 10356.58
       },
       "crop": {
-        "left": 38144,
-        "top": 7936,
+        "left": 44288,
+        "top": 9728,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 874.36,
-        "y": 566.43
+        "x": 849.83,
+        "y": 628.58
       },
       "atlas_image": "atlas/16-glandulae-tracheales-annotiert.jpg",
       "exercise_image": "pruefung/16-glandulae-tracheales.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Glandulae tracheales“ als morphologischen Teilbefund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "didactic_note": "Submuköse tubuloazinäre Drüsen mit hellen mukösen Endstücken und Ausführungsgängen liegen im Bindegewebe. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -597,23 +606,26 @@
         ]
       },
       "anchor": {
-        "x": 50356.64,
-        "y": 12435.94
+        "x": 57720.25,
+        "y": 14014.76
       },
       "crop": {
-        "left": 49408,
-        "top": 11776,
+        "left": 56832,
+        "top": 13312,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 948.64,
-        "y": 659.94
+        "x": 888.25,
+        "y": 702.76
       },
       "atlas_image": "atlas/17-knorpelspange-annotiert.jpg",
       "exercise_image": "pruefung/17-knorpelspange.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knorpelspange“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "didactic_note": "Hyaline Knorpelmatrix enthält Chondrozyten in Lakunen, teils in kleinen isogenen Gruppen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Plattenepithelmetaplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -653,7 +665,10 @@
       "atlas_image": "atlas/18-trachealmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/18-trachealmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Trachealmuskulatur“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Plattenepithelmetaplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -666,7 +681,10 @@
       "label": "Übergang von Flimmerepithel zur Metaplasie",
       "exercise_image": "pruefung/15-ubergang-von-flimmerepithel-zur-metaplasie.jpg",
       "rationale": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund.",
-      "didactic_note": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt subepitheliales Bindegewebe; der Übergang vom Flimmerepithel zur Plattenepithelmetaplasie ist nicht vollständig getroffen. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."

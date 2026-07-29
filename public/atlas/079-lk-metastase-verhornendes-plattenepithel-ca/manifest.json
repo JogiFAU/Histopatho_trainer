@@ -80,7 +80,10 @@
       "atlas_image": "atlas/03-plattenepithelial-differenzierte-karzinomzellen-im-verband-annotiert.jpg",
       "exercise_image": "pruefung/03-plattenepithelial-differenzierte-karzinomzellen-im-verband.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „plattenepithelial differenzierte Karzinomzellen im Verband“ dient hier als anatomischer Orientierungspunkt. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Invasive Verbände atypischer polygonaler Zellen zeigen Kernpleomorphie und squamöse Ausreifung, teils mit Verhornung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines verhornendes Plattenepithelkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 9,
@@ -116,9 +119,12 @@
       "atlas_image": "atlas/09-intrazellularbrucken-annotiert.jpg",
       "exercise_image": "pruefung/09-intrazellularbrucken.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zwischen polygonalen Plattenepithelzellen sind feine Interzellularbrücken als Ausdruck squamöser Differenzierung erkennbar. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung.",
-      "didactic_note": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "exam_rationale": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung."
     },
     {
       "id": 13,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/13-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/13-riesenzelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Riesenzelle“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 14,
@@ -630,9 +639,12 @@
       "atlas_image": "atlas/14-hornlamellen-annotiert.jpg",
       "exercise_image": "pruefung/14-hornlamellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms.",
-      "didactic_note": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "exam_rationale": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms."
     },
     {
       "id": 15,
@@ -672,7 +684,10 @@
       "atlas_image": "atlas/15-residuelles-parenchym-annotiert.jpg",
       "exercise_image": "pruefung/15-residuelles-parenchym.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „residuelles Parenchym“ dient hier als anatomischer Orientierungspunkt. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Zwischen den Tumorverbänden verbleiben kleine Areale regelrechten lymphatischen Parenchyms als Rest des befallenen Lymphknotens. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines verhornendes Plattenepithelkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -1472,7 +1487,10 @@
       "atlas_image": "atlas/16-lk-metastase-annotiert.jpg",
       "exercise_image": "pruefung/16-lk-metastase.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „LK-Metastase“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 17,
@@ -1508,7 +1526,10 @@
       "atlas_image": "atlas/17-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/17-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -1521,14 +1542,20 @@
       "label": "Intrazellularbrücken",
       "exercise_image": "pruefung/09-intrazellularbrucken.jpg",
       "rationale": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung.",
-      "didactic_note": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Zwischen polygonalen Plattenepithelzellen sind feine Interzellularbrücken als Ausdruck squamöser Differenzierung erkennbar. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 14,
       "label": "Hornlamellen",
       "exercise_image": "pruefung/14-hornlamellen.jpg",
       "rationale": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms.",
-      "didactic_note": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."

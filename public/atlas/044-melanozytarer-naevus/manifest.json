@@ -80,9 +80,12 @@
       "atlas_image": "atlas/01-melanozytennest-annotiert.jpg",
       "exercise_image": "pruefung/01-melanozytennest.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend kollagenes Dermisgewebe; ein Melanozytennest ist nicht sicher getroffen. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Melanozytennest als charakteristischer Befund des melanozytären Nävus.",
-      "didactic_note": "Melanozytennest als charakteristischer Befund des melanozytären Nävus. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "exam_rationale": "Melanozytennest als charakteristischer Befund des melanozytären Nävus."
     },
     {
       "id": 3,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/03-epidermale-komponente-annotiert.jpg",
       "exercise_image": "pruefung/03-epidermale-komponente.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „epidermale Komponente“ als morphologischen Teilbefund. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend kollagenes Dermisgewebe; eine epidermale Nävuskomponente ist nicht erkennbar. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 5,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/05-haar-annotiert.jpg",
       "exercise_image": "pruefung/05-haar.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Haar“ als morphologischen Teilbefund. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Ein Haarfollikel zeigt einen zentralen Haarschaft mit konzentrischen inneren und äußeren epithelialen Wurzelscheiden. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 7,
@@ -190,9 +199,12 @@
       "atlas_image": "atlas/07-dermale-komponente-annotiert.jpg",
       "exercise_image": "pruefung/07-dermale-komponente.jpg",
       "missing_tiles": [],
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Dermale Nävuskomponente als ergänzende typische Lokalisation.",
-      "didactic_note": "Dermale Nävuskomponente als ergänzende typische Lokalisation. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "exam_rationale": "Dermale Nävuskomponente als ergänzende typische Lokalisation."
     },
     {
       "id": 13,
@@ -568,7 +580,10 @@
       "atlas_image": "atlas/13-talgdruse-annotiert.jpg",
       "exercise_image": "pruefung/13-talgdruse.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Talgdrüse“ dient hier als anatomischer Orientierungspunkt. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Dermis; eine Talgdrüse ist nicht eindeutig abgebildet. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 14,
@@ -588,23 +603,26 @@
         ]
       },
       "anchor": {
-        "x": 7414.27,
-        "y": 2450.69
+        "x": 7117.99,
+        "y": 3226.53
       },
       "crop": {
-        "left": 6400,
-        "top": 1792,
+        "left": 6144,
+        "top": 2560,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1014.27,
-        "y": 658.69
+        "x": 973.99,
+        "y": 666.53
       },
       "atlas_image": "atlas/14-verhornendes-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/14-verhornendes-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei melanozytärer Naevus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -617,14 +635,20 @@
       "label": "Melanozytennest",
       "exercise_image": "pruefung/01-melanozytennest.jpg",
       "rationale": "Melanozytennest als charakteristischer Befund des melanozytären Nävus.",
-      "didactic_note": "Melanozytennest als charakteristischer Befund des melanozytären Nävus. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend kollagenes Dermisgewebe; ein Melanozytennest ist nicht sicher getroffen. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 7,
       "label": "dermale Komponente",
       "exercise_image": "pruefung/07-dermale-komponente.jpg",
       "rationale": "Dermale Nävuskomponente als ergänzende typische Lokalisation.",
-      "didactic_note": "Dermale Nävuskomponente als ergänzende typische Lokalisation. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."

@@ -71,9 +71,12 @@
       },
       "atlas_image": "atlas/07-auerbach-plexus-annotiert.jpg",
       "exercise_image": "pruefung/07-auerbach-plexus.jpg",
+      "didactic_note": "Zwischen Bündeln glatter Muskulatur liegt Nervengewebe des Plexus myentericus mit großen, hellen Ganglienzellen und kleineren Begleitzellen. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur",
       "exam_representative": true,
-      "exam_rationale": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand.",
-      "didactic_note": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "exam_rationale": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand."
     },
     {
       "id": 11,
@@ -105,9 +108,12 @@
       },
       "atlas_image": "atlas/11-krypte-mit-becherzellen-annotiert.jpg",
       "exercise_image": "pruefung/11-krypte-mit-becherzellen.jpg",
+      "didactic_note": "Zu sehen ist eine gerade tubuläre Kolonkrypte, deren hochprismatisches Epithel zahlreiche helle Muzinvakuolen der Becherzellen enthält. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur",
       "exam_representative": true,
-      "exam_rationale": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons.",
-      "didactic_note": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "exam_rationale": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons."
     },
     {
       "id": 14,
@@ -139,7 +145,10 @@
       },
       "atlas_image": "atlas/14-perikolisches-fettgewebe-annotiert.jpg",
       "exercise_image": "pruefung/14-perikolisches-fettgewebe.jpg",
-      "didactic_note": "Die markierte Struktur „Perikolisches Fettgewebe“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Reife univakuoläre Adipozyten erscheinen als große optisch leere Zellen mit schmalem Zytoplasmasaum und randständigem Kern. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -171,7 +180,10 @@
       },
       "atlas_image": "atlas/15-stratum-longitudinale-annotiert.jpg",
       "exercise_image": "pruefung/15-stratum-longitudinale.jpg",
-      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -203,7 +215,10 @@
       },
       "atlas_image": "atlas/16-stratum-circulare-annotiert.jpg",
       "exercise_image": "pruefung/16-stratum-circulare.jpg",
-      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -235,7 +250,10 @@
       },
       "atlas_image": "atlas/17-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/17-lymphfollikel.jpg",
-      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -248,14 +266,20 @@
       "label": "Krypte mit Becherzellen",
       "exercise_image": "pruefung/11-krypte-mit-becherzellen.jpg",
       "rationale": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons.",
-      "didactic_note": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Zu sehen ist eine gerade tubuläre Kolonkrypte, deren hochprismatisches Epithel zahlreiche helle Muzinvakuolen der Becherzellen enthält. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "annotation_id": 7,
       "label": "Auerbach-Plexus",
       "exercise_image": "pruefung/07-auerbach-plexus.jpg",
       "rationale": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand.",
-      "didactic_note": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+      "didactic_note": "Zwischen Bündeln glatter Muskulatur liegt Nervengewebe des Plexus myentericus mit großen, hellen Ganglienzellen und kleineren Begleitzellen. Dies entspricht regelrechter Kolon-Histologie und dient als Vergleich für entzündliche, degenerative und neoplastische Veränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "didactic_context": "Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."

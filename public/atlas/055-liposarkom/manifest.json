@@ -78,7 +78,10 @@
       "atlas_image": "atlas/01-adipozyten-annotiert.jpg",
       "exercise_image": "pruefung/01-adipozyten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Adipozyten“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Reife univakuoläre Adipozyten erscheinen als große optisch leere Zellen mit schmalem Zytoplasmasaum und randständigem Kern. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Liposarkom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 8,
@@ -114,9 +117,12 @@
       "atlas_image": "atlas/08-lipoblast-1-annotiert.jpg",
       "exercise_image": "pruefung/08-lipoblast-1.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine atypische lipogene Zelle zeigt vakuolisiertes Zytoplasma und einen durch Fettvakuolen eingebuchteten hyperchromatischen Kern. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms.",
-      "didactic_note": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "exam_rationale": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms."
     },
     {
       "id": 9,
@@ -152,7 +158,10 @@
       "atlas_image": "atlas/09-adipozyt-annotiert.jpg",
       "exercise_image": "pruefung/09-adipozyt.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Adipozyt“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Reife univakuoläre Adipozyten erscheinen als große optisch leere Zellen mit schmalem Zytoplasmasaum und randständigem Kern. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Liposarkom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 10,
@@ -188,7 +197,10 @@
       "atlas_image": "atlas/10-lipoblast-2-annotiert.jpg",
       "exercise_image": "pruefung/10-lipoblast-2.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lipoblast 2“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Eine atypische lipogene Zelle zeigt vakuolisiertes Zytoplasma und einen durch Fettvakuolen eingebuchteten hyperchromatischen Kern. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -224,9 +236,12 @@
       "atlas_image": "atlas/11-pleomorper-zellkern-annotiert.jpg",
       "exercise_image": "pruefung/11-pleomorper-zellkern.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Pleomorpher Zellkern als Zeichen der malignen Atypie.",
-      "didactic_note": "Pleomorpher Zellkern als Zeichen der malignen Atypie. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "exam_rationale": "Pleomorpher Zellkern als Zeichen der malignen Atypie."
     },
     {
       "id": 12,
@@ -266,7 +281,10 @@
       "atlas_image": "atlas/12-makronukleolus-annotiert.jpg",
       "exercise_image": "pruefung/12-makronukleolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Makronukleolus“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -279,14 +297,20 @@
       "label": "Lipoblast 1",
       "exercise_image": "pruefung/08-lipoblast-1.jpg",
       "rationale": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms.",
-      "didactic_note": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Eine atypische lipogene Zelle zeigt vakuolisiertes Zytoplasma und einen durch Fettvakuolen eingebuchteten hyperchromatischen Kern. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 11,
       "label": "pleomorper Zellkern",
       "exercise_image": "pruefung/11-pleomorper-zellkern.jpg",
       "rationale": "Pleomorpher Zellkern als Zeichen der malignen Atypie.",
-      "didactic_note": "Pleomorpher Zellkern als Zeichen der malignen Atypie. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."

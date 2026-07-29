@@ -749,25 +749,28 @@
         ]
       },
       "anchor": {
-        "x": 27665.16,
-        "y": 8509.47
+        "x": 36019.88,
+        "y": 10122.76
       },
       "crop": {
-        "left": 26880,
-        "top": 7936,
+        "left": 35072,
+        "top": 9472,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 785.16,
-        "y": 573.47
+        "x": 947.88,
+        "y": 650.76
       },
       "atlas_image": "atlas/07-nebenschilddruse-annotiert.jpg",
       "exercise_image": "pruefung/07-nebenschilddruse.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht gelagerte endokrine Hauptzellen bilden Zellstränge um ein feines Kapillarnetz; normales Parenchym enthält eingestreute Fettzellen. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats.",
-      "didactic_note": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "exam_rationale": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats."
     },
     {
       "id": 8,
@@ -807,7 +810,10 @@
       "atlas_image": "atlas/08-schilddrusenkapsel-annotiert.jpg",
       "exercise_image": "pruefung/08-schilddrusenkapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Schilddrüsenkapsel“ dient hier als anatomischer Orientierungspunkt. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "didactic_note": "Straffes kollagenes Bindegewebe begrenzt das Organ beziehungsweise den Tumorknoten gegenüber dem Nachbargewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Nebenschilddrüse mit Struma colloides nodosa.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -847,7 +853,10 @@
       "atlas_image": "atlas/09-schrumpfungs-spaltartefakt-annotiert.jpg",
       "exercise_image": "pruefung/09-schrumpfungs-spaltartefakt.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schrumpfungs-/Spaltartefakt“ als morphologischen Teilbefund. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "didactic_note": "Ein technisch bedingter heller Spaltraum trennt geschrumpftes Gewebe vom umgebenden Parenchym; dies ist kein anatomisches Lumen. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 10,
@@ -867,25 +876,28 @@
         ]
       },
       "anchor": {
-        "x": 16622.41,
-        "y": 51511.04
+        "x": 17617.49,
+        "y": 61600.86
       },
       "crop": {
-        "left": 15616,
-        "top": 50944,
+        "left": 16640,
+        "top": 60928,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1006.41,
-        "y": 567.04
+        "x": 977.49,
+        "y": 672.86
       },
       "atlas_image": "atlas/10-strumaknoten-annotiert.jpg",
       "exercise_image": "pruefung/10-strumaknoten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unterschiedlich große, kolloidgefüllte Schilddrüsenfollikel bilden einen knotigen Bezirk mit zystischer Erweiterung und randlicher Kompression. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Strumaknoten als pathologische Schilddrüsenkomponente.",
-      "didactic_note": "Strumaknoten als pathologische Schilddrüsenkomponente. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "exam_rationale": "Strumaknoten als pathologische Schilddrüsenkomponente."
     }
   ],
   "quality": {
@@ -898,14 +910,20 @@
       "label": "Nebenschilddrüse",
       "exercise_image": "pruefung/07-nebenschilddruse.jpg",
       "rationale": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats.",
-      "didactic_note": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "didactic_note": "Dicht gelagerte endokrine Hauptzellen bilden Zellstränge um ein feines Kapillarnetz; normales Parenchym enthält eingestreute Fettzellen. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 10,
       "label": "Strumaknoten",
       "exercise_image": "pruefung/10-strumaknoten.jpg",
       "rationale": "Strumaknoten als pathologische Schilddrüsenkomponente.",
-      "didactic_note": "Strumaknoten als pathologische Schilddrüsenkomponente. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+      "didactic_note": "Unterschiedlich große, kolloidgefüllte Schilddrüsenfollikel bilden einen knotigen Bezirk mit zystischer Erweiterung und randlicher Kompression. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."

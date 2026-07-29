@@ -83,7 +83,10 @@
       "atlas_image": "atlas/05-steatose-annotiert.jpg",
       "exercise_image": "pruefung/05-steatose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Steatose“ als morphologischen Teilbefund. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Hepatozyten enthalten große optisch leere Fettvakuolen, die den Zellkern randständig verdrängen können. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 7,
@@ -103,23 +106,26 @@
         ]
       },
       "anchor": {
-        "x": 45681.5,
-        "y": 21835.5
+        "x": 43369.7,
+        "y": 20627.5
       },
       "crop": {
-        "left": 44800,
-        "top": 21248,
+        "left": 42496,
+        "top": 19968,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 881.5,
-        "y": 587.5
+        "x": 873.7,
+        "y": 659.5
       },
       "atlas_image": "atlas/07-periportalfeld-annotiert.jpg",
       "exercise_image": "pruefung/07-periportalfeld.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Periportalfeld“ dient hier als anatomischer Orientierungspunkt. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Im Portalfeld liegen Ast der Pfortader, Leberarteriole und Gallengang gemeinsam im Bindegewebe. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -155,9 +161,12 @@
       "atlas_image": "atlas/15-pseudolobuli-annotiert.jpg",
       "exercise_image": "pruefung/15-pseudolobuli.jpg",
       "missing_tiles": [],
+      "didactic_note": "Breite fibröse Septen unterteilen das Leberparenchym in regenerative Knoten ohne regelrechte Läppchenarchitektur. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Pseudolobuli zeigen den zirrhotischen Umbau der Leberarchitektur.",
-      "didactic_note": "Pseudolobuli zeigen den zirrhotischen Umbau der Leberarchitektur. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "exam_rationale": "Pseudolobuli zeigen den zirrhotischen Umbau der Leberarchitektur."
     },
     {
       "id": 17,
@@ -193,7 +202,10 @@
       "atlas_image": "atlas/17-hepatozyten-annotiert.jpg",
       "exercise_image": "pruefung/17-hepatozyten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Hepatozyten“ dient hier als anatomischer Orientierungspunkt. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Polygonale Hepatozyten mit rundem Kern bilden ein- bis zweireihige Zellbalken zwischen Sinusoiden. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -229,7 +241,10 @@
       "atlas_image": "atlas/18-gallengang-annotiert.jpg",
       "exercise_image": "pruefung/18-gallengang.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Ein kleines rundes Gangprofil ist von einschichtig kubischem Epithel ausgekleidet und liegt im Portalfeld. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 19,
@@ -269,7 +284,10 @@
       "atlas_image": "atlas/19-gallengangsproliferate-annotiert.jpg",
       "exercise_image": "pruefung/19-gallengangsproliferate.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Gallengangsproliferate“ dient hier als anatomischer Orientierungspunkt. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Zahlreiche kleine, von kubischem Epithel ausgekleidete Gangprofile vermehren sich im fibrosierten Portalfeld. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 20,
@@ -309,9 +327,12 @@
       "atlas_image": "atlas/20-bindegewebssepten-annotiert.jpg",
       "exercise_image": "pruefung/20-bindegewebssepten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Bindegewebssepten als zweiter zentraler Bestandteil der Zirrhose.",
-      "didactic_note": "Bindegewebssepten als zweiter zentraler Bestandteil der Zirrhose. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "exam_rationale": "Bindegewebssepten als zweiter zentraler Bestandteil der Zirrhose."
     }
   ],
   "quality": {
@@ -324,14 +345,20 @@
       "label": "Pseudolobuli",
       "exercise_image": "pruefung/15-pseudolobuli.jpg",
       "rationale": "Pseudolobuli zeigen den zirrhotischen Umbau der Leberarchitektur.",
-      "didactic_note": "Pseudolobuli zeigen den zirrhotischen Umbau der Leberarchitektur. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Breite fibröse Septen unterteilen das Leberparenchym in regenerative Knoten ohne regelrechte Läppchenarchitektur. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 20,
       "label": "Bindegewebssepten",
       "exercise_image": "pruefung/20-bindegewebssepten.jpg",
       "rationale": "Bindegewebssepten als zweiter zentraler Bestandteil der Zirrhose.",
-      "didactic_note": "Bindegewebssepten als zweiter zentraler Bestandteil der Zirrhose. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Leberzirrhose ist durch regenerative Pseudolobuli und brückenbildende fibrotische Septen definiert, die die normale lobuläre und vaskuläre Architektur dauerhaft verzerren."

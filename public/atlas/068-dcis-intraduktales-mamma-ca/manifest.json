@@ -79,7 +79,10 @@
       "atlas_image": "atlas/01-tuschefarbung-des-resektionrandes-annotiert.jpg",
       "exercise_image": "pruefung/01-tuschefarbung-des-resektionrandes.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Tuschefärbung des Resektionrandes“ als morphologischen Teilbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "didactic_note": "Dunkles Tuschepigment markiert den chirurgischen Resektionsrand und ermöglicht die Beurteilung des Abstands zur Läsion. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 3,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/03-gewohnliche-duktale-hyperplasie-des-drusenepithels-annotiert.jpg",
       "exercise_image": "pruefung/03-gewohnliche-duktale-hyperplasie-des-drusenepithels.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „gewöhnliche duktale Hyperplasie des Drüsenepithels“ dient hier als anatomischer Orientierungspunkt. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "didactic_note": "Mehrschichtige, heterogene Epithelzellen überbrücken einen terminalen duktolobulären Gang ohne monotone hochgradige Atypie. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 5,
@@ -151,9 +157,12 @@
       "atlas_image": "atlas/05-komedonekrose-annotiert.jpg",
       "exercise_image": "pruefung/05-komedonekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Ein erweiterter Gang ist von atypischen Epithelzellen ausgefüllt und enthält zentral eosinophilen, kernlosen Nekrosedetritus. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Komedonekrose als typischer hochgradiger Begleitbefund.",
-      "didactic_note": "Komedonekrose als typischer hochgradiger Begleitbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "exam_rationale": "Komedonekrose als typischer hochgradiger Begleitbefund."
     },
     {
       "id": 10,
@@ -189,9 +198,12 @@
       "atlas_image": "atlas/10-dilatierter-gang-mit-dysplastischem-epithel-dcis-annotiert.jpg",
       "exercise_image": "pruefung/10-dilatierter-gang-mit-dysplastischem-epithel-dcis.jpg",
       "missing_tiles": [],
+      "didactic_note": "Ein präexistenter Milchgang ist durch eine atypische epitheliale Zellproliferation erweitert, während die Begrenzung des Gangsystems erhalten bleibt. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund.",
-      "didactic_note": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "exam_rationale": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund."
     }
   ],
   "quality": {
@@ -204,14 +216,20 @@
       "label": "dilatierter Gang mit dysplastischem Epithel (DCIS)",
       "exercise_image": "pruefung/10-dilatierter-gang-mit-dysplastischem-epithel-dcis.jpg",
       "rationale": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund.",
-      "didactic_note": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "didactic_note": "Ein präexistenter Milchgang ist durch eine atypische epitheliale Zellproliferation erweitert, während die Begrenzung des Gangsystems erhalten bleibt. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "Komedonekrose",
       "exercise_image": "pruefung/05-komedonekrose.jpg",
       "rationale": "Komedonekrose als typischer hochgradiger Begleitbefund.",
-      "didactic_note": "Komedonekrose als typischer hochgradiger Begleitbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+      "didactic_note": "Ein erweiterter Gang ist von atypischen Epithelzellen ausgefüllt und enthält zentral eosinophilen, kernlosen Nekrosedetritus. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."

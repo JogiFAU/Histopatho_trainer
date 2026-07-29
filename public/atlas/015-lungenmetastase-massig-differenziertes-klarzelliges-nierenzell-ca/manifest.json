@@ -64,23 +64,26 @@
         ]
       },
       "anchor": {
-        "x": 25174.67,
-        "y": 6956.33
+        "x": 33958.46,
+        "y": 10357.74
       },
       "crop": {
-        "left": 24320,
-        "top": 6400,
+        "left": 33024,
+        "top": 9728,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 854.67,
-        "y": 556.33
+        "x": 934.46,
+        "y": 629.74
       },
       "atlas_image": "atlas/11-bronchiolus-annotiert.jpg",
       "exercise_image": "pruefung/11-bronchiolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines klarzelligen Nierenzellkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 12,
@@ -136,23 +139,26 @@
         ]
       },
       "anchor": {
-        "x": 38459.4,
-        "y": 19894.73
+        "x": 55108.84,
+        "y": 30509.95
       },
       "crop": {
-        "left": 37632,
-        "top": 19200,
+        "left": 54272,
+        "top": 29952,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 827.4,
-        "y": 694.73
+        "x": 836.84,
+        "y": 557.95
       },
       "atlas_image": "atlas/12-knorpelspangen-annotiert.jpg",
       "exercise_image": "pruefung/12-knorpelspangen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Hyaline Knorpelmatrix enthält Chondrozyten in Lakunen, teils in kleinen isogenen Gruppen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines klarzelligen Nierenzellkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -216,7 +222,10 @@
       "atlas_image": "atlas/13-knorpelspangen-annotiert.jpg",
       "exercise_image": "pruefung/13-knorpelspangen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend kollabierte Alveolarsepten; Knorpel ist nicht sicher getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines klarzelligen Nierenzellkarzinoms.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 14,
@@ -288,7 +297,10 @@
       "atlas_image": "atlas/14-knorpelspangen-annotiert.jpg",
       "exercise_image": "pruefung/14-knorpelspangen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Alveolen; eine Knorpelspange ist nicht sicher erkennbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines klarzelligen Nierenzellkarzinoms.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -328,7 +340,10 @@
       "atlas_image": "atlas/15-flimmerepithel-annotiert.jpg",
       "exercise_image": "pruefung/15-flimmerepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Flimmerepithel“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Zu sehen ist vor allem fibrosiertes peribronchiales Gewebe; ein Flimmerepithel ist nicht eindeutig abgebildet. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -460,7 +475,10 @@
       "atlas_image": "atlas/16-fibrose-annotiert.jpg",
       "exercise_image": "pruefung/16-fibrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 17,
@@ -484,23 +502,26 @@
         ]
       },
       "anchor": {
-        "x": 32537.33,
-        "y": 52762.67
+        "x": 45191.11,
+        "y": 78241.57
       },
       "crop": {
-        "left": 31744,
-        "top": 52224,
+        "left": 44288,
+        "top": 77568,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 793.33,
-        "y": 538.67
+        "x": 903.11,
+        "y": 673.57
       },
       "atlas_image": "atlas/17-tumorkapsel-annotiert.jpg",
       "exercise_image": "pruefung/17-tumorkapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Tumorkapsel“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Straffes kollagenes Bindegewebe begrenzt das Organ beziehungsweise den Tumorknoten gegenüber dem Nachbargewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines klarzelligen Nierenzellkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 18,
@@ -536,7 +557,10 @@
       "atlas_image": "atlas/18-schaumzellen-annotiert.jpg",
       "exercise_image": "pruefung/18-schaumzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt besteht überwiegend aus gefaltetem, zellarmem Bindegewebe; Schaumzellen sind nicht sicher identifizierbar. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 19,
@@ -1272,25 +1296,28 @@
         ]
       },
       "anchor": {
-        "x": 32096.62,
-        "y": 46587.03
+        "x": 45703.11,
+        "y": 77985.57
       },
       "crop": {
-        "left": 31232,
-        "top": 45824,
+        "left": 44800,
+        "top": 77312,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 864.62,
-        "y": 763.03
+        "x": 903.11,
+        "y": 673.57
       },
       "atlas_image": "atlas/19-metastase-eines-klarzelligen-nierenzellkarzinoms-annotiert.jpg",
       "exercise_image": "pruefung/19-metastase-eines-klarzelligen-nierenzellkarzinoms.jpg",
       "missing_tiles": [],
+      "didactic_note": "Nester klarer Tumorzellen mit optisch leerem, lipid- und glykogenreichem Zytoplasma liegen im Lungengewebe. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund.",
-      "didactic_note": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "exam_rationale": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund."
     }
   ],
   "quality": {
@@ -1303,7 +1330,10 @@
       "label": "Metastase eines klarzelligen Nierenzellkarzinoms",
       "exercise_image": "pruefung/19-metastase-eines-klarzelligen-nierenzellkarzinoms.jpg",
       "rationale": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund.",
-      "didactic_note": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+      "didactic_note": "Nester klarer Tumorzellen mit optisch leerem, lipid- und glykogenreichem Zytoplasma liegen im Lungengewebe. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."

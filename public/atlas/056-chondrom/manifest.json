@@ -63,25 +63,28 @@
         ]
       },
       "anchor": {
-        "x": 0,
-        "y": 0
+        "x": 22109.09,
+        "y": 35950.14
       },
       "crop": {
-        "left": 0,
-        "top": 0,
+        "left": 21248,
+        "top": 35328,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 0,
-        "y": 0
+        "x": 861.09,
+        "y": 622.14
       },
       "atlas_image": "atlas/01-chondrozyten-annotiert.jpg",
       "exercise_image": "pruefung/01-chondrozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hyaline Knorpelmatrix enthält Chondrozyten in Lakunen, teils in kleinen isogenen Gruppen. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Chondrozyten als charakteristische Tumorzellmorphologie.",
-      "didactic_note": "Chondrozyten als charakteristische Tumorzellmorphologie. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "exam_rationale": "Chondrozyten als charakteristische Tumorzellmorphologie."
     },
     {
       "id": 5,
@@ -117,9 +120,12 @@
       "atlas_image": "atlas/05-chondrom-annotiert.jpg",
       "exercise_image": "pruefung/05-chondrom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Lobulär angeordneter hyaliner Knorpel mit weitgehend monomorphen Chondrozyten bildet den benignen Knorpeltumor. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Chondromgewebe als ergänzender Tumorbefund.",
-      "didactic_note": "Chondromgewebe als ergänzender Tumorbefund. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "exam_rationale": "Chondromgewebe als ergänzender Tumorbefund."
     },
     {
       "id": 6,
@@ -144,18 +150,21 @@
       },
       "crop": {
         "left": 32000,
-        "top": 64512,
+        "top": 65024,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
         "x": 768,
-        "y": 1024
+        "y": 512
       },
       "atlas_image": "atlas/06-alveolen-annotiert.jpg",
       "exercise_image": "pruefung/06-alveolen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "didactic_note": "Feine Alveolarsepten mit flachen Pneumozyten begrenzen luftgefüllte Alveolarräume und kennzeichnen Lungenparenchym. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Chondrom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 7,
@@ -175,23 +184,26 @@
         ]
       },
       "anchor": {
-        "x": 65536,
-        "y": 65536
+        "x": 66143.54,
+        "y": 50097.47
       },
       "crop": {
-        "left": 64000,
-        "top": 64512,
+        "left": 65280,
+        "top": 49408,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 1024
+        "x": 863.54,
+        "y": 689.47
       },
       "atlas_image": "atlas/07-bronchiolus-annotiert.jpg",
       "exercise_image": "pruefung/07-bronchiolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Chondrom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -204,14 +216,20 @@
       "label": "Chondrozyten",
       "exercise_image": "pruefung/01-chondrozyten.jpg",
       "rationale": "Chondrozyten als charakteristische Tumorzellmorphologie.",
-      "didactic_note": "Chondrozyten als charakteristische Tumorzellmorphologie. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "didactic_note": "Hyaline Knorpelmatrix enthält Chondrozyten in Lakunen, teils in kleinen isogenen Gruppen. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "Chondrom",
       "exercise_image": "pruefung/05-chondrom.jpg",
       "rationale": "Chondromgewebe als ergänzender Tumorbefund.",
-      "didactic_note": "Chondromgewebe als ergänzender Tumorbefund. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."
+      "didactic_note": "Lobulär angeordneter hyaliner Knorpel mit weitgehend monomorphen Chondrozyten bildet den benignen Knorpeltumor. Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein Chondrom bildet lobuläres hyalines Knorpelgewebe mit bland erscheinenden Chondrozyten in Lakunen; permeatives Wachstum und ausgeprägte Atypie würden eher für Malignität sprechen."

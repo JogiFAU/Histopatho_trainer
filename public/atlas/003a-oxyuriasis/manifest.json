@@ -78,7 +78,10 @@
       "atlas_image": "atlas/11-mesoappendix-annotiert.jpg",
       "exercise_image": "pruefung/11-mesoappendix.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mesoappendix“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Das Mesoappendix besteht überwiegend aus lockerem Fett- und Bindegewebe mit Gefäßen außerhalb der Appendixwand. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -114,9 +117,12 @@
       "atlas_image": "atlas/15-ulzeration-annotiert.jpg",
       "exercise_image": "pruefung/15-ulzeration.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Oberflächenepithel fehlt; der Defekt reicht in tieferes Gewebe und ist von Fibrin, Zelldetritus und Entzündungszellen bedeckt. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Ulzeration zeigt die zugehörige Schleimhautschädigung.",
-      "didactic_note": "Ulzeration zeigt die zugehörige Schleimhautschädigung. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "exam_rationale": "Ulzeration zeigt die zugehörige Schleimhautschädigung."
     },
     {
       "id": 16,
@@ -152,9 +158,12 @@
       "atlas_image": "atlas/16-enterobius-vermicularis-annotiert.jpg",
       "exercise_image": "pruefung/16-enterobius-vermicularis.jpg",
       "missing_tiles": [],
+      "didactic_note": "Im Lumen liegt ein Querschnitt von Enterobius vermicularis mit kräftiger Cuticula, Muskulatur und inneren Organstrukturen. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis.",
-      "didactic_note": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "exam_rationale": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis."
     },
     {
       "id": 17,
@@ -190,7 +199,10 @@
       "atlas_image": "atlas/17-stuhl-annotiert.jpg",
       "exercise_image": "pruefung/17-stuhl.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Stuhl“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Amorphes, körniges luminales Material mit Bakterien- und Nahrungsresten entspricht Darminhalt. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 18,
@@ -226,7 +238,10 @@
       "atlas_image": "atlas/18-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/18-lymphfollikel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 20,
@@ -266,7 +281,10 @@
       "atlas_image": "atlas/20-serosa-annotiert.jpg",
       "exercise_image": "pruefung/20-serosa.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Oxyuriasis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -279,14 +297,20 @@
       "label": "Enterobius vermicularis",
       "exercise_image": "pruefung/16-enterobius-vermicularis.jpg",
       "rationale": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis.",
-      "didactic_note": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Im Lumen liegt ein Querschnitt von Enterobius vermicularis mit kräftiger Cuticula, Muskulatur und inneren Organstrukturen. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 15,
       "label": "Ulzeration",
       "exercise_image": "pruefung/15-ulzeration.jpg",
       "rationale": "Ulzeration zeigt die zugehörige Schleimhautschädigung.",
-      "didactic_note": "Ulzeration zeigt die zugehörige Schleimhautschädigung. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+      "didactic_note": "Das Oberflächenepithel fehlt; der Defekt reicht in tieferes Gewebe und ist von Fibrin, Zelldetritus und Entzündungszellen bedeckt. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."

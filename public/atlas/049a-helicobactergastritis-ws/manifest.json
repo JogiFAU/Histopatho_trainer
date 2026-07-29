@@ -75,9 +75,12 @@
       "atlas_image": "atlas/01-h-pylori-annotiert.jpg",
       "exercise_image": "pruefung/01-h-pylori.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Spezialfärbung hebt kleine, gebogene bis stäbchenförmige Bakterien an der Oberfläche und in der Schleimschicht des Magenepithels hervor. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund.",
-      "didactic_note": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."
+      "exam_rationale": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund."
     }
   ],
   "quality": {
@@ -90,7 +93,10 @@
       "label": "H. pylori",
       "exercise_image": "pruefung/01-h-pylori.jpg",
       "rationale": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund.",
-      "didactic_note": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."
+      "didactic_note": "Die Spezialfärbung hebt kleine, gebogene bis stäbchenförmige Bakterien an der Oberfläche und in der Schleimschicht des Magenepithels hervor. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."

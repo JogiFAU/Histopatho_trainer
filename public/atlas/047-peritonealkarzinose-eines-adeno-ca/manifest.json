@@ -62,25 +62,28 @@
         ]
       },
       "anchor": {
-        "x": 19066.04,
-        "y": 47609.72
+        "x": 16018.83,
+        "y": 59442.55
       },
       "crop": {
-        "left": 18176,
-        "top": 46848,
+        "left": 15104,
+        "top": 58880,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 890.04,
-        "y": 761.72
+        "x": 914.83,
+        "y": 562.55
       },
       "atlas_image": "atlas/03-drusenstrukturenausbildende-karzinomverbande-annotiert.jpg",
       "exercise_image": "pruefung/03-drusenstrukturenausbildende-karzinomverbande.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase.",
-      "didactic_note": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "exam_rationale": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase."
     },
     {
       "id": 5,
@@ -116,7 +119,10 @@
       "atlas_image": "atlas/05-desmoplasie-annotiert.jpg",
       "exercise_image": "pruefung/05-desmoplasie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Desmoplasie“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Zwischen den Tumorverbänden liegt reaktiv vermehrtes, teils myxoid aufgelockertes und kollagenisiertes Stroma. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -136,23 +142,26 @@
         ]
       },
       "anchor": {
-        "x": 42035.76,
-        "y": 55641.88
+        "x": 44758.5,
+        "y": 69493.6
       },
       "crop": {
-        "left": 41216,
-        "top": 55040,
+        "left": 43776,
+        "top": 68864,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 819.76,
-        "y": 601.88
+        "x": 982.5,
+        "y": 629.6
       },
       "atlas_image": "atlas/11-begleitentzundung-annotiert.jpg",
       "exercise_image": "pruefung/11-begleitentzundung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Begleitentzündung“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Zwischen den Gewebsstrukturen liegen vermehrte Entzündungszellen, Ödem und reaktive Stromaveränderungen. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -192,7 +201,10 @@
       "atlas_image": "atlas/15-lobulus-annotiert.jpg",
       "exercise_image": "pruefung/15-lobulus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lobulus“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Reife univakuoläre Adipozyten erscheinen als große optisch leere Zellen mit schmalem Zytoplasmasaum und randständigem Kern. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 16,
@@ -216,23 +228,26 @@
         ]
       },
       "anchor": {
-        "x": 35003.52,
-        "y": 12893.45
+        "x": 35952.26,
+        "y": 16132.53
       },
       "crop": {
-        "left": 34048,
-        "top": 12288,
+        "left": 35072,
+        "top": 15616,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 955.52,
-        "y": 605.45
+        "x": 880.26,
+        "y": 516.53
       },
       "atlas_image": "atlas/16-mesothel-annotiert.jpg",
       "exercise_image": "pruefung/16-mesothel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Mesothel“ dient hier als anatomischer Orientierungspunkt. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Peritonealkarzinose eines Adenokarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -848,25 +863,28 @@
         ]
       },
       "anchor": {
-        "x": 26413.13,
-        "y": 47385.01
+        "x": 11633.97,
+        "y": 61860.31
       },
       "crop": {
-        "left": 25600,
-        "top": 46848,
+        "left": 10752,
+        "top": 61184,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 813.13,
-        "y": 537.01
+        "x": 881.97,
+        "y": 676.31
       },
       "atlas_image": "atlas/17-metastase-annotiert.jpg",
       "exercise_image": "pruefung/17-metastase.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Peritoneale Metastase als definierender Ausbreitungsbefund.",
-      "didactic_note": "Peritoneale Metastase als definierender Ausbreitungsbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "exam_rationale": "Peritoneale Metastase als definierender Ausbreitungsbefund."
     }
   ],
   "quality": {
@@ -879,14 +897,20 @@
       "label": "Drüsenstrukturenausbildende Karzinomverbände",
       "exercise_image": "pruefung/03-drusenstrukturenausbildende-karzinomverbande.jpg",
       "rationale": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase.",
-      "didactic_note": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 17,
       "label": "Metastase",
       "exercise_image": "pruefung/17-metastase.jpg",
       "rationale": "Peritoneale Metastase als definierender Ausbreitungsbefund.",
-      "didactic_note": "Peritoneale Metastase als definierender Ausbreitungsbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."

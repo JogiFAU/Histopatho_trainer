@@ -77,9 +77,12 @@
       "atlas_image": "atlas/03-bindegewebsstrange-und-fibrozyten-annotiert.jpg",
       "exercise_image": "pruefung/03-bindegewebsstrange-und-fibrozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht gepackte eosinophile Kollagenfasern werden von wenigen schmalen, spindeligen Fibrozytenkernen begleitet. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund.",
-      "didactic_note": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."
+      "exam_rationale": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund."
     }
   ],
   "quality": {
@@ -92,7 +95,10 @@
       "label": "Bindegewebsstränge und Fibrozyten",
       "exercise_image": "pruefung/03-bindegewebsstrange-und-fibrozyten.jpg",
       "rationale": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund.",
-      "didactic_note": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."
+      "didactic_note": "Dicht gepackte eosinophile Kollagenfasern werden von wenigen schmalen, spindeligen Fibrozytenkernen begleitet. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."

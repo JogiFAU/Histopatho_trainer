@@ -76,9 +76,12 @@
       "atlas_image": "atlas/05-beginnende-thrombosierung-annotiert.jpg",
       "exercise_image": "pruefung/05-beginnende-thrombosierung.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Beginnende Thrombosierung als ergänzendes frühes Stadium.",
-      "didactic_note": "Beginnende Thrombosierung als ergänzendes frühes Stadium. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "exam_rationale": "Beginnende Thrombosierung als ergänzendes frühes Stadium."
     },
     {
       "id": 7,
@@ -114,9 +117,12 @@
       "atlas_image": "atlas/07-thrombus-annotiert.jpg",
       "exercise_image": "pruefung/07-thrombus.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Ausgebildeter Thrombus als diagnostischer Hauptbefund.",
-      "didactic_note": "Ausgebildeter Thrombus als diagnostischer Hauptbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "exam_rationale": "Ausgebildeter Thrombus als diagnostischer Hauptbefund."
     },
     {
       "id": 9,
@@ -136,23 +142,26 @@
         ]
       },
       "anchor": {
-        "x": 52224,
-        "y": 26568
+        "x": 48128.0,
+        "y": 24004.56
       },
       "crop": {
-        "left": 50688,
-        "top": 25856,
+        "left": 47360,
+        "top": 23296,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 712
+        "x": 768.0,
+        "y": 708.56
       },
       "atlas_image": "atlas/09-linie-9-annotiert.jpg",
       "exercise_image": "pruefung/09-linie-9.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Linie #9“ als morphologischen Teilbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Die Kursmarkierung benennt keine eigenständige histologische Struktur; beurteilt werden müssen die im Ausschnitt tatsächlich sichtbaren Zellen und ihre Architektur. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 10,
@@ -188,7 +197,10 @@
       "atlas_image": "atlas/10-verhornendes-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/10-verhornendes-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt ist praktisch leer; verhornendes Plattenepithel ist nicht abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Thrombose.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -228,7 +240,10 @@
       "atlas_image": "atlas/11-melaninhaltige-basale-zellschicht-annotiert.jpg",
       "exercise_image": "pruefung/11-melaninhaltige-basale-zellschicht.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Melaninhaltige basale Zellschicht“ als morphologischen Teilbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 12,
@@ -264,7 +279,10 @@
       "atlas_image": "atlas/12-ektatischer-venenplexus-annotiert.jpg",
       "exercise_image": "pruefung/12-ektatischer-venenplexus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „ektatischer Venenplexus“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Ein weitlumiges, dünnwandiges Gefäß mit unregelmäßiger Kontur entspricht einer Vene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Thrombose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 14,
@@ -300,7 +318,10 @@
       "atlas_image": "atlas/14-verhornendes-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/14-verhornendes-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Thrombose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -313,14 +334,20 @@
       "label": "Thrombus",
       "exercise_image": "pruefung/07-thrombus.jpg",
       "rationale": "Ausgebildeter Thrombus als diagnostischer Hauptbefund.",
-      "didactic_note": "Ausgebildeter Thrombus als diagnostischer Hauptbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "beginnende Thrombosierung",
       "exercise_image": "pruefung/05-beginnende-thrombosierung.jpg",
       "rationale": "Beginnende Thrombosierung als ergänzendes frühes Stadium.",
-      "didactic_note": "Beginnende Thrombosierung als ergänzendes frühes Stadium. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+      "didactic_note": "Das Gefäßlumen ist durch anhaftendes, eosinophiles Fibrin und eingeschlossene Blutzellen teilweise oder vollständig verlegt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."

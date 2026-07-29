@@ -62,25 +62,28 @@
         ]
       },
       "anchor": {
-        "x": 9928.51,
-        "y": 41123.41
+        "x": 14274.21,
+        "y": 52872.63
       },
       "crop": {
-        "left": 8960,
-        "top": 40448,
+        "left": 13312,
+        "top": 52224,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 968.51,
-        "y": 675.41
+        "x": 962.21,
+        "y": 648.63
       },
       "atlas_image": "atlas/05-entzundliches-infiltrat-lymphoplasmazellular-annotiert.jpg",
       "exercise_image": "pruefung/05-entzundliches-infiltrat-lymphoplasmazellular.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Interstitium enthält ein dichtes chronisches Infiltrat aus kleinen Lymphozyten und Plasmazellen mit exzentrischen Kernen. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund.",
-      "didactic_note": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "exam_rationale": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund."
     },
     {
       "id": 11,
@@ -100,23 +103,26 @@
         ]
       },
       "anchor": {
-        "x": 13320.01,
-        "y": 43843.72
+        "x": 18400,
+        "y": 45600
       },
       "crop": {
-        "left": 12544,
-        "top": 43264,
+        "left": 17408,
+        "top": 45056,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 776.01,
-        "y": 579.72
+        "x": 992,
+        "y": 544
       },
       "atlas_image": "atlas/11-lamina-muscularis-mucosae-annotiert.jpg",
       "exercise_image": "pruefung/11-lamina-muscularis-mucosae.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lamina muscularis mucosae“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Unter der Mukosa liegt lockeres submuköses Bindegewebe; die Lamina muscularis mucosae bildet eine schmale Lage glatter Muskelzellen. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 19,
@@ -152,7 +158,10 @@
       "atlas_image": "atlas/19-prominenter-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/19-prominenter-lymphfollikel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „prominenter Lymphfollikel“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 20,
@@ -224,23 +233,26 @@
         ]
       },
       "anchor": {
-        "x": 12157.7,
-        "y": 44954.32
+        "x": 17188.93,
+        "y": 57724.62
       },
       "crop": {
-        "left": 11264,
-        "top": 44288,
+        "left": 16384,
+        "top": 57088,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 893.7,
-        "y": 666.32
+        "x": 804.93,
+        "y": 636.62
       },
       "atlas_image": "atlas/20-belegzellen-annotiert.jpg",
       "exercise_image": "pruefung/20-belegzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Belegzellen“ dient hier als anatomischer Orientierungspunkt. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Große eosinophile Belegzellen mit zentralem Kern liegen zwischen den Drüsenzellen der Korpusmukosa. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 21,
@@ -620,23 +632,26 @@
         ]
       },
       "anchor": {
-        "x": 12753.36,
-        "y": 44532.48
+        "x": 17847.75,
+        "y": 57144.75
       },
       "crop": {
-        "left": 11776,
-        "top": 43776,
+        "left": 16896,
+        "top": 56576,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 977.36,
-        "y": 756.48
+        "x": 951.75,
+        "y": 568.75
       },
       "atlas_image": "atlas/21-hauptzellen-annotiert.jpg",
       "exercise_image": "pruefung/21-hauptzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Hauptzellen“ dient hier als anatomischer Orientierungspunkt. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Basophile Hauptzellen mit basal gelegenem Kern bilden die tieferen Abschnitte der Korpusdrüsen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Helicobactergastritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 22,
@@ -908,23 +923,26 @@
         ]
       },
       "anchor": {
-        "x": 9304.9,
-        "y": 36406.26
+        "x": 15027.36,
+        "y": 47292.42
       },
       "crop": {
-        "left": 8448,
-        "top": 35840,
+        "left": 14080,
+        "top": 46592,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 856.9,
-        "y": 566.26
+        "x": 947.36,
+        "y": 700.42
       },
       "atlas_image": "atlas/22-ganulozytenansammlung-annotiert.jpg",
       "exercise_image": "pruefung/22-ganulozytenansammlung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ganulozytenansammlung“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Eine dichte Ansammlung segmentkerniger neutrophiler Granulozyten liegt in beziehungsweise zwischen den Magendrüsen. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 23,
@@ -944,25 +962,28 @@
         ]
       },
       "anchor": {
-        "x": 9119.77,
-        "y": 36250.91
+        "x": 14790.62,
+        "y": 45841.48
       },
       "crop": {
-        "left": 8192,
-        "top": 35584,
+        "left": 13824,
+        "top": 45312,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 927.77,
-        "y": 666.91
+        "x": 966.62,
+        "y": 529.48
       },
       "atlas_image": "atlas/23-kryptenabszess-1-annotiert.jpg",
       "exercise_image": "pruefung/23-kryptenabszess-1.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis.",
-      "didactic_note": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "exam_rationale": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis."
     },
     {
       "id": 24,
@@ -982,23 +1003,26 @@
         ]
       },
       "anchor": {
-        "x": 10368.78,
-        "y": 40519.73
+        "x": 14856.83,
+        "y": 52095.8
       },
       "crop": {
-        "left": 9472,
-        "top": 39936,
+        "left": 14080,
+        "top": 51456,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 896.78,
-        "y": 583.73
+        "x": 776.83,
+        "y": 639.8
       },
       "atlas_image": "atlas/24-kyptenabszess-2-annotiert.jpg",
       "exercise_image": "pruefung/24-kyptenabszess-2.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Kyptenabszess 2“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 25,
@@ -1018,23 +1042,26 @@
         ]
       },
       "anchor": {
-        "x": 9976.27,
-        "y": 40590.12
+        "x": 14371.31,
+        "y": 52192.9
       },
       "crop": {
-        "left": 8960,
-        "top": 39936,
+        "left": 13568,
+        "top": 51456,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1016.27,
-        "y": 654.12
+        "x": 803.31,
+        "y": 736.9
       },
       "atlas_image": "atlas/25-kryptenabszess-3-annotiert.jpg",
       "exercise_image": "pruefung/25-kryptenabszess-3.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Kryptenabszess 3“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -1047,14 +1074,20 @@
       "label": "Kryptenabszess 1",
       "exercise_image": "pruefung/23-kryptenabszess-1.jpg",
       "rationale": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis.",
-      "didactic_note": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "entzündliches Infiltrat (lymphoplasmazellulär)",
       "exercise_image": "pruefung/05-entzundliches-infiltrat-lymphoplasmazellular.jpg",
       "rationale": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund.",
-      "didactic_note": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+      "didactic_note": "Das Interstitium enthält ein dichtes chronisches Infiltrat aus kleinen Lymphozyten und Plasmazellen mit exzentrischen Kernen. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."

@@ -66,23 +66,26 @@
         ]
       },
       "anchor": {
-        "x": 19535.4,
-        "y": 3450.86
+        "x": 27366.65,
+        "y": 5458.38
       },
       "crop": {
-        "left": 18688,
-        "top": 2816,
+        "left": 26368,
+        "top": 4864,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 847.4,
-        "y": 634.86
+        "x": 998.65,
+        "y": 594.38
       },
       "atlas_image": "atlas/05-cardia-schleimhaut-annotiert.jpg",
       "exercise_image": "pruefung/05-cardia-schleimhaut.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Cardia Schleimhaut“ dient hier als anatomischer Orientierungspunkt. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Muköse gastrale Drüsen liegen in der Lamina propria unter einem einschichtigen Oberflächenepithel. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom des Ösophagus/ösophagogastralen Übergangs (Barrett Karzinom).",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 33,
@@ -142,25 +145,28 @@
         ]
       },
       "anchor": {
-        "x": 20473.87,
-        "y": 53334.99
+        "x": 26856.97,
+        "y": 79479.03
       },
       "crop": {
-        "left": 19456,
-        "top": 52736,
+        "left": 25856,
+        "top": 78848,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1017.87,
-        "y": 598.99
+        "x": 1000.97,
+        "y": 631.03
       },
       "atlas_image": "atlas/33-muscularis-propria-infiltrierende-karzinomverbande-annotiert.jpg",
       "exercise_image": "pruefung/33-muscularis-propria-infiltrierende-karzinomverbande.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Infiltration der Muscularis propria belegt das invasive Wachstum.",
-      "didactic_note": "Infiltration der Muscularis propria belegt das invasive Wachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "exam_rationale": "Infiltration der Muscularis propria belegt das invasive Wachstum."
     },
     {
       "id": 34,
@@ -200,7 +206,10 @@
       "atlas_image": "atlas/34-schleim-annotiert.jpg",
       "exercise_image": "pruefung/34-schleim.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schleim“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Muskel- und Bindegewebe; extrazellulärer oder intraluminaler Schleim ist nicht sicher erkennbar. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 35,
@@ -240,7 +249,10 @@
       "atlas_image": "atlas/35-becherzelle-annotiert.jpg",
       "exercise_image": "pruefung/35-becherzelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Becherzelle“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend desmoplastisches Stroma; eine Becherzelle ist nicht eindeutig getroffen. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 38,
@@ -276,7 +288,10 @@
       "atlas_image": "atlas/38-barrett-mucosa-intestinale-metaplasie-annotiert.jpg",
       "exercise_image": "pruefung/38-barrett-mucosa-intestinale-metaplasie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Barrett Mucosa/ intestinale Metaplasie“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt vor allem Stroma und vereinzelte Drüsenprofile; eine typische Barrett-Mukosa ist nicht vollständig beurteilbar. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 39,
@@ -300,23 +315,26 @@
         ]
       },
       "anchor": {
-        "x": 14375.69,
-        "y": 2877.1
+        "x": 19750.55,
+        "y": 4733.3
       },
       "crop": {
-        "left": 13568,
-        "top": 2304,
+        "left": 18944,
+        "top": 4096,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 807.69,
-        "y": 573.1
+        "x": 806.55,
+        "y": 637.3
       },
       "atlas_image": "atlas/39-verschlepptes-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/39-verschlepptes-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verschlepptes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Reifes Plattenepithel grenzt an atypische epitheliale Tumorverbände beziehungsweise liegt versprengt im Präparat. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom des Ösophagus/ösophagogastralen Übergangs (Barrett Karzinom).",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 40,
@@ -352,7 +370,10 @@
       "atlas_image": "atlas/40-mitose-annotiert.jpg",
       "exercise_image": "pruefung/40-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt glatte Muskulatur und Stroma; eine Mitosefigur ist in dieser Darstellung nicht sicher identifizierbar. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 41,
@@ -1040,9 +1061,12 @@
       "atlas_image": "atlas/41-karzinomareal-1-annotiert.jpg",
       "exercise_image": "pruefung/41-karzinomareal-1.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Karzinomareal mit der malignen Drüsenmorphologie.",
-      "didactic_note": "Karzinomareal mit der malignen Drüsenmorphologie. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "exam_rationale": "Karzinomareal mit der malignen Drüsenmorphologie."
     },
     {
       "id": 42,
@@ -1606,7 +1630,10 @@
       "atlas_image": "atlas/42-karzinomareal-2-annotiert.jpg",
       "exercise_image": "pruefung/42-karzinomareal-2.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Karzinomareal 2“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -1619,14 +1646,20 @@
       "label": "Karzinomareal 1",
       "exercise_image": "pruefung/41-karzinomareal-1.jpg",
       "rationale": "Karzinomareal mit der malignen Drüsenmorphologie.",
-      "didactic_note": "Karzinomareal mit der malignen Drüsenmorphologie. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 33,
       "label": "Muscularis propria infiltrierende Karzinomverbände",
       "exercise_image": "pruefung/33-muscularis-propria-infiltrierende-karzinomverbande.jpg",
       "rationale": "Infiltration der Muscularis propria belegt das invasive Wachstum.",
-      "didactic_note": "Infiltration der Muscularis propria belegt das invasive Wachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+      "didactic_note": "Unregelmäßige atypische Drüsen und Zellverbände infiltrieren desmoplastisches Stroma und belegen invasives Adenokarzinomwachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."

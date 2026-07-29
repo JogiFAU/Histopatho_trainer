@@ -83,7 +83,10 @@
       "atlas_image": "atlas/07-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/07-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Basalzellkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -123,7 +126,10 @@
       "atlas_image": "atlas/13-lockeres-stroma-annotiert.jpg",
       "exercise_image": "pruefung/13-lockeres-stroma.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „lockeres Stroma“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Locker angeordnete Kollagenfasern mit spärlichen Fibroblasten und weiten Gewebsspalten bilden das peritumorale Stroma. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -627,9 +633,12 @@
       "atlas_image": "atlas/15-basalzellkarzinom-annotiert.jpg",
       "exercise_image": "pruefung/15-basalzellkarzinom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund.",
-      "didactic_note": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "exam_rationale": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund."
     },
     {
       "id": 17,
@@ -665,7 +674,10 @@
       "atlas_image": "atlas/17-ulzeration-annotiert.jpg",
       "exercise_image": "pruefung/17-ulzeration.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ulzeration“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Das Oberflächenepithel fehlt; der Defekt reicht in tieferes Gewebe und ist von Fibrin, Zelldetritus und Entzündungszellen bedeckt. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 18,
@@ -1041,9 +1053,12 @@
       "atlas_image": "atlas/18-pallisadenartige-aufreihung-annotiert.jpg",
       "exercise_image": "pruefung/18-pallisadenartige-aufreihung.jpg",
       "missing_tiles": [],
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund.",
-      "didactic_note": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "exam_rationale": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund."
     },
     {
       "id": 19,
@@ -1079,7 +1094,10 @@
       "atlas_image": "atlas/19-nodular-zystisches-wachstum-annotiert.jpg",
       "exercise_image": "pruefung/19-nodular-zystisches-wachstum.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „nodulär-zystisches Wachstum“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Basaloide Tumornester bilden solide und zystisch aufgelockerte Verbände im dermalen Stroma. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -1092,14 +1110,20 @@
       "label": "Pallisadenartige Aufreihung",
       "exercise_image": "pruefung/18-pallisadenartige-aufreihung.jpg",
       "rationale": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund.",
-      "didactic_note": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 15,
       "label": "Basalzellkarzinom",
       "exercise_image": "pruefung/15-basalzellkarzinom.jpg",
       "rationale": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund.",
-      "didactic_note": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."

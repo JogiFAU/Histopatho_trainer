@@ -84,7 +84,10 @@
       "atlas_image": "atlas/01-pneumonie-annotiert.jpg",
       "exercise_image": "pruefung/01-pneumonie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Pneumonie“ als morphologischen Teilbefund. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "didactic_note": "Alveolen sind statt mit Luft mit fibrinreichem Exsudat, Entzündungszellen und je nach Stadium Erythrozyten gefüllt. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 3,
@@ -120,7 +123,10 @@
       "atlas_image": "atlas/03-lungengewebe-annotiert.jpg",
       "exercise_image": "pruefung/03-lungengewebe.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lungengewebe“ als morphologischen Teilbefund. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "didactic_note": "Feine Alveolarsepten mit flachen Pneumozyten begrenzen luftgefüllte Alveolarräume und kennzeichnen Lungenparenchym. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 5,
@@ -156,9 +162,12 @@
       "atlas_image": "atlas/05-tumorzellen-annotiert.jpg",
       "exercise_image": "pruefung/05-tumorzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt eine gegenüber dem Nachbargewebe zellreichere, architektonisch ungeordnete Zellproliferation. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms.",
-      "didactic_note": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "exam_rationale": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms."
     },
     {
       "id": 7,
@@ -194,7 +203,10 @@
       "atlas_image": "atlas/07-bronchiolus-annotiert.jpg",
       "exercise_image": "pruefung/07-bronchiolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -230,7 +242,10 @@
       "atlas_image": "atlas/09-dystelektatische-alveolen-annotiert.jpg",
       "exercise_image": "pruefung/09-dystelektatische-alveolen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „dystelektatische Alveolen“ dient hier als anatomischer Orientierungspunkt. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "didactic_note": "Die Alveolarräume sind ungleich weit beziehungsweise kollabiert; verdichtete Septen liegen dicht aneinander. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -243,7 +258,10 @@
       "label": "Tumorzellen",
       "exercise_image": "pruefung/05-tumorzellen.jpg",
       "rationale": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms.",
-      "didactic_note": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+      "didactic_note": "Der Ausschnitt zeigt eine gegenüber dem Nachbargewebe zellreichere, architektonisch ungeordnete Zellproliferation. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."

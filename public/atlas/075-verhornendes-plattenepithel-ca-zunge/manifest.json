@@ -81,7 +81,10 @@
       "atlas_image": "atlas/09-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/09-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -117,9 +120,12 @@
       "atlas_image": "atlas/13-ubergang-plattenepithel-zu-tumor-annotiert.jpg",
       "exercise_image": "pruefung/13-ubergang-plattenepithel-zu-tumor.jpg",
       "missing_tiles": [],
+      "didactic_note": "Reifes Plattenepithel grenzt an atypische epitheliale Tumorverbände beziehungsweise liegt versprengt im Präparat. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund.",
-      "didactic_note": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "exam_rationale": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund."
     },
     {
       "id": 14,
@@ -703,9 +709,12 @@
       "atlas_image": "atlas/14-invasive-plattenepithelkarzinomverbande-mit-hornperle-annotiert.jpg",
       "exercise_image": "pruefung/14-invasive-plattenepithelkarzinomverbande-mit-hornperle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund.",
-      "didactic_note": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "exam_rationale": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund."
     },
     {
       "id": 17,
@@ -1481,7 +1490,10 @@
       "atlas_image": "atlas/17-zungenmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/17-zungenmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Zungenmuskulatur“ dient hier als anatomischer Orientierungspunkt. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "didactic_note": "Quergestreifte Muskelfasern zeigen eosinophiles Zytoplasma, periphere Kerne und je nach Schnittebene Querstreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 18,
@@ -1517,7 +1529,10 @@
       "atlas_image": "atlas/18-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/18-riesenzelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Riesenzelle“ als morphologischen Teilbefund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -1530,14 +1545,20 @@
       "label": "invasive Plattenepithelkarzinomverbände mit Hornperle",
       "exercise_image": "pruefung/14-invasive-plattenepithelkarzinomverbande-mit-hornperle.jpg",
       "rationale": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund.",
-      "didactic_note": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 13,
       "label": "Übergang Plattenepithel zu Tumor",
       "exercise_image": "pruefung/13-ubergang-plattenepithel-zu-tumor.jpg",
       "rationale": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund.",
-      "didactic_note": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+      "didactic_note": "Reifes Plattenepithel grenzt an atypische epitheliale Tumorverbände beziehungsweise liegt versprengt im Präparat. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."

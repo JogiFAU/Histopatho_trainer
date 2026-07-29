@@ -82,7 +82,10 @@
       "atlas_image": "atlas/01-alveolarsepten-annotiert.jpg",
       "exercise_image": "pruefung/01-alveolarsepten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Alveolarsepten“ dient hier als anatomischer Orientierungspunkt. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Feine Alveolarsepten mit flachen Pneumozyten begrenzen luftgefüllte Alveolarräume und kennzeichnen Lungenparenchym. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Tuberkulose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 3,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/03-bronchus-annotiert.jpg",
       "exercise_image": "pruefung/03-bronchus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Bronchus“ als morphologischen Teilbefund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Tuberkulose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/15-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/15-lymphfollikel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 16,
@@ -190,9 +199,12 @@
       "atlas_image": "atlas/16-langhans-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/16-langhans-riesenzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die mehrkernige Riesenzelle zeigt randständig beziehungsweise hufeisenförmig angeordnete Kerne und gehört zum epitheloidzelligen Granulom. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Langhans-Riesenzelle als klassischer Tuberkulosebefund.",
-      "didactic_note": "Langhans-Riesenzelle als klassischer Tuberkulosebefund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "exam_rationale": "Langhans-Riesenzelle als klassischer Tuberkulosebefund."
     },
     {
       "id": 17,
@@ -336,9 +348,12 @@
       "atlas_image": "atlas/17-verkasende-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/17-verkasende-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Zentrum besteht aus amorphem, eosinophilem, kernlosem Detritus; der Verlust der Gewebearchitektur entspricht einer verkäsenden Nekrose. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Verkäsende Nekrose als zweiter krankheitstypischer Befund.",
-      "didactic_note": "Verkäsende Nekrose als zweiter krankheitstypischer Befund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "exam_rationale": "Verkäsende Nekrose als zweiter krankheitstypischer Befund."
     },
     {
       "id": 18,
@@ -410,7 +425,10 @@
       "atlas_image": "atlas/18-histiozytenwall-annotiert.jpg",
       "exercise_image": "pruefung/18-histiozytenwall.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Histiozytenwall“ als morphologischen Teilbefund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Epitheloide Histiozyten und mehrkernige Riesenzellen ordnen sich wallartig um das zentrale nekrotische Material an. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -423,14 +441,20 @@
       "label": "Langhans Riesenzelle",
       "exercise_image": "pruefung/16-langhans-riesenzelle.jpg",
       "rationale": "Langhans-Riesenzelle als klassischer Tuberkulosebefund.",
-      "didactic_note": "Langhans-Riesenzelle als klassischer Tuberkulosebefund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Die mehrkernige Riesenzelle zeigt randständig beziehungsweise hufeisenförmig angeordnete Kerne und gehört zum epitheloidzelligen Granulom. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 17,
       "label": "verkäsende Nekrose",
       "exercise_image": "pruefung/17-verkasende-nekrose.jpg",
       "rationale": "Verkäsende Nekrose als zweiter krankheitstypischer Befund.",
-      "didactic_note": "Verkäsende Nekrose als zweiter krankheitstypischer Befund. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."
+      "didactic_note": "Das Zentrum besteht aus amorphem, eosinophilem, kernlosem Detritus; der Verlust der Gewebearchitektur entspricht einer verkäsenden Nekrose. Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Lungentuberkulose zeigt verkäsende Nekrose, einen Histiozytenwall sowie Epitheloidzellen und Langhans-Riesenzellen; gemeinsam bilden sie das typische nekrotisierende Granulom."

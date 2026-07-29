@@ -64,9 +64,12 @@
       "atlas_image": "atlas/07-amyloidablagerung-am-vas-afferenz-annotiert.jpg",
       "exercise_image": "pruefung/07-amyloidablagerung-am-vas-afferenz.jpg",
       "missing_tiles": [],
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Gefäßbezogene Amyloidablagerung am Vas afferens als zweite typische Lokalisation.",
-      "didactic_note": "Gefäßbezogene Amyloidablagerung am Vas afferens als zweite typische Lokalisation. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "exam_rationale": "Gefäßbezogene Amyloidablagerung am Vas afferens als zweite typische Lokalisation."
     },
     {
       "id": 8,
@@ -90,9 +93,12 @@
       "atlas_image": "atlas/08-amyloidablagerung-annotiert.jpg",
       "exercise_image": "pruefung/08-amyloidablagerung.jpg",
       "missing_tiles": [],
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Amyloidablagerung als krankheitsdefinierender extrazellulärer Befund.",
-      "didactic_note": "Amyloidablagerung als krankheitsdefinierender extrazellulärer Befund. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "exam_rationale": "Amyloidablagerung als krankheitsdefinierender extrazellulärer Befund."
     },
     {
       "id": 9,
@@ -116,7 +122,10 @@
       "atlas_image": "atlas/09-tubulus-annotiert.jpg",
       "exercise_image": "pruefung/09-tubulus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Tubulus“ dient hier als anatomischer Orientierungspunkt. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der wiederverwendete Ausschnitt zeigt vor allem ein amyloidverändertes Glomerulum; ein einzelner Tubulus ist nicht eindeutig markiert. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Amyloidose.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 10,
@@ -140,7 +149,10 @@
       "atlas_image": "atlas/10-glomerulus-annotiert.jpg",
       "exercise_image": "pruefung/10-glomerulus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Glomerulus“ dient hier als anatomischer Orientierungspunkt. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Ein glomeruläres Kapillarknäuel liegt innerhalb der Bowman-Kapsel; sklerosierte Abschnitte erscheinen zellarm und homogen eosinophil. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Amyloidose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -164,7 +176,10 @@
       "atlas_image": "atlas/11-nierenkapsel-annotiert.jpg",
       "exercise_image": "pruefung/11-nierenkapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Nierenkapsel“ dient hier als anatomischer Orientierungspunkt. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der wiederverwendete Ausschnitt zeigt Nierenrinde mit amyloidverändertem Glomerulum, nicht sicher die Nierenkapsel. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Amyloidose.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 12,
@@ -188,7 +203,10 @@
       "atlas_image": "atlas/12-urothel-annotiert.jpg",
       "exercise_image": "pruefung/12-urothel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Urothel“ dient hier als anatomischer Orientierungspunkt. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der wiederverwendete Ausschnitt zeigt Nierenrinde mit Glomerulum; Urothel ist darin nicht erkennbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Amyloidose.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -201,14 +219,20 @@
       "label": "Amyloidablagerung",
       "exercise_image": "pruefung/08-amyloidablagerung.jpg",
       "rationale": "Amyloidablagerung als krankheitsdefinierender extrazellulärer Befund.",
-      "didactic_note": "Amyloidablagerung als krankheitsdefinierender extrazellulärer Befund. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 7,
       "label": "Amyloidablagerung am Vas afferenz",
       "exercise_image": "pruefung/07-amyloidablagerung-am-vas-afferenz.jpg",
       "rationale": "Gefäßbezogene Amyloidablagerung am Vas afferens als zweite typische Lokalisation.",
-      "didactic_note": "Gefäßbezogene Amyloidablagerung am Vas afferens als zweite typische Lokalisation. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."
+      "didactic_note": "Extrazellulär liegt homogenes, blass eosinophiles, weitgehend strukturloses Material, das Gefäße und Glomerula einengen kann. Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Amyloid erscheint in der HE-Färbung als homogenes, blass eosinophiles extrazelluläres Material in Glomeruli und Gefäßwänden; die definitive Bestätigung erfolgt durch Kongorot mit apfelgrüner Doppelbrechung."

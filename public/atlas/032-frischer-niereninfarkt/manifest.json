@@ -78,9 +78,12 @@
       "atlas_image": "atlas/01-ausgepragte-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/01-ausgepragte-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Ausgeprägte Koagulationsnekrose als komplementärer Infarktbefund.",
-      "didactic_note": "Ausgeprägte Koagulationsnekrose als komplementärer Infarktbefund. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "exam_rationale": "Ausgeprägte Koagulationsnekrose als komplementärer Infarktbefund."
     },
     {
       "id": 3,
@@ -116,9 +119,12 @@
       "atlas_image": "atlas/03-nekrotische-tubuli-annotiert.jpg",
       "exercise_image": "pruefung/03-nekrotische-tubuli.jpg",
       "missing_tiles": [],
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Niereninfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Nekrotische Tubuli als typischer Parenchymschaden des Niereninfarkts.",
-      "didactic_note": "Nekrotische Tubuli als typischer Parenchymschaden des Niereninfarkts. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "exam_rationale": "Nekrotische Tubuli als typischer Parenchymschaden des Niereninfarkts."
     },
     {
       "id": 9,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/09-tubulusnekrosen-annotiert.jpg",
       "exercise_image": "pruefung/09-tubulusnekrosen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Tubulusnekrosen“ dient hier als anatomischer Orientierungspunkt. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Niereninfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 18,
@@ -190,7 +199,10 @@
       "atlas_image": "atlas/18-glomerulus-annotiert.jpg",
       "exercise_image": "pruefung/18-glomerulus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Glomerulus“ dient hier als anatomischer Orientierungspunkt. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "didactic_note": "Ein glomeruläres Kapillarknäuel liegt innerhalb der Bowman-Kapsel; sklerosierte Abschnitte erscheinen zellarm und homogen eosinophil. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Niereninfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 22,
@@ -226,7 +238,10 @@
       "atlas_image": "atlas/22-beginnende-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/22-beginnende-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „beginnende Nekrose“ als morphologischen Teilbefund. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -239,14 +254,20 @@
       "label": "nekrotische Tubuli",
       "exercise_image": "pruefung/03-nekrotische-tubuli.jpg",
       "rationale": "Nekrotische Tubuli als typischer Parenchymschaden des Niereninfarkts.",
-      "didactic_note": "Nekrotische Tubuli als typischer Parenchymschaden des Niereninfarkts. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Niereninfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 1,
       "label": "ausgeprägte Nekrose",
       "exercise_image": "pruefung/01-ausgepragte-nekrose.jpg",
       "rationale": "Ausgeprägte Koagulationsnekrose als komplementärer Infarktbefund.",
-      "didactic_note": "Ausgeprägte Koagulationsnekrose als komplementärer Infarktbefund. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Der Niereninfarkt verursacht eine Koagulationsnekrose mit erhaltenen Gewebskonturen, aber verschwundenen Zellkernen; Tubuli und Glomeruli erscheinen dabei als blasse Geisterstrukturen."

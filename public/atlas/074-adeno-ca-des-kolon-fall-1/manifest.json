@@ -78,7 +78,10 @@
       "atlas_image": "atlas/01-nicht-neoplastische-colonschleimhaut-mit-odem-annotiert.jpg",
       "exercise_image": "pruefung/01-nicht-neoplastische-colonschleimhaut-mit-odem.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „nicht-neoplastische Colonschleimhaut mit Ödem“ als morphologischen Teilbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 3,
@@ -114,7 +117,10 @@
       "atlas_image": "atlas/03-stratum-longitudinale-annotiert.jpg",
       "exercise_image": "pruefung/03-stratum-longitudinale.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 7,
@@ -150,7 +156,10 @@
       "atlas_image": "atlas/07-stratum-circulare-annotiert.jpg",
       "exercise_image": "pruefung/07-stratum-circulare.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -170,25 +179,28 @@
         ]
       },
       "anchor": {
-        "x": 6682.02,
-        "y": 8500.04
+        "x": 13611.39,
+        "y": 11443.59
       },
       "crop": {
-        "left": 5888,
-        "top": 7936,
+        "left": 12800,
+        "top": 10752,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 794.02,
-        "y": 564.04
+        "x": 811.39,
+        "y": 691.59
       },
       "atlas_image": "atlas/09-infiltration-der-tunica-muscularis-propria-annotiert.jpg",
       "exercise_image": "pruefung/09-infiltration-der-tunica-muscularis-propria.jpg",
       "missing_tiles": [],
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums.",
-      "didactic_note": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "exam_rationale": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums."
     },
     {
       "id": 13,
@@ -928,9 +940,12 @@
       "atlas_image": "atlas/13-invasiver-tumor-annotiert.jpg",
       "exercise_image": "pruefung/13-invasiver-tumor.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Invasiver Tumor als diagnostischer Hauptbefund.",
-      "didactic_note": "Invasiver Tumor als diagnostischer Hauptbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "exam_rationale": "Invasiver Tumor als diagnostischer Hauptbefund."
     },
     {
       "id": 14,
@@ -1354,7 +1369,10 @@
       "atlas_image": "atlas/14-lymphozytares-entzundungszellinfiltrat-annotiert.jpg",
       "exercise_image": "pruefung/14-lymphozytares-entzundungszellinfiltrat.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „lymphozytäres Entzündungszellinfiltrat“ als morphologischen Teilbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -1367,14 +1385,20 @@
       "label": "Invasiver Tumor",
       "exercise_image": "pruefung/13-invasiver-tumor.jpg",
       "rationale": "Invasiver Tumor als diagnostischer Hauptbefund.",
-      "didactic_note": "Invasiver Tumor als diagnostischer Hauptbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 9,
       "label": "Infiltration der Tunica muscularis propria",
       "exercise_image": "pruefung/09-infiltration-der-tunica-muscularis-propria.jpg",
       "rationale": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums.",
-      "didactic_note": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."

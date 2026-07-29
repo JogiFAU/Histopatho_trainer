@@ -79,7 +79,10 @@
       "atlas_image": "atlas/03-schaumzellen-annotiert.jpg",
       "exercise_image": "pruefung/03-schaumzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "didactic_note": "Große Makrophagen besitzen ein fein vakuolisiertes, helles Zytoplasma durch phagozytiertes Lipid. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 5,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/05-unauffalliges-gewebe-annotiert.jpg",
       "exercise_image": "pruefung/05-unauffalliges-gewebe.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „unauffälliges Gewebe“ dient hier als anatomischer Orientierungspunkt. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "didactic_note": "Regelhaft gebaute Follikel beziehungsweise Parenchymzellen ohne deutliche Atypie dienen als Vergleich zum knotig veränderten Bereich. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Struma colloides nodosa.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 20,
@@ -783,9 +789,12 @@
       "atlas_image": "atlas/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel-annotiert.jpg",
       "exercise_image": "pruefung/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unterschiedlich große, kolloidgefüllte Schilddrüsenfollikel bilden einen knotigen Bezirk mit zystischer Erweiterung und randlicher Kompression. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Struma colloides nodosa.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund.",
-      "didactic_note": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "exam_rationale": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund."
     },
     {
       "id": 21,
@@ -809,25 +818,28 @@
         ]
       },
       "anchor": {
-        "x": 26717.03,
-        "y": 25190.4
+        "x": 42362.16,
+        "y": 37262.59
       },
       "crop": {
-        "left": 25856,
-        "top": 24576,
+        "left": 41472,
+        "top": 36608,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 861.03,
-        "y": 614.4
+        "x": 890.16,
+        "y": 654.59
       },
       "atlas_image": "atlas/21-zyste-annotiert.jpg",
       "exercise_image": "pruefung/21-zyste.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Zu sehen sind dicht gelagerte Schilddrüsenfollikel; eine eigenständige Zystenwand oder Zystenhöhle ist nicht sicher abgrenzbar. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Zystische Degeneration in einem ergänzenden Detail.",
-      "didactic_note": "Zystische Degeneration in einem ergänzenden Detail. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "exam_rationale": "Zystische Degeneration in einem ergänzenden Detail."
     },
     {
       "id": 22,
@@ -867,7 +879,10 @@
       "atlas_image": "atlas/22-pseudokapsel-annotiert.jpg",
       "exercise_image": "pruefung/22-pseudokapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Pseudokapsel“ dient hier als anatomischer Orientierungspunkt. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt kolloidgefüllte Schilddrüsenfollikel; eine Pseudokapsel ist nicht eindeutig getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Struma colloides nodosa.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -880,14 +895,20 @@
       "label": "Strumaknoten mit zystischer Degeneration und Pseudokapsel",
       "exercise_image": "pruefung/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel.jpg",
       "rationale": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund.",
-      "didactic_note": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "didactic_note": "Unterschiedlich große, kolloidgefüllte Schilddrüsenfollikel bilden einen knotigen Bezirk mit zystischer Erweiterung und randlicher Kompression. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Struma colloides nodosa.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 21,
       "label": "Zyste",
       "exercise_image": "pruefung/21-zyste.jpg",
       "rationale": "Zystische Degeneration in einem ergänzenden Detail.",
-      "didactic_note": "Zystische Degeneration in einem ergänzenden Detail. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Zu sehen sind dicht gelagerte Schilddrüsenfollikel; eine eigenständige Zystenwand oder Zystenhöhle ist nicht sicher abgrenzbar. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."

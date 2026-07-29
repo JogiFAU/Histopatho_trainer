@@ -84,7 +84,10 @@
       "atlas_image": "atlas/07-kapsel-annotiert.jpg",
       "exercise_image": "pruefung/07-kapsel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Kapsel“ dient hier als anatomischer Orientierungspunkt. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt diffus dichtes lymphatisches Tumorgewebe; eine Lymphknotenkapsel ist nicht eindeutig getroffen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei diffuses großzelliges B-Zell-Lymphom.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 8,
@@ -120,7 +123,10 @@
       "atlas_image": "atlas/08-randsinus-annotiert.jpg",
       "exercise_image": "pruefung/08-randsinus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Randsinus“ als morphologischen Teilbefund. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt diffus dichtes lymphatisches Tumorgewebe; ein Randsinus ist nicht sicher abgrenzbar. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -156,9 +162,12 @@
       "atlas_image": "atlas/09-grossleibige-lymphomzellen-annotiert.jpg",
       "exercise_image": "pruefung/09-grossleibige-lymphomzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Große atypische lymphatische Zellen mit vesikulären Kernen und deutlichen Nukleolen überwiegen gegenüber kleinen reifen Lymphozyten. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL.",
-      "didactic_note": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "exam_rationale": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL."
     },
     {
       "id": 10,
@@ -194,9 +203,12 @@
       "atlas_image": "atlas/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten-annotiert.jpg",
       "exercise_image": "pruefung/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie.",
-      "didactic_note": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "exam_rationale": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie."
     }
   ],
   "quality": {
@@ -209,14 +221,20 @@
       "label": "großleibige Lymphomzellen",
       "exercise_image": "pruefung/09-grossleibige-lymphomzellen.jpg",
       "rationale": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL.",
-      "didactic_note": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "didactic_note": "Große atypische lymphatische Zellen mit vesikulären Kernen und deutlichen Nukleolen überwiegen gegenüber kleinen reifen Lymphozyten. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 10,
       "label": "im Vergleich zu den großen Lymphomzellen kleine Lymphozyten",
       "exercise_image": "pruefung/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten.jpg",
       "rationale": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie.",
-      "didactic_note": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."

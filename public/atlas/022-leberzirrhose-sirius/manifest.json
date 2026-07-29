@@ -80,9 +80,12 @@
       "atlas_image": "atlas/01-pseudolobuli-annotiert.jpg",
       "exercise_image": "pruefung/01-pseudolobuli.jpg",
       "missing_tiles": [],
+      "didactic_note": "Breite fibröse Septen unterteilen das Leberparenchym in regenerative Knoten ohne regelrechte Läppchenarchitektur. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau.",
-      "didactic_note": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+      "exam_rationale": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau."
     },
     {
       "id": 5,
@@ -122,9 +125,12 @@
       "atlas_image": "atlas/05-fibrosierte-bindegewebssepten-annotiert.jpg",
       "exercise_image": "pruefung/05-fibrosierte-bindegewebssepten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund.",
-      "didactic_note": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+      "exam_rationale": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund."
     }
   ],
   "quality": {
@@ -137,14 +143,20 @@
       "label": "Pseudolobuli",
       "exercise_image": "pruefung/01-pseudolobuli.jpg",
       "rationale": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau.",
-      "didactic_note": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+      "didactic_note": "Breite fibröse Septen unterteilen das Leberparenchym in regenerative Knoten ohne regelrechte Läppchenarchitektur. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "fibrosierte Bindegewebssepten",
       "exercise_image": "pruefung/05-fibrosierte-bindegewebssepten.jpg",
       "rationale": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund.",
-      "didactic_note": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."

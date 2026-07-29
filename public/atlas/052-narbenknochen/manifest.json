@@ -80,9 +80,12 @@
       "atlas_image": "atlas/01-desmale-ossifikation-annotiert.jpg",
       "exercise_image": "pruefung/01-desmale-ossifikation.jpg",
       "missing_tiles": [],
+      "didactic_note": "Neu gebildete Geflechtknochentrabekel entstehen direkt im mesenchymalen Bindegewebe ohne Knorpelvorstufe. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Desmale Ossifikation als zentraler Befund des Narbenknochens.",
-      "didactic_note": "Desmale Ossifikation als zentraler Befund des Narbenknochens. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "exam_rationale": "Desmale Ossifikation als zentraler Befund des Narbenknochens."
     },
     {
       "id": 9,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/09-chondrale-ossifikation-annotiert.jpg",
       "exercise_image": "pruefung/09-chondrale-ossifikation.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „chondrale Ossifikation“ als morphologischen Teilbefund. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Knorpelmatrix wird resorbiert und durch neu gebildete Knochentrabekel mit Osteoblastensaum ersetzt. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/11-knochen-annotiert.jpg",
       "exercise_image": "pruefung/11-knochen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knochen“ dient hier als anatomischer Orientierungspunkt. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Narbenknochen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -190,7 +199,10 @@
       "atlas_image": "atlas/15-hyaliner-knorpel-annotiert.jpg",
       "exercise_image": "pruefung/15-hyaliner-knorpel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „hyaliner Knorpel“ dient hier als anatomischer Orientierungspunkt. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Hyaline Knorpelmatrix enthält Chondrozyten in Lakunen, teils in kleinen isogenen Gruppen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Narbenknochen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -230,9 +242,12 @@
       "atlas_image": "atlas/16-osteoblastensaum-annotiert.jpg",
       "exercise_image": "pruefung/16-osteoblastensaum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kubische Osteoblasten säumen die Oberfläche einer neu gebildeten Knochenmatrix. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Osteoblastensaum als zellulärer Hinweis auf aktive Knochenneubildung.",
-      "didactic_note": "Osteoblastensaum als zellulärer Hinweis auf aktive Knochenneubildung. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "exam_rationale": "Osteoblastensaum als zellulärer Hinweis auf aktive Knochenneubildung."
     },
     {
       "id": 17,
@@ -268,7 +283,10 @@
       "atlas_image": "atlas/17-osteoklast-annotiert.jpg",
       "exercise_image": "pruefung/17-osteoklast.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Osteoklast“ als morphologischen Teilbefund. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "An der Knochenoberfläche liegt eine große mehrkernige Osteoklastenzelle in einer Resorptionslakune. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 18,
@@ -308,7 +326,10 @@
       "atlas_image": "atlas/18-narbengewebe-fibrose-annotiert.jpg",
       "exercise_image": "pruefung/18-narbengewebe-fibrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Narbengewebe (Fibrose)“ als morphologischen Teilbefund. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -321,14 +342,20 @@
       "label": "desmale Ossifikation",
       "exercise_image": "pruefung/01-desmale-ossifikation.jpg",
       "rationale": "Desmale Ossifikation als zentraler Befund des Narbenknochens.",
-      "didactic_note": "Desmale Ossifikation als zentraler Befund des Narbenknochens. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Neu gebildete Geflechtknochentrabekel entstehen direkt im mesenchymalen Bindegewebe ohne Knorpelvorstufe. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 16,
       "label": "Osteoblastensaum",
       "exercise_image": "pruefung/16-osteoblastensaum.jpg",
       "rationale": "Osteoblastensaum als zellulärer Hinweis auf aktive Knochenneubildung.",
-      "didactic_note": "Osteoblastensaum als zellulärer Hinweis auf aktive Knochenneubildung. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."
+      "didactic_note": "Kubische Osteoblasten säumen die Oberfläche einer neu gebildeten Knochenmatrix. Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Im Narbenknochen entsteht zunächst geflechtartiger Knochen in fibrösem Reparationsgewebe, häufig mit Osteoblastensäumen; durch Remodelling wird er später in lamellären Knochen überführt."

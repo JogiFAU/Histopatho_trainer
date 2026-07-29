@@ -82,7 +82,10 @@
       "atlas_image": "atlas/01-haarfollikel-annotiert.jpg",
       "exercise_image": "pruefung/01-haarfollikel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Haarfollikel“ als morphologischen Teilbefund. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Ein Haarfollikel zeigt einen zentralen Haarschaft mit konzentrischen inneren und äußeren epithelialen Wurzelscheiden. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 5,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/05-talgdruse-annotiert.jpg",
       "exercise_image": "pruefung/05-talgdruse.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Talgdrüse“ dient hier als anatomischer Orientierungspunkt. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Lobuläre Talgdrüsen bestehen aus hell-vakuolisierten Sebozyten, die zu einem Haarfollikel hin ausreifen. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -154,9 +160,12 @@
       "atlas_image": "atlas/09-abszess-annotiert.jpg",
       "exercise_image": "pruefung/09-abszess.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Abszess als zentraler Befund des Pilonidalsinusabszesses.",
-      "didactic_note": "Abszess als zentraler Befund des Pilonidalsinusabszesses. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "exam_rationale": "Abszess als zentraler Befund des Pilonidalsinusabszesses."
     },
     {
       "id": 21,
@@ -192,7 +201,10 @@
       "atlas_image": "atlas/21-melano-und-keratinozyten-annotiert.jpg",
       "exercise_image": "pruefung/21-melano-und-keratinozyten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Melano- und Keratinozyten“ als morphologischen Teilbefund. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Mehrschichtiges Plattenepithel beziehungsweise melanozytäre Zellnester liegen in ihrer epidermalen oder dermalen Gewebebeziehung. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 22,
@@ -232,7 +244,10 @@
       "atlas_image": "atlas/22-verhornendes-plattenepithel-annotiert.jpg",
       "exercise_image": "pruefung/22-verhornendes-plattenepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Konzentrisch geschichtetes, stark eosinophiles Keratin beziehungsweise eine oberflächliche Hornschicht belegt squamöse Ausreifung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Pilonidalsinusabszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 23,
@@ -272,7 +287,10 @@
       "atlas_image": "atlas/23-reteleisten-annotiert.jpg",
       "exercise_image": "pruefung/23-reteleisten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Reteleisten“ als morphologischen Teilbefund. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Die Grenzzone von Epidermis und Dermis zeigt je nach Befund regelhafte zapfenförmige Reteleisten oder deren Abflachung. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 24,
@@ -308,9 +326,12 @@
       "atlas_image": "atlas/24-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/24-riesenzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Riesenzelle als Reaktion auf eingelagertes Fremdmaterial beziehungsweise Haare.",
-      "didactic_note": "Riesenzelle als Reaktion auf eingelagertes Fremdmaterial beziehungsweise Haare. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "exam_rationale": "Riesenzelle als Reaktion auf eingelagertes Fremdmaterial beziehungsweise Haare."
     },
     {
       "id": 25,
@@ -346,7 +367,10 @@
       "atlas_image": "atlas/25-vernarbung-annotiert.jpg",
       "exercise_image": "pruefung/25-vernarbung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Vernarbung“ als morphologischen Teilbefund. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 26,
@@ -386,7 +410,10 @@
       "atlas_image": "atlas/26-lympozytares-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/26-lympozytares-infiltrat.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „lympozytäres Infiltrat“ als morphologischen Teilbefund. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -399,14 +426,20 @@
       "label": "Abszess",
       "exercise_image": "pruefung/09-abszess.jpg",
       "rationale": "Abszess als zentraler Befund des Pilonidalsinusabszesses.",
-      "didactic_note": "Abszess als zentraler Befund des Pilonidalsinusabszesses. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 24,
       "label": "Riesenzelle",
       "exercise_image": "pruefung/24-riesenzelle.jpg",
       "rationale": "Riesenzelle als Reaktion auf eingelagertes Fremdmaterial beziehungsweise Haare.",
-      "didactic_note": "Riesenzelle als Reaktion auf eingelagertes Fremdmaterial beziehungsweise Haare. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Beim Pilonidalsinus unterhalten Haare und Keratin eine Fremdkörperreaktion mit mehrkernigen Riesenzellen; eine bakterielle Superinfektion erzeugt den neutrophilenreichen Abszess."

@@ -63,23 +63,26 @@
         ]
       },
       "anchor": {
-        "x": 35517.45,
-        "y": 26938.58
+        "x": 35038.21,
+        "y": 27261.84
       },
       "crop": {
-        "left": 34560,
-        "top": 26368,
+        "left": 34048,
+        "top": 26624,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 957.45,
-        "y": 570.58
+        "x": 990.21,
+        "y": 637.84
       },
       "atlas_image": "atlas/07-cervixkanal-annotiert.jpg",
       "exercise_image": "pruefung/07-cervixkanal.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Cervixkanal“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Der Zervikalkanal ist von einschichtigem hochprismatischem, schleimbildendem Endozervikalepithel und endozervikalen Drüsen ausgekleidet. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/09-fehlende-epithelausreifung-annotiert.jpg",
       "exercise_image": "pruefung/09-fehlende-epithelausreifung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „fehlende Epithelausreifung“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Atypische basaloide Zellen mit vergrößerten hyperchromatischen Kernen reichen über die normale Basalschicht hinaus; die geordnete Oberflächenreifung ist vermindert. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -151,7 +157,10 @@
       "atlas_image": "atlas/11-endozervikale-drusen-annotiert.jpg",
       "exercise_image": "pruefung/11-endozervikale-drusen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „endozervikale Drüsen“ dient hier als anatomischer Orientierungspunkt. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Der Zervikalkanal ist von einschichtigem hochprismatischem, schleimbildendem Endozervikalepithel und endozervikalen Drüsen ausgekleidet. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -187,7 +196,10 @@
       "atlas_image": "atlas/15-kauterrand-annotiert.jpg",
       "exercise_image": "pruefung/15-kauterrand.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Kauterrand“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Thermisch geschädigtes Gewebe zeigt Koagulation, Kernverziehung und kräftig eosinophile beziehungsweise basophile Randartefakte. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 17,
@@ -223,7 +235,10 @@
       "atlas_image": "atlas/17-druseninkarzerierung-annotiert.jpg",
       "exercise_image": "pruefung/17-druseninkarzerierung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Drüseninkarzerierung“ dient hier als anatomischer Orientierungspunkt. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Rundliche bis tubuläre Drüsenprofile sind von epithelialen Zellen ausgekleidet und in das umgebende Stroma eingebettet. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 19,
@@ -259,9 +274,12 @@
       "atlas_image": "atlas/19-mitose-annotiert.jpg",
       "exercise_image": "pruefung/19-mitose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Mitose als Zeichen der gesteigerten atypischen Proliferation.",
-      "didactic_note": "Mitose als Zeichen der gesteigerten atypischen Proliferation. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "exam_rationale": "Mitose als Zeichen der gesteigerten atypischen Proliferation."
     },
     {
       "id": 20,
@@ -597,9 +615,12 @@
       "atlas_image": "atlas/20-schwere-dysplasie-der-cervix-annotiert.jpg",
       "exercise_image": "pruefung/20-schwere-dysplasie-der-cervix.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische basaloide Zellen mit vergrößerten hyperchromatischen Kernen reichen über die normale Basalschicht hinaus; die geordnete Oberflächenreifung ist vermindert. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund.",
-      "didactic_note": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "exam_rationale": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund."
     },
     {
       "id": 21,
@@ -635,7 +656,10 @@
       "atlas_image": "atlas/21-mitose-annotiert.jpg",
       "exercise_image": "pruefung/21-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -648,14 +672,20 @@
       "label": "schwere Dysplasie der Cervix",
       "exercise_image": "pruefung/20-schwere-dysplasie-der-cervix.jpg",
       "rationale": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund.",
-      "didactic_note": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Atypische basaloide Zellen mit vergrößerten hyperchromatischen Kernen reichen über die normale Basalschicht hinaus; die geordnete Oberflächenreifung ist vermindert. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 19,
       "label": "Mitose",
       "exercise_image": "pruefung/19-mitose.jpg",
       "rationale": "Mitose als Zeichen der gesteigerten atypischen Proliferation.",
-      "didactic_note": "Mitose als Zeichen der gesteigerten atypischen Proliferation. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."

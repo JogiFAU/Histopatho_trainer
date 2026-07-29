@@ -79,7 +79,10 @@
       "atlas_image": "atlas/05-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/05-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 13,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/13-anthrakose-annotiert.jpg",
       "exercise_image": "pruefung/13-anthrakose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Anthrakose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Grobkörniges schwarzes Kohlenstoffpigment liegt in Makrophagen und im interstitiellen Bindegewebe. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 14,
@@ -151,7 +157,10 @@
       "atlas_image": "atlas/14-bronchiolus-annotiert.jpg",
       "exercise_image": "pruefung/14-bronchiolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Lungenmetastase eines kolorektalen Adenokarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -187,7 +196,10 @@
       "atlas_image": "atlas/15-alveolen-annotiert.jpg",
       "exercise_image": "pruefung/15-alveolen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Feine Alveolarsepten mit flachen Pneumozyten begrenzen luftgefüllte Alveolarräume und kennzeichnen Lungenparenchym. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Lungenmetastase eines kolorektalen Adenokarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -523,7 +535,10 @@
       "atlas_image": "atlas/16-schaumzellen-annotiert.jpg",
       "exercise_image": "pruefung/16-schaumzellen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Große Makrophagen besitzen ein fein vakuolisiertes, helles Zytoplasma durch phagozytiertes Lipid. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 19,
@@ -559,9 +574,12 @@
       "atlas_image": "atlas/19-metastase-annotiert.jpg",
       "exercise_image": "pruefung/19-metastase.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund.",
-      "didactic_note": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "exam_rationale": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund."
     },
     {
       "id": 22,
@@ -597,9 +615,12 @@
       "atlas_image": "atlas/22-mitose-annotiert.jpg",
       "exercise_image": "pruefung/22-mitose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Mitose als ergänzendes Zeichen der malignen Proliferation.",
-      "didactic_note": "Mitose als ergänzendes Zeichen der malignen Proliferation. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "exam_rationale": "Mitose als ergänzendes Zeichen der malignen Proliferation."
     },
     {
       "id": 23,
@@ -635,7 +656,10 @@
       "atlas_image": "atlas/23-mitose-annotiert.jpg",
       "exercise_image": "pruefung/23-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 24,
@@ -671,7 +695,10 @@
       "atlas_image": "atlas/24-mitose-annotiert.jpg",
       "exercise_image": "pruefung/24-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 25,
@@ -707,7 +734,10 @@
       "atlas_image": "atlas/25-mitose-annotiert.jpg",
       "exercise_image": "pruefung/25-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -720,14 +750,20 @@
       "label": "Metastase",
       "exercise_image": "pruefung/19-metastase.jpg",
       "rationale": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund.",
-      "didactic_note": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 22,
       "label": "Mitose",
       "exercise_image": "pruefung/22-mitose.jpg",
       "rationale": "Mitose als ergänzendes Zeichen der malignen Proliferation.",
-      "didactic_note": "Mitose als ergänzendes Zeichen der malignen Proliferation. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."

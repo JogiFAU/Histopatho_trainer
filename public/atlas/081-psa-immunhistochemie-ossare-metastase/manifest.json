@@ -83,9 +83,12 @@
       "atlas_image": "atlas/05-verbreiterte-knochentrabekel-annotiert.jpg",
       "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Prostatakarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion.",
-      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion."
     },
     {
       "id": 6,
@@ -577,9 +580,12 @@
       "atlas_image": "atlas/06-prostatakarzinommetastasen-im-markraum-annotiert.jpg",
       "exercise_image": "pruefung/06-prostatakarzinommetastasen-im-markraum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Drüsen- oder Zellverbände ersetzen hämatopoetisches Knochenmark zwischen verbreiterten Trabekeln. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Prostatakarzinommetastasen im Markraum als definierender Befund.",
-      "didactic_note": "Prostatakarzinommetastasen im Markraum als definierender Befund. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+      "exam_rationale": "Prostatakarzinommetastasen im Markraum als definierender Befund."
     }
   ],
   "quality": {
@@ -592,14 +598,20 @@
       "label": "Prostatakarzinommetastasen im Markraum",
       "exercise_image": "pruefung/06-prostatakarzinommetastasen-im-markraum.jpg",
       "rationale": "Prostatakarzinommetastasen im Markraum als definierender Befund.",
-      "didactic_note": "Prostatakarzinommetastasen im Markraum als definierender Befund. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+      "didactic_note": "Atypische epitheliale Drüsen- oder Zellverbände ersetzen hämatopoetisches Knochenmark zwischen verbreiterten Trabekeln. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "verbreiterte Knochentrabekel",
       "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
       "rationale": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion.",
-      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Prostatakarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."

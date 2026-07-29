@@ -79,7 +79,10 @@
       "atlas_image": "atlas/07-ulzeration-annotiert.jpg",
       "exercise_image": "pruefung/07-ulzeration.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ulzeration“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Das Oberflächenepithel fehlt; der Defekt reicht in tieferes Gewebe und ist von Fibrin, Zelldetritus und Entzündungszellen bedeckt. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/09-transmurale-appendizitis-annotiert.jpg",
       "exercise_image": "pruefung/09-transmurale-appendizitis.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „transmurale Appendizitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Neutrophile Granulozyten durchsetzen bei der transmuralen Appendizitis alle Wandschichten und erreichen bei Periappendizitis beziehungsweise lokaler Peritonitis die Serosa. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 13,
@@ -135,23 +141,26 @@
         ]
       },
       "anchor": {
-        "x": 8454.5,
-        "y": 15027.5
+        "x": 8000.5,
+        "y": 15296.68
       },
       "crop": {
-        "left": 7680,
-        "top": 14336,
+        "left": 7168,
+        "top": 14592,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 774.5,
-        "y": 691.5
+        "x": 832.5,
+        "y": 704.68
       },
       "atlas_image": "atlas/13-mesoappendix-annotiert.jpg",
       "exercise_image": "pruefung/13-mesoappendix.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mesoappendix“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Das Mesoappendix besteht überwiegend aus lockerem Fett- und Bindegewebe mit Gefäßen außerhalb der Appendixwand. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 35,
@@ -483,9 +492,12 @@
       "atlas_image": "atlas/35-zelldetritus-und-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/35-zelldetritus-und-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Der Bereich enthält zerfallene Zellen, Kerntrümmer und eosinophiles nekrotisches Material bei aufgehobener Gewebestruktur. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung.",
-      "didactic_note": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "exam_rationale": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung."
     },
     {
       "id": 45,
@@ -521,9 +533,12 @@
       "atlas_image": "atlas/45-neutrophiler-granulozyt-annotiert.jpg",
       "exercise_image": "pruefung/45-neutrophiler-granulozyt.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung.",
-      "didactic_note": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "exam_rationale": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung."
     },
     {
       "id": 50,
@@ -563,7 +578,10 @@
       "atlas_image": "atlas/50-serosa-annotiert.jpg",
       "exercise_image": "pruefung/50-serosa.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei ulcero-phlegmonöse Appendizitis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 51,
@@ -583,23 +601,26 @@
         ]
       },
       "anchor": {
-        "x": 16879.5,
-        "y": 4852.5
+        "x": 16938.72,
+        "y": 5173.7
       },
       "crop": {
-        "left": 15872,
-        "top": 4096,
+        "left": 16128,
+        "top": 4608,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1007.5,
-        "y": 756.5
+        "x": 810.72,
+        "y": 565.7
       },
       "atlas_image": "atlas/51-periappendizitis-annotiert.jpg",
       "exercise_image": "pruefung/51-periappendizitis.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Periappendizitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Neutrophile Granulozyten durchsetzen bei der transmuralen Appendizitis alle Wandschichten und erreichen bei Periappendizitis beziehungsweise lokaler Peritonitis die Serosa. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 53,
@@ -639,7 +660,10 @@
       "atlas_image": "atlas/53-lokale-peritonitis-annotiert.jpg",
       "exercise_image": "pruefung/53-lokale-peritonitis.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „lokale Peritonitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Neutrophile Granulozyten durchsetzen bei der transmuralen Appendizitis alle Wandschichten und erreichen bei Periappendizitis beziehungsweise lokaler Peritonitis die Serosa. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 54,
@@ -675,7 +699,10 @@
       "atlas_image": "atlas/54-intraepitheliale-entzundung-annotiert.jpg",
       "exercise_image": "pruefung/54-intraepitheliale-entzundung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „intraepitheliale Entzündung“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Entzündungszellen liegen zwischen den Epithelzellen und belegen eine direkte Schädigung der Schleimhaut. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -688,14 +715,20 @@
       "label": "Neutrophiler Granulozyt",
       "exercise_image": "pruefung/45-neutrophiler-granulozyt.jpg",
       "rationale": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung.",
-      "didactic_note": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 35,
       "label": "Zelldetritus und Nekrose",
       "exercise_image": "pruefung/35-zelldetritus-und-nekrose.jpg",
       "rationale": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung.",
-      "didactic_note": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+      "didactic_note": "Der Bereich enthält zerfallene Zellen, Kerntrümmer und eosinophiles nekrotisches Material bei aufgehobener Gewebestruktur. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."

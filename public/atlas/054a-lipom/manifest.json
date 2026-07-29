@@ -63,25 +63,28 @@
         ]
       },
       "anchor": {
-        "x": 0,
-        "y": 32768
+        "x": 13530.11,
+        "y": 27208.22
       },
       "crop": {
-        "left": 0,
-        "top": 31744,
+        "left": 12544,
+        "top": 26624,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 0,
-        "y": 1024
+        "x": 986.11,
+        "y": 584.22
       },
       "atlas_image": "atlas/01-septum-annotiert.jpg",
       "exercise_image": "pruefung/01-septum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kollagenes Bindegewebe bildet ein Septum zwischen angrenzenden Fett- beziehungsweise Tumorgewebsarealen. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Bindegewebiges Septum innerhalb des reifen Fettgewebstumors.",
-      "didactic_note": "Bindegewebiges Septum innerhalb des reifen Fettgewebstumors. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen."
+      "exam_rationale": "Bindegewebiges Septum innerhalb des reifen Fettgewebstumors."
     },
     {
       "id": 5,
@@ -105,25 +108,28 @@
         ]
       },
       "anchor": {
-        "x": 32768,
-        "y": 0
+        "x": 25600,
+        "y": 1640
       },
       "crop": {
-        "left": 31232,
-        "top": 0,
+        "left": 24832,
+        "top": 1024,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 1536,
-        "y": 0
+        "x": 768,
+        "y": 616
       },
       "atlas_image": "atlas/05-kapsel-annotiert.jpg",
       "exercise_image": "pruefung/05-kapsel.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt enthält fast ausschließlich reifes Fettgewebe und nur einen schmalen Geweberand; eine Kapsel ist nicht sicher beurteilbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Lipom.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Kapsel als typisches Abgrenzungsmerkmal des Lipoms.",
-      "didactic_note": "Kapsel als typisches Abgrenzungsmerkmal des Lipoms. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen."
+      "exam_rationale": "Kapsel als typisches Abgrenzungsmerkmal des Lipoms."
     }
   ],
   "quality": {
@@ -136,14 +142,20 @@
       "label": "Septum",
       "exercise_image": "pruefung/01-septum.jpg",
       "rationale": "Bindegewebiges Septum innerhalb des reifen Fettgewebstumors.",
-      "didactic_note": "Bindegewebiges Septum innerhalb des reifen Fettgewebstumors. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen."
+      "didactic_note": "Kollagenes Bindegewebe bildet ein Septum zwischen angrenzenden Fett- beziehungsweise Tumorgewebsarealen. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "Kapsel",
       "exercise_image": "pruefung/05-kapsel.jpg",
       "rationale": "Kapsel als typisches Abgrenzungsmerkmal des Lipoms.",
-      "didactic_note": "Kapsel als typisches Abgrenzungsmerkmal des Lipoms. Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt enthält fast ausschließlich reifes Fettgewebe und nur einen schmalen Geweberand; eine Kapsel ist nicht sicher beurteilbar. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Lipom.",
+      "didactic_quality": "limited",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Ein Lipom besteht aus gleichförmigen reifen Adipozyten, dünnen Septen und meist einer scharfen Kapsel; Lipoblasten, deutliche Atypie und infiltratives Wachstum fehlen."

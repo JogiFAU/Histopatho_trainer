@@ -82,7 +82,10 @@
       "atlas_image": "atlas/05-serosa-annotiert.jpg",
       "exercise_image": "pruefung/05-serosa.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Krukenberg Tumor.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 6,
@@ -118,9 +121,12 @@
       "atlas_image": "atlas/06-siegelringzelle-annotiert.jpg",
       "exercise_image": "pruefung/06-siegelringzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors.",
-      "didactic_note": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."
+      "exam_rationale": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors."
     },
     {
       "id": 7,
@@ -156,9 +162,12 @@
       "atlas_image": "atlas/07-siegelringzelle-annotiert.jpg",
       "exercise_image": "pruefung/07-siegelringzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation.",
-      "didactic_note": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."
+      "exam_rationale": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation."
     }
   ],
   "quality": {
@@ -171,14 +180,20 @@
       "label": "Siegelringzelle",
       "exercise_image": "pruefung/06-siegelringzelle.jpg",
       "rationale": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors.",
-      "didactic_note": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 7,
       "label": "Siegelringzelle",
       "exercise_image": "pruefung/07-siegelringzelle.jpg",
       "rationale": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation.",
-      "didactic_note": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."
+      "didactic_note": "Muzin füllt das Zytoplasma und verdrängt den hyperchromatischen Kern halbmondförmig an den Zellrand, wodurch Siegelringzellen entstehen. Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Der Krukenberg-Tumor ist eine Ovarmetastase, meist eines gastrointestinalen Karzinoms, mit muzinhaltigen Siegelringzellen in reaktivem Ovarialstroma und häufig bilateralem Befall."

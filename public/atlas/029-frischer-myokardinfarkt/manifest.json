@@ -81,9 +81,12 @@
       "atlas_image": "atlas/03-absterbende-herzmuskelzellen-annotiert.jpg",
       "exercise_image": "pruefung/03-absterbende-herzmuskelzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kardiomyozyten sind hypereosinophil, kernarm und strukturell aufgelockert; dies entspricht einer akuten degenerativ-nekrotischen Schädigung. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts.",
-      "didactic_note": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "exam_rationale": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts."
     },
     {
       "id": 11,
@@ -387,7 +390,10 @@
       "atlas_image": "atlas/11-myokardfaserodem-annotiert.jpg",
       "exercise_image": "pruefung/11-myokardfaserodem.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Myokardfaserödem“ dient hier als anatomischer Orientierungspunkt. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Myokardinfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 12,
@@ -475,7 +481,10 @@
       "atlas_image": "atlas/12-nekrose-zelldetritus-annotiert.jpg",
       "exercise_image": "pruefung/12-nekrose-zelldetritus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose/Zelldetritus“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Der Bereich enthält zerfallene Zellen, Kerntrümmer und eosinophiles nekrotisches Material bei aufgehobener Gewebestruktur. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 13,
@@ -511,9 +520,12 @@
       "atlas_image": "atlas/13-kernschatten-annotiert.jpg",
       "exercise_image": "pruefung/13-kernschatten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine kondensierte beziehungsweise fragmentierte Kernreste markieren apoptotischen Zelluntergang. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Kernschatten als zelluläres Nekrosezeichen.",
-      "didactic_note": "Kernschatten als zelluläres Nekrosezeichen. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "exam_rationale": "Kernschatten als zelluläres Nekrosezeichen."
     },
     {
       "id": 14,
@@ -549,7 +561,10 @@
       "atlas_image": "atlas/14-kernschatten-annotiert.jpg",
       "exercise_image": "pruefung/14-kernschatten.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Kernschatten“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Kleine kondensierte beziehungsweise fragmentierte Kernreste markieren apoptotischen Zelluntergang. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -589,7 +604,10 @@
       "atlas_image": "atlas/15-vitales-myokard-annotiert.jpg",
       "exercise_image": "pruefung/15-vitales-myokard.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „vitales Myokard“ dient hier als anatomischer Orientierungspunkt. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Verzweigte eosinophile Kardiomyozyten mit zentralen Kernen bilden das Myokard. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei frischer Myokardinfarkt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -625,7 +643,10 @@
       "atlas_image": "atlas/16-abraumreaktion-hyperamie-annotiert.jpg",
       "exercise_image": "pruefung/16-abraumreaktion-hyperamie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Abräumreaktion/Hyperämie“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 17,
@@ -661,7 +682,10 @@
       "atlas_image": "atlas/17-hamosiderophage-annotiert.jpg",
       "exercise_image": "pruefung/17-hamosiderophage.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Hämosiderophage“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Makrophagen enthalten grobkörniges goldbraunes Hämosiderin als Abbauprodukt älterer Einblutungen. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -674,14 +698,20 @@
       "label": "absterbende Herzmuskelzellen",
       "exercise_image": "pruefung/03-absterbende-herzmuskelzellen.jpg",
       "rationale": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts.",
-      "didactic_note": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Kardiomyozyten sind hypereosinophil, kernarm und strukturell aufgelockert; dies entspricht einer akuten degenerativ-nekrotischen Schädigung. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 13,
       "label": "Kernschatten",
       "exercise_image": "pruefung/13-kernschatten.jpg",
       "rationale": "Kernschatten als zelluläres Nekrosezeichen.",
-      "didactic_note": "Kernschatten als zelluläres Nekrosezeichen. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+      "didactic_note": "Kleine kondensierte beziehungsweise fragmentierte Kernreste markieren apoptotischen Zelluntergang. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."

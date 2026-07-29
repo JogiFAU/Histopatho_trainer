@@ -83,7 +83,10 @@
       "atlas_image": "atlas/01-kauterrand-annotiert.jpg",
       "exercise_image": "pruefung/01-kauterrand.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Kauterrand“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Thermisch geschädigtes Gewebe zeigt Koagulation, Kernverziehung und kräftig eosinophile beziehungsweise basophile Randartefakte. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     },
     {
       "id": 9,
@@ -119,7 +122,10 @@
       "atlas_image": "atlas/09-endozervikalschleimhaut-annotiert.jpg",
       "exercise_image": "pruefung/09-endozervikalschleimhaut.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Endozervikalschleimhaut“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Der Zervikalkanal ist von einschichtigem hochprismatischem, schleimbildendem Endozervikalepithel und endozervikalen Drüsen ausgekleidet. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 15,
@@ -155,7 +161,10 @@
       "atlas_image": "atlas/15-endozervikale-drusen-annotiert.jpg",
       "exercise_image": "pruefung/15-endozervikale-drusen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „endozervikale Drüsen“ dient hier als anatomischer Orientierungspunkt. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Der Zervikalkanal ist von einschichtigem hochprismatischem, schleimbildendem Endozervikalepithel und endozervikalen Drüsen ausgekleidet. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 21,
@@ -191,7 +200,10 @@
       "atlas_image": "atlas/21-schaumzelle-annotiert.jpg",
       "exercise_image": "pruefung/21-schaumzelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Schaumzelle“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Die niedrige Vergrößerung zeigt homogen eosinophiles Material; einzelne Schaumzellen sind nicht sicher erkennbar. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 22,
@@ -959,7 +971,10 @@
       "atlas_image": "atlas/22-ovula-nabothi-annotiert.jpg",
       "exercise_image": "pruefung/22-ovula-nabothi.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Ovula Nabothi“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der niedrig aufgelöste Ausschnitt erlaubt die Architektur einer Retentionszyste nur eingeschränkt zu beurteilen. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "limited",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 23,
@@ -995,9 +1010,12 @@
       "atlas_image": "atlas/23-koilozyt-annotiert.jpg",
       "exercise_image": "pruefung/23-koilozyt.jpg",
       "missing_tiles": [],
+      "didactic_note": "Plattenepithelzellen besitzen einen perinukleären Halo sowie vergrößerte, unregelmäßige hyperchromatische Kerne. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I.",
-      "didactic_note": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "exam_rationale": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I."
     },
     {
       "id": 24,
@@ -1033,9 +1051,12 @@
       "atlas_image": "atlas/24-koilozyt-annotiert.jpg",
       "exercise_image": "pruefung/24-koilozyt.jpg",
       "missing_tiles": [],
+      "didactic_note": "Plattenepithelzellen besitzen einen perinukleären Halo sowie vergrößerte, unregelmäßige hyperchromatische Kerne. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation.",
-      "didactic_note": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "exam_rationale": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation."
     }
   ],
   "quality": {
@@ -1048,14 +1069,20 @@
       "label": "Koilozyt",
       "exercise_image": "pruefung/23-koilozyt.jpg",
       "rationale": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I.",
-      "didactic_note": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Plattenepithelzellen besitzen einen perinukleären Halo sowie vergrößerte, unregelmäßige hyperchromatische Kerne. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 24,
       "label": "Koilozyt",
       "exercise_image": "pruefung/24-koilozyt.jpg",
       "rationale": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation.",
-      "didactic_note": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+      "didactic_note": "Plattenepithelzellen besitzen einen perinukleären Halo sowie vergrößerte, unregelmäßige hyperchromatische Kerne. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."

@@ -78,7 +78,10 @@
       "atlas_image": "atlas/09-kapselwand-annotiert.jpg",
       "exercise_image": "pruefung/09-kapselwand.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Kapselwand“ dient hier als anatomischer Orientierungspunkt. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "didactic_note": "Straffes kollagenes Bindegewebe begrenzt das Organ beziehungsweise den Tumorknoten gegenüber dem Nachbargewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Pseudogicht o. Chondrokalzinose.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 12,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/12-synoviale-epithelreste-annotiert.jpg",
       "exercise_image": "pruefung/12-synoviale-epithelreste.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „synoviale Epithelreste“ als morphologischen Teilbefund. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "didactic_note": "Am Rand des fibrösen Synovialgewebes liegt ein kleiner Rest synovialer Deckzellen beziehungsweise reaktiver Synoviozyten. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -154,9 +160,12 @@
       "atlas_image": "atlas/13-kalziumpyrophosphat-annotiert.jpg",
       "exercise_image": "pruefung/13-kalziumpyrophosphat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Im polarisierten Licht sind rhomboide bis stäbchenförmige Kalziumpyrophosphat-Kristalle im synovialen Material zu suchen. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Kalziumpyrophosphat als krankheitsdefinierende Kristallablagerung der Pseudogicht.",
-      "didactic_note": "Kalziumpyrophosphat als krankheitsdefinierende Kristallablagerung der Pseudogicht. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "exam_rationale": "Kalziumpyrophosphat als krankheitsdefinierende Kristallablagerung der Pseudogicht."
     },
     {
       "id": 14,
@@ -192,9 +201,12 @@
       "atlas_image": "atlas/14-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/14-riesenzelle.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Riesenzelle als zugehörige Fremdkörperreaktion.",
-      "didactic_note": "Riesenzelle als zugehörige Fremdkörperreaktion. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "exam_rationale": "Riesenzelle als zugehörige Fremdkörperreaktion."
     },
     {
       "id": 15,
@@ -230,7 +242,10 @@
       "atlas_image": "atlas/15-riesenzelle-annotiert.jpg",
       "exercise_image": "pruefung/15-riesenzelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Riesenzelle“ als morphologischen Teilbefund. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -243,14 +258,20 @@
       "label": "Kalziumpyrophosphat",
       "exercise_image": "pruefung/13-kalziumpyrophosphat.jpg",
       "rationale": "Kalziumpyrophosphat als krankheitsdefinierende Kristallablagerung der Pseudogicht.",
-      "didactic_note": "Kalziumpyrophosphat als krankheitsdefinierende Kristallablagerung der Pseudogicht. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "didactic_note": "Im polarisierten Licht sind rhomboide bis stäbchenförmige Kalziumpyrophosphat-Kristalle im synovialen Material zu suchen. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 14,
       "label": "Riesenzelle",
       "exercise_image": "pruefung/14-riesenzelle.jpg",
       "rationale": "Riesenzelle als zugehörige Fremdkörperreaktion.",
-      "didactic_note": "Riesenzelle als zugehörige Fremdkörperreaktion. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die Pseudogicht beruht auf Kalziumpyrophosphatkristallen, die typischerweise rhomboid sind und schwach positiv doppelbrechen; die Ablagerungen können eine Riesenzellreaktion auslösen."

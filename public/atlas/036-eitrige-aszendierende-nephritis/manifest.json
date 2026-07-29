@@ -80,9 +80,12 @@
       "atlas_image": "atlas/05-mikroabszess-2-annotiert.jpg",
       "exercise_image": "pruefung/05-mikroabszess-2.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Mikroabszess als typisches entzündliches Gewebsmuster.",
-      "didactic_note": "Mikroabszess als typisches entzündliches Gewebsmuster. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "exam_rationale": "Mikroabszess als typisches entzündliches Gewebsmuster."
     },
     {
       "id": 7,
@@ -118,7 +121,10 @@
       "atlas_image": "atlas/07-granulozytenstrasse-annotiert.jpg",
       "exercise_image": "pruefung/07-granulozytenstrasse.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Granulozytenstraße“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -154,7 +160,10 @@
       "atlas_image": "atlas/11-hamorrhagie-annotiert.jpg",
       "exercise_image": "pruefung/11-hamorrhagie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Hämorrhagie“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 13,
@@ -190,7 +199,10 @@
       "atlas_image": "atlas/13-mikroabszess-1-annotiert.jpg",
       "exercise_image": "pruefung/13-mikroabszess-1.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mikroabszess 1“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 15,
@@ -226,7 +238,10 @@
       "atlas_image": "atlas/15-vernarbung-annotiert.jpg",
       "exercise_image": "pruefung/15-vernarbung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Vernarbung“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 16,
@@ -262,7 +277,10 @@
       "atlas_image": "atlas/16-degenerierte-tubulusepithelien-annotiert.jpg",
       "exercise_image": "pruefung/16-degenerierte-tubulusepithelien.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „degenerierte Tubulusepithelien“ dient hier als anatomischer Orientierungspunkt. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Eitrig-abszedierende Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 17,
@@ -802,9 +820,12 @@
       "atlas_image": "atlas/17-bakterien-im-tubulus-annotiert.jpg",
       "exercise_image": "pruefung/17-bakterien-im-tubulus.jpg",
       "missing_tiles": [],
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Eitrig-abszedierende Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis.",
-      "didactic_note": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "exam_rationale": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis."
     }
   ],
   "quality": {
@@ -817,14 +838,20 @@
       "label": "Bakterien im Tubulus",
       "exercise_image": "pruefung/17-bakterien-im-tubulus.jpg",
       "rationale": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis.",
-      "didactic_note": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Eitrig-abszedierende Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 5,
       "label": "Mikroabszess 2",
       "exercise_image": "pruefung/05-mikroabszess-2.jpg",
       "rationale": "Mikroabszess als typisches entzündliches Gewebsmuster.",
-      "didactic_note": "Mikroabszess als typisches entzündliches Gewebsmuster. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+      "didactic_note": "Dicht gelagerte neutrophile Granulozyten mit segmentierten Kernen und Zelldetritus bilden einen eitrigen Mikroabszess. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."

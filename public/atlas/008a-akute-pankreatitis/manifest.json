@@ -79,7 +79,10 @@
       "atlas_image": "atlas/05-langerhans-insel-annotiert.jpg",
       "exercise_image": "pruefung/05-langerhans-insel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Langerhans Insel“ dient hier als anatomischer Orientierungspunkt. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Zwischen dunklerem exokrinem Azinusgewebe liegt eine hellere, gut kapillarisierte endokrine Langerhans-Insel. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Pankreatitis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -115,9 +118,12 @@
       "atlas_image": "atlas/09-hamorrhagie-und-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/09-hamorrhagie-und-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung.",
-      "didactic_note": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "exam_rationale": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung."
     },
     {
       "id": 14,
@@ -153,7 +159,10 @@
       "atlas_image": "atlas/14-exokriner-pankreas-annotiert.jpg",
       "exercise_image": "pruefung/14-exokriner-pankreas.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „exokriner Pankreas“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Dicht gelagerte seröse Azini mit basal basophilem und apikal eosinophilem Zytoplasma bilden das exokrine Pankreasparenchym. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -189,7 +198,10 @@
       "atlas_image": "atlas/15-fibrose-annotiert.jpg",
       "exercise_image": "pruefung/15-fibrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 16,
@@ -225,9 +237,12 @@
       "atlas_image": "atlas/16-triptische-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/16-triptische-nekrose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen sind blasse, strukturlose Nekroseareale des autodigestiv geschädigten Pankreas mit Verlust der Azinusarchitektur. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis.",
-      "didactic_note": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "exam_rationale": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis."
     },
     {
       "id": 17,
@@ -263,7 +278,10 @@
       "atlas_image": "atlas/17-granulozytares-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/17-granulozytares-infiltrat.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „granulozytäres Infiltrat“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -276,14 +294,20 @@
       "label": "triptische Nekrose",
       "exercise_image": "pruefung/16-triptische-nekrose.jpg",
       "rationale": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis.",
-      "didactic_note": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Zu sehen sind blasse, strukturlose Nekroseareale des autodigestiv geschädigten Pankreas mit Verlust der Azinusarchitektur. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 9,
       "label": "Hämorrhagie und Nekrose",
       "exercise_image": "pruefung/09-hamorrhagie-und-nekrose.jpg",
       "rationale": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung.",
-      "didactic_note": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."

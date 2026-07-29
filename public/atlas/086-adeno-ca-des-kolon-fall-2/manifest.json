@@ -86,7 +86,10 @@
       "atlas_image": "atlas/03-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/03-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 5,
@@ -122,7 +125,10 @@
       "atlas_image": "atlas/05-plexus-myentericus-annotiert.jpg",
       "exercise_image": "pruefung/05-plexus-myentericus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Plexus Myentericus“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Zwischen Bündeln glatter Muskulatur liegt Nervengewebe des Plexus myentericus mit großen, hellen Ganglienzellen und kleineren Begleitzellen. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 7,
@@ -158,7 +164,10 @@
       "atlas_image": "atlas/07-stratum-circulare-annotiert.jpg",
       "exercise_image": "pruefung/07-stratum-circulare.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 9,
@@ -194,7 +203,10 @@
       "atlas_image": "atlas/09-stratum-longitudinale-annotiert.jpg",
       "exercise_image": "pruefung/09-stratum-longitudinale.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -230,7 +242,10 @@
       "atlas_image": "atlas/11-durchbruch-durch-stratum-longitudinale-annotiert.jpg",
       "exercise_image": "pruefung/11-durchbruch-durch-stratum-longitudinale.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Durchbruch durch Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 13,
@@ -266,9 +281,12 @@
       "atlas_image": "atlas/13-invasives-wachstum-annotiert.jpg",
       "exercise_image": "pruefung/13-invasives-wachstum.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms.",
-      "didactic_note": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "exam_rationale": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms."
     },
     {
       "id": 17,
@@ -1000,7 +1018,10 @@
       "atlas_image": "atlas/17-appendix-epiploicae-annotiert.jpg",
       "exercise_image": "pruefung/17-appendix-epiploicae.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Appendix Epiploicae“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Reife univakuoläre Adipozyten erscheinen als große optisch leere Zellen mit schmalem Zytoplasmasaum und randständigem Kern. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -1036,9 +1057,12 @@
       "atlas_image": "atlas/18-serosadurchbruch-annotiert.jpg",
       "exercise_image": "pruefung/18-serosadurchbruch.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion.",
-      "didactic_note": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "exam_rationale": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion."
     }
   ],
   "quality": {
@@ -1051,14 +1075,20 @@
       "label": "invasives Wachstum",
       "exercise_image": "pruefung/13-invasives-wachstum.jpg",
       "rationale": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms.",
-      "didactic_note": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 18,
       "label": "Serosadurchbruch",
       "exercise_image": "pruefung/18-serosadurchbruch.jpg",
       "rationale": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion.",
-      "didactic_note": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Adenokarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."

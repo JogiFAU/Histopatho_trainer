@@ -79,7 +79,10 @@
       "atlas_image": "atlas/37-sklerosiertes-glomeruli-annotiert.jpg",
       "exercise_image": "pruefung/37-sklerosiertes-glomeruli.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „sklerosiertes Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Ein glomeruläres Kapillarknäuel liegt innerhalb der Bowman-Kapsel; sklerosierte Abschnitte erscheinen zellarm und homogen eosinophil. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 38,
@@ -115,7 +118,10 @@
       "atlas_image": "atlas/38-sklerosierendes-glomeruli-annotiert.jpg",
       "exercise_image": "pruefung/38-sklerosierendes-glomeruli.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „sklerosierendes Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Ein glomeruläres Kapillarknäuel liegt innerhalb der Bowman-Kapsel; sklerosierte Abschnitte erscheinen zellarm und homogen eosinophil. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 39,
@@ -151,7 +157,10 @@
       "atlas_image": "atlas/39-avitale-tubuli-annotiert.jpg",
       "exercise_image": "pruefung/39-avitale-tubuli.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „avitale Tubuli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 40,
@@ -187,9 +196,12 @@
       "atlas_image": "atlas/40-entzundliches-interstitielles-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/40-entzundliches-interstitielles-infiltrat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Entzündungszellen verbreitern das Interstitium zwischen den Parenchymstrukturen und bedrängen die benachbarten Tubuli beziehungsweise Drüsen. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt.",
-      "didactic_note": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "exam_rationale": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt."
     },
     {
       "id": 41,
@@ -225,7 +237,10 @@
       "atlas_image": "atlas/41-interstitielle-entzundung-und-beginnend-sklerosierte-glomeruli-annotiert.jpg",
       "exercise_image": "pruefung/41-interstitielle-entzundung-und-beginnend-sklerosierte-glomeruli.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „interstitielle Entzündung und beginnend sklerosierte Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Ein glomeruläres Kapillarknäuel liegt innerhalb der Bowman-Kapsel; sklerosierte Abschnitte erscheinen zellarm und homogen eosinophil. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 42,
@@ -261,7 +276,10 @@
       "atlas_image": "atlas/42-tubuli-annotiert.jpg",
       "exercise_image": "pruefung/42-tubuli.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Tubuli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Nierentubuli sind von kubischem Epithel ausgekleidet; nekrotische Tubuli zeigen Kernverlust, abgeflachte Zellen und intraluminalen Detritus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 43,
@@ -301,9 +319,12 @@
       "atlas_image": "atlas/43-lympho-und-plasmazellulares-infiltrat-im-interstitium-annotiert.jpg",
       "exercise_image": "pruefung/43-lympho-und-plasmazellulares-infiltrat-im-interstitium.jpg",
       "missing_tiles": [],
+      "didactic_note": "Das Interstitium enthält ein dichtes chronisches Infiltrat aus kleinen Lymphozyten und Plasmazellen mit exzentrischen Kernen. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis.",
-      "didactic_note": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "exam_rationale": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis."
     },
     {
       "id": 44,
@@ -343,7 +364,10 @@
       "atlas_image": "atlas/44-fibrose-annotiert.jpg",
       "exercise_image": "pruefung/44-fibrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 45,
@@ -1039,7 +1063,10 @@
       "atlas_image": "atlas/45-arterie-annotiert.jpg",
       "exercise_image": "pruefung/45-arterie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Eine Arterie zeigt ein relativ kleines Lumen und eine konzentrische, mehrschichtige Media aus glatten Muskelzellen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei interstitielle Nephritis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -1052,14 +1079,20 @@
       "label": "lympho- und plasmazelluläres Infiltrat im Interstitium",
       "exercise_image": "pruefung/43-lympho-und-plasmazellulares-infiltrat-im-interstitium.jpg",
       "rationale": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis.",
-      "didactic_note": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Das Interstitium enthält ein dichtes chronisches Infiltrat aus kleinen Lymphozyten und Plasmazellen mit exzentrischen Kernen. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 40,
       "label": "entzündliches interstitielles Infiltrat",
       "exercise_image": "pruefung/40-entzundliches-interstitielles-infiltrat.jpg",
       "rationale": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt.",
-      "didactic_note": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+      "didactic_note": "Entzündungszellen verbreitern das Interstitium zwischen den Parenchymstrukturen und bedrängen die benachbarten Tubuli beziehungsweise Drüsen. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."

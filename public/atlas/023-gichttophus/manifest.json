@@ -61,23 +61,26 @@
         ]
       },
       "anchor": {
-        "x": 23398.5,
-        "y": 46175.0
+        "x": 24008.93,
+        "y": 46535.44
       },
       "crop": {
-        "left": 22528,
-        "top": 45568,
+        "left": 23040,
+        "top": 45824,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 870.5,
-        "y": 607.0
+        "x": 968.93,
+        "y": 711.44
       },
       "atlas_image": "atlas/01-synovialer-rest-annotiert.jpg",
       "exercise_image": "pruefung/01-synovialer-rest.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „synovialer Rest“ als morphologischen Teilbefund. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Im fast leeren Randfeld ist nur wenig synoviales Gewebe angeschnitten; ein synovialer Epithelrest ist nicht sicher beurteilbar. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 5,
@@ -113,9 +116,12 @@
       "atlas_image": "atlas/05-natriumurat-annotiert.jpg",
       "exercise_image": "pruefung/05-natriumurat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Im fixierten Gewebe entsprechen die nadelförmigen Leerstellen ausgewaschenen Uratkristallen; umgebend kann eine Fremdkörperreaktion liegen. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht.",
-      "didactic_note": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "exam_rationale": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht."
     },
     {
       "id": 7,
@@ -151,7 +157,10 @@
       "atlas_image": "atlas/07-entzundungsreaktion-annotiert.jpg",
       "exercise_image": "pruefung/07-entzundungsreaktion.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Entzündungsreaktion“ als morphologischen Teilbefund. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "didactic_note": "Zwischen den Gewebsstrukturen liegen vermehrte Entzündungszellen, Ödem und reaktive Stromaveränderungen. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -187,9 +196,12 @@
       "atlas_image": "atlas/09-zwei-fremdkorperriesenzellen-annotiert.jpg",
       "exercise_image": "pruefung/09-zwei-fremdkorperriesenzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle.",
-      "didactic_note": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "exam_rationale": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle."
     }
   ],
   "quality": {
@@ -202,14 +214,20 @@
       "label": "Natriumurat",
       "exercise_image": "pruefung/05-natriumurat.jpg",
       "rationale": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht.",
-      "didactic_note": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "didactic_note": "Im fixierten Gewebe entsprechen die nadelförmigen Leerstellen ausgewaschenen Uratkristallen; umgebend kann eine Fremdkörperreaktion liegen. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 9,
       "label": "zwei Fremdkörperriesenzellen",
       "exercise_image": "pruefung/09-zwei-fremdkorperriesenzellen.jpg",
       "rationale": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle.",
-      "didactic_note": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+      "didactic_note": "Zu sehen ist eine große mehrkernige Makrophagenfusion; unregelmäßig verteilte Kerne und umgebende Histiozyten sprechen für eine Fremdkörperreaktion. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."

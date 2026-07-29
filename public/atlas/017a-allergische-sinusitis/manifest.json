@@ -81,7 +81,10 @@
       "atlas_image": "atlas/09-knochen-annotiert.jpg",
       "exercise_image": "pruefung/09-knochen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knochen“ dient hier als anatomischer Orientierungspunkt. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei allergische Sinusitis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 27,
@@ -117,9 +120,12 @@
       "atlas_image": "atlas/27-eosinophile-granulozyten-annotiert.jpg",
       "exercise_image": "pruefung/27-eosinophile-granulozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Zwischen den Entzündungszellen liegen Eosinophile mit bilobierten Kernen und kräftig eosinophilem, granulärem Zytoplasma. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Eosinophile Granulozyten als zellulärer Leitbefund der allergischen Entzündung.",
-      "didactic_note": "Eosinophile Granulozyten als zellulärer Leitbefund der allergischen Entzündung. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "exam_rationale": "Eosinophile Granulozyten als zellulärer Leitbefund der allergischen Entzündung."
     },
     {
       "id": 29,
@@ -155,7 +161,10 @@
       "atlas_image": "atlas/29-hyperamie-annotiert.jpg",
       "exercise_image": "pruefung/29-hyperamie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Hyperämie“ als morphologischen Teilbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 30,
@@ -191,7 +200,10 @@
       "atlas_image": "atlas/30-verschleimende-hyperplastische-drusen-annotiert.jpg",
       "exercise_image": "pruefung/30-verschleimende-hyperplastische-drusen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „verschleimende hyperplastische Drüsen“ dient hier als anatomischer Orientierungspunkt. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Hyperplastische muköse Drüsen sind erweitert und von hochprismatischen, schleimbildenden Zellen ausgekleidet. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 31,
@@ -231,7 +243,10 @@
       "atlas_image": "atlas/31-knochenlamelle-annotiert.jpg",
       "exercise_image": "pruefung/31-knochenlamelle.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Knochenlamelle“ dient hier als anatomischer Orientierungspunkt. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Eosinophile mineralisierte Knochenmatrix bildet Lamellen beziehungsweise Trabekel mit Osteozyten in Lakunen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei allergische Sinusitis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 32,
@@ -255,23 +270,26 @@
         ]
       },
       "anchor": {
-        "x": 45932,
-        "y": 68089.0
+        "x": 48409.93,
+        "y": 67165.39
       },
       "crop": {
-        "left": 45056,
-        "top": 67328,
+        "left": 47616,
+        "top": 66560,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 876,
-        "y": 761.0
+        "x": 793.93,
+        "y": 605.39
       },
       "atlas_image": "atlas/32-flimmerepithel-annotiert.jpg",
       "exercise_image": "pruefung/32-flimmerepithel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Flimmerepithel“ dient hier als anatomischer Orientierungspunkt. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Mehrreihiges hochprismatisches respiratorisches Epithel mit apikalem Ziliensaum und eingestreuten Becherzellen kleidet die Oberfläche aus. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 33,
@@ -311,9 +329,12 @@
       "atlas_image": "atlas/33-verdickte-basalmembran-annotiert.jpg",
       "exercise_image": "pruefung/33-verdickte-basalmembran.jpg",
       "missing_tiles": [],
+      "didactic_note": "Unter dem respiratorischen Epithel liegt eine verbreiterte, homogen eosinophile Basalmembranzone als Zeichen chronischer Reizung. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Verdickte Basalmembran als typischer struktureller Begleitbefund.",
-      "didactic_note": "Verdickte Basalmembran als typischer struktureller Begleitbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "exam_rationale": "Verdickte Basalmembran als typischer struktureller Begleitbefund."
     },
     {
       "id": 34,
@@ -349,7 +370,10 @@
       "atlas_image": "atlas/34-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/34-lymphfollikel.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 35,
@@ -389,7 +413,10 @@
       "atlas_image": "atlas/35-hamorrhagie-einblutung-annotiert.jpg",
       "exercise_image": "pruefung/35-hamorrhagie-einblutung.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Hämorrhagie (Einblutung)“ als morphologischen Teilbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Erweiterte Gefäße und extravasale Erythrozyten zeigen Hyperämie beziehungsweise eine Einblutung in das Gewebe. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 36,
@@ -429,7 +456,10 @@
       "atlas_image": "atlas/36-interstitielles-odem-annotiert.jpg",
       "exercise_image": "pruefung/36-interstitielles-odem.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „interstitielles Ödem“ als morphologischen Teilbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Blasse, verbreiterte Interstitien beziehungsweise eiweißreiche Flüssigkeit in Hohlräumen zeigen ein Ödem. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -442,14 +472,20 @@
       "label": "eosinophile Granulozyten",
       "exercise_image": "pruefung/27-eosinophile-granulozyten.jpg",
       "rationale": "Eosinophile Granulozyten als zellulärer Leitbefund der allergischen Entzündung.",
-      "didactic_note": "Eosinophile Granulozyten als zellulärer Leitbefund der allergischen Entzündung. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Zwischen den Entzündungszellen liegen Eosinophile mit bilobierten Kernen und kräftig eosinophilem, granulärem Zytoplasma. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 33,
       "label": "verdickte Basalmembran",
       "exercise_image": "pruefung/33-verdickte-basalmembran.jpg",
       "rationale": "Verdickte Basalmembran als typischer struktureller Begleitbefund.",
-      "didactic_note": "Verdickte Basalmembran als typischer struktureller Begleitbefund. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."
+      "didactic_note": "Unter dem respiratorischen Epithel liegt eine verbreiterte, homogen eosinophile Basalmembranzone als Zeichen chronischer Reizung. Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die allergische Sinusitis ist durch eosinophile Granulozyten, Ödem und Schleimdrüsenhyperplasie geprägt; eine verdickte Basalmembran weist auf chronisch-rezidivierende Reizung hin."

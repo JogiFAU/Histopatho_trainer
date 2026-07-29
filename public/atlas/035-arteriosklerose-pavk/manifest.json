@@ -80,7 +80,10 @@
       "atlas_image": "atlas/03-fibrose-plaques-annotiert.jpg",
       "exercise_image": "pruefung/03-fibrose-plaques.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „fibröse Plaques“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Breite eosinophile Kollagenbündel mit wenigen spindeligen Fibrozyten zeigen einen reifen fibrosierenden beziehungsweise narbigen Umbau. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 7,
@@ -116,7 +119,10 @@
       "atlas_image": "atlas/07-entzundungsreaktion-annotiert.jpg",
       "exercise_image": "pruefung/07-entzundungsreaktion.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Entzündungsreaktion“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Zwischen den Gewebsstrukturen liegen vermehrte Entzündungszellen, Ödem und reaktive Stromaveränderungen. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 9,
@@ -152,7 +158,10 @@
       "atlas_image": "atlas/09-membrana-elastica-interna-annotiert.jpg",
       "exercise_image": "pruefung/09-membrana-elastica-interna.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Membrana elastica interna“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "An der Grenze zwischen Intima und Media verläuft eine gewellte elastische Lamelle als Membrana elastica interna. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 11,
@@ -172,25 +181,28 @@
         ]
       },
       "anchor": {
-        "x": 26631.09,
-        "y": 40850.64
+        "x": 23588.19,
+        "y": 38367.02
       },
       "crop": {
-        "left": 25856,
-        "top": 40192,
+        "left": 22784,
+        "top": 37632,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 775.09,
-        "y": 658.64
+        "x": 804.19,
+        "y": 735.02
       },
       "atlas_image": "atlas/11-atherom-annotiert.jpg",
       "exercise_image": "pruefung/11-atherom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Intima enthält eine nekrotisch-lipidreiche Plaque mit nadelförmigen Cholesterinspalten und fibrotischer Kappe. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Atherom als definierender Plaquebestandteil.",
-      "didactic_note": "Atherom als definierender Plaquebestandteil. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "exam_rationale": "Atherom als definierender Plaquebestandteil."
     },
     {
       "id": 17,
@@ -230,7 +242,10 @@
       "atlas_image": "atlas/17-adventitia-annotiert.jpg",
       "exercise_image": "pruefung/17-adventitia.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Adventitia“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Die Adventitia besteht aus lockerem kollagenem Bindegewebe mit kleinen Gefäßen und Nerven außerhalb der Media. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Arteriosklerose (periphere arterielle Verschlusskrankheit - pAVK).",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -270,7 +285,10 @@
       "atlas_image": "atlas/18-media-annotiert.jpg",
       "exercise_image": "pruefung/18-media.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Media“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 19,
@@ -378,9 +396,12 @@
       "atlas_image": "atlas/19-schaumzellen-annotiert.jpg",
       "exercise_image": "pruefung/19-schaumzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Große Makrophagen besitzen ein fein vakuolisiertes, helles Zytoplasma durch phagozytiertes Lipid. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose.",
-      "didactic_note": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "exam_rationale": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose."
     },
     {
       "id": 20,
@@ -416,7 +437,10 @@
       "atlas_image": "atlas/20-myxoide-bindegewebsreaktion-annotiert.jpg",
       "exercise_image": "pruefung/20-myxoide-bindegewebsreaktion.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „myxoide Bindegewebsreaktion“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Zwischen den Tumorverbänden liegt reaktiv vermehrtes, teils myxoid aufgelockertes und kollagenisiertes Stroma. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     }
   ],
   "quality": {
@@ -429,14 +453,20 @@
       "label": "Schaumzellen",
       "exercise_image": "pruefung/19-schaumzellen.jpg",
       "rationale": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose.",
-      "didactic_note": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Große Makrophagen besitzen ein fein vakuolisiertes, helles Zytoplasma durch phagozytiertes Lipid. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 11,
       "label": "Atherom",
       "exercise_image": "pruefung/11-atherom.jpg",
       "rationale": "Atherom als definierender Plaquebestandteil.",
-      "didactic_note": "Atherom als definierender Plaquebestandteil. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+      "didactic_note": "Die Intima enthält eine nekrotisch-lipidreiche Plaque mit nadelförmigen Cholesterinspalten und fibrotischer Kappe. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."

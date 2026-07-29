@@ -86,7 +86,10 @@
       "atlas_image": "atlas/24-neutrophiles-entzundungsinfiltrat-annotiert.jpg",
       "exercise_image": "pruefung/24-neutrophiles-entzundungsinfiltrat.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Neutrophiles Entzündungsinfiltrat“ als morphologischen Teilbefund. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Zahlreiche neutrophile Granulozyten mit segmentierten dunklen Kernen infiltrieren das Gewebe und belegen eine akute eitrige Entzündung. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 25,
@@ -122,7 +125,10 @@
       "atlas_image": "atlas/25-bronchiolus-annotiert.jpg",
       "exercise_image": "pruefung/25-bronchiolus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 26,
@@ -162,7 +168,10 @@
       "atlas_image": "atlas/26-bronchioluslumen-annotiert.jpg",
       "exercise_image": "pruefung/26-bronchioluslumen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchioluslumen“ dient hier als anatomischer Orientierungspunkt. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 27,
@@ -198,7 +207,10 @@
       "atlas_image": "atlas/27-dys-und-atelektatische-alveolen-annotiert.jpg",
       "exercise_image": "pruefung/27-dys-und-atelektatische-alveolen.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „dys- und atelektatische Alveolen“ dient hier als anatomischer Orientierungspunkt. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Die Alveolarräume sind ungleich weit beziehungsweise kollabiert; verdichtete Septen liegen dicht aneinander. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 28,
@@ -234,9 +246,12 @@
       "atlas_image": "atlas/28-plattenepithelial-differenzierte-karzinomzellen-annotiert.jpg",
       "exercise_image": "pruefung/28-plattenepithelial-differenzierte-karzinomzellen.jpg",
       "missing_tiles": [],
+      "didactic_note": "Invasive Verbände atypischer polygonaler Zellen zeigen Kernpleomorphie und squamöse Ausreifung, teils mit Verhornung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Plattenepithelial differenzierte Karzinomzellen zeigen die Tumorentität.",
-      "didactic_note": "Plattenepithelial differenzierte Karzinomzellen zeigen die Tumorentität. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "exam_rationale": "Plattenepithelial differenzierte Karzinomzellen zeigen die Tumorentität."
     },
     {
       "id": 29,
@@ -272,7 +287,10 @@
       "atlas_image": "atlas/29-invasives-plattenepithelkarzinom-annotiert.jpg",
       "exercise_image": "pruefung/29-invasives-plattenepithelkarzinom.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „invasives Plattenepithelkarzinom“ dient hier als anatomischer Orientierungspunkt. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Invasive Verbände atypischer polygonaler Zellen zeigen Kernpleomorphie und squamöse Ausreifung, teils mit Verhornung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 36,
@@ -308,9 +326,12 @@
       "atlas_image": "atlas/36-mitose-annotiert.jpg",
       "exercise_image": "pruefung/36-mitose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Mitose als Ausdruck der proliferativen Aktivität des malignen Tumors.",
-      "didactic_note": "Mitose als Ausdruck der proliferativen Aktivität des malignen Tumors. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "exam_rationale": "Mitose als Ausdruck der proliferativen Aktivität des malignen Tumors."
     },
     {
       "id": 37,
@@ -346,7 +367,10 @@
       "atlas_image": "atlas/37-bronchioluseinbruch-annotiert.jpg",
       "exercise_image": "pruefung/37-bronchioluseinbruch.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Bronchioluseinbruch“ dient hier als anatomischer Orientierungspunkt. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Ein kleiner Atemweg ist von einschichtigem bis mehrreihigem respiratorischem Epithel ausgekleidet; Knorpel fehlt beim Bronchiolus. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 38,
@@ -382,7 +406,10 @@
       "atlas_image": "atlas/38-mitose-annotiert.jpg",
       "exercise_image": "pruefung/38-mitose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 39,
@@ -418,7 +445,10 @@
       "atlas_image": "atlas/39-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/39-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 40,
@@ -454,7 +484,10 @@
       "atlas_image": "atlas/40-riesiger-zellkern-annotiert.jpg",
       "exercise_image": "pruefung/40-riesiger-zellkern.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „riesiger Zellkern“ als morphologischen Teilbefund. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "id": 41,
@@ -490,7 +523,10 @@
       "atlas_image": "atlas/41-riesiger-zellkern-annotiert.jpg",
       "exercise_image": "pruefung/41-riesiger-zellkern.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „riesiger Zellkern“ als morphologischen Teilbefund. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Die Tumorzellen zeigen vergrößerte pleomorphe Kerne mit grobem Chromatin und teils deutlich hervortretenden Nukleolen. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "quality": {
@@ -503,14 +539,20 @@
       "label": "plattenepithelial differenzierte Karzinomzellen",
       "exercise_image": "pruefung/28-plattenepithelial-differenzierte-karzinomzellen.jpg",
       "rationale": "Plattenepithelial differenzierte Karzinomzellen zeigen die Tumorentität.",
-      "didactic_note": "Plattenepithelial differenzierte Karzinomzellen zeigen die Tumorentität. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Invasive Verbände atypischer polygonaler Zellen zeigen Kernpleomorphie und squamöse Ausreifung, teils mit Verhornung. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei nicht verhornendes Plattenepithelkarzinom.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 36,
       "label": "Mitose",
       "exercise_image": "pruefung/36-mitose.jpg",
       "rationale": "Mitose als Ausdruck der proliferativen Aktivität des malignen Tumors.",
-      "didactic_note": "Mitose als Ausdruck der proliferativen Aktivität des malignen Tumors. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das Plattenepithelkarzinom zeigt atypische squamöse Tumorzellen, gegebenenfalls Keratinisierung und Interzellularbrücken, mit invasivem Wachstum, Mitosen und häufig Nekrosen."

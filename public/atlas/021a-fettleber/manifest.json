@@ -80,7 +80,10 @@
       "atlas_image": "atlas/03-zentralvene-annotiert.jpg",
       "exercise_image": "pruefung/03-zentralvene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Zentralvene“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Eine dünnwandige Zentralvene liegt im Zentrum radiär angeordneter Leberzellbalken. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 14,
@@ -116,7 +119,10 @@
       "atlas_image": "atlas/14-gallengang-annotiert.jpg",
       "exercise_image": "pruefung/14-gallengang.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Ein kleines rundes Gangprofil ist von einschichtig kubischem Epithel ausgekleidet und liegt im Portalfeld. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -224,7 +230,10 @@
       "atlas_image": "atlas/15-vene-annotiert.jpg",
       "exercise_image": "pruefung/15-vene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Vene“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Ein weitlumiges, dünnwandiges Gefäß mit unregelmäßiger Kontur entspricht einer Vene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 16,
@@ -320,7 +329,10 @@
       "atlas_image": "atlas/16-arterie-annotiert.jpg",
       "exercise_image": "pruefung/16-arterie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Eine Arterie zeigt ein relativ kleines Lumen und eine konzentrische, mehrschichtige Media aus glatten Muskelzellen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 17,
@@ -356,7 +368,10 @@
       "atlas_image": "atlas/17-hepatozyt-annotiert.jpg",
       "exercise_image": "pruefung/17-hepatozyt.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Hepatozyt“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Polygonale Hepatozyten mit rundem Kern bilden ein- bis zweireihige Zellbalken zwischen Sinusoiden. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 18,
@@ -392,9 +407,12 @@
       "atlas_image": "atlas/18-verfetteter-hepatozyt-annotiert.jpg",
       "exercise_image": "pruefung/18-verfetteter-hepatozyt.jpg",
       "missing_tiles": [],
+      "didactic_note": "Hepatozyten enthalten große optisch leere Fettvakuolen, die den Zellkern randständig verdrängen können. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber.",
-      "didactic_note": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "exam_rationale": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber."
     },
     {
       "id": 19,
@@ -414,23 +432,26 @@
         ]
       },
       "anchor": {
-        "x": 16296.0,
-        "y": 28951.0
+        "x": 18389.76,
+        "y": 28514.24
       },
       "crop": {
-        "left": 15360,
-        "top": 28416,
+        "left": 17408,
+        "top": 27904,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 936.0,
-        "y": 535.0
+        "x": 981.76,
+        "y": 610.24
       },
       "atlas_image": "atlas/19-glisson-trias-annotiert.jpg",
       "exercise_image": "pruefung/19-glisson-trias.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Glisson Trias“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Im Portalfeld liegen Ast der Pfortader, Leberarteriole und Gallengang gemeinsam im Bindegewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -443,7 +464,10 @@
       "label": "verfetteter Hepatozyt",
       "exercise_image": "pruefung/18-verfetteter-hepatozyt.jpg",
       "rationale": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber.",
-      "didactic_note": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+      "didactic_note": "Hepatozyten enthalten große optisch leere Fettvakuolen, die den Zellkern randständig verdrängen können. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Fettleber.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."

@@ -84,9 +84,12 @@
       "atlas_image": "atlas/03-adenom-annotiert.jpg",
       "exercise_image": "pruefung/03-adenom.jpg",
       "missing_tiles": [],
+      "didactic_note": "Dicht stehende, gegenüber dem Nachbargewebe veränderte Drüsen- beziehungsweise Zellverbände bilden eine umschriebene benigne Neoplasie. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick.",
-      "didactic_note": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "exam_rationale": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick."
     },
     {
       "id": 9,
@@ -122,7 +125,10 @@
       "atlas_image": "atlas/09-plexus-myentericus-annotiert.jpg",
       "exercise_image": "pruefung/09-plexus-myentericus.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Plexus myentericus“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt überwiegend Kolonschleimhaut mit Krypten; ein Plexus myentericus ist nicht getroffen. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 11,
@@ -158,7 +164,10 @@
       "atlas_image": "atlas/11-stratum-circulare-annotiert.jpg",
       "exercise_image": "pruefung/11-stratum-circulare.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Kolonkrypten; die Ringmuskelschicht ist nicht abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei tubulovillöses Kolonadenom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 13,
@@ -194,7 +203,10 @@
       "atlas_image": "atlas/13-stratum-longitudinale-annotiert.jpg",
       "exercise_image": "pruefung/13-stratum-longitudinale.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Hinweis – Bildausschnitt qualitativ/inhaltlich eingeschränkt: Der Ausschnitt zeigt Kolonkrypten und Stroma; die Längsmuskelschicht ist nicht abgebildet. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei tubulovillöses Kolonadenom.",
+      "didactic_quality": "limited",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 15,
@@ -214,23 +226,26 @@
         ]
       },
       "anchor": {
-        "x": 21623.74,
-        "y": 55379.71
+        "x": 24964.49,
+        "y": 73951.71
       },
       "crop": {
-        "left": 20736,
-        "top": 54784,
+        "left": 24064,
+        "top": 73216,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 887.74,
-        "y": 595.71
+        "x": 900.49,
+        "y": 735.71
       },
       "atlas_image": "atlas/15-krypte-annotiert.jpg",
       "exercise_image": "pruefung/15-krypte.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Krypte“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Kolonkrypten sind tubuläre Drüsen; bei einem Kryptenabszess füllen neutrophile Granulozyten und Detritus das Kryptenlumen. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 16,
@@ -662,25 +677,28 @@
         ]
       },
       "anchor": {
-        "x": 12202.39,
-        "y": 18589.76
+        "x": 12267.52,
+        "y": 24715.75
       },
       "crop": {
         "left": 11264,
-        "top": 17920,
+        "top": 24064,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 938.39,
-        "y": 669.76
+        "x": 1003.52,
+        "y": 651.75
       },
       "atlas_image": "atlas/16-pallisadenartige-aufreihung-der-zellkerne-annotiert.jpg",
       "exercise_image": "pruefung/16-pallisadenartige-aufreihung-der-zellkerne.jpg",
       "missing_tiles": [],
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms.",
-      "didactic_note": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "exam_rationale": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms."
     },
     {
       "id": 17,
@@ -1580,7 +1598,10 @@
       "atlas_image": "atlas/17-verschlepptes-material-aus-dem-adenombereich-annotiert.jpg",
       "exercise_image": "pruefung/17-verschlepptes-material-aus-dem-adenombereich.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „verschlepptes Material aus dem Adenombereich“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Dicht stehende, gegenüber dem Nachbargewebe veränderte Drüsen- beziehungsweise Zellverbände bilden eine umschriebene benigne Neoplasie. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "technical",
+      "didactic_badge": "Technischer Befund/Artefakt"
     }
   ],
   "quality": {
@@ -1593,14 +1614,20 @@
       "label": "Pallisadenartige Aufreihung der Zellkerne",
       "exercise_image": "pruefung/16-pallisadenartige-aufreihung-der-zellkerne.jpg",
       "rationale": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms.",
-      "didactic_note": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Basaloide Tumorzellnester zeigen eine randständige parallele Kernstellung; zwischen Tumor und Stroma können Retraktionsspalten liegen. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 3,
       "label": "Adenom",
       "exercise_image": "pruefung/03-adenom.jpg",
       "rationale": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick.",
-      "didactic_note": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+      "didactic_note": "Dicht stehende, gegenüber dem Nachbargewebe veränderte Drüsen- beziehungsweise Zellverbände bilden eine umschriebene benigne Neoplasie. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."

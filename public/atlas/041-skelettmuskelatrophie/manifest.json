@@ -104,7 +104,10 @@
       "atlas_image": "atlas/07-unauffallige-myozytendicke-annotiert.jpg",
       "exercise_image": "pruefung/07-unauffallige-myozytendicke.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „unauffällige Myozytendicke“ dient hier als anatomischer Orientierungspunkt. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+      "didactic_note": "Die Skelettmuskelfasern besitzen relativ einheitliche Querschnittsdurchmesser und dienen als interner Vergleich zur Atrophie. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Skelettmuskelatrophie.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 8,
@@ -156,9 +159,12 @@
       "atlas_image": "atlas/08-dunne-atrophe-myozyten-annotiert.jpg",
       "exercise_image": "pruefung/08-dunne-atrophe-myozyten.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Muskelfasern besitzen deutlich verminderte Querschnittsdurchmesser und liegen zwischen verbreitertem Fett- beziehungsweise Bindegewebe. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund.",
-      "didactic_note": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+      "exam_rationale": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund."
     },
     {
       "id": 9,
@@ -194,9 +200,12 @@
       "atlas_image": "atlas/09-atrophe-muskelfasern-im-querschnitt-annotiert.jpg",
       "exercise_image": "pruefung/09-atrophe-muskelfasern-im-querschnitt.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die Muskelfasern besitzen deutlich verminderte Querschnittsdurchmesser und liegen zwischen verbreitertem Fett- beziehungsweise Bindegewebe. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene.",
-      "didactic_note": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+      "exam_rationale": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene."
     }
   ],
   "quality": {
@@ -209,14 +218,20 @@
       "label": "dünne, atrophe Myozyten",
       "exercise_image": "pruefung/08-dunne-atrophe-myozyten.jpg",
       "rationale": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund.",
-      "didactic_note": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+      "didactic_note": "Die Muskelfasern besitzen deutlich verminderte Querschnittsdurchmesser und liegen zwischen verbreitertem Fett- beziehungsweise Bindegewebe. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 9,
       "label": "atrophe Muskelfasern im Querschnitt",
       "exercise_image": "pruefung/09-atrophe-muskelfasern-im-querschnitt.jpg",
       "rationale": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene.",
-      "didactic_note": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+      "didactic_note": "Die Muskelfasern besitzen deutlich verminderte Querschnittsdurchmesser und liegen zwischen verbreitertem Fett- beziehungsweise Bindegewebe. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."

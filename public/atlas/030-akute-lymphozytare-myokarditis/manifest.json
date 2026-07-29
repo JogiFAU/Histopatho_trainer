@@ -77,9 +77,12 @@
       "atlas_image": "atlas/01-ausgedunntes-inhomogenes-degeneratives-myokard-annotiert.jpg",
       "exercise_image": "pruefung/01-ausgedunntes-inhomogenes-degeneratives-myokard.jpg",
       "missing_tiles": [],
+      "didactic_note": "Verzweigte eosinophile Kardiomyozyten mit zentralen Kernen bilden das Myokard. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei akute lymphozytäre Myokarditis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung.",
-      "didactic_note": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+      "exam_rationale": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung."
     },
     {
       "id": 3,
@@ -115,9 +118,12 @@
       "atlas_image": "atlas/03-lymphozytares-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/03-lymphozytares-infiltrat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis.",
-      "didactic_note": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+      "exam_rationale": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis."
     },
     {
       "id": 6,
@@ -153,7 +159,10 @@
       "atlas_image": "atlas/06-herzmuskulatur-annotiert.jpg",
       "exercise_image": "pruefung/06-herzmuskulatur.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Herzmuskulatur“ dient hier als anatomischer Orientierungspunkt. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+      "didactic_note": "Verzweigte eosinophile Kardiomyozyten mit zentralen Kernen bilden das Myokard. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei akute lymphozytäre Myokarditis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -166,14 +175,20 @@
       "label": "lymphozytäres Infiltrat",
       "exercise_image": "pruefung/03-lymphozytares-infiltrat.jpg",
       "rationale": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis.",
-      "didactic_note": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 1,
       "label": "ausgedünntes inhomogenes degeneratives Myokard",
       "exercise_image": "pruefung/01-ausgedunntes-inhomogenes-degeneratives-myokard.jpg",
       "rationale": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung.",
-      "didactic_note": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+      "didactic_note": "Verzweigte eosinophile Kardiomyozyten mit zentralen Kernen bilden das Myokard. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei akute lymphozytäre Myokarditis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."

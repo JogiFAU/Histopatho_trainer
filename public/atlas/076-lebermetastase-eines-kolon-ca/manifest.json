@@ -79,7 +79,10 @@
       "atlas_image": "atlas/01-nekrose-annotiert.jpg",
       "exercise_image": "pruefung/01-nekrose.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Zu sehen ist kernarmes bis kernloses, homogen eosinophiles Gewebe mit Verlust der normalen Zell- und Gewebearchitektur. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 17,
@@ -115,9 +118,12 @@
       "atlas_image": "atlas/17-mitose-annotiert.jpg",
       "exercise_image": "pruefung/17-mitose.jpg",
       "missing_tiles": [],
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Mitose als Zeichen der malignen Proliferation.",
-      "didactic_note": "Mitose als Zeichen der malignen Proliferation. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "exam_rationale": "Mitose als Zeichen der malignen Proliferation."
     },
     {
       "id": 18,
@@ -153,7 +159,10 @@
       "atlas_image": "atlas/18-zentralvene-annotiert.jpg",
       "exercise_image": "pruefung/18-zentralvene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Zentralvene“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Eine dünnwandige Zentralvene liegt im Zentrum radiär angeordneter Leberzellbalken. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 19,
@@ -189,7 +198,10 @@
       "atlas_image": "atlas/19-hepatozyt-annotiert.jpg",
       "exercise_image": "pruefung/19-hepatozyt.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Hepatozyt“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Polygonale Hepatozyten mit rundem Kern bilden ein- bis zweireihige Zellbalken zwischen Sinusoiden. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 20,
@@ -225,7 +237,10 @@
       "atlas_image": "atlas/20-gallengang-annotiert.jpg",
       "exercise_image": "pruefung/20-gallengang.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Ein kleines rundes Gangprofil ist von einschichtig kubischem Epithel ausgekleidet und liegt im Portalfeld. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 21,
@@ -261,7 +276,10 @@
       "atlas_image": "atlas/21-vene-annotiert.jpg",
       "exercise_image": "pruefung/21-vene.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Vene“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Ein weitlumiges, dünnwandiges Gefäß mit unregelmäßiger Kontur entspricht einer Vene. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 22,
@@ -297,7 +315,10 @@
       "atlas_image": "atlas/22-arterie-annotiert.jpg",
       "exercise_image": "pruefung/22-arterie.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Eine Arterie zeigt ein relativ kleines Lumen und eine konzentrische, mehrschichtige Media aus glatten Muskelzellen. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 23,
@@ -333,7 +354,10 @@
       "atlas_image": "atlas/23-glisson-trias-annotiert.jpg",
       "exercise_image": "pruefung/23-glisson-trias.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Glisson Trias“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Im Portalfeld liegen Ast der Pfortader, Leberarteriole und Gallengang gemeinsam im Bindegewebe. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei Metastase eines Kolonkarzinoms.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 24,
@@ -773,9 +797,12 @@
       "atlas_image": "atlas/24-metastase-annotiert.jpg",
       "exercise_image": "pruefung/24-metastase.jpg",
       "missing_tiles": [],
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Metastatisches Kolonkarzinom in der Leber als definierender Befund.",
-      "didactic_note": "Metastatisches Kolonkarzinom in der Leber als definierender Befund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "exam_rationale": "Metastatisches Kolonkarzinom in der Leber als definierender Befund."
     }
   ],
   "quality": {
@@ -788,14 +815,20 @@
       "label": "Metastase",
       "exercise_image": "pruefung/24-metastase.jpg",
       "rationale": "Metastatisches Kolonkarzinom in der Leber als definierender Befund.",
-      "didactic_note": "Metastatisches Kolonkarzinom in der Leber als definierender Befund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Atypische epitheliale Zellverbände beziehungsweise Drüsen liegen außerhalb ihres Ursprungsverbandes im reaktiven Stroma. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 17,
       "label": "Mitose",
       "exercise_image": "pruefung/17-mitose.jpg",
       "rationale": "Mitose als Zeichen der malignen Proliferation.",
-      "didactic_note": "Mitose als Zeichen der malignen Proliferation. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+      "didactic_note": "Eine kondensierte, unregelmäßig konfigurierte Chromatinfigur ohne intakte Kernmembran entspricht einer Mitose. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."

@@ -65,9 +65,12 @@
       "atlas_image": "atlas/36-lymphfollikel-annotiert.jpg",
       "exercise_image": "pruefung/36-lymphfollikel.jpg",
       "missing_tiles": [],
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung.",
-      "didactic_note": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "exam_rationale": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung."
     },
     {
       "id": 37,
@@ -75,25 +78,28 @@
       "original_shape": null,
       "original_geometry": null,
       "anchor": {
-        "x": 13989.44,
-        "y": 28543.54
+        "x": 13272.63,
+        "y": 28136.12
       },
       "crop": {
-        "left": 13056,
-        "top": 27904,
+        "left": 12288,
+        "top": 27392,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 933.44,
-        "y": 639.54
+        "x": 984.63,
+        "y": 744.12
       },
       "atlas_image": "atlas/37-lymphozytares-infiltrat-annotiert.jpg",
       "exercise_image": "pruefung/37-lymphozytares-infiltrat.jpg",
       "missing_tiles": [],
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!",
       "exam_representative": true,
-      "exam_rationale": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis.",
-      "didactic_note": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "exam_rationale": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis."
     },
     {
       "id": 38,
@@ -101,23 +107,26 @@
       "original_shape": null,
       "original_geometry": null,
       "anchor": {
-        "x": 48561.05,
-        "y": 31277.29
+        "x": 49135.41,
+        "y": 30947.9
       },
       "crop": {
-        "left": 47616,
-        "top": 30720,
+        "left": 48128,
+        "top": 30208,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 945.05,
-        "y": 557.29
+        "x": 1007.41,
+        "y": 739.9
       },
       "atlas_image": "atlas/38-erosion-annotiert.jpg",
       "exercise_image": "pruefung/38-erosion.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Erosion“ als morphologischen Teilbefund. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "didactic_note": "Das Oberflächenepithel ist fokal abgetragen, während der Defekt auf die Schleimhaut begrenzt bleibt und entzündlich belegt ist. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "supportive",
+      "didactic_badge": "Pathologischer Begleitbefund"
     },
     {
       "id": 39,
@@ -141,7 +150,10 @@
       "atlas_image": "atlas/39-tunica-muscularis-annotiert.jpg",
       "exercise_image": "pruefung/39-tunica-muscularis.jpg",
       "missing_tiles": [],
-      "didactic_note": "Der Ausschnitt zeigt „Tunica muscularis“ als morphologischen Teilbefund. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "didactic_note": "Bündel glatter Muskelzellen zeigen längliche, stumpf endende Kerne und eosinophiles Zytoplasma; ihre Orientierung ergibt sich aus der Schnittebene. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     },
     {
       "id": 40,
@@ -149,23 +161,26 @@
       "original_shape": null,
       "original_geometry": null,
       "anchor": {
-        "x": 49123.85,
-        "y": 9487.71
+        "x": 46680.63,
+        "y": 10794.3
       },
       "crop": {
-        "left": 48128,
-        "top": 8960,
+        "left": 45824,
+        "top": 10240,
         "width": 1536,
         "height": 1024
       },
       "target_in_image": {
-        "x": 995.85,
-        "y": 527.71
+        "x": 856.63,
+        "y": 554.3
       },
       "atlas_image": "atlas/40-serosa-annotiert.jpg",
       "exercise_image": "pruefung/40-serosa.jpg",
       "missing_tiles": [],
-      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "didactic_note": "Eine dünne Mesothelschicht über lockerem subserösem Binde- beziehungsweise Fettgewebe bildet die Serosa. Die Struktur dient in diesem Präparat vor allem der Orientierung und der Abgrenzung zur pathologischen Veränderung bei chronisch-lymphoplasmazelluläre Cholezystitis.",
+      "didactic_quality": "adequate",
+      "didactic_role": "physiological",
+      "didactic_badge": "Physiologische Struktur"
     }
   ],
   "quality": {
@@ -178,14 +193,20 @@
       "label": "lymphozytäres Infiltrat",
       "exercise_image": "pruefung/37-lymphozytares-infiltrat.jpg",
       "rationale": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis.",
-      "didactic_note": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "didactic_note": "Kleine monomorphe Zellen mit rundem dunklem Kern und schmalem Zytoplasmasaum bilden ein lymphozytäres Infiltrat. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     },
     {
       "annotation_id": 36,
       "label": "Lymphfollikel",
       "exercise_image": "pruefung/36-lymphfollikel.jpg",
       "rationale": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung.",
-      "didactic_note": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+      "didactic_note": "Die rundliche lymphatische Zellansammlung zeigt einen Follikel, teils mit hellerem reaktivem Keimzentrum und dunkler Mantelzone. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt.",
+      "didactic_quality": "adequate",
+      "didactic_role": "diagnostic",
+      "didactic_badge": "Diagnostisch relevant!"
     }
   ],
   "didactic_context": "Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."

@@ -25,6 +25,8 @@ type ExamRepresentativeImage = {
   label: string;
   exercise_image: string;
   rationale: string;
+  didactic_quality?: AtlasAnnotation["didactic_quality"];
+  didactic_role?: AtlasAnnotation["didactic_role"];
 };
 
 type CourseRecord = {
@@ -2020,6 +2022,56 @@ function diagnosisForRecord(record: CourseRecord) {
     : record.diagnosis;
 }
 
+function examImageCandidates(record: CourseRecord): string[] {
+  const annotations = record.annotations ?? [];
+  const representatives = record.exam_representative_images ?? [];
+  const representativeIds = new Set(
+    representatives.map((image) => image.annotation_id),
+  );
+  const isAdequate = (annotation: AtlasAnnotation) =>
+    annotation.didactic_quality === "adequate";
+  const isDiagnostic = (annotation: AtlasAnnotation) =>
+    annotation.didactic_role === "diagnostic";
+  const uniquePaths = (items: AtlasAnnotation[]) =>
+    Array.from(new Set(items.map((item) => item.exercise_image).filter(Boolean)));
+
+  const preferred = annotations.filter(
+    (annotation) => isAdequate(annotation) && isDiagnostic(annotation),
+  );
+  const representativePreferred = preferred.filter((annotation) =>
+    representativeIds.has(annotation.id),
+  );
+
+  if (representativePreferred.length > 0) {
+    return uniquePaths(representativePreferred);
+  }
+  if (preferred.length > 0) return uniquePaths(preferred);
+
+  // A preparation without an adequate diagnostic crop remains examinable. In
+  // that exceptional case, an accompanying pathological finding is preferred
+  // over a normal structure. Limited-quality crops never enter an exam.
+  const adequateFallbacks = annotations.filter(isAdequate);
+  const fallbackTiers = [
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "supportive",
+    ),
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "physiological",
+    ),
+    adequateFallbacks.filter(
+      (annotation) => annotation.didactic_role === "technical",
+    ),
+  ];
+  const fallback = fallbackTiers.find((tier) => tier.length > 0) ?? [];
+  const representativeFallback = fallback.filter((annotation) =>
+    representativeIds.has(annotation.id),
+  );
+
+  return uniquePaths(
+    representativeFallback.length > 0 ? representativeFallback : fallback,
+  );
+}
+
 function shuffleRecords(records: CourseRecord[]) {
   const shuffled = [...records];
   for (let index = shuffled.length - 1; index > 0; index -= 1) {
@@ -2194,13 +2246,11 @@ function TrainingMode({
     const selectedRecords = shuffleRecords(eligibleRecords)
       .slice(0, effectiveQuestionCount)
       .map((record) => {
-        const images = record.exam_representative_images
-          ?.map((representative) => representative.exercise_image)
-          .filter(Boolean);
+        const images = examImageCandidates(record);
         const examImage =
-          images && images.length > 0
+          images.length > 0
             ? images[Math.floor(Math.random() * images.length)]
-            : record.annotations?.[0]?.exercise_image || record.overview;
+            : record.overview;
 
         return { ...record, examImage };
       });

@@ -12,8 +12,16 @@ benötigten Bilder liegen im Ordner `public/atlas`.
    **Source** die Option **GitHub Actions** auswählen.
 
 Danach erstellt und veröffentlicht der bereits enthaltene Workflow die App
-automatisch. Weitere Anpassungen am Repository-Namen oder an Bildpfaden sind
-nicht erforderlich.
+automatisch. Der Workflow läuft auch für gepushte PR-Branches, damit diese über
+GitHub Pages getestet werden können. Weitere Anpassungen am Repository-Namen
+oder an Bildpfaden sind nicht erforderlich.
+
+> **Wichtig:** Unter **Source** darf nicht **Deploy from a branch** ausgewählt
+> werden. Dabei würde GitHub Pages den unverarbeiteten Quellcode ausliefern.
+> Dessen `index.html` verweist auf `src/main.tsx`, das erst von Vite in
+> browserfähiges JavaScript übersetzt werden muss. Das Ergebnis wäre eine leere
+> Seite. Zum Wechseln des veröffentlichten Branches den gewünschten Branch
+> pushen oder den Workflow dort über **Actions → Run workflow** starten.
 
 ## Lokal starten
 

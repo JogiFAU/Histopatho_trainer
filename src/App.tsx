@@ -2085,9 +2085,7 @@ function shuffleRecords(records: CourseRecord[]) {
 }
 
 function ExamSlide({ record }: { record: CourseRecord }) {
-  const cellImage =
-    record.examImage ||
-    record.annotations?.[0]?.exercise_image;
+  const cellImage = record.examImage;
 
   if (record.overview || cellImage) {
     return (
@@ -2188,6 +2186,7 @@ function TrainingMode({
     () =>
       records.filter(
         (record) =>
+          Boolean(record.overview) &&
           !excludedOrgans.has(record.organ) &&
           (includeReferences ||
             normalizeAnswer(record.diagnosis) !== "referenz"),
@@ -2250,7 +2249,7 @@ function TrainingMode({
         const examImage =
           images.length > 0
             ? images[Math.floor(Math.random() * images.length)]
-            : record.overview;
+            : undefined;
 
         return { ...record, examImage };
       });

@@ -2371,9 +2371,9 @@ img {
 
 .configured-exam-workspace {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(320px, 0.55fr);
+  grid-template-columns: minmax(0, 1.7fr) minmax(320px, 0.5fr);
   gap: 22px;
-  max-width: 1440px;
+  max-width: 1680px;
   margin: 0 auto;
   padding: 0 5vw 100px;
 }
@@ -2392,8 +2392,8 @@ img {
 
 .exam-slide-pair {
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
-  gap: 14px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 22px;
 }
 
 .exam-slide-panel {
@@ -2458,7 +2458,7 @@ img {
 }
 
 .exam-slide-panel .zoom-viewer.compact .zoom-stage {
-  height: min(52vh, 560px);
+  height: min(66vh, 720px);
 }
 
 .configured-answer-panel {
@@ -2769,7 +2769,7 @@ img {
   }
 
   .exam-slide-panel .zoom-viewer.compact .zoom-stage {
-    height: min(48vh, 500px);
+    height: min(58vh, 620px);
   }
 
   .exam-config-summary {

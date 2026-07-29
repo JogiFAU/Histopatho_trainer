@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "030",
+    "name": "Akute lymphozytäre Myokarditis",
+    "organ": "Herz",
+    "diagnosis": "akute lymphozytäre Myokarditis",
+    "description": [
+      "quergestreifte Herzmuskulatur mit zentralen Kernen;",
+      "interstitielle lymphozytäre Infiltrate;",
+      "Degeneration der Muskelzellen (inhomogenes Plasma);",
+      "Nekrotisierende Myokardfasern;",
+      "Herzmuskeldilatation;"
+    ],
+    "slide_id": "cd1e4264-4506-44d7-979d-27f0836a8962",
+    "slide_path": "Histopathologie 5. Semester/slides/030 - Akute lymphozytäre Myokarditis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=cd1e4264-4506-44d7-979d-27f0836a8962&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1984,
+    "height": 2856,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "ausgedünntes inhomogenes degeneratives Myokard",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15952,
+            "y": 26512
+          },
+          {
+            "x": 17180,
+            "y": 28586
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16566.0,
+        "y": 27549.0
+      },
+      "crop": {
+        "left": 15616,
+        "top": 26880,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 950.0,
+        "y": 669.0
+      },
+      "atlas_image": "atlas/01-ausgedunntes-inhomogenes-degeneratives-myokard-annotiert.jpg",
+      "exercise_image": "pruefung/01-ausgedunntes-inhomogenes-degeneratives-myokard.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung.",
+      "didactic_note": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+    },
+    {
+      "id": 3,
+      "label": "lymphozytäres Infiltrat",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17040,
+            "y": 20080
+          },
+          {
+            "x": 18110,
+            "y": 26388
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17575.0,
+        "y": 23234.0
+      },
+      "crop": {
+        "left": 16640,
+        "top": 22528,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 935.0,
+        "y": 706.0
+      },
+      "atlas_image": "atlas/03-lymphozytares-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/03-lymphozytares-infiltrat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis.",
+      "didactic_note": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+    },
+    {
+      "id": 6,
+      "label": "Herzmuskulatur",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 7841,
+            "y": 56255
+          },
+          {
+            "x": 15442,
+            "y": 64982
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11641.5,
+        "y": 60618.5
+      },
+      "crop": {
+        "left": 10752,
+        "top": 59904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 889.5,
+        "y": 714.5
+      },
+      "atlas_image": "atlas/06-herzmuskulatur-annotiert.jpg",
+      "exercise_image": "pruefung/06-herzmuskulatur.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Herzmuskulatur“ dient hier als anatomischer Orientierungspunkt. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 3,
+      "label": "lymphozytäres Infiltrat",
+      "exercise_image": "pruefung/03-lymphozytares-infiltrat.jpg",
+      "rationale": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis.",
+      "didactic_note": "Lymphozytäres Infiltrat als definierender Entzündungsbefund der Myokarditis. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+    },
+    {
+      "annotation_id": 1,
+      "label": "ausgedünntes inhomogenes degeneratives Myokard",
+      "exercise_image": "pruefung/01-ausgedunntes-inhomogenes-degeneratives-myokard.jpg",
+      "rationale": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung.",
+      "didactic_note": "Degeneratives Myokard zeigt die begleitende Myozytenschädigung. Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+    }
+  ],
+  "didactic_context": "Für eine lymphozytäre Myokarditis sind interstitielle Lymphozyten zusammen mit einer Schädigung oder Nekrose benachbarter Kardiomyozyten entscheidend, nicht ein rein perivaskuläres Infiltrat."
+}

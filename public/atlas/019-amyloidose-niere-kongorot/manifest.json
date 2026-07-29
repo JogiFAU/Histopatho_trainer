@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "019",
+    "name": "Amyloidose Niere (Kongorot)",
+    "organ": "Niere",
+    "diagnosis": "Amyloidose",
+    "description": [
+      "Kongorot Färbung (hier keine grüne Polarisation, da nicht unter Polarisationsmikroskop gescannt);",
+      "Glomeruli, Tubuli;",
+      "extrazelluläre hyaline Ablagerungen",
+      "(häufig an Basalmembranen, Vas afferentes, Tubuli);",
+      "HE-Färbung siehe #18;"
+    ],
+    "slide_id": "c9f6abce-1cf0-4c18-acc8-79f70bbd23cc",
+    "slide_path": "Histopathologie 5. Semester/slides/019 - Amyloidose Niere (Kongorot).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c9f6abce-1cf0-4c18-acc8-79f70bbd23cc&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2288,
+    "height": 2840,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 4,
+      "label": "extrazelluläre Amyloidablagerungen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37155,
+            "y": 36251
+          },
+          {
+            "x": 41493,
+            "y": 40368
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39324,
+        "y": 38309.5
+      },
+      "crop": {
+        "left": 38400,
+        "top": 37632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 924,
+        "y": 677.5
+      },
+      "atlas_image": "atlas/04-extrazellulare-amyloidablagerungen-annotiert.jpg",
+      "exercise_image": "pruefung/04-extrazellulare-amyloidablagerungen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats.",
+      "didactic_note": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 4,
+      "label": "extrazelluläre Amyloidablagerungen",
+      "exercise_image": "pruefung/04-extrazellulare-amyloidablagerungen.jpg",
+      "rationale": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats.",
+      "didactic_note": "Extrazelluläre Amyloidablagerungen sind der spezifische Befund des Präparats. Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."
+    }
+  ],
+  "didactic_context": "Amyloid lagert sich als amorphes extrazelluläres Material ab und verdrängt die normale Gewebsarchitektur; Kongorotfärbung und Typisierung sichern Diagnose und Amyloidform."
+}

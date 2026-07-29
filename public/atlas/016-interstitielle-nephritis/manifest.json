@@ -1,0 +1,1066 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "016",
+    "name": "Interstitielle Nephritis",
+    "organ": "Niere",
+    "diagnosis": "interstitielle Nephritis",
+    "description": [
+      "hyalinisierte Glomeruli (Vergl.: normales Glomerulus #58);",
+      "Glomerulosklerose;",
+      "normale Tubulusgröße;",
+      "Weitung der Tubuluslichtung;",
+      "lymphozytäres & plasmazelluläres Infiltrat im Interstitium;",
+      "Verschmälerung der Nierenrinde;",
+      "höckerige Oberfläche mit Einziehungen;"
+    ],
+    "slide_id": "23e3886b-a519-4656-b839-30574abfd6f8",
+    "slide_path": "Histopathologie 5. Semester/slides/016 - Interstitielle Nephritis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=23e3886b-a519-4656-b839-30574abfd6f8&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3248,
+    "height": 4256,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 37,
+      "label": "sklerosiertes Glomeruli",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3689,
+            "y": 52049
+          },
+          {
+            "x": 4376,
+            "y": 52749
+          }
+        ]
+      },
+      "anchor": {
+        "x": 4032.5,
+        "y": 52399.0
+      },
+      "crop": {
+        "left": 3072,
+        "top": 51712,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 960.5,
+        "y": 687.0
+      },
+      "atlas_image": "atlas/37-sklerosiertes-glomeruli-annotiert.jpg",
+      "exercise_image": "pruefung/37-sklerosiertes-glomeruli.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „sklerosiertes Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 38,
+      "label": "sklerosierendes Glomeruli",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 8723,
+            "y": 50576
+          },
+          {
+            "x": 9564,
+            "y": 51417
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9143.5,
+        "y": 50996.5
+      },
+      "crop": {
+        "left": 8192,
+        "top": 50432,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 951.5,
+        "y": 564.5
+      },
+      "atlas_image": "atlas/38-sklerosierendes-glomeruli-annotiert.jpg",
+      "exercise_image": "pruefung/38-sklerosierendes-glomeruli.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „sklerosierendes Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 39,
+      "label": "avitale Tubuli",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4550,
+            "y": 50349
+          },
+          {
+            "x": 5449,
+            "y": 51474
+          }
+        ]
+      },
+      "anchor": {
+        "x": 4999.5,
+        "y": 50911.5
+      },
+      "crop": {
+        "left": 4096,
+        "top": 50176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 903.5,
+        "y": 735.5
+      },
+      "atlas_image": "atlas/39-avitale-tubuli-annotiert.jpg",
+      "exercise_image": "pruefung/39-avitale-tubuli.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „avitale Tubuli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 40,
+      "label": "entzündliches interstitielles Infiltrat",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30691,
+            "y": 26755
+          },
+          {
+            "x": 33385,
+            "y": 29684
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32038.0,
+        "y": 28219.5
+      },
+      "crop": {
+        "left": 31232,
+        "top": 27648,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 806.0,
+        "y": 571.5
+      },
+      "atlas_image": "atlas/40-entzundliches-interstitielles-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/40-entzundliches-interstitielles-infiltrat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt.",
+      "didactic_note": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 41,
+      "label": "interstitielle Entzündung und beginnend sklerosierte Glomeruli",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16687,
+            "y": 53328
+          },
+          {
+            "x": 23064,
+            "y": 59368
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19875.5,
+        "y": 56348.0
+      },
+      "crop": {
+        "left": 18944,
+        "top": 55808,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 931.5,
+        "y": 540.0
+      },
+      "atlas_image": "atlas/41-interstitielle-entzundung-und-beginnend-sklerosierte-glomeruli-annotiert.jpg",
+      "exercise_image": "pruefung/41-interstitielle-entzundung-und-beginnend-sklerosierte-glomeruli.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „interstitielle Entzündung und beginnend sklerosierte Glomeruli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 42,
+      "label": "Tubuli",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28776,
+            "y": 10438
+          },
+          {
+            "x": 30287,
+            "y": 11712
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29531.5,
+        "y": 11075
+      },
+      "crop": {
+        "left": 28672,
+        "top": 10496,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 859.5,
+        "y": 579
+      },
+      "atlas_image": "atlas/42-tubuli-annotiert.jpg",
+      "exercise_image": "pruefung/42-tubuli.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Tubuli“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 43,
+      "label": "lympho- und plasmazelluläres Infiltrat im Interstitium",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23657,
+            "y": 50264
+          },
+          {
+            "x": 21792,
+            "y": 50962
+          },
+          {
+            "x": 21792,
+            "y": 50962
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21792,
+        "y": 50962.0
+      },
+      "crop": {
+        "left": 20992,
+        "top": 50432,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 800,
+        "y": 530.0
+      },
+      "atlas_image": "atlas/43-lympho-und-plasmazellulares-infiltrat-im-interstitium-annotiert.jpg",
+      "exercise_image": "pruefung/43-lympho-und-plasmazellulares-infiltrat-im-interstitium.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis.",
+      "didactic_note": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 44,
+      "label": "Fibrose",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3305,
+            "y": 45250
+          },
+          {
+            "x": 12663,
+            "y": 50728
+          },
+          {
+            "x": 12663,
+            "y": 50728
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12663,
+        "y": 50728
+      },
+      "crop": {
+        "left": 11776,
+        "top": 50176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 887,
+        "y": 552
+      },
+      "atlas_image": "atlas/44-fibrose-annotiert.jpg",
+      "exercise_image": "pruefung/44-fibrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "id": 45,
+      "label": "Arterie",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45032,
+            "y": 19303
+          },
+          {
+            "x": 44917,
+            "y": 19294
+          },
+          {
+            "x": 44793,
+            "y": 19265
+          },
+          {
+            "x": 44697,
+            "y": 19246
+          },
+          {
+            "x": 44592,
+            "y": 19227
+          },
+          {
+            "x": 44478,
+            "y": 19208
+          },
+          {
+            "x": 44344,
+            "y": 19198
+          },
+          {
+            "x": 44230,
+            "y": 19189
+          },
+          {
+            "x": 44134,
+            "y": 19179
+          },
+          {
+            "x": 44039,
+            "y": 19160
+          },
+          {
+            "x": 43934,
+            "y": 19150
+          },
+          {
+            "x": 43838,
+            "y": 19141
+          },
+          {
+            "x": 43743,
+            "y": 19131
+          },
+          {
+            "x": 43628,
+            "y": 19131
+          },
+          {
+            "x": 43495,
+            "y": 19131
+          },
+          {
+            "x": 43390,
+            "y": 19131
+          },
+          {
+            "x": 43265,
+            "y": 19131
+          },
+          {
+            "x": 43170,
+            "y": 19141
+          },
+          {
+            "x": 43065,
+            "y": 19169
+          },
+          {
+            "x": 42970,
+            "y": 19246
+          },
+          {
+            "x": 42903,
+            "y": 19322
+          },
+          {
+            "x": 42836,
+            "y": 19399
+          },
+          {
+            "x": 42788,
+            "y": 19494
+          },
+          {
+            "x": 42760,
+            "y": 19599
+          },
+          {
+            "x": 42731,
+            "y": 19723
+          },
+          {
+            "x": 42721,
+            "y": 19838
+          },
+          {
+            "x": 42721,
+            "y": 19943
+          },
+          {
+            "x": 42721,
+            "y": 20057
+          },
+          {
+            "x": 42721,
+            "y": 20162
+          },
+          {
+            "x": 42721,
+            "y": 20277
+          },
+          {
+            "x": 42721,
+            "y": 20401
+          },
+          {
+            "x": 42731,
+            "y": 20535
+          },
+          {
+            "x": 42740,
+            "y": 20630
+          },
+          {
+            "x": 42740,
+            "y": 20745
+          },
+          {
+            "x": 42740,
+            "y": 20850
+          },
+          {
+            "x": 42760,
+            "y": 20983
+          },
+          {
+            "x": 42769,
+            "y": 21098
+          },
+          {
+            "x": 42779,
+            "y": 21193
+          },
+          {
+            "x": 42807,
+            "y": 21317
+          },
+          {
+            "x": 42836,
+            "y": 21451
+          },
+          {
+            "x": 42884,
+            "y": 21594
+          },
+          {
+            "x": 42922,
+            "y": 21699
+          },
+          {
+            "x": 42941,
+            "y": 21804
+          },
+          {
+            "x": 42970,
+            "y": 21919
+          },
+          {
+            "x": 42989,
+            "y": 22014
+          },
+          {
+            "x": 43027,
+            "y": 22129
+          },
+          {
+            "x": 43055,
+            "y": 22234
+          },
+          {
+            "x": 43094,
+            "y": 22339
+          },
+          {
+            "x": 43132,
+            "y": 22434
+          },
+          {
+            "x": 43170,
+            "y": 22539
+          },
+          {
+            "x": 43218,
+            "y": 22625
+          },
+          {
+            "x": 43304,
+            "y": 22759
+          },
+          {
+            "x": 43380,
+            "y": 22854
+          },
+          {
+            "x": 43456,
+            "y": 22921
+          },
+          {
+            "x": 43542,
+            "y": 22988
+          },
+          {
+            "x": 43638,
+            "y": 23055
+          },
+          {
+            "x": 43714,
+            "y": 23122
+          },
+          {
+            "x": 43791,
+            "y": 23198
+          },
+          {
+            "x": 43857,
+            "y": 23284
+          },
+          {
+            "x": 43934,
+            "y": 23380
+          },
+          {
+            "x": 44010,
+            "y": 23456
+          },
+          {
+            "x": 44096,
+            "y": 23561
+          },
+          {
+            "x": 44182,
+            "y": 23647
+          },
+          {
+            "x": 44230,
+            "y": 23733
+          },
+          {
+            "x": 44316,
+            "y": 23857
+          },
+          {
+            "x": 44363,
+            "y": 23962
+          },
+          {
+            "x": 44411,
+            "y": 24067
+          },
+          {
+            "x": 44459,
+            "y": 24153
+          },
+          {
+            "x": 44535,
+            "y": 24306
+          },
+          {
+            "x": 44583,
+            "y": 24392
+          },
+          {
+            "x": 44640,
+            "y": 24506
+          },
+          {
+            "x": 44697,
+            "y": 24602
+          },
+          {
+            "x": 44764,
+            "y": 24697
+          },
+          {
+            "x": 44841,
+            "y": 24792
+          },
+          {
+            "x": 44936,
+            "y": 24888
+          },
+          {
+            "x": 45013,
+            "y": 24964
+          },
+          {
+            "x": 45118,
+            "y": 25041
+          },
+          {
+            "x": 45203,
+            "y": 25098
+          },
+          {
+            "x": 45299,
+            "y": 25165
+          },
+          {
+            "x": 45385,
+            "y": 25222
+          },
+          {
+            "x": 45471,
+            "y": 25270
+          },
+          {
+            "x": 45566,
+            "y": 25318
+          },
+          {
+            "x": 45652,
+            "y": 25375
+          },
+          {
+            "x": 45748,
+            "y": 25423
+          },
+          {
+            "x": 45843,
+            "y": 25480
+          },
+          {
+            "x": 45939,
+            "y": 25528
+          },
+          {
+            "x": 46024,
+            "y": 25575
+          },
+          {
+            "x": 46130,
+            "y": 25613
+          },
+          {
+            "x": 46225,
+            "y": 25652
+          },
+          {
+            "x": 46349,
+            "y": 25699
+          },
+          {
+            "x": 46454,
+            "y": 25699
+          },
+          {
+            "x": 46559,
+            "y": 25699
+          },
+          {
+            "x": 46655,
+            "y": 25680
+          },
+          {
+            "x": 46741,
+            "y": 25642
+          },
+          {
+            "x": 46836,
+            "y": 25585
+          },
+          {
+            "x": 46922,
+            "y": 25537
+          },
+          {
+            "x": 47008,
+            "y": 25470
+          },
+          {
+            "x": 47084,
+            "y": 25403
+          },
+          {
+            "x": 47180,
+            "y": 25318
+          },
+          {
+            "x": 47246,
+            "y": 25232
+          },
+          {
+            "x": 47304,
+            "y": 25136
+          },
+          {
+            "x": 47352,
+            "y": 25012
+          },
+          {
+            "x": 47371,
+            "y": 24907
+          },
+          {
+            "x": 47371,
+            "y": 24802
+          },
+          {
+            "x": 47371,
+            "y": 24697
+          },
+          {
+            "x": 47371,
+            "y": 24592
+          },
+          {
+            "x": 47294,
+            "y": 24497
+          },
+          {
+            "x": 47218,
+            "y": 24430
+          },
+          {
+            "x": 47141,
+            "y": 24353
+          },
+          {
+            "x": 47046,
+            "y": 24286
+          },
+          {
+            "x": 46970,
+            "y": 24210
+          },
+          {
+            "x": 46874,
+            "y": 24134
+          },
+          {
+            "x": 46788,
+            "y": 24038
+          },
+          {
+            "x": 46712,
+            "y": 23933
+          },
+          {
+            "x": 46655,
+            "y": 23828
+          },
+          {
+            "x": 46607,
+            "y": 23733
+          },
+          {
+            "x": 46578,
+            "y": 23637
+          },
+          {
+            "x": 46550,
+            "y": 23523
+          },
+          {
+            "x": 46540,
+            "y": 23418
+          },
+          {
+            "x": 46530,
+            "y": 23322
+          },
+          {
+            "x": 46530,
+            "y": 23217
+          },
+          {
+            "x": 46530,
+            "y": 23103
+          },
+          {
+            "x": 46550,
+            "y": 23007
+          },
+          {
+            "x": 46569,
+            "y": 22912
+          },
+          {
+            "x": 46607,
+            "y": 22788
+          },
+          {
+            "x": 46645,
+            "y": 22625
+          },
+          {
+            "x": 46674,
+            "y": 22530
+          },
+          {
+            "x": 46721,
+            "y": 22425
+          },
+          {
+            "x": 46741,
+            "y": 22320
+          },
+          {
+            "x": 46788,
+            "y": 22196
+          },
+          {
+            "x": 46807,
+            "y": 22091
+          },
+          {
+            "x": 46836,
+            "y": 21986
+          },
+          {
+            "x": 46865,
+            "y": 21881
+          },
+          {
+            "x": 46903,
+            "y": 21776
+          },
+          {
+            "x": 46931,
+            "y": 21623
+          },
+          {
+            "x": 46960,
+            "y": 21518
+          },
+          {
+            "x": 46960,
+            "y": 21403
+          },
+          {
+            "x": 46970,
+            "y": 21251
+          },
+          {
+            "x": 46970,
+            "y": 21117
+          },
+          {
+            "x": 46970,
+            "y": 21002
+          },
+          {
+            "x": 46970,
+            "y": 20888
+          },
+          {
+            "x": 46970,
+            "y": 20783
+          },
+          {
+            "x": 46970,
+            "y": 20668
+          },
+          {
+            "x": 46951,
+            "y": 20544
+          },
+          {
+            "x": 46922,
+            "y": 20439
+          },
+          {
+            "x": 46865,
+            "y": 20344
+          },
+          {
+            "x": 46807,
+            "y": 20239
+          },
+          {
+            "x": 46731,
+            "y": 20162
+          },
+          {
+            "x": 46664,
+            "y": 20086
+          },
+          {
+            "x": 46578,
+            "y": 20000
+          },
+          {
+            "x": 46502,
+            "y": 19924
+          },
+          {
+            "x": 46406,
+            "y": 19828
+          },
+          {
+            "x": 46311,
+            "y": 19771
+          },
+          {
+            "x": 46225,
+            "y": 19723
+          },
+          {
+            "x": 46139,
+            "y": 19656
+          },
+          {
+            "x": 46044,
+            "y": 19618
+          },
+          {
+            "x": 45939,
+            "y": 19561
+          },
+          {
+            "x": 45843,
+            "y": 19513
+          },
+          {
+            "x": 45738,
+            "y": 19484
+          },
+          {
+            "x": 45643,
+            "y": 19446
+          },
+          {
+            "x": 45538,
+            "y": 19418
+          },
+          {
+            "x": 45414,
+            "y": 19399
+          },
+          {
+            "x": 45308,
+            "y": 19379
+          },
+          {
+            "x": 45203,
+            "y": 19351
+          },
+          {
+            "x": 45003,
+            "y": 19294
+          },
+          {
+            "x": 45003,
+            "y": 19294
+          },
+          {
+            "x": 45032,
+            "y": 19303
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45166.37,
+        "y": 22193.17
+      },
+      "crop": {
+        "left": 44288,
+        "top": 21504,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 878.37,
+        "y": 689.17
+      },
+      "atlas_image": "atlas/45-arterie-annotiert.jpg",
+      "exercise_image": "pruefung/45-arterie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 43,
+      "label": "lympho- und plasmazelluläres Infiltrat im Interstitium",
+      "exercise_image": "pruefung/43-lympho-und-plasmazellulares-infiltrat-im-interstitium.jpg",
+      "rationale": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis.",
+      "didactic_note": "Lympho- und plasmazelluläres Interstitiuminfiltrat als Leitbefund der interstitiellen Nephritis. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    },
+    {
+      "annotation_id": 40,
+      "label": "entzündliches interstitielles Infiltrat",
+      "exercise_image": "pruefung/40-entzundliches-interstitielles-infiltrat.jpg",
+      "rationale": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt.",
+      "didactic_note": "Interstitielle Entzündung in einem zweiten repräsentativen Ausschnitt. Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+    }
+  ],
+  "didactic_context": "Die interstitielle Nephritis zeigt ein entzündliches Infiltrat zwischen den Tubuli, häufig mit Tubulitis; bei chronischem Verlauf treten Tubulusatrophie und interstitielle Fibrose hinzu."
+}

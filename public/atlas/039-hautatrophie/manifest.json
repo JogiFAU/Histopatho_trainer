@@ -1,0 +1,224 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "039",
+    "name": "Hautatrophie",
+    "organ": "Haut",
+    "diagnosis": "Atrophie",
+    "description": [
+      "gesamtes Präparat mit",
+      "verhornendem atrophen Plattenepithel:",
+      "- sehr dünner Epithelschicht;",
+      "- nicht vorhandenen bzw. nur flachen Epithelzapfen (vergleiche #9);",
+      "Schweißdrüsen;"
+    ],
+    "slide_id": "c04500fd-4566-4302-84f1-8ae656e184b5",
+    "slide_path": "Histopathologie 5. Semester/slides/039 - Hautatrophie.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c04500fd-4566-4302-84f1-8ae656e184b5&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3264,
+    "height": 4304,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Drüsen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 14480,
+            "y": 57536
+          },
+          {
+            "x": 17324,
+            "y": 60711
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15902.0,
+        "y": 59123.5
+      },
+      "crop": {
+        "left": 15104,
+        "top": 58368,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 798.0,
+        "y": 755.5
+      },
+      "atlas_image": "atlas/05-drusen-annotiert.jpg",
+      "exercise_image": "pruefung/05-drusen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Drüsen“ dient hier als anatomischer Orientierungspunkt. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    },
+    {
+      "id": 9,
+      "label": "Atrophie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 35540,
+            "y": 53803
+          },
+          {
+            "x": 40615,
+            "y": 56022
+          }
+        ]
+      },
+      "anchor": {
+        "x": 38077.5,
+        "y": 54912.5
+      },
+      "crop": {
+        "left": 37120,
+        "top": 54272,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 957.5,
+        "y": 640.5
+      },
+      "atlas_image": "atlas/09-atrophie-annotiert.jpg",
+      "exercise_image": "pruefung/09-atrophie.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Atrophische Haut als zentraler Befund.",
+      "didactic_note": "Atrophische Haut als zentraler Befund. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    },
+    {
+      "id": 10,
+      "label": "keine Reteleisten",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40849,
+            "y": 53352
+          },
+          {
+            "x": 39338,
+            "y": 54605
+          },
+          {
+            "x": 39338,
+            "y": 54605
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39338,
+        "y": 54605.0
+      },
+      "crop": {
+        "left": 38400,
+        "top": 54016,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 938,
+        "y": 589.0
+      },
+      "atlas_image": "atlas/10-keine-reteleisten-annotiert.jpg",
+      "exercise_image": "pruefung/10-keine-reteleisten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fehlende Reteleisten als typisches mikroskopisches Atrophiezeichen.",
+      "didactic_note": "Fehlende Reteleisten als typisches mikroskopisches Atrophiezeichen. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    },
+    {
+      "id": 11,
+      "label": "verhornendes Plattenepithel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 48717,
+            "y": 43502
+          },
+          {
+            "x": 48140,
+            "y": 41460
+          },
+          {
+            "x": 48140,
+            "y": 41460
+          }
+        ]
+      },
+      "anchor": {
+        "x": 48140.0,
+        "y": 41460
+      },
+      "crop": {
+        "left": 47360,
+        "top": 40704,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 780.0,
+        "y": 756
+      },
+      "atlas_image": "atlas/11-verhornendes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/11-verhornendes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 9,
+      "label": "Atrophie",
+      "exercise_image": "pruefung/09-atrophie.jpg",
+      "rationale": "Atrophische Haut als zentraler Befund.",
+      "didactic_note": "Atrophische Haut als zentraler Befund. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    },
+    {
+      "annotation_id": 10,
+      "label": "keine Reteleisten",
+      "exercise_image": "pruefung/10-keine-reteleisten.jpg",
+      "rationale": "Fehlende Reteleisten als typisches mikroskopisches Atrophiezeichen.",
+      "didactic_note": "Fehlende Reteleisten als typisches mikroskopisches Atrophiezeichen. Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+    }
+  ],
+  "didactic_context": "Hautatrophie zeigt eine ausgedünnte Epidermis mit abgeflachter dermoepidermaler Junktionszone und fehlenden Reteleisten; häufig sind auch Dermis und Hautanhangsgebilde reduziert."
+}

@@ -1,0 +1,302 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "025",
+    "name": "Chronisch interstitielle nichtspezifische Pneumonie",
+    "organ": "Lunge",
+    "diagnosis": "chronisch interstitielle Pneumonie",
+    "description": [
+      "Bronchiolus mit Schleim gefüllt;",
+      "lymphozytäre Infiltration der Alveolarwände",
+      "Entzündungsausbreitung im Gewebe;",
+      "Lymphozyten bilden follikuläre Strukturen (chronische Komponente);",
+      "Hyperämie;",
+      "Exsudat;",
+      "bindegewebige Verdickung der Alveolarwände (--> Fibrosierung durch andauernde Entzündung, behindert Gasaustausch);"
+    ],
+    "slide_id": "94d60a7d-9033-412f-9e93-cd6e5cecfef1",
+    "slide_path": "Histopathologie 5. Semester/slides/025 - Chronisch interstitielle nichtspezifische Pneumonie.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=94d60a7d-9033-412f-9e93-cd6e5cecfef1&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1904,
+    "height": 2776,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Bronchiolus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11856,
+            "y": 62576
+          },
+          {
+            "x": 14176,
+            "y": 64943
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13016.0,
+        "y": 63759.5
+      },
+      "crop": {
+        "left": 12032,
+        "top": 63232,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 984.0,
+        "y": 527.5
+      },
+      "atlas_image": "atlas/07-bronchiolus-annotiert.jpg",
+      "exercise_image": "pruefung/07-bronchiolus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "id": 23,
+      "label": "Exsudat",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 7264,
+            "y": 74471
+          },
+          {
+            "x": 8122,
+            "y": 75249
+          }
+        ]
+      },
+      "anchor": {
+        "x": 7693,
+        "y": 74860
+      },
+      "crop": {
+        "left": 6912,
+        "top": 74240,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 781,
+        "y": 620
+      },
+      "atlas_image": "atlas/23-exsudat-annotiert.jpg",
+      "exercise_image": "pruefung/23-exsudat.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Exsudat“ als morphologischen Teilbefund. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "id": 24,
+      "label": "Alveolen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 51243,
+            "y": 11200
+          },
+          {
+            "x": 46328,
+            "y": 11709
+          },
+          {
+            "x": 46328,
+            "y": 11709
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46328,
+        "y": 11709.0
+      },
+      "crop": {
+        "left": 45312,
+        "top": 11008,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1016,
+        "y": 701.0
+      },
+      "atlas_image": "atlas/24-alveolen-annotiert.jpg",
+      "exercise_image": "pruefung/24-alveolen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "id": 26,
+      "label": "follikulär angeordnete Lymphozyten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26876,
+            "y": 14379
+          },
+          {
+            "x": 28107,
+            "y": 15514
+          }
+        ]
+      },
+      "anchor": {
+        "x": 27491.5,
+        "y": 14946.5
+      },
+      "crop": {
+        "left": 26624,
+        "top": 14336,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 867.5,
+        "y": 610.5
+      },
+      "atlas_image": "atlas/26-follikular-angeordnete-lymphozyten-annotiert.jpg",
+      "exercise_image": "pruefung/26-follikular-angeordnete-lymphozyten.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „follikulär angeordnete Lymphozyten“ als morphologischen Teilbefund. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "id": 28,
+      "label": "Fibrosierung",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 6563,
+            "y": 50486
+          },
+          {
+            "x": 15171,
+            "y": 51734
+          },
+          {
+            "x": 15171,
+            "y": 51734
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15171.0,
+        "y": 51734
+      },
+      "crop": {
+        "left": 14336,
+        "top": 51200,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 835.0,
+        "y": 534
+      },
+      "atlas_image": "atlas/28-fibrosierung-annotiert.jpg",
+      "exercise_image": "pruefung/28-fibrosierung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fibrosierung als struktureller Befund der chronischen interstitiellen Pneumonie.",
+      "didactic_note": "Fibrosierung als struktureller Befund der chronischen interstitiellen Pneumonie. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "id": 29,
+      "label": "lymphozytäres Infiltrat",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 27981,
+            "y": 47250
+          },
+          {
+            "x": 32793,
+            "y": 49511
+          },
+          {
+            "x": 32793,
+            "y": 49511
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32793,
+        "y": 49511.0
+      },
+      "crop": {
+        "left": 32000,
+        "top": 48896,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 793,
+        "y": 615.0
+      },
+      "atlas_image": "atlas/29-lymphozytares-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/29-lymphozytares-infiltrat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphozytäres interstitielles Infiltrat als zellulärer Entzündungsbefund.",
+      "didactic_note": "Lymphozytäres interstitielles Infiltrat als zellulärer Entzündungsbefund. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 29,
+      "label": "lymphozytäres Infiltrat",
+      "exercise_image": "pruefung/29-lymphozytares-infiltrat.jpg",
+      "rationale": "Lymphozytäres interstitielles Infiltrat als zellulärer Entzündungsbefund.",
+      "didactic_note": "Lymphozytäres interstitielles Infiltrat als zellulärer Entzündungsbefund. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    },
+    {
+      "annotation_id": 28,
+      "label": "Fibrosierung",
+      "exercise_image": "pruefung/28-fibrosierung.jpg",
+      "rationale": "Fibrosierung als struktureller Befund der chronischen interstitiellen Pneumonie.",
+      "didactic_note": "Fibrosierung als struktureller Befund der chronischen interstitiellen Pneumonie. Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+    }
+  ],
+  "didactic_context": "Die chronisch interstitielle Pneumonie zeigt verbreiterte Alveolarsepten durch lymphozytäre Entzündung und Fibrose; dadurch geht die feine alveoläre Architektur zunehmend verloren."
+}

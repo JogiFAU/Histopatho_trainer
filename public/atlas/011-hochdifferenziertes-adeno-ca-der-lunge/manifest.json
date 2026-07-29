@@ -1,0 +1,250 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "011",
+    "name": "Hochdifferenziertes Adeno-CA der Lunge",
+    "organ": "Lunge",
+    "diagnosis": "Adenokarzinom",
+    "description": [
+      "dys- und atelektatisches Lungengewebe;",
+      "Bronchiolus;",
+      "tröpfchenförmiges Wachstumsmuster des Tumors (nicht solide);",
+      "Tumor wächst invasiv und ist unscharf begrenzt;",
+      "Architekturstörung: hochprismatische Zellen kleiden Tumor aus;",
+      "dys- und neoplastisches Drüsengewebe des Bronchialsystems mit Kernatypien:",
+      "- hyperchromatische Kerne",
+      "- verschobene Kern-Plasma Relation",
+      "- Mitosen",
+      "- Zellkerne mit erhaltener und mit verlorener Polarität zur BM;",
+      "Retentionspneumonie mit Exsudat;",
+      "Alveolen gefüllt mit Entzündungszellen"
+    ],
+    "slide_id": "2089907a-60b6-4066-94d6-3f9e77199814",
+    "slide_path": "Histopathologie 5. Semester/slides/011 - Hochdifferenziertes Adeno-CA der Lunge.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2089907a-60b6-4066-94d6-3f9e77199814&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2800,
+    "height": 3664,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Pneumonie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 54449,
+            "y": 64148
+          },
+          {
+            "x": 58477,
+            "y": 69183
+          }
+        ]
+      },
+      "anchor": {
+        "x": 56463.0,
+        "y": 66665.5
+      },
+      "crop": {
+        "left": 55552,
+        "top": 66048,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 911.0,
+        "y": 617.5
+      },
+      "atlas_image": "atlas/01-pneumonie-annotiert.jpg",
+      "exercise_image": "pruefung/01-pneumonie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Pneumonie“ als morphologischen Teilbefund. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    },
+    {
+      "id": 3,
+      "label": "Lungengewebe",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 49872,
+            "y": 100404
+          },
+          {
+            "x": 52918,
+            "y": 103759
+          }
+        ]
+      },
+      "anchor": {
+        "x": 51395.0,
+        "y": 102081.5
+      },
+      "crop": {
+        "left": 50432,
+        "top": 101376,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 963.0,
+        "y": 705.5
+      },
+      "atlas_image": "atlas/03-lungengewebe-annotiert.jpg",
+      "exercise_image": "pruefung/03-lungengewebe.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lungengewebe“ als morphologischen Teilbefund. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    },
+    {
+      "id": 5,
+      "label": "Tumorzellen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 55152,
+            "y": 49536
+          },
+          {
+            "x": 56581,
+            "y": 51118
+          }
+        ]
+      },
+      "anchor": {
+        "x": 55866.5,
+        "y": 50327.0
+      },
+      "crop": {
+        "left": 55040,
+        "top": 49664,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 826.5,
+        "y": 663.0
+      },
+      "atlas_image": "atlas/05-tumorzellen-annotiert.jpg",
+      "exercise_image": "pruefung/05-tumorzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms.",
+      "didactic_note": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    },
+    {
+      "id": 7,
+      "label": "Bronchiolus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 58016,
+            "y": 45296
+          },
+          {
+            "x": 61146,
+            "y": 48377
+          }
+        ]
+      },
+      "anchor": {
+        "x": 59581,
+        "y": 46836.5
+      },
+      "crop": {
+        "left": 58624,
+        "top": 46080,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 957,
+        "y": 756.5
+      },
+      "atlas_image": "atlas/07-bronchiolus-annotiert.jpg",
+      "exercise_image": "pruefung/07-bronchiolus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    },
+    {
+      "id": 9,
+      "label": "dystelektatische Alveolen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38500,
+            "y": 94500
+          },
+          {
+            "x": 41741,
+            "y": 98036
+          }
+        ]
+      },
+      "anchor": {
+        "x": 40120.5,
+        "y": 96268
+      },
+      "crop": {
+        "left": 39168,
+        "top": 95744,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 952.5,
+        "y": 524
+      },
+      "atlas_image": "atlas/09-dystelektatische-alveolen-annotiert.jpg",
+      "exercise_image": "pruefung/09-dystelektatische-alveolen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „dystelektatische Alveolen“ dient hier als anatomischer Orientierungspunkt. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Tumorzellen",
+      "exercise_image": "pruefung/05-tumorzellen.jpg",
+      "rationale": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms.",
+      "didactic_note": "Tumorzellen bilden den diagnostischen Kernbefund des pulmonalen Adenokarzinoms. Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+    }
+  ],
+  "didactic_context": "Ein pulmonales Adenokarzinom besteht aus atypischen epithelialen Tumorzellen mit drüsiger, azinärer oder lepidischer Differenzierung; invasives Wachstum trennt es von rein präinvasiven Läsionen."
+}

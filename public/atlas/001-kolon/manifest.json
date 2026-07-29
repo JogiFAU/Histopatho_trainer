@@ -1,0 +1,262 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "number": "001",
+    "name": "Kolon",
+    "organ_system": "Gastrointestinaltrakt",
+    "organ": "Kolon",
+    "diagnosis": "Referenz",
+    "description": [
+      "gerade, dicht stehende Krypten ohne Zotten",
+      "zahlreiche Becherzellen mit hellen Muzinvakuolen",
+      "typische Darmwandschichtung mit Stratum circulare und Stratum longitudinale",
+      "Auerbach-Plexus zwischen den Muskelschichten",
+      "Serosa und perikolisches Fettgewebe"
+    ],
+    "slide_id": "4667cbde-5dec-421f-8bc1-d5883cfbe880",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4667cbde-5dec-421f-8bc1-d5883cfbe880&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3952,
+    "height": 6800,
+    "level_0_to_overview_scale": 0.0625,
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Auerbach-Plexus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "point1": {
+          "x": 27000,
+          "y": 30000
+        },
+        "point2": {
+          "x": 29524,
+          "y": 33207
+        }
+      },
+      "anchor": {
+        "x": 28262,
+        "y": 31603.5
+      },
+      "crop": {
+        "left": 27392,
+        "top": 30976,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 870,
+        "y": 628
+      },
+      "atlas_image": "atlas/07-auerbach-plexus-annotiert.jpg",
+      "exercise_image": "pruefung/07-auerbach-plexus.jpg",
+      "exam_representative": true,
+      "exam_rationale": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand.",
+      "didactic_note": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "id": 11,
+      "label": "Krypte mit Becherzellen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "point1": {
+          "x": 49500,
+          "y": 39500
+        },
+        "point2": {
+          "x": 51118,
+          "y": 42578
+        }
+      },
+      "anchor": {
+        "x": 50309,
+        "y": 41039
+      },
+      "crop": {
+        "left": 49408,
+        "top": 40448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 901,
+        "y": 591
+      },
+      "atlas_image": "atlas/11-krypte-mit-becherzellen-annotiert.jpg",
+      "exercise_image": "pruefung/11-krypte-mit-becherzellen.jpg",
+      "exam_representative": true,
+      "exam_rationale": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons.",
+      "didactic_note": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "id": 14,
+      "label": "Perikolisches Fettgewebe",
+      "original_shape": "measurement",
+      "original_geometry": {
+        "point1": {
+          "x": 7287,
+          "y": 43287
+        },
+        "point2": {
+          "x": 20841,
+          "y": 43359
+        }
+      },
+      "anchor": {
+        "x": 14064,
+        "y": 43323
+      },
+      "crop": {
+        "left": 13056,
+        "top": 42752,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1008,
+        "y": 571
+      },
+      "atlas_image": "atlas/14-perikolisches-fettgewebe-annotiert.jpg",
+      "exercise_image": "pruefung/14-perikolisches-fettgewebe.jpg",
+      "didactic_note": "Die markierte Struktur „Perikolisches Fettgewebe“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "id": 15,
+      "label": "Stratum longitudinale",
+      "original_shape": "measurement",
+      "original_geometry": {
+        "point1": {
+          "x": 18043,
+          "y": 26410
+        },
+        "point2": {
+          "x": 29316,
+          "y": 26187
+        }
+      },
+      "anchor": {
+        "x": 23679.5,
+        "y": 26298.5
+      },
+      "crop": {
+        "left": 22784,
+        "top": 25600,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 896,
+        "y": 699
+      },
+      "atlas_image": "atlas/15-stratum-longitudinale-annotiert.jpg",
+      "exercise_image": "pruefung/15-stratum-longitudinale.jpg",
+      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "id": 16,
+      "label": "Stratum circulare",
+      "original_shape": "measurement",
+      "original_geometry": {
+        "point1": {
+          "x": 29859,
+          "y": 20505
+        },
+        "point2": {
+          "x": 38937,
+          "y": 16127
+        }
+      },
+      "anchor": {
+        "x": 34398,
+        "y": 18316
+      },
+      "crop": {
+        "left": 33536,
+        "top": 17664,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 862,
+        "y": 652
+      },
+      "atlas_image": "atlas/16-stratum-circulare-annotiert.jpg",
+      "exercise_image": "pruefung/16-stratum-circulare.jpg",
+      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "id": 17,
+      "label": "Lymphfollikel",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "point1": {
+          "x": 53330,
+          "y": 42113
+        },
+        "point2": {
+          "x": 56610,
+          "y": 44310
+        }
+      },
+      "anchor": {
+        "x": 54970,
+        "y": 43211.5
+      },
+      "crop": {
+        "left": 54016,
+        "top": 42496,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 954,
+        "y": 716
+      },
+      "atlas_image": "atlas/17-lymphfollikel-annotiert.jpg",
+      "exercise_image": "pruefung/17-lymphfollikel.jpg",
+      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 11,
+      "label": "Krypte mit Becherzellen",
+      "exercise_image": "pruefung/11-krypte-mit-becherzellen.jpg",
+      "rationale": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons.",
+      "didactic_note": "Krypte und Becherzellen als charakteristische Normalhistologie des Kolons. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    },
+    {
+      "annotation_id": 7,
+      "label": "Auerbach-Plexus",
+      "exercise_image": "pruefung/07-auerbach-plexus.jpg",
+      "rationale": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand.",
+      "didactic_note": "Auerbach-Plexus als zweite typische Struktur der normalen Darmwand. Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+    }
+  ],
+  "didactic_context": "Die normale Kolonschleimhaut besitzt gerade, dicht stehende Krypten ohne Zotten und viele Becherzellen; die regelhafte Wandschichtung mit myenterischem Plexus dient als Referenz für entzündliche und neoplastische Veränderungen."
+}

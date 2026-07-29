@@ -1,0 +1,1062 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "066",
+    "name": "Leichte Dysplasie der Cervix (CIN I)",
+    "organ": "Cervix",
+    "diagnosis": "leichte plattenepiteliale Dysplasie/ cervikale intraepitheliale Neoplasie/Carcinoma in situ (CIN I) der Cervix uteri",
+    "description": [
+      "Cervixschleimhaut mit hochprismatischem einschichtigem Epithel;",
+      "Cervikaldrüsen;",
+      "verschlossene Cervikaldrüse mit eingedicktem Sekret (Ovula naboti);",
+      "Schaumzellen;",
+      "Kauterrand durch operative Entfernung des Gewebes;",
+      "Koilozyten in denen sich HPV vermehrt (große Epithelzellen mit weißem Hof und dysplastischem Kern, kaum Zytoplasma);",
+      "Hyperplasie des betroffenen Epithels;",
+      "Cervicale intraepitheliale geringgradige Dysplasie im basalen 1/3",
+      "aber vollständiger Ausreifung bis zum obersten 1/3;",
+      "keine Mitosen;",
+      "CIN III siehe #67"
+    ],
+    "slide_id": "52a434a3-e44a-4148-a3c5-703f113c9636",
+    "slide_path": "Histopathologie 5. Semester/slides/066 - Leichte Dysplasie der Cervix (CIN I).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=52a434a3-e44a-4148-a3c5-703f113c9636&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2608,
+    "height": 4080,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Kauterrand",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36520.89,
+            "y": 27445.09
+          },
+          {
+            "x": 39839.87,
+            "y": 35004.97
+          }
+        ]
+      },
+      "anchor": {
+        "x": 38180.38,
+        "y": 31225.03
+      },
+      "crop": {
+        "left": 37376,
+        "top": 30464,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 804.38,
+        "y": 761.03
+      },
+      "atlas_image": "atlas/01-kauterrand-annotiert.jpg",
+      "exercise_image": "pruefung/01-kauterrand.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Kauterrand“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 9,
+      "label": "Endozervikalschleimhaut",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13440.4,
+            "y": 30146.76
+          },
+          {
+            "x": 14816.29,
+            "y": 34246.37
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14128.35,
+        "y": 32196.57
+      },
+      "crop": {
+        "left": 13312,
+        "top": 31488,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 816.35,
+        "y": 708.57
+      },
+      "atlas_image": "atlas/09-endozervikalschleimhaut-annotiert.jpg",
+      "exercise_image": "pruefung/09-endozervikalschleimhaut.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Endozervikalschleimhaut“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 15,
+      "label": "endozervikale Drüsen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19948.08,
+            "y": 39344.08
+          },
+          {
+            "x": 25181.07,
+            "y": 44018.91
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22564.57,
+        "y": 41681.49
+      },
+      "crop": {
+        "left": 21760,
+        "top": 40960,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 804.57,
+        "y": 721.49
+      },
+      "atlas_image": "atlas/15-endozervikale-drusen-annotiert.jpg",
+      "exercise_image": "pruefung/15-endozervikale-drusen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „endozervikale Drüsen“ dient hier als anatomischer Orientierungspunkt. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 21,
+      "label": "Schaumzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17089.07,
+            "y": 30753.04
+          },
+          {
+            "x": 17220.35,
+            "y": 30857.25
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17154.71,
+        "y": 30805.15
+      },
+      "crop": {
+        "left": 16384,
+        "top": 30208,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 770.71,
+        "y": 597.15
+      },
+      "atlas_image": "atlas/21-schaumzelle-annotiert.jpg",
+      "exercise_image": "pruefung/21-schaumzelle.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schaumzelle“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 22,
+      "label": "Ovula Nabothi",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20872.02,
+            "y": 28379.05
+          },
+          {
+            "x": 20697.65,
+            "y": 28458.21
+          },
+          {
+            "x": 20522.28,
+            "y": 28537.38
+          },
+          {
+            "x": 20379.98,
+            "y": 28616.55
+          },
+          {
+            "x": 20221.65,
+            "y": 28696.72
+          },
+          {
+            "x": 20078.35,
+            "y": 28775.88
+          },
+          {
+            "x": 19968.12,
+            "y": 28902.15
+          },
+          {
+            "x": 19856.88,
+            "y": 29092.55
+          },
+          {
+            "x": 19808.78,
+            "y": 29298.98
+          },
+          {
+            "x": 19808.78,
+            "y": 29584.58
+          },
+          {
+            "x": 19761.68,
+            "y": 29742.91
+          },
+          {
+            "x": 19698.55,
+            "y": 29996.45
+          },
+          {
+            "x": 19618.38,
+            "y": 30154.78
+          },
+          {
+            "x": 19539.22,
+            "y": 30298.08
+          },
+          {
+            "x": 19428.99,
+            "y": 30440.38
+          },
+          {
+            "x": 19317.75,
+            "y": 30598.71
+          },
+          {
+            "x": 19206.52,
+            "y": 30725.98
+          },
+          {
+            "x": 19111.32,
+            "y": 30868.28
+          },
+          {
+            "x": 18985.05,
+            "y": 31043.65
+          },
+          {
+            "x": 18873.82,
+            "y": 31201.98
+          },
+          {
+            "x": 18794.65,
+            "y": 31344.28
+          },
+          {
+            "x": 18683.42,
+            "y": 31518.64
+          },
+          {
+            "x": 18588.22,
+            "y": 31661.95
+          },
+          {
+            "x": 18509.05,
+            "y": 31820.28
+          },
+          {
+            "x": 18429.89,
+            "y": 31994.64
+          },
+          {
+            "x": 18365.75,
+            "y": 32169.01
+          },
+          {
+            "x": 18318.65,
+            "y": 32327.34
+          },
+          {
+            "x": 18255.52,
+            "y": 32533.78
+          },
+          {
+            "x": 18191.39,
+            "y": 32708.14
+          },
+          {
+            "x": 18175.35,
+            "y": 32898.54
+          },
+          {
+            "x": 18144.29,
+            "y": 33072.91
+          },
+          {
+            "x": 18144.29,
+            "y": 33279.34
+          },
+          {
+            "x": 18160.32,
+            "y": 33532.88
+          },
+          {
+            "x": 18207.42,
+            "y": 33754.34
+          },
+          {
+            "x": 18286.59,
+            "y": 33944.74
+          },
+          {
+            "x": 18350.72,
+            "y": 34135.14
+          },
+          {
+            "x": 18429.89,
+            "y": 34325.54
+          },
+          {
+            "x": 18493.02,
+            "y": 34483.87
+          },
+          {
+            "x": 18572.19,
+            "y": 34643.21
+          },
+          {
+            "x": 18683.42,
+            "y": 34833.61
+          },
+          {
+            "x": 18762.59,
+            "y": 34975.91
+          },
+          {
+            "x": 18825.72,
+            "y": 35134.24
+          },
+          {
+            "x": 18936.95,
+            "y": 35292.57
+          },
+          {
+            "x": 19000.08,
+            "y": 35451.91
+          },
+          {
+            "x": 19032.15,
+            "y": 35610.24
+          },
+          {
+            "x": 19032.15,
+            "y": 35816.67
+          },
+          {
+            "x": 18952.99,
+            "y": 35975.01
+          },
+          {
+            "x": 18857.79,
+            "y": 36181.44
+          },
+          {
+            "x": 18762.59,
+            "y": 36386.87
+          },
+          {
+            "x": 18730.52,
+            "y": 36561.24
+          },
+          {
+            "x": 18699.45,
+            "y": 36720.57
+          },
+          {
+            "x": 18667.39,
+            "y": 36878.91
+          },
+          {
+            "x": 18620.29,
+            "y": 37053.27
+          },
+          {
+            "x": 18572.19,
+            "y": 37243.67
+          },
+          {
+            "x": 18556.15,
+            "y": 37418.04
+          },
+          {
+            "x": 18556.15,
+            "y": 37624.47
+          },
+          {
+            "x": 18604.25,
+            "y": 37782.8
+          },
+          {
+            "x": 18651.35,
+            "y": 37973.2
+          },
+          {
+            "x": 18667.39,
+            "y": 38131.54
+          },
+          {
+            "x": 18730.52,
+            "y": 38305.9
+          },
+          {
+            "x": 18825.72,
+            "y": 38448.2
+          },
+          {
+            "x": 18952.99,
+            "y": 38575.47
+          },
+          {
+            "x": 19064.22,
+            "y": 38733.8
+          },
+          {
+            "x": 19174.45,
+            "y": 38924.2
+          },
+          {
+            "x": 19269.65,
+            "y": 39067.5
+          },
+          {
+            "x": 19380.88,
+            "y": 39193.77
+          },
+          {
+            "x": 19524.19,
+            "y": 39321.04
+          },
+          {
+            "x": 19682.52,
+            "y": 39400.2
+          },
+          {
+            "x": 19840.85,
+            "y": 39432.27
+          },
+          {
+            "x": 19999.18,
+            "y": 39447.3
+          },
+          {
+            "x": 20173.55,
+            "y": 39463.33
+          },
+          {
+            "x": 20332.88,
+            "y": 39479.37
+          },
+          {
+            "x": 20491.22,
+            "y": 39495.4
+          },
+          {
+            "x": 20681.62,
+            "y": 39463.33
+          },
+          {
+            "x": 20855.98,
+            "y": 39400.2
+          },
+          {
+            "x": 21046.38,
+            "y": 39288.97
+          },
+          {
+            "x": 21236.78,
+            "y": 39193.77
+          },
+          {
+            "x": 21395.12,
+            "y": 39098.57
+          },
+          {
+            "x": 21537.41,
+            "y": 38972.3
+          },
+          {
+            "x": 21664.68,
+            "y": 38829
+          },
+          {
+            "x": 21775.92,
+            "y": 38654.64
+          },
+          {
+            "x": 21871.12,
+            "y": 38464.24
+          },
+          {
+            "x": 21965.31,
+            "y": 38305.9
+          },
+          {
+            "x": 22045.48,
+            "y": 38131.54
+          },
+          {
+            "x": 22124.65,
+            "y": 37973.2
+          },
+          {
+            "x": 22187.78,
+            "y": 37813.87
+          },
+          {
+            "x": 22282.98,
+            "y": 37655.54
+          },
+          {
+            "x": 22378.18,
+            "y": 37513.24
+          },
+          {
+            "x": 22520.48,
+            "y": 37418.04
+          },
+          {
+            "x": 22663.78,
+            "y": 37322.84
+          },
+          {
+            "x": 22806.08,
+            "y": 37243.67
+          },
+          {
+            "x": 22964.41,
+            "y": 37195.57
+          },
+          {
+            "x": 23123.75,
+            "y": 37164.51
+          },
+          {
+            "x": 23298.11,
+            "y": 37164.51
+          },
+          {
+            "x": 23472.48,
+            "y": 37164.51
+          },
+          {
+            "x": 23646.85,
+            "y": 37164.51
+          },
+          {
+            "x": 23821.21,
+            "y": 37164.51
+          },
+          {
+            "x": 23979.55,
+            "y": 37132.44
+          },
+          {
+            "x": 24137.88,
+            "y": 37085.34
+          },
+          {
+            "x": 24297.21,
+            "y": 37021.2
+          },
+          {
+            "x": 24455.55,
+            "y": 36958.07
+          },
+          {
+            "x": 24629.91,
+            "y": 36909.97
+          },
+          {
+            "x": 24851.38,
+            "y": 36846.84
+          },
+          {
+            "x": 25026.75,
+            "y": 36799.74
+          },
+          {
+            "x": 25216.14,
+            "y": 36767.67
+          },
+          {
+            "x": 25375.48,
+            "y": 36735.6
+          },
+          {
+            "x": 25517.78,
+            "y": 36656.44
+          },
+          {
+            "x": 25676.11,
+            "y": 36561.24
+          },
+          {
+            "x": 25850.48,
+            "y": 36482.07
+          },
+          {
+            "x": 26040.88,
+            "y": 36402.91
+          },
+          {
+            "x": 26200.21,
+            "y": 36323.74
+          },
+          {
+            "x": 26358.54,
+            "y": 36244.57
+          },
+          {
+            "x": 26500.84,
+            "y": 36165.41
+          },
+          {
+            "x": 26659.17,
+            "y": 36070.21
+          },
+          {
+            "x": 26849.57,
+            "y": 35942.94
+          },
+          {
+            "x": 27008.91,
+            "y": 35847.74
+          },
+          {
+            "x": 27135.17,
+            "y": 35736.51
+          },
+          {
+            "x": 27262.44,
+            "y": 35626.27
+          },
+          {
+            "x": 27341.61,
+            "y": 35482.97
+          },
+          {
+            "x": 27420.77,
+            "y": 35340.67
+          },
+          {
+            "x": 27452.84,
+            "y": 35182.34
+          },
+          {
+            "x": 27483.91,
+            "y": 35007.97
+          },
+          {
+            "x": 27483.91,
+            "y": 34833.61
+          },
+          {
+            "x": 27483.91,
+            "y": 34658.24
+          },
+          {
+            "x": 27483.91,
+            "y": 34468.84
+          },
+          {
+            "x": 27483.91,
+            "y": 34293.47
+          },
+          {
+            "x": 27483.91,
+            "y": 34104.08
+          },
+          {
+            "x": 27436.81,
+            "y": 33913.68
+          },
+          {
+            "x": 27404.74,
+            "y": 33754.34
+          },
+          {
+            "x": 27357.64,
+            "y": 33579.97
+          },
+          {
+            "x": 27309.54,
+            "y": 33390.58
+          },
+          {
+            "x": 27246.41,
+            "y": 33215.21
+          },
+          {
+            "x": 27151.21,
+            "y": 33025.81
+          },
+          {
+            "x": 27056.01,
+            "y": 32866.48
+          },
+          {
+            "x": 26960.81,
+            "y": 32708.14
+          },
+          {
+            "x": 26849.57,
+            "y": 32533.78
+          },
+          {
+            "x": 26770.41,
+            "y": 32375.44
+          },
+          {
+            "x": 26691.24,
+            "y": 32185.04
+          },
+          {
+            "x": 26612.08,
+            "y": 32026.71
+          },
+          {
+            "x": 26548.94,
+            "y": 31867.38
+          },
+          {
+            "x": 26453.74,
+            "y": 31725.08
+          },
+          {
+            "x": 26374.58,
+            "y": 31582.78
+          },
+          {
+            "x": 26294.41,
+            "y": 31439.48
+          },
+          {
+            "x": 26215.24,
+            "y": 31297.18
+          },
+          {
+            "x": 26152.11,
+            "y": 31137.84
+          },
+          {
+            "x": 26088.98,
+            "y": 30963.48
+          },
+          {
+            "x": 25993.78,
+            "y": 30774.08
+          },
+          {
+            "x": 25929.64,
+            "y": 30614.75
+          },
+          {
+            "x": 25850.48,
+            "y": 30456.41
+          },
+          {
+            "x": 25755.28,
+            "y": 30266.01
+          },
+          {
+            "x": 25692.14,
+            "y": 30075.61
+          },
+          {
+            "x": 25612.98,
+            "y": 29901.25
+          },
+          {
+            "x": 25549.84,
+            "y": 29742.91
+          },
+          {
+            "x": 25422.58,
+            "y": 29536.48
+          },
+          {
+            "x": 25264.24,
+            "y": 29315.01
+          },
+          {
+            "x": 25153.01,
+            "y": 29155.68
+          },
+          {
+            "x": 25041.78,
+            "y": 29029.41
+          },
+          {
+            "x": 24883.44,
+            "y": 28871.08
+          },
+          {
+            "x": 24741.15,
+            "y": 28743.81
+          },
+          {
+            "x": 24613.88,
+            "y": 28616.55
+          },
+          {
+            "x": 24471.58,
+            "y": 28490.28
+          },
+          {
+            "x": 24344.31,
+            "y": 28379.05
+          },
+          {
+            "x": 24153.91,
+            "y": 28267.81
+          },
+          {
+            "x": 23947.48,
+            "y": 28157.58
+          },
+          {
+            "x": 23789.15,
+            "y": 28109.48
+          },
+          {
+            "x": 23630.81,
+            "y": 28046.35
+          },
+          {
+            "x": 23472.48,
+            "y": 28014.28
+          },
+          {
+            "x": 23298.11,
+            "y": 27967.18
+          },
+          {
+            "x": 23138.78,
+            "y": 27919.08
+          },
+          {
+            "x": 22933.35,
+            "y": 27871.98
+          },
+          {
+            "x": 22679.81,
+            "y": 27855.95
+          },
+          {
+            "x": 22489.41,
+            "y": 27855.95
+          },
+          {
+            "x": 22315.05,
+            "y": 27839.92
+          },
+          {
+            "x": 22140.68,
+            "y": 27839.92
+          },
+          {
+            "x": 21965.31,
+            "y": 27839.92
+          },
+          {
+            "x": 21775.92,
+            "y": 27839.92
+          },
+          {
+            "x": 21616.58,
+            "y": 27871.98
+          },
+          {
+            "x": 21442.21,
+            "y": 27919.08
+          },
+          {
+            "x": 21283.88,
+            "y": 27982.21
+          },
+          {
+            "x": 21141.58,
+            "y": 28062.38
+          },
+          {
+            "x": 21014.32,
+            "y": 28172.61
+          },
+          {
+            "x": 20903.08,
+            "y": 28299.88
+          },
+          {
+            "x": 20807.88,
+            "y": 28411.12
+          },
+          {
+            "x": 20807.88,
+            "y": 28411.12
+          },
+          {
+            "x": 20872.02,
+            "y": 28379.05
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22375.5,
+        "y": 33659.93
+      },
+      "crop": {
+        "left": 21504,
+        "top": 33024,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 871.5,
+        "y": 635.93
+      },
+      "atlas_image": "atlas/22-ovula-nabothi-annotiert.jpg",
+      "exercise_image": "pruefung/22-ovula-nabothi.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ovula Nabothi“ als morphologischen Teilbefund. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 23,
+      "label": "Koilozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15820.4,
+            "y": 7498.18
+          },
+          {
+            "x": 15902.58,
+            "y": 7611.42
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15861.49,
+        "y": 7554.8
+      },
+      "crop": {
+        "left": 14848,
+        "top": 6912,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1013.49,
+        "y": 642.8
+      },
+      "atlas_image": "atlas/23-koilozyt-annotiert.jpg",
+      "exercise_image": "pruefung/23-koilozyt.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I.",
+      "didactic_note": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "id": 24,
+      "label": "Koilozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16932.74,
+            "y": 5896.82
+          },
+          {
+            "x": 17029.95,
+            "y": 5978.99
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16981.34,
+        "y": 5937.9
+      },
+      "crop": {
+        "left": 16128,
+        "top": 5376,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 853.34,
+        "y": 561.9
+      },
+      "atlas_image": "atlas/24-koilozyt-annotiert.jpg",
+      "exercise_image": "pruefung/24-koilozyt.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation.",
+      "didactic_note": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 23,
+      "label": "Koilozyt",
+      "exercise_image": "pruefung/23-koilozyt.jpg",
+      "rationale": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I.",
+      "didactic_note": "Koilozyt als charakteristischer HPV-assoziierter Zellbefund der CIN I. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    },
+    {
+      "annotation_id": 24,
+      "label": "Koilozyt",
+      "exercise_image": "pruefung/24-koilozyt.jpg",
+      "rationale": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation.",
+      "didactic_note": "Zweiter repräsentativer Koilozytenausschnitt für zufällige Prüfungsvariation. Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+    }
+  ],
+  "didactic_context": "Bei CIN I beziehungsweise LSIL liegen HPV-typische Koilozyten und atypische basale Zellen überwiegend im unteren Epitheldrittel, während die oberflächliche Ausreifung erhalten bleibt."
+}

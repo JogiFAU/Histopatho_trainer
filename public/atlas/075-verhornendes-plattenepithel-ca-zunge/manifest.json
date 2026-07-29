@@ -1,0 +1,1544 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "075",
+    "name": "Verhornendes Plattenepithel-Ca (Zunge)",
+    "organ": "Zunge",
+    "diagnosis": "verhornendes Plattenepithelkarzinom",
+    "description": [
+      "Verlauf der Zungenmuskulatur;",
+      "unauffälliges Plattenepithel;",
+      "Tumor wächst invasiv in Form von tiefen Plattenepithelzapfen",
+      "und multipler Inselbildung in der Tiefe des Gewebes (diskontinuierliches Wachstum);",
+      "schwere Dysplasie (viele Mitosen, hyperchromatische Kerne, Nucleoli; verschobene Kern- Plasmarelation);",
+      "Hornperlen, sogenannte Königskugeln;",
+      "buntes tumorbegleitendes entzündliches Infiltrat",
+      "mit vielen Riesenzellen (fressen Hornperlen);",
+      "Ulzerationen;"
+    ],
+    "slide_id": "8f9dcfd8-840a-43b4-9cdd-ad6f12f5676f",
+    "slide_path": "Histopathologie 5. Semester/slides/075 - Verhornendes Plattenepithel-Ca (Zunge).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8f9dcfd8-840a-43b4-9cdd-ad6f12f5676f&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1896,
+    "height": 2776,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 9,
+      "label": "Plattenepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 21434.1,
+            "y": 74898.27
+          },
+          {
+            "x": 24729.67,
+            "y": 78782.93
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23081.88,
+        "y": 76840.6
+      },
+      "crop": {
+        "left": 22272,
+        "top": 76288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 809.88,
+        "y": 552.6
+      },
+      "atlas_image": "atlas/09-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/09-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    },
+    {
+      "id": 13,
+      "label": "Übergang Plattenepithel zu Tumor",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3894.1,
+            "y": 35440.71
+          },
+          {
+            "x": 16123.31,
+            "y": 41492.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10008.7,
+        "y": 38466.52
+      },
+      "crop": {
+        "left": 9216,
+        "top": 37888,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 792.7,
+        "y": 578.52
+      },
+      "atlas_image": "atlas/13-ubergang-plattenepithel-zu-tumor-annotiert.jpg",
+      "exercise_image": "pruefung/13-ubergang-plattenepithel-zu-tumor.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund.",
+      "didactic_note": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    },
+    {
+      "id": 14,
+      "label": "invasive Plattenepithelkarzinomverbände mit Hornperle",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31661.96,
+            "y": 27748.74
+          },
+          {
+            "x": 31566.76,
+            "y": 27748.74
+          },
+          {
+            "x": 31396.18,
+            "y": 27785.43
+          },
+          {
+            "x": 31300.97,
+            "y": 27793.37
+          },
+          {
+            "x": 31116.5,
+            "y": 27822.13
+          },
+          {
+            "x": 31042.12,
+            "y": 27830.06
+          },
+          {
+            "x": 30902.29,
+            "y": 27844.94
+          },
+          {
+            "x": 30820.96,
+            "y": 27844.94
+          },
+          {
+            "x": 30709.89,
+            "y": 27873.7
+          },
+          {
+            "x": 30621.62,
+            "y": 27911.38
+          },
+          {
+            "x": 30525.42,
+            "y": 27948.08
+          },
+          {
+            "x": 30458.98,
+            "y": 27992.71
+          },
+          {
+            "x": 30392.53,
+            "y": 28087.91
+          },
+          {
+            "x": 30370.71,
+            "y": 28177.17
+          },
+          {
+            "x": 30348.89,
+            "y": 28295.19
+          },
+          {
+            "x": 30334.02,
+            "y": 28390.4
+          },
+          {
+            "x": 30334.02,
+            "y": 28479.65
+          },
+          {
+            "x": 30334.02,
+            "y": 28575.85
+          },
+          {
+            "x": 30334.02,
+            "y": 28685.94
+          },
+          {
+            "x": 30340.96,
+            "y": 28870.4
+          },
+          {
+            "x": 30348.89,
+            "y": 28951.72
+          },
+          {
+            "x": 30370.71,
+            "y": 29039.99
+          },
+          {
+            "x": 30392.53,
+            "y": 29114.37
+          },
+          {
+            "x": 30422.28,
+            "y": 29202.63
+          },
+          {
+            "x": 30473.85,
+            "y": 29313.71
+          },
+          {
+            "x": 30533.36,
+            "y": 29423.79
+          },
+          {
+            "x": 30555.18,
+            "y": 29498.17
+          },
+          {
+            "x": 30606.75,
+            "y": 29652.89
+          },
+          {
+            "x": 30629.56,
+            "y": 29741.15
+          },
+          {
+            "x": 30651.37,
+            "y": 29830.41
+          },
+          {
+            "x": 30658.32,
+            "y": 29911.73
+          },
+          {
+            "x": 30666.25,
+            "y": 30000
+          },
+          {
+            "x": 30666.25,
+            "y": 30088.26
+          },
+          {
+            "x": 30658.32,
+            "y": 30162.64
+          },
+          {
+            "x": 30651.37,
+            "y": 30250.91
+          },
+          {
+            "x": 30636.5,
+            "y": 30405.62
+          },
+          {
+            "x": 30629.56,
+            "y": 30523.64
+          },
+          {
+            "x": 30614.68,
+            "y": 30752.73
+          },
+          {
+            "x": 30614.68,
+            "y": 30834.05
+          },
+          {
+            "x": 30621.62,
+            "y": 30907.44
+          },
+          {
+            "x": 30643.44,
+            "y": 31010.59
+          },
+          {
+            "x": 30688.07,
+            "y": 31084.97
+          },
+          {
+            "x": 30732.7,
+            "y": 31173.23
+          },
+          {
+            "x": 30799.14,
+            "y": 31239.68
+          },
+          {
+            "x": 30865.59,
+            "y": 31291.25
+          },
+          {
+            "x": 30938.98,
+            "y": 31335.88
+          },
+          {
+            "x": 31071.87,
+            "y": 31394.39
+          },
+          {
+            "x": 31175.02,
+            "y": 31446.95
+          },
+          {
+            "x": 31315.84,
+            "y": 31475.71
+          },
+          {
+            "x": 31396.18,
+            "y": 31483.65
+          },
+          {
+            "x": 31573.7,
+            "y": 31483.65
+          },
+          {
+            "x": 31728.41,
+            "y": 31505.47
+          },
+          {
+            "x": 31861.3,
+            "y": 31505.47
+          },
+          {
+            "x": 32017.01,
+            "y": 31505.47
+          },
+          {
+            "x": 32135.03,
+            "y": 31505.47
+          },
+          {
+            "x": 32223.29,
+            "y": 31505.47
+          },
+          {
+            "x": 32304.61,
+            "y": 31498.52
+          },
+          {
+            "x": 32415.69,
+            "y": 31498.52
+          },
+          {
+            "x": 32496.02,
+            "y": 31505.47
+          },
+          {
+            "x": 32607.1,
+            "y": 31520.34
+          },
+          {
+            "x": 32799.49,
+            "y": 31550.09
+          },
+          {
+            "x": 32879.83,
+            "y": 31557.04
+          },
+          {
+            "x": 33064.29,
+            "y": 31557.04
+          },
+          {
+            "x": 33286.44,
+            "y": 31557.04
+          },
+          {
+            "x": 33477.85,
+            "y": 31505.47
+          },
+          {
+            "x": 33603.8,
+            "y": 31483.65
+          },
+          {
+            "x": 33685.12,
+            "y": 31460.84
+          },
+          {
+            "x": 33773.39,
+            "y": 31432.08
+          },
+          {
+            "x": 33869.59,
+            "y": 31402.32
+          },
+          {
+            "x": 33949.92,
+            "y": 31380.51
+          },
+          {
+            "x": 34068.93,
+            "y": 31321
+          },
+          {
+            "x": 34149.26,
+            "y": 31269.43
+          },
+          {
+            "x": 34215.71,
+            "y": 31217.86
+          },
+          {
+            "x": 34341.66,
+            "y": 31084.97
+          },
+          {
+            "x": 34393.23,
+            "y": 31025.46
+          },
+          {
+            "x": 34422.98,
+            "y": 30944.14
+          },
+          {
+            "x": 34466.62,
+            "y": 30870.75
+          },
+          {
+            "x": 34511.25,
+            "y": 30767.61
+          },
+          {
+            "x": 34562.82,
+            "y": 30708.1
+          },
+          {
+            "x": 34629.26,
+            "y": 30619.84
+          },
+          {
+            "x": 34703.64,
+            "y": 30538.51
+          },
+          {
+            "x": 34747.28,
+            "y": 30442.32
+          },
+          {
+            "x": 34806.79,
+            "y": 30354.05
+          },
+          {
+            "x": 34858.36,
+            "y": 30272.73
+          },
+          {
+            "x": 34916.87,
+            "y": 30162.64
+          },
+          {
+            "x": 34983.32,
+            "y": 30036.69
+          },
+          {
+            "x": 35021,
+            "y": 29933.55
+          },
+          {
+            "x": 35049.76,
+            "y": 29852.23
+          },
+          {
+            "x": 35079.52,
+            "y": 29734.21
+          },
+          {
+            "x": 35094.39,
+            "y": 29645.94
+          },
+          {
+            "x": 35094.39,
+            "y": 29498.17
+          },
+          {
+            "x": 35094.39,
+            "y": 29401.98
+          },
+          {
+            "x": 35087.45,
+            "y": 29305.78
+          },
+          {
+            "x": 35057.7,
+            "y": 29202.63
+          },
+          {
+            "x": 35027.94,
+            "y": 29121.31
+          },
+          {
+            "x": 34976.37,
+            "y": 29047.92
+          },
+          {
+            "x": 34909.93,
+            "y": 28973.54
+          },
+          {
+            "x": 34821.66,
+            "y": 28929.9
+          },
+          {
+            "x": 34740.34,
+            "y": 28900.15
+          },
+          {
+            "x": 34665.96,
+            "y": 28878.33
+          },
+          {
+            "x": 34562.82,
+            "y": 28878.33
+          },
+          {
+            "x": 34481.49,
+            "y": 28878.33
+          },
+          {
+            "x": 34408.1,
+            "y": 28863.46
+          },
+          {
+            "x": 34319.84,
+            "y": 28811.89
+          },
+          {
+            "x": 34172.07,
+            "y": 28685.94
+          },
+          {
+            "x": 34097.69,
+            "y": 28612.55
+          },
+          {
+            "x": 34031.24,
+            "y": 28553.04
+          },
+          {
+            "x": 33979.67,
+            "y": 28456.84
+          },
+          {
+            "x": 33921.16,
+            "y": 28323.95
+          },
+          {
+            "x": 33884.46,
+            "y": 28235.68
+          },
+          {
+            "x": 33861.65,
+            "y": 28162.29
+          },
+          {
+            "x": 33831.9,
+            "y": 28087.91
+          },
+          {
+            "x": 33788.26,
+            "y": 28006.59
+          },
+          {
+            "x": 33736.69,
+            "y": 27940.14
+          },
+          {
+            "x": 33655.37,
+            "y": 27866.75
+          },
+          {
+            "x": 33574.05,
+            "y": 27815.18
+          },
+          {
+            "x": 33500.66,
+            "y": 27778.49
+          },
+          {
+            "x": 33404.46,
+            "y": 27741.79
+          },
+          {
+            "x": 33315.2,
+            "y": 27718.98
+          },
+          {
+            "x": 33241.81,
+            "y": 27704.11
+          },
+          {
+            "x": 33160.49,
+            "y": 27689.23
+          },
+          {
+            "x": 33057.35,
+            "y": 27689.23
+          },
+          {
+            "x": 32969.08,
+            "y": 27682.29
+          },
+          {
+            "x": 32887.76,
+            "y": 27675.35
+          },
+          {
+            "x": 32799.49,
+            "y": 27667.41
+          },
+          {
+            "x": 32688.42,
+            "y": 27667.41
+          },
+          {
+            "x": 32600.15,
+            "y": 27667.41
+          },
+          {
+            "x": 32496.02,
+            "y": 27667.41
+          },
+          {
+            "x": 32319.49,
+            "y": 27667.41
+          },
+          {
+            "x": 32230.23,
+            "y": 27667.41
+          },
+          {
+            "x": 32127.09,
+            "y": 27667.41
+          },
+          {
+            "x": 32031.88,
+            "y": 27667.41
+          },
+          {
+            "x": 31950.56,
+            "y": 27675.35
+          },
+          {
+            "x": 31876.18,
+            "y": 27682.29
+          },
+          {
+            "x": 31802.79,
+            "y": 27712.04
+          },
+          {
+            "x": 31728.41,
+            "y": 27741.79
+          },
+          {
+            "x": 31633.2,
+            "y": 27748.74
+          },
+          {
+            "x": 31633.2,
+            "y": 27748.74
+          },
+          {
+            "x": 31661.96,
+            "y": 27748.74
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32565.08,
+        "y": 29476.36
+      },
+      "crop": {
+        "left": 31744,
+        "top": 28928,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 821.08,
+        "y": 548.36
+      },
+      "atlas_image": "atlas/14-invasive-plattenepithelkarzinomverbande-mit-hornperle-annotiert.jpg",
+      "exercise_image": "pruefung/14-invasive-plattenepithelkarzinomverbande-mit-hornperle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund.",
+      "didactic_note": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    },
+    {
+      "id": 17,
+      "label": "Zungenmuskulatur",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37016.39,
+            "y": 47321.81
+          },
+          {
+            "x": 36560.19,
+            "y": 47321.81
+          },
+          {
+            "x": 35989.94,
+            "y": 47207.76
+          },
+          {
+            "x": 35419.68,
+            "y": 47093.71
+          },
+          {
+            "x": 34924.8,
+            "y": 46979.66
+          },
+          {
+            "x": 34507.28,
+            "y": 46865.61
+          },
+          {
+            "x": 34126.45,
+            "y": 46713.87
+          },
+          {
+            "x": 33746.61,
+            "y": 46637.51
+          },
+          {
+            "x": 33252.72,
+            "y": 46523.46
+          },
+          {
+            "x": 32757.84,
+            "y": 46409.41
+          },
+          {
+            "x": 32339.32,
+            "y": 46295.36
+          },
+          {
+            "x": 31921.8,
+            "y": 46219.98
+          },
+          {
+            "x": 31465.6,
+            "y": 46143.62
+          },
+          {
+            "x": 31009.39,
+            "y": 46067.26
+          },
+          {
+            "x": 30514.51,
+            "y": 45953.2
+          },
+          {
+            "x": 29982.94,
+            "y": 45801.47
+          },
+          {
+            "x": 29259.96,
+            "y": 45573.37
+          },
+          {
+            "x": 28727.39,
+            "y": 45459.32
+          },
+          {
+            "x": 28309.87,
+            "y": 45345.26
+          },
+          {
+            "x": 27853.66,
+            "y": 45231.21
+          },
+          {
+            "x": 27397.46,
+            "y": 45154.85
+          },
+          {
+            "x": 27016.63,
+            "y": 45117.16
+          },
+          {
+            "x": 26598.11,
+            "y": 45003.11
+          },
+          {
+            "x": 26141.91,
+            "y": 44926.75
+          },
+          {
+            "x": 25610.34,
+            "y": 44812.7
+          },
+          {
+            "x": 25191.82,
+            "y": 44736.33
+          },
+          {
+            "x": 24431.15,
+            "y": 44622.28
+          },
+          {
+            "x": 24051.31,
+            "y": 44584.6
+          },
+          {
+            "x": 23595.11,
+            "y": 44546.91
+          },
+          {
+            "x": 23176.59,
+            "y": 44470.55
+          },
+          {
+            "x": 22758.08,
+            "y": 44394.18
+          },
+          {
+            "x": 22378.24,
+            "y": 44356.5
+          },
+          {
+            "x": 21693.94,
+            "y": 44356.5
+          },
+          {
+            "x": 21237.73,
+            "y": 44356.5
+          },
+          {
+            "x": 20819.22,
+            "y": 44280.13
+          },
+          {
+            "x": 20172.6,
+            "y": 44280.13
+          },
+          {
+            "x": 19716.4,
+            "y": 44280.13
+          },
+          {
+            "x": 19298.87,
+            "y": 44280.13
+          },
+          {
+            "x": 18842.67,
+            "y": 44280.13
+          },
+          {
+            "x": 18461.84,
+            "y": 44394.18
+          },
+          {
+            "x": 18005.64,
+            "y": 44584.6
+          },
+          {
+            "x": 17549.43,
+            "y": 44775.01
+          },
+          {
+            "x": 17130.92,
+            "y": 44965.43
+          },
+          {
+            "x": 16674.72,
+            "y": 45268.9
+          },
+          {
+            "x": 16294.88,
+            "y": 45421.63
+          },
+          {
+            "x": 15762.31,
+            "y": 45725.1
+          },
+          {
+            "x": 15382.47,
+            "y": 45991.88
+          },
+          {
+            "x": 15040.32,
+            "y": 46371.72
+          },
+          {
+            "x": 14773.54,
+            "y": 46713.87
+          },
+          {
+            "x": 14545.44,
+            "y": 47170.08
+          },
+          {
+            "x": 14393.7,
+            "y": 47549.91
+          },
+          {
+            "x": 14279.65,
+            "y": 47930.74
+          },
+          {
+            "x": 14089.24,
+            "y": 48424.63
+          },
+          {
+            "x": 13937.5,
+            "y": 48919.51
+          },
+          {
+            "x": 13899.81,
+            "y": 49603.82
+          },
+          {
+            "x": 13861.14,
+            "y": 50174.07
+          },
+          {
+            "x": 13861.14,
+            "y": 50782.01
+          },
+          {
+            "x": 13861.14,
+            "y": 51276.89
+          },
+          {
+            "x": 13861.14,
+            "y": 52075.25
+          },
+          {
+            "x": 13899.81,
+            "y": 52531.45
+          },
+          {
+            "x": 13937.5,
+            "y": 53025.34
+          },
+          {
+            "x": 14013.86,
+            "y": 53519.23
+          },
+          {
+            "x": 14013.86,
+            "y": 53937.74
+          },
+          {
+            "x": 14013.86,
+            "y": 54432.62
+          },
+          {
+            "x": 14051.55,
+            "y": 54888.83
+          },
+          {
+            "x": 14127.91,
+            "y": 55345.03
+          },
+          {
+            "x": 14165.6,
+            "y": 55724.87
+          },
+          {
+            "x": 14317.34,
+            "y": 56104.7
+          },
+          {
+            "x": 14507.75,
+            "y": 56446.86
+          },
+          {
+            "x": 14698.17,
+            "y": 56789.01
+          },
+          {
+            "x": 14963.96,
+            "y": 57093.47
+          },
+          {
+            "x": 15268.42,
+            "y": 57397.94
+          },
+          {
+            "x": 15610.57,
+            "y": 57663.73
+          },
+          {
+            "x": 15915.04,
+            "y": 57930.51
+          },
+          {
+            "x": 16294.88,
+            "y": 58310.34
+          },
+          {
+            "x": 16522.98,
+            "y": 58652.5
+          },
+          {
+            "x": 16788.77,
+            "y": 59032.34
+          },
+          {
+            "x": 17055.55,
+            "y": 59374.49
+          },
+          {
+            "x": 17435.38,
+            "y": 59831.68
+          },
+          {
+            "x": 17701.17,
+            "y": 60211.52
+          },
+          {
+            "x": 17929.27,
+            "y": 60553.67
+          },
+          {
+            "x": 18196.05,
+            "y": 60895.82
+          },
+          {
+            "x": 18424.15,
+            "y": 61237.98
+          },
+          {
+            "x": 18689.94,
+            "y": 61542.44
+          },
+          {
+            "x": 18994.41,
+            "y": 61922.28
+          },
+          {
+            "x": 19336.56,
+            "y": 62340.8
+          },
+          {
+            "x": 19641.02,
+            "y": 62759.31
+          },
+          {
+            "x": 19906.81,
+            "y": 63062.79
+          },
+          {
+            "x": 20211.28,
+            "y": 63404.94
+          },
+          {
+            "x": 20705.17,
+            "y": 63861.14
+          },
+          {
+            "x": 21047.32,
+            "y": 64203.29
+          },
+          {
+            "x": 21351.78,
+            "y": 64470.07
+          },
+          {
+            "x": 21617.57,
+            "y": 64812.22
+          },
+          {
+            "x": 22036.09,
+            "y": 65154.38
+          },
+          {
+            "x": 22415.93,
+            "y": 65496.53
+          },
+          {
+            "x": 22872.13,
+            "y": 65876.37
+          },
+          {
+            "x": 23176.59,
+            "y": 66143.15
+          },
+          {
+            "x": 23556.43,
+            "y": 66408.93
+          },
+          {
+            "x": 23937.26,
+            "y": 66674.72
+          },
+          {
+            "x": 24279.41,
+            "y": 66941.5
+          },
+          {
+            "x": 24697.93,
+            "y": 67244.97
+          },
+          {
+            "x": 25001.4,
+            "y": 67511.75
+          },
+          {
+            "x": 25382.23,
+            "y": 67815.23
+          },
+          {
+            "x": 26027.86,
+            "y": 68347.79
+          },
+          {
+            "x": 26370.01,
+            "y": 68613.58
+          },
+          {
+            "x": 26826.22,
+            "y": 68956.73
+          },
+          {
+            "x": 27207.05,
+            "y": 69222.51
+          },
+          {
+            "x": 27739.61,
+            "y": 69564.67
+          },
+          {
+            "x": 28233.5,
+            "y": 69944.5
+          },
+          {
+            "x": 28803.75,
+            "y": 70211.28
+          },
+          {
+            "x": 29222.27,
+            "y": 70514.76
+          },
+          {
+            "x": 29602.11,
+            "y": 70742.86
+          },
+          {
+            "x": 30134.68,
+            "y": 71009.64
+          },
+          {
+            "x": 30553.19,
+            "y": 71199.06
+          },
+          {
+            "x": 31084.77,
+            "y": 71275.42
+          },
+          {
+            "x": 31883.12,
+            "y": 71389.48
+          },
+          {
+            "x": 32301.64,
+            "y": 71465.84
+          },
+          {
+            "x": 32757.84,
+            "y": 71465.84
+          },
+          {
+            "x": 33442.14,
+            "y": 71427.16
+          },
+          {
+            "x": 33860.66,
+            "y": 71351.79
+          },
+          {
+            "x": 34240.5,
+            "y": 71237.74
+          },
+          {
+            "x": 34659.02,
+            "y": 71123.69
+          },
+          {
+            "x": 35038.85,
+            "y": 70970.96
+          },
+          {
+            "x": 35723.16,
+            "y": 70667.49
+          },
+          {
+            "x": 36180.35,
+            "y": 70400.71
+          },
+          {
+            "x": 36560.19,
+            "y": 70172.6
+          },
+          {
+            "x": 36940.03,
+            "y": 69869.13
+          },
+          {
+            "x": 37282.18,
+            "y": 69564.67
+          },
+          {
+            "x": 37586.65,
+            "y": 69222.51
+          },
+          {
+            "x": 37814.75,
+            "y": 68880.36
+          },
+          {
+            "x": 38005.16,
+            "y": 68499.53
+          },
+          {
+            "x": 38156.9,
+            "y": 68119.69
+          },
+          {
+            "x": 38347.31,
+            "y": 67549.44
+          },
+          {
+            "x": 38422.69,
+            "y": 67130.92
+          },
+          {
+            "x": 38536.74,
+            "y": 66751.09
+          },
+          {
+            "x": 38613.1,
+            "y": 66332.57
+          },
+          {
+            "x": 38650.79,
+            "y": 65915.04
+          },
+          {
+            "x": 38689.47,
+            "y": 65534.21
+          },
+          {
+            "x": 38613.1,
+            "y": 65001.65
+          },
+          {
+            "x": 38499.05,
+            "y": 64621.81
+          },
+          {
+            "x": 38422.69,
+            "y": 64165.61
+          },
+          {
+            "x": 38233.26,
+            "y": 63823.45
+          },
+          {
+            "x": 38080.54,
+            "y": 63367.25
+          },
+          {
+            "x": 37928.8,
+            "y": 62948.74
+          },
+          {
+            "x": 37663.01,
+            "y": 62492.53
+          },
+          {
+            "x": 37396.23,
+            "y": 62074.02
+          },
+          {
+            "x": 37206.81,
+            "y": 61731.86
+          },
+          {
+            "x": 36978.71,
+            "y": 61275.66
+          },
+          {
+            "x": 36788.29,
+            "y": 60819.46
+          },
+          {
+            "x": 36636.55,
+            "y": 60401.93
+          },
+          {
+            "x": 36522.5,
+            "y": 59907.05
+          },
+          {
+            "x": 36522.5,
+            "y": 59450.85
+          },
+          {
+            "x": 36522.5,
+            "y": 58994.65
+          },
+          {
+            "x": 36483.83,
+            "y": 58272.66
+          },
+          {
+            "x": 36597.88,
+            "y": 57854.14
+          },
+          {
+            "x": 36864.66,
+            "y": 57511.99
+          },
+          {
+            "x": 37244.49,
+            "y": 57093.47
+          },
+          {
+            "x": 37510.28,
+            "y": 56789.01
+          },
+          {
+            "x": 37738.38,
+            "y": 56446.86
+          },
+          {
+            "x": 38005.16,
+            "y": 56029.33
+          },
+          {
+            "x": 38233.26,
+            "y": 55573.13
+          },
+          {
+            "x": 38347.31,
+            "y": 55154.61
+          },
+          {
+            "x": 38347.31,
+            "y": 54622.05
+          },
+          {
+            "x": 38308.64,
+            "y": 54242.21
+          },
+          {
+            "x": 38233.26,
+            "y": 53786.01
+          },
+          {
+            "x": 38119.21,
+            "y": 53405.18
+          },
+          {
+            "x": 38080.54,
+            "y": 52987.65
+          },
+          {
+            "x": 38005.16,
+            "y": 52606.82
+          },
+          {
+            "x": 37966.48,
+            "y": 52226.98
+          },
+          {
+            "x": 37966.48,
+            "y": 51770.78
+          },
+          {
+            "x": 38156.9,
+            "y": 51314.58
+          },
+          {
+            "x": 38422.69,
+            "y": 50972.42
+          },
+          {
+            "x": 38727.15,
+            "y": 50591.59
+          },
+          {
+            "x": 38993.93,
+            "y": 50249.44
+          },
+          {
+            "x": 39222.03,
+            "y": 49869.6
+          },
+          {
+            "x": 39411.46,
+            "y": 49489.77
+          },
+          {
+            "x": 39564.19,
+            "y": 48994.89
+          },
+          {
+            "x": 39639.56,
+            "y": 48615.05
+          },
+          {
+            "x": 39639.56,
+            "y": 48196.53
+          },
+          {
+            "x": 39373.77,
+            "y": 47892.07
+          },
+          {
+            "x": 39069.3,
+            "y": 47588.59
+          },
+          {
+            "x": 38727.15,
+            "y": 47360.49
+          },
+          {
+            "x": 38347.31,
+            "y": 47246.44
+          },
+          {
+            "x": 37966.48,
+            "y": 47207.76
+          },
+          {
+            "x": 36978.71,
+            "y": 47321.81
+          },
+          {
+            "x": 36978.71,
+            "y": 47321.81
+          },
+          {
+            "x": 37016.39,
+            "y": 47321.81
+          }
+        ]
+      },
+      "anchor": {
+        "x": 27994.69,
+        "y": 56306.61
+      },
+      "crop": {
+        "left": 27136,
+        "top": 55552,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 858.69,
+        "y": 754.61
+      },
+      "atlas_image": "atlas/17-zungenmuskulatur-annotiert.jpg",
+      "exercise_image": "pruefung/17-zungenmuskulatur.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Zungenmuskulatur“ dient hier als anatomischer Orientierungspunkt. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    },
+    {
+      "id": 18,
+      "label": "Riesenzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29079.46,
+            "y": 18606.83
+          },
+          {
+            "x": 29688.39,
+            "y": 19168.16
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29383.92,
+        "y": 18887.5
+      },
+      "crop": {
+        "left": 28416,
+        "top": 18176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 967.92,
+        "y": 711.5
+      },
+      "atlas_image": "atlas/18-riesenzelle-annotiert.jpg",
+      "exercise_image": "pruefung/18-riesenzelle.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Riesenzelle“ als morphologischen Teilbefund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 14,
+      "label": "invasive Plattenepithelkarzinomverbände mit Hornperle",
+      "exercise_image": "pruefung/14-invasive-plattenepithelkarzinomverbande-mit-hornperle.jpg",
+      "rationale": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund.",
+      "didactic_note": "Invasive Plattenepithelkarzinomverbände mit Hornperle als hochspezifischer Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    },
+    {
+      "annotation_id": 13,
+      "label": "Übergang Plattenepithel zu Tumor",
+      "exercise_image": "pruefung/13-ubergang-plattenepithel-zu-tumor.jpg",
+      "rationale": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund.",
+      "didactic_note": "Übergang vom Plattenepithel zum Tumor als ergänzender Befund. Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+    }
+  ],
+  "didactic_context": "Das verhornende Plattenepithelkarzinom der Zunge wächst in invasiven Nestern und Strängen mit Interzellularbrücken und Hornperlen; der Übergang vom Oberflächenepithel hilft bei der topografischen Zuordnung."
+}

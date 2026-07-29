@@ -1,0 +1,912 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "084",
+    "name": "Nebenschilddrüse",
+    "organ": "Nebenschilddrüse & Schilddrüse",
+    "diagnosis": "Nebenschilddrüse mit Struma colloides nodosa",
+    "description": [
+      "Nebenschilddrüse:",
+      "liegt Schilddrüse auf",
+      "ist von Bindegewebskapsel umgeben und septiert",
+      "Hauptzellen bilden Parathormon",
+      "lipomatös durchsetzt",
+      "Schrumpfungsartefakte vom Fixieren",
+      "Schilddrüse mit Follikelepithelzellen (Thyreozyten);",
+      "Kolloid;",
+      "Strumaknoten mit fokaler Hyperplasie (siehe #40);"
+    ],
+    "slide_id": "0e344844-da98-4614-8e28-8edac630d2d2",
+    "slide_path": "Histopathologie 5. Semester/slides/084 - Nebenschilddrüse.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0e344844-da98-4614-8e28-8edac630d2d2&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Nebenschilddrüse",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23176.14,
+            "y": 5747.3
+          },
+          {
+            "x": 23176.14,
+            "y": 5921.87
+          },
+          {
+            "x": 23128.59,
+            "y": 6096.45
+          },
+          {
+            "x": 23065.4,
+            "y": 6271.02
+          },
+          {
+            "x": 22969.65,
+            "y": 6413.68
+          },
+          {
+            "x": 22874.54,
+            "y": 6556.99
+          },
+          {
+            "x": 22779.44,
+            "y": 6699.64
+          },
+          {
+            "x": 22652.42,
+            "y": 6826.67
+          },
+          {
+            "x": 22525.39,
+            "y": 6953.69
+          },
+          {
+            "x": 22398.37,
+            "y": 7080.71
+          },
+          {
+            "x": 22255.06,
+            "y": 7223.37
+          },
+          {
+            "x": 22128.04,
+            "y": 7382.31
+          },
+          {
+            "x": 22049.22,
+            "y": 7524.97
+          },
+          {
+            "x": 21969.75,
+            "y": 7668.27
+          },
+          {
+            "x": 21890.28,
+            "y": 7826.56
+          },
+          {
+            "x": 21810.81,
+            "y": 8001.79
+          },
+          {
+            "x": 21763.26,
+            "y": 8192
+          },
+          {
+            "x": 21763.26,
+            "y": 8366.58
+          },
+          {
+            "x": 21778.89,
+            "y": 8525.52
+          },
+          {
+            "x": 21810.81,
+            "y": 8732.01
+          },
+          {
+            "x": 21874.65,
+            "y": 8890.3
+          },
+          {
+            "x": 21922.2,
+            "y": 9065.53
+          },
+          {
+            "x": 21937.83,
+            "y": 9255.74
+          },
+          {
+            "x": 22001.67,
+            "y": 9414.68
+          },
+          {
+            "x": 22080.49,
+            "y": 9589.25
+          },
+          {
+            "x": 22159.96,
+            "y": 9748.19
+          },
+          {
+            "x": 22271.35,
+            "y": 9906.48
+          },
+          {
+            "x": 22414.01,
+            "y": 10033.51
+          },
+          {
+            "x": 22541.03,
+            "y": 10144.9
+          },
+          {
+            "x": 22699.97,
+            "y": 10256.28
+          },
+          {
+            "x": 22842.63,
+            "y": 10335.1
+          },
+          {
+            "x": 23001.57,
+            "y": 10383.31
+          },
+          {
+            "x": 23191.78,
+            "y": 10414.58
+          },
+          {
+            "x": 23367,
+            "y": 10414.58
+          },
+          {
+            "x": 23541.58,
+            "y": 10414.58
+          },
+          {
+            "x": 23716.15,
+            "y": 10414.58
+          },
+          {
+            "x": 23890.73,
+            "y": 10398.94
+          },
+          {
+            "x": 24080.94,
+            "y": 10367.02
+          },
+          {
+            "x": 24239.88,
+            "y": 10351.39
+          },
+          {
+            "x": 24414.45,
+            "y": 10335.1
+          },
+          {
+            "x": 24589.03,
+            "y": 10335.1
+          },
+          {
+            "x": 24763.6,
+            "y": 10335.1
+          },
+          {
+            "x": 24938.83,
+            "y": 10351.39
+          },
+          {
+            "x": 25113.4,
+            "y": 10383.31
+          },
+          {
+            "x": 25287.98,
+            "y": 10398.94
+          },
+          {
+            "x": 25446.27,
+            "y": 10430.86
+          },
+          {
+            "x": 25621.5,
+            "y": 10478.41
+          },
+          {
+            "x": 25779.79,
+            "y": 10510.33
+          },
+          {
+            "x": 25938.73,
+            "y": 10557.88
+          },
+          {
+            "x": 26097.67,
+            "y": 10589.15
+          },
+          {
+            "x": 26256.61,
+            "y": 10636.7
+          },
+          {
+            "x": 26431.19,
+            "y": 10652.99
+          },
+          {
+            "x": 26589.48,
+            "y": 10684.91
+          },
+          {
+            "x": 26780.34,
+            "y": 10732.46
+          },
+          {
+            "x": 26954.91,
+            "y": 10763.73
+          },
+          {
+            "x": 27113.85,
+            "y": 10811.93
+          },
+          {
+            "x": 27272.14,
+            "y": 10859.48
+          },
+          {
+            "x": 27431.08,
+            "y": 10907.03
+          },
+          {
+            "x": 27590.03,
+            "y": 10970.22
+          },
+          {
+            "x": 27764.6,
+            "y": 11017.77
+          },
+          {
+            "x": 27939.18,
+            "y": 11081.61
+          },
+          {
+            "x": 28113.75,
+            "y": 11113.53
+          },
+          {
+            "x": 28288.33,
+            "y": 11144.79
+          },
+          {
+            "x": 28447.27,
+            "y": 11193
+          },
+          {
+            "x": 28606.21,
+            "y": 11271.82
+          },
+          {
+            "x": 28748.87,
+            "y": 11351.29
+          },
+          {
+            "x": 28907.81,
+            "y": 11415.12
+          },
+          {
+            "x": 29066.75,
+            "y": 11478.31
+          },
+          {
+            "x": 29225.04,
+            "y": 11557.78
+          },
+          {
+            "x": 29383.98,
+            "y": 11589.7
+          },
+          {
+            "x": 29542.92,
+            "y": 11652.89
+          },
+          {
+            "x": 29701.21,
+            "y": 11684.8
+          },
+          {
+            "x": 29860.15,
+            "y": 11716.72
+          },
+          {
+            "x": 30019.09,
+            "y": 11748.64
+          },
+          {
+            "x": 30209.3,
+            "y": 11764.27
+          },
+          {
+            "x": 30384.53,
+            "y": 11779.91
+          },
+          {
+            "x": 30574.74,
+            "y": 11779.91
+          },
+          {
+            "x": 30733.68,
+            "y": 11764.27
+          },
+          {
+            "x": 30908.25,
+            "y": 11748.64
+          },
+          {
+            "x": 31082.83,
+            "y": 11732.36
+          },
+          {
+            "x": 31241.77,
+            "y": 11716.72
+          },
+          {
+            "x": 31431.98,
+            "y": 11700.44
+          },
+          {
+            "x": 31590.92,
+            "y": 11669.17
+          },
+          {
+            "x": 31749.86,
+            "y": 11621.62
+          },
+          {
+            "x": 31908.15,
+            "y": 11574.07
+          },
+          {
+            "x": 32067.09,
+            "y": 11525.86
+          },
+          {
+            "x": 32241.67,
+            "y": 11462.68
+          },
+          {
+            "x": 32400.61,
+            "y": 11415.12
+          },
+          {
+            "x": 32543.27,
+            "y": 11335.65
+          },
+          {
+            "x": 32686.58,
+            "y": 11256.18
+          },
+          {
+            "x": 32829.23,
+            "y": 11161.08
+          },
+          {
+            "x": 32971.89,
+            "y": 11049.69
+          },
+          {
+            "x": 33098.91,
+            "y": 10938.95
+          },
+          {
+            "x": 33225.93,
+            "y": 10780.01
+          },
+          {
+            "x": 33337.32,
+            "y": 10636.7
+          },
+          {
+            "x": 33416.79,
+            "y": 10494.05
+          },
+          {
+            "x": 33527.53,
+            "y": 10351.39
+          },
+          {
+            "x": 33559.45,
+            "y": 10192.45
+          },
+          {
+            "x": 33623.29,
+            "y": 10033.51
+          },
+          {
+            "x": 33686.47,
+            "y": 9811.38
+          },
+          {
+            "x": 33718.39,
+            "y": 9652.44
+          },
+          {
+            "x": 33750.31,
+            "y": 9462.23
+          },
+          {
+            "x": 33765.94,
+            "y": 9303.29
+          },
+          {
+            "x": 33765.94,
+            "y": 9096.79
+          },
+          {
+            "x": 33781.58,
+            "y": 8906.59
+          },
+          {
+            "x": 33797.86,
+            "y": 8732.01
+          },
+          {
+            "x": 33813.5,
+            "y": 8557.44
+          },
+          {
+            "x": 33813.5,
+            "y": 8382.86
+          },
+          {
+            "x": 33797.86,
+            "y": 8207.63
+          },
+          {
+            "x": 33734.03,
+            "y": 8049.34
+          },
+          {
+            "x": 33623.29,
+            "y": 7890.4
+          },
+          {
+            "x": 33479.98,
+            "y": 7731.46
+          },
+          {
+            "x": 33337.32,
+            "y": 7636.36
+          },
+          {
+            "x": 33178.38,
+            "y": 7556.89
+          },
+          {
+            "x": 33003.81,
+            "y": 7493.7
+          },
+          {
+            "x": 32844.87,
+            "y": 7477.41
+          },
+          {
+            "x": 32670.29,
+            "y": 7461.78
+          },
+          {
+            "x": 32495.72,
+            "y": 7461.78
+          },
+          {
+            "x": 32305.51,
+            "y": 7461.78
+          },
+          {
+            "x": 32114.65,
+            "y": 7461.78
+          },
+          {
+            "x": 31892.52,
+            "y": 7461.78
+          },
+          {
+            "x": 31622.84,
+            "y": 7445.5
+          },
+          {
+            "x": 31463.9,
+            "y": 7414.23
+          },
+          {
+            "x": 31289.32,
+            "y": 7382.31
+          },
+          {
+            "x": 31114.75,
+            "y": 7319.12
+          },
+          {
+            "x": 30940.17,
+            "y": 7239.65
+          },
+          {
+            "x": 30764.95,
+            "y": 7175.82
+          },
+          {
+            "x": 30559.1,
+            "y": 7065.08
+          },
+          {
+            "x": 30384.53,
+            "y": 6969.32
+          },
+          {
+            "x": 30225.59,
+            "y": 6858.59
+          },
+          {
+            "x": 30082.28,
+            "y": 6747.2
+          },
+          {
+            "x": 29907.7,
+            "y": 6652.09
+          },
+          {
+            "x": 29733.13,
+            "y": 6540.7
+          },
+          {
+            "x": 29479.08,
+            "y": 6366.13
+          },
+          {
+            "x": 29320.79,
+            "y": 6239.1
+          },
+          {
+            "x": 29050.46,
+            "y": 6032.61
+          },
+          {
+            "x": 28860.25,
+            "y": 5889.95
+          },
+          {
+            "x": 28653.76,
+            "y": 5731.01
+          },
+          {
+            "x": 28494.82,
+            "y": 5603.99
+          },
+          {
+            "x": 28352.16,
+            "y": 5508.89
+          },
+          {
+            "x": 28208.85,
+            "y": 5413.78
+          },
+          {
+            "x": 28066.2,
+            "y": 5334.31
+          },
+          {
+            "x": 27907.26,
+            "y": 5222.92
+          },
+          {
+            "x": 27717.05,
+            "y": 5127.82
+          },
+          {
+            "x": 27526.19,
+            "y": 5048.35
+          },
+          {
+            "x": 27335.98,
+            "y": 4937.61
+          },
+          {
+            "x": 27177.04,
+            "y": 4858.14
+          },
+          {
+            "x": 27002.46,
+            "y": 4794.3
+          },
+          {
+            "x": 26827.89,
+            "y": 4714.83
+          },
+          {
+            "x": 26668.95,
+            "y": 4683.56
+          },
+          {
+            "x": 26446.82,
+            "y": 4619.73
+          },
+          {
+            "x": 26287.88,
+            "y": 4587.81
+          },
+          {
+            "x": 26129.59,
+            "y": 4572.17
+          },
+          {
+            "x": 25923.09,
+            "y": 4556.54
+          },
+          {
+            "x": 25732.23,
+            "y": 4556.54
+          },
+          {
+            "x": 25557.66,
+            "y": 4572.17
+          },
+          {
+            "x": 25367.45,
+            "y": 4619.73
+          },
+          {
+            "x": 25144.67,
+            "y": 4651.64
+          },
+          {
+            "x": 24986.38,
+            "y": 4683.56
+          },
+          {
+            "x": 24827.44,
+            "y": 4714.83
+          },
+          {
+            "x": 24652.87,
+            "y": 4762.38
+          },
+          {
+            "x": 24493.92,
+            "y": 4810.59
+          },
+          {
+            "x": 24319.35,
+            "y": 4873.77
+          },
+          {
+            "x": 24160.41,
+            "y": 4905.69
+          },
+          {
+            "x": 24002.12,
+            "y": 4968.88
+          },
+          {
+            "x": 23843.18,
+            "y": 5016.43
+          },
+          {
+            "x": 23684.23,
+            "y": 5095.9
+          },
+          {
+            "x": 23541.58,
+            "y": 5191.65
+          },
+          {
+            "x": 23414.55,
+            "y": 5318.03
+          },
+          {
+            "x": 23303.17,
+            "y": 5445.05
+          },
+          {
+            "x": 23191.78,
+            "y": 5747.3
+          },
+          {
+            "x": 23191.78,
+            "y": 5747.3
+          },
+          {
+            "x": 23176.14,
+            "y": 5747.3
+          }
+        ]
+      },
+      "anchor": {
+        "x": 27665.16,
+        "y": 8509.47
+      },
+      "crop": {
+        "left": 26880,
+        "top": 7936,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 785.16,
+        "y": 573.47
+      },
+      "atlas_image": "atlas/07-nebenschilddruse-annotiert.jpg",
+      "exercise_image": "pruefung/07-nebenschilddruse.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats.",
+      "didactic_note": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    },
+    {
+      "id": 8,
+      "label": "Schilddrüsenkapsel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36898.52,
+            "y": 8464.94
+          },
+          {
+            "x": 32459.89,
+            "y": 14046.78
+          },
+          {
+            "x": 32459.89,
+            "y": 14046.78
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32459.89,
+        "y": 14046.78
+      },
+      "crop": {
+        "left": 31488,
+        "top": 13312,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 971.89,
+        "y": 734.78
+      },
+      "atlas_image": "atlas/08-schilddrusenkapsel-annotiert.jpg",
+      "exercise_image": "pruefung/08-schilddrusenkapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Schilddrüsenkapsel“ dient hier als anatomischer Orientierungspunkt. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    },
+    {
+      "id": 9,
+      "label": "Schrumpfungs-/Spaltartefakt",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36054.31,
+            "y": 7082.67
+          },
+          {
+            "x": 31630.01,
+            "y": 10426.3
+          },
+          {
+            "x": 31630.01,
+            "y": 10426.3
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31630.01,
+        "y": 10426.3
+      },
+      "crop": {
+        "left": 30720,
+        "top": 9728,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 910.01,
+        "y": 698.3
+      },
+      "atlas_image": "atlas/09-schrumpfungs-spaltartefakt-annotiert.jpg",
+      "exercise_image": "pruefung/09-schrumpfungs-spaltartefakt.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schrumpfungs-/Spaltartefakt“ als morphologischen Teilbefund. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    },
+    {
+      "id": 10,
+      "label": "Strumaknoten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 2224.53,
+            "y": 38232.59
+          },
+          {
+            "x": 31020.3,
+            "y": 64789.5
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16622.41,
+        "y": 51511.04
+      },
+      "crop": {
+        "left": 15616,
+        "top": 50944,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1006.41,
+        "y": 567.04
+      },
+      "atlas_image": "atlas/10-strumaknoten-annotiert.jpg",
+      "exercise_image": "pruefung/10-strumaknoten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Strumaknoten als pathologische Schilddrüsenkomponente.",
+      "didactic_note": "Strumaknoten als pathologische Schilddrüsenkomponente. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 7,
+      "label": "Nebenschilddrüse",
+      "exercise_image": "pruefung/07-nebenschilddruse.jpg",
+      "rationale": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats.",
+      "didactic_note": "Nebenschilddrüsengewebe als charakteristische Komponente des Kombinationspräparats. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    },
+    {
+      "annotation_id": 10,
+      "label": "Strumaknoten",
+      "exercise_image": "pruefung/10-strumaknoten.jpg",
+      "rationale": "Strumaknoten als pathologische Schilddrüsenkomponente.",
+      "didactic_note": "Strumaknoten als pathologische Schilddrüsenkomponente. Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+    }
+  ],
+  "didactic_context": "Im Kombinationspräparat sind solide Zellverbände der Nebenschilddrüse von kolloidgefüllten Schilddrüsenfollikeln zu unterscheiden; der Strumaknoten zeigt eine noduläre follikuläre Hyperplasie."
+}

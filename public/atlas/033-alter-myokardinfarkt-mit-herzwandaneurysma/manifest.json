@@ -1,0 +1,251 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "033",
+    "name": "Alter Myokardinfarkt mit Herzwandaneurysma",
+    "organ": "Herz",
+    "diagnosis": "Alter Myokardinfarkt (mit Herzwandaneurysma)",
+    "description": [
+      "intakte Myokardfasern;",
+      "verschlossenes Gefäß (Einsprossung von Kapillaren zur Blutversorgung);",
+      "z.n. transmuralem Infarkt (gebildete Narbe bildet Teil der Herzkammer);",
+      "Kammerdruck führt zu Aussackungen, es kann sich ein Parietalthrombus (=Gerinnungsthrombus durch intravasale Gerinnung) bilden;"
+    ],
+    "slide_id": "00fd7c45-49fd-4d2f-8457-9b2f4496d1f2",
+    "slide_path": "Histopathologie 5. Semester/slides/033 - Alter Myokardinfarkt mit Herzwandaneurysma.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=00fd7c45-49fd-4d2f-8457-9b2f4496d1f2&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2104,
+    "height": 3080,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Thrombus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32413.38,
+            "y": 41423.54
+          },
+          {
+            "x": 41251.89,
+            "y": 53740.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 36832.64,
+        "y": 47581.94
+      },
+      "crop": {
+        "left": 35840,
+        "top": 46848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 992.64,
+        "y": 733.94
+      },
+      "atlas_image": "atlas/01-thrombus-annotiert.jpg",
+      "exercise_image": "pruefung/01-thrombus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Thrombus“ als morphologischen Teilbefund. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    },
+    {
+      "id": 3,
+      "label": "vitale Myokardfasern",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29623.54,
+            "y": 10366.49
+          },
+          {
+            "x": 32894.39,
+            "y": 13770.62
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31258.96,
+        "y": 12068.55
+      },
+      "crop": {
+        "left": 30464,
+        "top": 11520,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.96,
+        "y": 548.55
+      },
+      "atlas_image": "atlas/03-vitale-myokardfasern-annotiert.jpg",
+      "exercise_image": "pruefung/03-vitale-myokardfasern.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „vitale Myokardfasern“ dient hier als anatomischer Orientierungspunkt. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    },
+    {
+      "id": 5,
+      "label": "Narbengewebe",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24588.99,
+            "y": 25790.8
+          },
+          {
+            "x": 31470.41,
+            "y": 29768.13
+          }
+        ]
+      },
+      "anchor": {
+        "x": 28029.7,
+        "y": 27779.46
+      },
+      "crop": {
+        "left": 27136,
+        "top": 27136,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 893.7,
+        "y": 643.46
+      },
+      "atlas_image": "atlas/05-narbengewebe-annotiert.jpg",
+      "exercise_image": "pruefung/05-narbengewebe.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Narbengewebe als zentraler Befund des alten Myokardinfarkts.",
+      "didactic_note": "Narbengewebe als zentraler Befund des alten Myokardinfarkts. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    },
+    {
+      "id": 7,
+      "label": "vermehrte Kapillarisierung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17277.68,
+            "y": 59156.69
+          },
+          {
+            "x": 20022.43,
+            "y": 64677.25
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18650.05,
+        "y": 61916.97
+      },
+      "crop": {
+        "left": 17664,
+        "top": 61184,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 986.05,
+        "y": 732.97
+      },
+      "atlas_image": "atlas/07-vermehrte-kapillarisierung-annotiert.jpg",
+      "exercise_image": "pruefung/07-vermehrte-kapillarisierung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Vermehrte Kapillarisierung als Bestandteil des reparativen Umbaus.",
+      "didactic_note": "Vermehrte Kapillarisierung als Bestandteil des reparativen Umbaus. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    },
+    {
+      "id": 9,
+      "label": "verschlossenes Gefäß",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17582.31,
+            "y": 56976.12
+          },
+          {
+            "x": 19662.67,
+            "y": 59040.44
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18622.49,
+        "y": 58008.28
+      },
+      "crop": {
+        "left": 17664,
+        "top": 57344,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 958.49,
+        "y": 664.28
+      },
+      "atlas_image": "atlas/09-verschlossenes-gefass-annotiert.jpg",
+      "exercise_image": "pruefung/09-verschlossenes-gefass.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „verschlossenes Gefäß“ als morphologischen Teilbefund. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Narbengewebe",
+      "exercise_image": "pruefung/05-narbengewebe.jpg",
+      "rationale": "Narbengewebe als zentraler Befund des alten Myokardinfarkts.",
+      "didactic_note": "Narbengewebe als zentraler Befund des alten Myokardinfarkts. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    },
+    {
+      "annotation_id": 7,
+      "label": "vermehrte Kapillarisierung",
+      "exercise_image": "pruefung/07-vermehrte-kapillarisierung.jpg",
+      "rationale": "Vermehrte Kapillarisierung als Bestandteil des reparativen Umbaus.",
+      "didactic_note": "Vermehrte Kapillarisierung als Bestandteil des reparativen Umbaus. Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+    }
+  ],
+  "didactic_context": "Beim alten Myokardinfarkt ist abgestorbenes Myokard durch kollagenes Narbengewebe ersetzt; Kapillarisierung kennzeichnet den Übergang vom Granulationsgewebe zur reifen Narbe."
+}

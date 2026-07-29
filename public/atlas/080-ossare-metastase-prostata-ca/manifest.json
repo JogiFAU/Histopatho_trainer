@@ -1,0 +1,149 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "080",
+    "name": "Ossäre Metastase Prostata-Ca",
+    "organ": "Knochen",
+    "diagnosis": "Metastase eines Prostatakarzinoms",
+    "description": [
+      "Knochengewebe mit verbreiterten Knochentrabekeln",
+      "(durch osteoplastischen Charakter der Metastase;",
+      "maligne metastasierte Drüsenverbände mit kribriformen Wachstumsmuster",
+      "füllen Markraum fast komplett aus;",
+      "Drüsenzellen mit prominenten Nucleoli;",
+      "PSA Färbung siehe #81;"
+    ],
+    "slide_id": "8932aac8-04e4-49d9-acfc-bd0e078056c3",
+    "slide_path": "Histopathologie 5. Semester/slides/080 - Ossäre Metastase Prostata-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8932aac8-04e4-49d9-acfc-bd0e078056c3&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2784,
+    "height": 3456,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Metastase im Markraum",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43000,
+            "y": 1000
+          },
+          {
+            "x": 63733,
+            "y": 18105
+          }
+        ]
+      },
+      "anchor": {
+        "x": 53366.5,
+        "y": 9552.5
+      },
+      "crop": {
+        "left": 52480,
+        "top": 8960,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 886.5,
+        "y": 592.5
+      },
+      "atlas_image": "atlas/03-metastase-im-markraum-annotiert.jpg",
+      "exercise_image": "pruefung/03-metastase-im-markraum.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Prostatakarzinommetastase im Knochenmark als definierender Befund.",
+      "didactic_note": "Prostatakarzinommetastase im Knochenmark als definierender Befund. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+    },
+    {
+      "id": 5,
+      "label": "verbreiterte Knochentrabekel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 72412,
+            "y": 70525
+          },
+          {
+            "x": 59714,
+            "y": 70249
+          },
+          {
+            "x": 59714,
+            "y": 70249
+          }
+        ]
+      },
+      "anchor": {
+        "x": 59714.0,
+        "y": 70249
+      },
+      "crop": {
+        "left": 58880,
+        "top": 69632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 834.0,
+        "y": 617
+      },
+      "atlas_image": "atlas/05-verbreiterte-knochentrabekel-annotiert.jpg",
+      "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Reaktion.",
+      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Reaktion. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 3,
+      "label": "Metastase im Markraum",
+      "exercise_image": "pruefung/03-metastase-im-markraum.jpg",
+      "rationale": "Prostatakarzinommetastase im Knochenmark als definierender Befund.",
+      "didactic_note": "Prostatakarzinommetastase im Knochenmark als definierender Befund. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+    },
+    {
+      "annotation_id": 5,
+      "label": "verbreiterte Knochentrabekel",
+      "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
+      "rationale": "Verbreiterte Knochentrabekel als osteoblastische Reaktion.",
+      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Reaktion. Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+    }
+  ],
+  "didactic_context": "Prostatakarzinommetastasen besiedeln den Knochenmarkraum und induzieren typischerweise eine osteoblastische Reaktion mit verbreiterten, neugebildeten Knochentrabekeln."
+}

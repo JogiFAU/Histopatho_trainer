@@ -1,0 +1,19 @@
+{
+  "name": "Histopathologie-Atlas",
+  "short_name": "Histo-Atlas",
+  "description": "Lokaler Histopathologie-Atlas mit Prüfungsmodus.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F4EF",
+  "theme_color": "#123B38",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "atlas/001-kolon/pruefung/11-krypte-mit-becherzellen.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

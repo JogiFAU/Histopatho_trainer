@@ -1,0 +1,1380 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "078",
+    "name": "Prostata-Ca",
+    "organ": "Prostata",
+    "diagnosis": "Adenokarzinom der Prostata",
+    "description": [
+      "oft bereits Übersichtsdiagnose;",
+      "normales Prostatagewebe:",
+      "- zweireihiges Drüsenepithel",
+      "- große Drüsenlumina;",
+      "Tumor (im Präparat weit ausgebreitet):",
+      "- kleine Lumina;",
+      "- Drüsenepithel einreihig;",
+      "- Wachstum zwischen den bereits existierenden Drüsen;",
+      "- Zerstörung der Läppchenstruktur;",
+      "- hohe Zell- & Kernpleomorphie:",
+      "- hypochromatische Kerne;",
+      "- deutliche Nucleoli;",
+      "Perineuralscheideninfiltration;"
+    ],
+    "slide_id": "f6d5f47f-99d3-4651-af7d-f1f3678e9a87",
+    "slide_path": "Histopathologie 5. Semester/slides/078 - Prostata-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f6d5f47f-99d3-4651-af7d-f1f3678e9a87&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "ausgedehnte Prostatakarzinominfiltrate",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32176.24,
+            "y": 39410.54
+          },
+          {
+            "x": 51575.92,
+            "y": 58810.21
+          }
+        ]
+      },
+      "anchor": {
+        "x": 41876.08,
+        "y": 49110.38
+      },
+      "crop": {
+        "left": 40960,
+        "top": 48384,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 916.08,
+        "y": 726.38
+      },
+      "atlas_image": "atlas/03-ausgedehnte-prostatakarzinominfiltrate-annotiert.jpg",
+      "exercise_image": "pruefung/03-ausgedehnte-prostatakarzinominfiltrate.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „ausgedehnte Prostatakarzinominfiltrate“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 9,
+      "label": "einreihiges Epithel mit deutlichen Nucleolen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 34771.07,
+            "y": 51979.48
+          },
+          {
+            "x": 35372.65,
+            "y": 52581.06
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35071.86,
+        "y": 52280.27
+      },
+      "crop": {
+        "left": 34048,
+        "top": 51712,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1023.86,
+        "y": 568.27
+      },
+      "atlas_image": "atlas/09-einreihiges-epithel-mit-deutlichen-nucleolen-annotiert.jpg",
+      "exercise_image": "pruefung/09-einreihiges-epithel-mit-deutlichen-nucleolen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie.",
+      "didactic_note": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 15,
+      "label": "zweireihiges Drüsenepithel",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26070.81,
+            "y": 26479.61
+          },
+          {
+            "x": 26854.36,
+            "y": 26978.41
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26462.58,
+        "y": 26729.01
+      },
+      "crop": {
+        "left": 25600,
+        "top": 26112,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 862.58,
+        "y": 617.01
+      },
+      "atlas_image": "atlas/15-zweireihiges-drusenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/15-zweireihiges-drusenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „zweireihiges Drüsenepithel“ dient hier als anatomischer Orientierungspunkt. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 16,
+      "label": "normales Prostataparenchym",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24580.29,
+            "y": 24816.93
+          },
+          {
+            "x": 24262.81,
+            "y": 24705.65
+          },
+          {
+            "x": 24040.9,
+            "y": 24642.15
+          },
+          {
+            "x": 23866.12,
+            "y": 24594.37
+          },
+          {
+            "x": 23691.34,
+            "y": 24578.66
+          },
+          {
+            "x": 23485.14,
+            "y": 24594.37
+          },
+          {
+            "x": 23310.37,
+            "y": 24737.72
+          },
+          {
+            "x": 23151.95,
+            "y": 24864.72
+          },
+          {
+            "x": 23040.67,
+            "y": 25055.2
+          },
+          {
+            "x": 22945.75,
+            "y": 25229.33
+          },
+          {
+            "x": 22913.68,
+            "y": 25404.11
+          },
+          {
+            "x": 22882.26,
+            "y": 25563.17
+          },
+          {
+            "x": 22865.89,
+            "y": 25721.59
+          },
+          {
+            "x": 22850.18,
+            "y": 25880.65
+          },
+          {
+            "x": 22850.18,
+            "y": 26118.27
+          },
+          {
+            "x": 22850.18,
+            "y": 26324.47
+          },
+          {
+            "x": 22850.18,
+            "y": 26562.74
+          },
+          {
+            "x": 22850.18,
+            "y": 26753.23
+          },
+          {
+            "x": 22850.18,
+            "y": 26943.72
+          },
+          {
+            "x": 22850.18,
+            "y": 27197.7
+          },
+          {
+            "x": 22865.89,
+            "y": 27356.77
+          },
+          {
+            "x": 22882.26,
+            "y": 27594.39
+          },
+          {
+            "x": 22882.26,
+            "y": 27784.88
+          },
+          {
+            "x": 22882.26,
+            "y": 27991.73
+          },
+          {
+            "x": 22834.47,
+            "y": 28197.93
+          },
+          {
+            "x": 22818.76,
+            "y": 28436.2
+          },
+          {
+            "x": 22786.69,
+            "y": 28594.62
+          },
+          {
+            "x": 22707.48,
+            "y": 28785.1
+          },
+          {
+            "x": 22659.69,
+            "y": 29039.09
+          },
+          {
+            "x": 22596.2,
+            "y": 29261.65
+          },
+          {
+            "x": 22548.41,
+            "y": 29420.07
+          },
+          {
+            "x": 22469.21,
+            "y": 29626.26
+          },
+          {
+            "x": 22421.42,
+            "y": 29801.04
+          },
+          {
+            "x": 22357.92,
+            "y": 29975.82
+          },
+          {
+            "x": 22310.79,
+            "y": 30166.31
+          },
+          {
+            "x": 22294.43,
+            "y": 30372.51
+          },
+          {
+            "x": 22278.72,
+            "y": 30531.57
+          },
+          {
+            "x": 22278.72,
+            "y": 30737.77
+          },
+          {
+            "x": 22278.72,
+            "y": 31102.38
+          },
+          {
+            "x": 22263.01,
+            "y": 31309.24
+          },
+          {
+            "x": 22263.01,
+            "y": 31563.22
+          },
+          {
+            "x": 22263.01,
+            "y": 31737.34
+          },
+          {
+            "x": 22263.01,
+            "y": 31927.83
+          },
+          {
+            "x": 22294.43,
+            "y": 32102.61
+          },
+          {
+            "x": 22342.21,
+            "y": 32435.8
+          },
+          {
+            "x": 22390,
+            "y": 32594.87
+          },
+          {
+            "x": 22453.5,
+            "y": 32753.28
+          },
+          {
+            "x": 22548.41,
+            "y": 32912.35
+          },
+          {
+            "x": 22659.69,
+            "y": 33055.05
+          },
+          {
+            "x": 22770.98,
+            "y": 33214.12
+          },
+          {
+            "x": 22961.46,
+            "y": 33309.03
+          },
+          {
+            "x": 23136.24,
+            "y": 33277.61
+          },
+          {
+            "x": 23294.65,
+            "y": 33214.12
+          },
+          {
+            "x": 23453.72,
+            "y": 33134.26
+          },
+          {
+            "x": 23612.14,
+            "y": 33055.05
+          },
+          {
+            "x": 23786.91,
+            "y": 32943.77
+          },
+          {
+            "x": 23929.62,
+            "y": 32848.85
+          },
+          {
+            "x": 24072.32,
+            "y": 32721.86
+          },
+          {
+            "x": 24183.6,
+            "y": 32594.87
+          },
+          {
+            "x": 24310.59,
+            "y": 32467.87
+          },
+          {
+            "x": 24437.58,
+            "y": 32340.88
+          },
+          {
+            "x": 24580.29,
+            "y": 32245.31
+          },
+          {
+            "x": 24723.64,
+            "y": 32134.68
+          },
+          {
+            "x": 24882.06,
+            "y": 32023.4
+          },
+          {
+            "x": 25041.12,
+            "y": 31944.2
+          },
+          {
+            "x": 25183.83,
+            "y": 31864.33
+          },
+          {
+            "x": 25310.82,
+            "y": 31753.71
+          },
+          {
+            "x": 25422.1,
+            "y": 31626.72
+          },
+          {
+            "x": 25596.22,
+            "y": 31531.14
+          },
+          {
+            "x": 25755.29,
+            "y": 31578.93
+          },
+          {
+            "x": 25897.99,
+            "y": 31658.14
+          },
+          {
+            "x": 26056.4,
+            "y": 31737.34
+          },
+          {
+            "x": 26231.18,
+            "y": 31737.34
+          },
+          {
+            "x": 26390.25,
+            "y": 31673.85
+          },
+          {
+            "x": 26532.95,
+            "y": 31563.22
+          },
+          {
+            "x": 26659.94,
+            "y": 31451.94
+          },
+          {
+            "x": 26771.23,
+            "y": 31324.95
+          },
+          {
+            "x": 26850.43,
+            "y": 31134.46
+          },
+          {
+            "x": 26898.22,
+            "y": 30959.68
+          },
+          {
+            "x": 26945.35,
+            "y": 30737.77
+          },
+          {
+            "x": 26993.13,
+            "y": 30578.7
+          },
+          {
+            "x": 27040.92,
+            "y": 30404.58
+          },
+          {
+            "x": 27088.71,
+            "y": 30245.51
+          },
+          {
+            "x": 27120.13,
+            "y": 30087.1
+          },
+          {
+            "x": 27135.84,
+            "y": 29928.03
+          },
+          {
+            "x": 27120.13,
+            "y": 29753.26
+          },
+          {
+            "x": 27072.34,
+            "y": 29579.13
+          },
+          {
+            "x": 27025.21,
+            "y": 29404.35
+          },
+          {
+            "x": 26945.35,
+            "y": 29245.29
+          },
+          {
+            "x": 26898.22,
+            "y": 29054.8
+          },
+          {
+            "x": 26850.43,
+            "y": 28896.39
+          },
+          {
+            "x": 26881.85,
+            "y": 28642.4
+          },
+          {
+            "x": 26929.64,
+            "y": 28483.34
+          },
+          {
+            "x": 27025.21,
+            "y": 28261.43
+          },
+          {
+            "x": 27056.63,
+            "y": 28102.36
+          },
+          {
+            "x": 27072.34,
+            "y": 27943.95
+          },
+          {
+            "x": 27088.71,
+            "y": 27784.88
+          },
+          {
+            "x": 27072.34,
+            "y": 27626.47
+          },
+          {
+            "x": 26977.42,
+            "y": 27467.4
+          },
+          {
+            "x": 26913.93,
+            "y": 27293.28
+          },
+          {
+            "x": 26898.22,
+            "y": 27134.21
+          },
+          {
+            "x": 26898.22,
+            "y": 26943.72
+          },
+          {
+            "x": 26945.35,
+            "y": 26737.52
+          },
+          {
+            "x": 26993.13,
+            "y": 26578.45
+          },
+          {
+            "x": 27008.85,
+            "y": 26213.84
+          },
+          {
+            "x": 27008.85,
+            "y": 26007.64
+          },
+          {
+            "x": 26977.42,
+            "y": 25832.87
+          },
+          {
+            "x": 26881.85,
+            "y": 25594.59
+          },
+          {
+            "x": 26802.65,
+            "y": 25451.89
+          },
+          {
+            "x": 26675.65,
+            "y": 25340.61
+          },
+          {
+            "x": 26548.66,
+            "y": 25213.62
+          },
+          {
+            "x": 26405.96,
+            "y": 25134.41
+          },
+          {
+            "x": 26246.89,
+            "y": 25055.2
+          },
+          {
+            "x": 26088.48,
+            "y": 25007.42
+          },
+          {
+            "x": 25930.07,
+            "y": 24975.34
+          },
+          {
+            "x": 25691.79,
+            "y": 24928.21
+          },
+          {
+            "x": 25485.6,
+            "y": 24911.85
+          },
+          {
+            "x": 25310.82,
+            "y": 24864.72
+          },
+          {
+            "x": 25041.12,
+            "y": 24832.64
+          },
+          {
+            "x": 24882.06,
+            "y": 24801.22
+          },
+          {
+            "x": 24707.28,
+            "y": 24801.22
+          },
+          {
+            "x": 24533.15,
+            "y": 24801.22
+          },
+          {
+            "x": 24533.15,
+            "y": 24801.22
+          },
+          {
+            "x": 24533.15,
+            "y": 24801.22
+          },
+          {
+            "x": 24580.29,
+            "y": 24816.93
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24670.02,
+        "y": 28845.71
+      },
+      "crop": {
+        "left": 23808,
+        "top": 28160,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 862.02,
+        "y": 685.71
+      },
+      "atlas_image": "atlas/16-normales-prostataparenchym-annotiert.jpg",
+      "exercise_image": "pruefung/16-normales-prostataparenchym.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „normales Prostataparenchym“ dient hier als anatomischer Orientierungspunkt. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 17,
+      "label": "Tumorareal",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31342.94,
+            "y": 15778.89
+          },
+          {
+            "x": 34581.24,
+            "y": 19845.26
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32962.09,
+        "y": 17812.08
+      },
+      "crop": {
+        "left": 32000,
+        "top": 17152,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 962.09,
+        "y": 660.08
+      },
+      "atlas_image": "atlas/17-tumorareal-annotiert.jpg",
+      "exercise_image": "pruefung/17-tumorareal.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Tumorareal“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 18,
+      "label": "Tumorareal",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30812.72,
+            "y": 31340
+          },
+          {
+            "x": 30498.51,
+            "y": 31340
+          },
+          {
+            "x": 30184.3,
+            "y": 31340
+          },
+          {
+            "x": 29992.5,
+            "y": 31340
+          },
+          {
+            "x": 29730.01,
+            "y": 31340
+          },
+          {
+            "x": 29555.89,
+            "y": 31427.72
+          },
+          {
+            "x": 29468.17,
+            "y": 31601.84
+          },
+          {
+            "x": 29433.48,
+            "y": 31776.62
+          },
+          {
+            "x": 29398.78,
+            "y": 31951.4
+          },
+          {
+            "x": 29346.42,
+            "y": 32143.19
+          },
+          {
+            "x": 29276.37,
+            "y": 32317.97
+          },
+          {
+            "x": 29136.94,
+            "y": 32457.4
+          },
+          {
+            "x": 28979.84,
+            "y": 32614.5
+          },
+          {
+            "x": 28839.76,
+            "y": 32736.91
+          },
+          {
+            "x": 28682.65,
+            "y": 32823.98
+          },
+          {
+            "x": 28525.55,
+            "y": 32928.71
+          },
+          {
+            "x": 28299.06,
+            "y": 32998.75
+          },
+          {
+            "x": 28071.91,
+            "y": 33085.81
+          },
+          {
+            "x": 27880.12,
+            "y": 33155.86
+          },
+          {
+            "x": 27652.97,
+            "y": 33242.92
+          },
+          {
+            "x": 27478.19,
+            "y": 33295.29
+          },
+          {
+            "x": 27304.07,
+            "y": 33365.33
+          },
+          {
+            "x": 27111.62,
+            "y": 33452.39
+          },
+          {
+            "x": 26954.51,
+            "y": 33539.45
+          },
+          {
+            "x": 26797.41,
+            "y": 33627.17
+          },
+          {
+            "x": 26623.29,
+            "y": 33731.9
+          },
+          {
+            "x": 26448.51,
+            "y": 33853.66
+          },
+          {
+            "x": 26273.73,
+            "y": 33976.07
+          },
+          {
+            "x": 26116.63,
+            "y": 34115.5
+          },
+          {
+            "x": 25977.2,
+            "y": 34272.6
+          },
+          {
+            "x": 25837.77,
+            "y": 34395.01
+          },
+          {
+            "x": 25697.68,
+            "y": 34552.11
+          },
+          {
+            "x": 25540.58,
+            "y": 34691.54
+          },
+          {
+            "x": 25383.48,
+            "y": 34884
+          },
+          {
+            "x": 25261.72,
+            "y": 35041.1
+          },
+          {
+            "x": 25174.01,
+            "y": 35198.2
+          },
+          {
+            "x": 25104.62,
+            "y": 35407.67
+          },
+          {
+            "x": 25034.58,
+            "y": 35599.47
+          },
+          {
+            "x": 24999.88,
+            "y": 35808.94
+          },
+          {
+            "x": 24964.53,
+            "y": 36018.41
+          },
+          {
+            "x": 24947.52,
+            "y": 36210.21
+          },
+          {
+            "x": 24999.88,
+            "y": 36384.99
+          },
+          {
+            "x": 25052.25,
+            "y": 36559.77
+          },
+          {
+            "x": 25139.31,
+            "y": 36733.89
+          },
+          {
+            "x": 25244.05,
+            "y": 36890.99
+          },
+          {
+            "x": 25401.15,
+            "y": 36995.73
+          },
+          {
+            "x": 25558.26,
+            "y": 37083.45
+          },
+          {
+            "x": 25715.36,
+            "y": 37222.88
+          },
+          {
+            "x": 25837.77,
+            "y": 37379.98
+          },
+          {
+            "x": 25924.83,
+            "y": 37554.76
+          },
+          {
+            "x": 26064.26,
+            "y": 37676.51
+          },
+          {
+            "x": 26221.36,
+            "y": 37764.23
+          },
+          {
+            "x": 26396.14,
+            "y": 37816.6
+          },
+          {
+            "x": 26605.61,
+            "y": 37781.25
+          },
+          {
+            "x": 26815.08,
+            "y": 37711.86
+          },
+          {
+            "x": 26989.86,
+            "y": 37641.82
+          },
+          {
+            "x": 27146.97,
+            "y": 37467.04
+          },
+          {
+            "x": 27251.7,
+            "y": 37309.94
+          },
+          {
+            "x": 27373.46,
+            "y": 37170.51
+          },
+          {
+            "x": 27478.19,
+            "y": 37013.4
+          },
+          {
+            "x": 27618.28,
+            "y": 36890.99
+          },
+          {
+            "x": 27740.03,
+            "y": 36733.89
+          },
+          {
+            "x": 27862.44,
+            "y": 36594.46
+          },
+          {
+            "x": 28019.54,
+            "y": 36472.05
+          },
+          {
+            "x": 28211.34,
+            "y": 36367.32
+          },
+          {
+            "x": 28368.45,
+            "y": 36280.25
+          },
+          {
+            "x": 28577.92,
+            "y": 36227.89
+          },
+          {
+            "x": 28787.39,
+            "y": 36157.84
+          },
+          {
+            "x": 28979.84,
+            "y": 36105.48
+          },
+          {
+            "x": 29171.64,
+            "y": 36053.11
+          },
+          {
+            "x": 29398.78,
+            "y": 36018.41
+          },
+          {
+            "x": 29608.25,
+            "y": 35966.05
+          },
+          {
+            "x": 29817.73,
+            "y": 35966.05
+          },
+          {
+            "x": 30044.87,
+            "y": 35966.05
+          },
+          {
+            "x": 30271.36,
+            "y": 35966.05
+          },
+          {
+            "x": 30463.81,
+            "y": 35966.05
+          },
+          {
+            "x": 30725.65,
+            "y": 35983.72
+          },
+          {
+            "x": 30952.14,
+            "y": 36018.41
+          },
+          {
+            "x": 31179.29,
+            "y": 36018.41
+          },
+          {
+            "x": 31371.09,
+            "y": 36018.41
+          },
+          {
+            "x": 31563.54,
+            "y": 36018.41
+          },
+          {
+            "x": 31737.66,
+            "y": 35931.35
+          },
+          {
+            "x": 31947.13,
+            "y": 35774.25
+          },
+          {
+            "x": 32156.61,
+            "y": 35617.15
+          },
+          {
+            "x": 32331.38,
+            "y": 35477.06
+          },
+          {
+            "x": 32488.49,
+            "y": 35355.31
+          },
+          {
+            "x": 32645.59,
+            "y": 35250.57
+          },
+          {
+            "x": 32802.69,
+            "y": 35145.84
+          },
+          {
+            "x": 32977.47,
+            "y": 35075.79
+          },
+          {
+            "x": 33151.59,
+            "y": 35023.43
+          },
+          {
+            "x": 33326.37,
+            "y": 34953.38
+          },
+          {
+            "x": 33535.84,
+            "y": 34918.69
+          },
+          {
+            "x": 33710.62,
+            "y": 34866.32
+          },
+          {
+            "x": 33884.74,
+            "y": 34761.59
+          },
+          {
+            "x": 34024.83,
+            "y": 34622.16
+          },
+          {
+            "x": 34146.58,
+            "y": 34482.07
+          },
+          {
+            "x": 34286.67,
+            "y": 34324.97
+          },
+          {
+            "x": 34426.1,
+            "y": 34167.87
+          },
+          {
+            "x": 34583.2,
+            "y": 34028.44
+          },
+          {
+            "x": 34722.63,
+            "y": 33889.01
+          },
+          {
+            "x": 34862.71,
+            "y": 33766.6
+          },
+          {
+            "x": 35002.14,
+            "y": 33644.19
+          },
+          {
+            "x": 35159.25,
+            "y": 33522.43
+          },
+          {
+            "x": 35298.68,
+            "y": 33400.02
+          },
+          {
+            "x": 35438.76,
+            "y": 33260.59
+          },
+          {
+            "x": 35525.82,
+            "y": 33103.49
+          },
+          {
+            "x": 35630.56,
+            "y": 32911.04
+          },
+          {
+            "x": 35682.93,
+            "y": 32684.55
+          },
+          {
+            "x": 35717.62,
+            "y": 32492.09
+          },
+          {
+            "x": 35717.62,
+            "y": 32230.26
+          },
+          {
+            "x": 35630.56,
+            "y": 32038.46
+          },
+          {
+            "x": 35525.82,
+            "y": 31863.68
+          },
+          {
+            "x": 35386.39,
+            "y": 31671.88
+          },
+          {
+            "x": 35229.29,
+            "y": 31480.09
+          },
+          {
+            "x": 35054.51,
+            "y": 31252.94
+          },
+          {
+            "x": 34932.1,
+            "y": 31078.16
+          },
+          {
+            "x": 34792.67,
+            "y": 30921.06
+          },
+          {
+            "x": 34600.87,
+            "y": 30746.94
+          },
+          {
+            "x": 34426.1,
+            "y": 30642.2
+          },
+          {
+            "x": 34198.95,
+            "y": 30519.79
+          },
+          {
+            "x": 33954.79,
+            "y": 30380.36
+          },
+          {
+            "x": 33780.01,
+            "y": 30292.64
+          },
+          {
+            "x": 33605.89,
+            "y": 30257.95
+          },
+          {
+            "x": 33413.43,
+            "y": 30257.95
+          },
+          {
+            "x": 33203.96,
+            "y": 30257.95
+          },
+          {
+            "x": 33029.84,
+            "y": 30275.62
+          },
+          {
+            "x": 32855.06,
+            "y": 30397.38
+          },
+          {
+            "x": 32715.63,
+            "y": 30519.79
+          },
+          {
+            "x": 32558.53,
+            "y": 30624.53
+          },
+          {
+            "x": 32418.44,
+            "y": 30746.94
+          },
+          {
+            "x": 32279.02,
+            "y": 30868.69
+          },
+          {
+            "x": 32121.91,
+            "y": 30973.43
+          },
+          {
+            "x": 31964.81,
+            "y": 31061.14
+          },
+          {
+            "x": 31790.03,
+            "y": 31165.88
+          },
+          {
+            "x": 31615.91,
+            "y": 31270.61
+          },
+          {
+            "x": 31388.76,
+            "y": 31340
+          },
+          {
+            "x": 31213.98,
+            "y": 31357.68
+          },
+          {
+            "x": 31022.19,
+            "y": 31357.68
+          },
+          {
+            "x": 30778.02,
+            "y": 31340
+          },
+          {
+            "x": 30778.02,
+            "y": 31340
+          },
+          {
+            "x": 30812.72,
+            "y": 31340
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30199.78,
+        "y": 33999.5
+      },
+      "crop": {
+        "left": 29184,
+        "top": 33280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1015.78,
+        "y": 719.5
+      },
+      "atlas_image": "atlas/18-tumorareal-annotiert.jpg",
+      "exercise_image": "pruefung/18-tumorareal.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Tumorareal“ als morphologischen Teilbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "id": 19,
+      "label": "Perineuralscheideninfiltration",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30932.51,
+            "y": 13126.46
+          },
+          {
+            "x": 31397.93,
+            "y": 13527.73
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31165.22,
+        "y": 13327.1
+      },
+      "crop": {
+        "left": 30208,
+        "top": 12800,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 957.22,
+        "y": 527.1
+      },
+      "atlas_image": "atlas/19-perineuralscheideninfiltration-annotiert.jpg",
+      "exercise_image": "pruefung/19-perineuralscheideninfiltration.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund.",
+      "didactic_note": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 9,
+      "label": "einreihiges Epithel mit deutlichen Nucleolen",
+      "exercise_image": "pruefung/09-einreihiges-epithel-mit-deutlichen-nucleolen.jpg",
+      "rationale": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie.",
+      "didactic_note": "Einreihiges Drüsenepithel mit deutlichen Nukleolen als typische Tumorzellmorphologie. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    },
+    {
+      "annotation_id": 19,
+      "label": "Perineuralscheideninfiltration",
+      "exercise_image": "pruefung/19-perineuralscheideninfiltration.jpg",
+      "rationale": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund.",
+      "didactic_note": "Perineuralscheideninfiltration als charakteristischer Invasionsbefund. Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+    }
+  ],
+  "didactic_context": "Das Prostataadenokarzinom besteht aus dicht gelagerten kleinen Drüsen mit nur einer Zelllage, prominenten Nukleolen und fehlender Basalzellschicht; Perineuralscheideninvasion ist ein starkes Malignitätszeichen."
+}

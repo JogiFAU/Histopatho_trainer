@@ -1,0 +1,1086 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "085",
+    "name": "Nebenschilddrüsenadenom",
+    "organ": "Nebenschilddrüse",
+    "diagnosis": "Adenom",
+    "description": [
+      "Nebenschilddrüse (siehe auch #84);",
+      "Adenom geht von dem Gewebe der Nebenschilddrüse aus;",
+      "knotiger Tumor mit expansivem Wachstumsmuster;",
+      "immer von Kapsel umgeben;",
+      "Gewebe oft atroph(aufgelockert & ungeordnet);",
+      "keine Dysplasie vorhanden;",
+      "Tumor ist gut vaskularisiert (endokriner Tumor);"
+    ],
+    "slide_id": "67c086a9-6a20-4b60-a130-66e38a172e6a",
+    "slide_path": "Histopathologie 5. Semester/slides/085 - Nebenschilddrüsenadenom.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=67c086a9-6a20-4b60-a130-66e38a172e6a&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3552,
+    "height": 3920,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 12,
+      "label": "Hypervaskularisation",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30770,
+            "y": 38320
+          },
+          {
+            "x": 44226,
+            "y": 50863
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37498.0,
+        "y": 44591.5
+      },
+      "crop": {
+        "left": 36608,
+        "top": 44032,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 890.0,
+        "y": 559.5
+      },
+      "atlas_image": "atlas/12-hypervaskularisation-annotiert.jpg",
+      "exercise_image": "pruefung/12-hypervaskularisation.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Hypervaskularisation als typischer ergänzender Tumorbefund.",
+      "didactic_note": "Hypervaskularisation als typischer ergänzender Tumorbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    },
+    {
+      "id": 13,
+      "label": "teils sich ablösende Tumorkapsel",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 44010,
+            "y": 3609
+          },
+          {
+            "x": 40803,
+            "y": 5851
+          },
+          {
+            "x": 40809,
+            "y": 5851
+          }
+        ]
+      },
+      "anchor": {
+        "x": 41874.0,
+        "y": 5103.67
+      },
+      "crop": {
+        "left": 40960,
+        "top": 4352,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 914.0,
+        "y": 751.67
+      },
+      "atlas_image": "atlas/13-teils-sich-ablosende-tumorkapsel-annotiert.jpg",
+      "exercise_image": "pruefung/13-teils-sich-ablosende-tumorkapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „teils sich ablösende Tumorkapsel“ dient hier als anatomischer Orientierungspunkt. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    },
+    {
+      "id": 14,
+      "label": "normales Nebenschilddrüsenparenchym",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5018,
+            "y": 15525
+          },
+          {
+            "x": 9447,
+            "y": 18927
+          },
+          {
+            "x": 9447,
+            "y": 18927
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9447.0,
+        "y": 18927.0
+      },
+      "crop": {
+        "left": 8448,
+        "top": 18176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 999.0,
+        "y": 751.0
+      },
+      "atlas_image": "atlas/14-normales-nebenschilddrusenparenchym-annotiert.jpg",
+      "exercise_image": "pruefung/14-normales-nebenschilddrusenparenchym.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „normales Nebenschilddrüsenparenchym“ dient hier als anatomischer Orientierungspunkt. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    },
+    {
+      "id": 15,
+      "label": "Nebenschilddrüsenadenom",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 22721,
+            "y": 7259
+          },
+          {
+            "x": 22648,
+            "y": 7985
+          },
+          {
+            "x": 22721,
+            "y": 8711
+          },
+          {
+            "x": 22721,
+            "y": 9509
+          },
+          {
+            "x": 22866,
+            "y": 10235
+          },
+          {
+            "x": 22939,
+            "y": 11106
+          },
+          {
+            "x": 23084,
+            "y": 12050
+          },
+          {
+            "x": 23229,
+            "y": 12848
+          },
+          {
+            "x": 23374,
+            "y": 13647
+          },
+          {
+            "x": 23447,
+            "y": 14591
+          },
+          {
+            "x": 23592,
+            "y": 15317
+          },
+          {
+            "x": 23737,
+            "y": 16042
+          },
+          {
+            "x": 23810,
+            "y": 16768
+          },
+          {
+            "x": 23810,
+            "y": 17567
+          },
+          {
+            "x": 23810,
+            "y": 18365
+          },
+          {
+            "x": 23810,
+            "y": 19309
+          },
+          {
+            "x": 23737,
+            "y": 20325
+          },
+          {
+            "x": 23447,
+            "y": 21124
+          },
+          {
+            "x": 23084,
+            "y": 21850
+          },
+          {
+            "x": 22648,
+            "y": 22576
+          },
+          {
+            "x": 22140,
+            "y": 23157
+          },
+          {
+            "x": 21559,
+            "y": 23665
+          },
+          {
+            "x": 20906,
+            "y": 24028
+          },
+          {
+            "x": 20108,
+            "y": 24391
+          },
+          {
+            "x": 19382,
+            "y": 24681
+          },
+          {
+            "x": 18511,
+            "y": 25044
+          },
+          {
+            "x": 17785,
+            "y": 25262
+          },
+          {
+            "x": 16986,
+            "y": 25479
+          },
+          {
+            "x": 16188,
+            "y": 25625
+          },
+          {
+            "x": 15317,
+            "y": 25842
+          },
+          {
+            "x": 14518,
+            "y": 25988
+          },
+          {
+            "x": 13792,
+            "y": 26060
+          },
+          {
+            "x": 12776,
+            "y": 26423
+          },
+          {
+            "x": 11977,
+            "y": 26714
+          },
+          {
+            "x": 11179,
+            "y": 27004
+          },
+          {
+            "x": 10525,
+            "y": 27367
+          },
+          {
+            "x": 9799,
+            "y": 27875
+          },
+          {
+            "x": 9219,
+            "y": 28456
+          },
+          {
+            "x": 8711,
+            "y": 29109
+          },
+          {
+            "x": 8202,
+            "y": 29762
+          },
+          {
+            "x": 7767,
+            "y": 30416
+          },
+          {
+            "x": 7477,
+            "y": 31142
+          },
+          {
+            "x": 7186,
+            "y": 31868
+          },
+          {
+            "x": 6823,
+            "y": 32594
+          },
+          {
+            "x": 6533,
+            "y": 33392
+          },
+          {
+            "x": 6315,
+            "y": 34118
+          },
+          {
+            "x": 6097,
+            "y": 34844
+          },
+          {
+            "x": 5879,
+            "y": 36005
+          },
+          {
+            "x": 5589,
+            "y": 36731
+          },
+          {
+            "x": 5154,
+            "y": 37530
+          },
+          {
+            "x": 4718,
+            "y": 38183
+          },
+          {
+            "x": 4210,
+            "y": 38764
+          },
+          {
+            "x": 3774,
+            "y": 39490
+          },
+          {
+            "x": 3484,
+            "y": 40288
+          },
+          {
+            "x": 3411,
+            "y": 41014
+          },
+          {
+            "x": 3194,
+            "y": 41958
+          },
+          {
+            "x": 2976,
+            "y": 42684
+          },
+          {
+            "x": 2540,
+            "y": 43918
+          },
+          {
+            "x": 2395,
+            "y": 44717
+          },
+          {
+            "x": 2177,
+            "y": 45515
+          },
+          {
+            "x": 1960,
+            "y": 46314
+          },
+          {
+            "x": 1960,
+            "y": 47112
+          },
+          {
+            "x": 2322,
+            "y": 48128
+          },
+          {
+            "x": 2613,
+            "y": 48999
+          },
+          {
+            "x": 2758,
+            "y": 49725
+          },
+          {
+            "x": 3048,
+            "y": 50524
+          },
+          {
+            "x": 3339,
+            "y": 51395
+          },
+          {
+            "x": 3629,
+            "y": 52194
+          },
+          {
+            "x": 4137,
+            "y": 52919
+          },
+          {
+            "x": 4718,
+            "y": 53573
+          },
+          {
+            "x": 5081,
+            "y": 54226
+          },
+          {
+            "x": 5662,
+            "y": 54952
+          },
+          {
+            "x": 6533,
+            "y": 56114
+          },
+          {
+            "x": 6968,
+            "y": 56767
+          },
+          {
+            "x": 7549,
+            "y": 57493
+          },
+          {
+            "x": 8057,
+            "y": 58291
+          },
+          {
+            "x": 8711,
+            "y": 59090
+          },
+          {
+            "x": 9437,
+            "y": 59598
+          },
+          {
+            "x": 10090,
+            "y": 59961
+          },
+          {
+            "x": 11034,
+            "y": 60251
+          },
+          {
+            "x": 11759,
+            "y": 60469
+          },
+          {
+            "x": 12485,
+            "y": 60614
+          },
+          {
+            "x": 13502,
+            "y": 60759
+          },
+          {
+            "x": 14300,
+            "y": 60977
+          },
+          {
+            "x": 15099,
+            "y": 61122
+          },
+          {
+            "x": 16188,
+            "y": 61268
+          },
+          {
+            "x": 16914,
+            "y": 61485
+          },
+          {
+            "x": 17639,
+            "y": 61558
+          },
+          {
+            "x": 18365,
+            "y": 61631
+          },
+          {
+            "x": 19454,
+            "y": 61631
+          },
+          {
+            "x": 20325,
+            "y": 61703
+          },
+          {
+            "x": 21124,
+            "y": 61776
+          },
+          {
+            "x": 21922,
+            "y": 61776
+          },
+          {
+            "x": 22648,
+            "y": 61848
+          },
+          {
+            "x": 23447,
+            "y": 61848
+          },
+          {
+            "x": 24318,
+            "y": 61848
+          },
+          {
+            "x": 25117,
+            "y": 61848
+          },
+          {
+            "x": 26060,
+            "y": 61848
+          },
+          {
+            "x": 26859,
+            "y": 61848
+          },
+          {
+            "x": 27585,
+            "y": 61776
+          },
+          {
+            "x": 28311,
+            "y": 61703
+          },
+          {
+            "x": 29037,
+            "y": 61485
+          },
+          {
+            "x": 29762,
+            "y": 61268
+          },
+          {
+            "x": 30488,
+            "y": 61050
+          },
+          {
+            "x": 31359,
+            "y": 60687
+          },
+          {
+            "x": 32231,
+            "y": 60397
+          },
+          {
+            "x": 33029,
+            "y": 60106
+          },
+          {
+            "x": 33900,
+            "y": 59671
+          },
+          {
+            "x": 34626,
+            "y": 59453
+          },
+          {
+            "x": 35280,
+            "y": 59017
+          },
+          {
+            "x": 35933,
+            "y": 58654
+          },
+          {
+            "x": 36659,
+            "y": 58291
+          },
+          {
+            "x": 37675,
+            "y": 57565
+          },
+          {
+            "x": 38328,
+            "y": 57202
+          },
+          {
+            "x": 39054,
+            "y": 56767
+          },
+          {
+            "x": 39853,
+            "y": 56259
+          },
+          {
+            "x": 40579,
+            "y": 55751
+          },
+          {
+            "x": 41377,
+            "y": 55315
+          },
+          {
+            "x": 42031,
+            "y": 54734
+          },
+          {
+            "x": 42829,
+            "y": 54154
+          },
+          {
+            "x": 43628,
+            "y": 53500
+          },
+          {
+            "x": 44208,
+            "y": 52847
+          },
+          {
+            "x": 44717,
+            "y": 52266
+          },
+          {
+            "x": 45225,
+            "y": 51613
+          },
+          {
+            "x": 45878,
+            "y": 51105
+          },
+          {
+            "x": 46459,
+            "y": 50524
+          },
+          {
+            "x": 47040,
+            "y": 50016
+          },
+          {
+            "x": 47620,
+            "y": 49508
+          },
+          {
+            "x": 48201,
+            "y": 48927
+          },
+          {
+            "x": 48782,
+            "y": 48201
+          },
+          {
+            "x": 49362,
+            "y": 47475
+          },
+          {
+            "x": 49798,
+            "y": 46822
+          },
+          {
+            "x": 50234,
+            "y": 46096
+          },
+          {
+            "x": 50814,
+            "y": 45370
+          },
+          {
+            "x": 51322,
+            "y": 44717
+          },
+          {
+            "x": 51831,
+            "y": 44063
+          },
+          {
+            "x": 52194,
+            "y": 43337
+          },
+          {
+            "x": 52557,
+            "y": 42684
+          },
+          {
+            "x": 52847,
+            "y": 41958
+          },
+          {
+            "x": 53210,
+            "y": 41232
+          },
+          {
+            "x": 53573,
+            "y": 40361
+          },
+          {
+            "x": 53863,
+            "y": 39635
+          },
+          {
+            "x": 54589,
+            "y": 39562
+          },
+          {
+            "x": 55388,
+            "y": 39490
+          },
+          {
+            "x": 55533,
+            "y": 38764
+          },
+          {
+            "x": 55533,
+            "y": 37675
+          },
+          {
+            "x": 55533,
+            "y": 36877
+          },
+          {
+            "x": 55533,
+            "y": 36005
+          },
+          {
+            "x": 55533,
+            "y": 35207
+          },
+          {
+            "x": 55533,
+            "y": 34408
+          },
+          {
+            "x": 55678,
+            "y": 33682
+          },
+          {
+            "x": 55896,
+            "y": 32957
+          },
+          {
+            "x": 56041,
+            "y": 32231
+          },
+          {
+            "x": 56186,
+            "y": 31359
+          },
+          {
+            "x": 56186,
+            "y": 30561
+          },
+          {
+            "x": 56186,
+            "y": 29472
+          },
+          {
+            "x": 56186,
+            "y": 28674
+          },
+          {
+            "x": 56041,
+            "y": 27730
+          },
+          {
+            "x": 55823,
+            "y": 26786
+          },
+          {
+            "x": 55605,
+            "y": 26060
+          },
+          {
+            "x": 55388,
+            "y": 25334
+          },
+          {
+            "x": 55242,
+            "y": 24608
+          },
+          {
+            "x": 54880,
+            "y": 23810
+          },
+          {
+            "x": 54517,
+            "y": 22866
+          },
+          {
+            "x": 54081,
+            "y": 21850
+          },
+          {
+            "x": 53718,
+            "y": 21197
+          },
+          {
+            "x": 53645,
+            "y": 20471
+          },
+          {
+            "x": 53573,
+            "y": 19382
+          },
+          {
+            "x": 53210,
+            "y": 18583
+          },
+          {
+            "x": 52847,
+            "y": 17857
+          },
+          {
+            "x": 52484,
+            "y": 16986
+          },
+          {
+            "x": 52194,
+            "y": 16115
+          },
+          {
+            "x": 51976,
+            "y": 15389
+          },
+          {
+            "x": 51685,
+            "y": 14591
+          },
+          {
+            "x": 51322,
+            "y": 13719
+          },
+          {
+            "x": 50960,
+            "y": 12994
+          },
+          {
+            "x": 50597,
+            "y": 12268
+          },
+          {
+            "x": 50088,
+            "y": 11469
+          },
+          {
+            "x": 49508,
+            "y": 10743
+          },
+          {
+            "x": 48927,
+            "y": 10017
+          },
+          {
+            "x": 48419,
+            "y": 9437
+          },
+          {
+            "x": 47838,
+            "y": 8928
+          },
+          {
+            "x": 47257,
+            "y": 8348
+          },
+          {
+            "x": 46677,
+            "y": 7839
+          },
+          {
+            "x": 46168,
+            "y": 7259
+          },
+          {
+            "x": 45370,
+            "y": 6533
+          },
+          {
+            "x": 44571,
+            "y": 5952
+          },
+          {
+            "x": 43700,
+            "y": 5371
+          },
+          {
+            "x": 42902,
+            "y": 4791
+          },
+          {
+            "x": 42176,
+            "y": 4355
+          },
+          {
+            "x": 41305,
+            "y": 3992
+          },
+          {
+            "x": 40506,
+            "y": 3702
+          },
+          {
+            "x": 39708,
+            "y": 3484
+          },
+          {
+            "x": 38982,
+            "y": 3266
+          },
+          {
+            "x": 38183,
+            "y": 3048
+          },
+          {
+            "x": 37312,
+            "y": 2976
+          },
+          {
+            "x": 36586,
+            "y": 2903
+          },
+          {
+            "x": 35788,
+            "y": 2685
+          },
+          {
+            "x": 35062,
+            "y": 2468
+          },
+          {
+            "x": 34336,
+            "y": 2322
+          },
+          {
+            "x": 33465,
+            "y": 2250
+          },
+          {
+            "x": 32521,
+            "y": 2250
+          },
+          {
+            "x": 31650,
+            "y": 2250
+          },
+          {
+            "x": 30706,
+            "y": 2250
+          },
+          {
+            "x": 29690,
+            "y": 2177
+          },
+          {
+            "x": 28964,
+            "y": 2322
+          },
+          {
+            "x": 28093,
+            "y": 2468
+          },
+          {
+            "x": 27294,
+            "y": 2685
+          },
+          {
+            "x": 26568,
+            "y": 2903
+          },
+          {
+            "x": 25770,
+            "y": 3048
+          },
+          {
+            "x": 25044,
+            "y": 3339
+          },
+          {
+            "x": 24318,
+            "y": 3702
+          },
+          {
+            "x": 23665,
+            "y": 4065
+          },
+          {
+            "x": 23229,
+            "y": 4791
+          },
+          {
+            "x": 22721,
+            "y": 7331
+          },
+          {
+            "x": 22721,
+            "y": 7331
+          },
+          {
+            "x": 22721,
+            "y": 7259
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30027.98,
+        "y": 33267.73
+      },
+      "crop": {
+        "left": 29184,
+        "top": 32512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 843.98,
+        "y": 755.73
+      },
+      "atlas_image": "atlas/15-nebenschilddrusenadenom-annotiert.jpg",
+      "exercise_image": "pruefung/15-nebenschilddrusenadenom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund.",
+      "didactic_note": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 15,
+      "label": "Nebenschilddrüsenadenom",
+      "exercise_image": "pruefung/15-nebenschilddrusenadenom.jpg",
+      "rationale": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund.",
+      "didactic_note": "Nebenschilddrüsenadenom als diagnostischer Hauptbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    },
+    {
+      "annotation_id": 12,
+      "label": "Hypervaskularisation",
+      "exercise_image": "pruefung/12-hypervaskularisation.jpg",
+      "rationale": "Hypervaskularisation als typischer ergänzender Tumorbefund.",
+      "didactic_note": "Hypervaskularisation als typischer ergänzender Tumorbefund. Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+    }
+  ],
+  "didactic_context": "Ein Nebenschilddrüsenadenom besteht meist aus monotonen Hauptzellen mit wenig stromalem Fett und reicher Vaskularisation; Kapsel und ein Saum normalen Parenchyms helfen bei der Abgrenzung."
+}

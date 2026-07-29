@@ -1,0 +1,306 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "026",
+    "name": "Lungenödem",
+    "organ": "Lunge",
+    "diagnosis": "Ödem",
+    "description": [
+      "im Randbereich alveoläres Lungengewebe gut erkennbar;",
+      "Ödem (Transsudat) im Alveolarraum;",
+      "ödematös angeschwollene Alveolarwände;",
+      "Exsudat mit Entzündungskomponente;",
+      "Granulozyten im Alveolarraum, an sich aber wenige entzündliche Prozesse;",
+      "blutgestaute Alveolarwände;",
+      "thrombosierte Gefäße;"
+    ],
+    "slide_id": "92803558-8d4a-4c64-afed-4d8115f89015",
+    "slide_path": "Histopathologie 5. Semester/slides/026 - Lungenödem.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=92803558-8d4a-4c64-afed-4d8115f89015&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3024,
+    "height": 2208,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Blutgestaute Septen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18232,
+            "y": 13704
+          },
+          {
+            "x": 19921,
+            "y": 14966
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19076.5,
+        "y": 14335.0
+      },
+      "crop": {
+        "left": 18176,
+        "top": 13568,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 900.5,
+        "y": 767.0
+      },
+      "atlas_image": "atlas/03-blutgestaute-septen-annotiert.jpg",
+      "exercise_image": "pruefung/03-blutgestaute-septen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Blutgestaute Alveolarsepten als typischer Begleitbefund.",
+      "didactic_note": "Blutgestaute Alveolarsepten als typischer Begleitbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "id": 5,
+      "label": "Ödem",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12560,
+            "y": 21208
+          },
+          {
+            "x": 13291,
+            "y": 21695
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12925.5,
+        "y": 21451.5
+      },
+      "crop": {
+        "left": 12032,
+        "top": 20736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 893.5,
+        "y": 715.5
+      },
+      "atlas_image": "atlas/05-odem-annotiert.jpg",
+      "exercise_image": "pruefung/05-odem.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Intraalveoläres Ödem als definierender Befund.",
+      "didactic_note": "Intraalveoläres Ödem als definierender Befund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "id": 7,
+      "label": "Thrombus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4976,
+            "y": 21688
+          },
+          {
+            "x": 5838,
+            "y": 22738
+          }
+        ]
+      },
+      "anchor": {
+        "x": 5407.0,
+        "y": 22213
+      },
+      "crop": {
+        "left": 4608,
+        "top": 21504,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 799.0,
+        "y": 709
+      },
+      "atlas_image": "atlas/07-thrombus-annotiert.jpg",
+      "exercise_image": "pruefung/07-thrombus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Thrombus“ als morphologischen Teilbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "id": 11,
+      "label": "Alveolen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 21797,
+            "y": 32391
+          },
+          {
+            "x": 14679,
+            "y": 30210
+          },
+          {
+            "x": 14679,
+            "y": 30210
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14679,
+        "y": 30210
+      },
+      "crop": {
+        "left": 13824,
+        "top": 29696,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 855,
+        "y": 514
+      },
+      "atlas_image": "atlas/11-alveolen-annotiert.jpg",
+      "exercise_image": "pruefung/11-alveolen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "id": 12,
+      "label": "Exsudat mit Entzündungskomponente",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28594,
+            "y": 10555
+          },
+          {
+            "x": 30335,
+            "y": 13389
+          },
+          {
+            "x": 30335,
+            "y": 13389
+          },
+          {
+            "x": 30325,
+            "y": 13370
+          },
+          {
+            "x": 30325,
+            "y": 13370
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29751.33,
+        "y": 12438
+      },
+      "crop": {
+        "left": 28928,
+        "top": 11776,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 823.33,
+        "y": 662
+      },
+      "atlas_image": "atlas/12-exsudat-mit-entzundungskomponente-annotiert.jpg",
+      "exercise_image": "pruefung/12-exsudat-mit-entzundungskomponente.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Exsudat mit Entzündungskomponente“ als morphologischen Teilbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "id": 13,
+      "label": "Alveolarmakrophage",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18150,
+            "y": 16099
+          },
+          {
+            "x": 18226,
+            "y": 16202
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18188,
+        "y": 16150.5
+      },
+      "crop": {
+        "left": 17408,
+        "top": 15616,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 780,
+        "y": 534.5
+      },
+      "atlas_image": "atlas/13-alveolarmakrophage-annotiert.jpg",
+      "exercise_image": "pruefung/13-alveolarmakrophage.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Alveolarmakrophage“ dient hier als anatomischer Orientierungspunkt. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Ödem",
+      "exercise_image": "pruefung/05-odem.jpg",
+      "rationale": "Intraalveoläres Ödem als definierender Befund.",
+      "didactic_note": "Intraalveoläres Ödem als definierender Befund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    },
+    {
+      "annotation_id": 3,
+      "label": "Blutgestaute Septen",
+      "exercise_image": "pruefung/03-blutgestaute-septen.jpg",
+      "rationale": "Blutgestaute Alveolarsepten als typischer Begleitbefund.",
+      "didactic_note": "Blutgestaute Alveolarsepten als typischer Begleitbefund. Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+    }
+  ],
+  "didactic_context": "Beim Lungenödem füllt blass eosinophiles eiweißreiches Material die Alveolen, während die Septenkapillaren gestaut sind; bei chronischer Stauung können Hämosiderinmakrophagen hinzukommen."
+}

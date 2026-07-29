@@ -1,0 +1,266 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "046",
+    "name": "Barrett-Mukosa (Alz-Pas)",
+    "organ": "Ösophagus/ösophagogastraler Übergang",
+    "diagnosis": "Barrett-Mukosa",
+    "description": [
+      "Alcianblau-Pas-Färbung (blau: saure Glykosaminglykane = Becherzellen",
+      "rot: neutrale Glykosaminglykane);",
+      "Plattenepithel des Ösophagus;",
+      "Glandulae Ösophageales;",
+      "Zylinderzellmetaplasie im Ösophagus vom intestinalen Typ;",
+      "gering Dysplastisch;",
+      "HE Färbung siehe #45;"
+    ],
+    "slide_id": "06ba7a0f-713b-46d0-b976-e8691520f927",
+    "slide_path": "Histopathologie 5. Semester/slides/046 - Barrett-Mukosa (Alz-Pas).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=06ba7a0f-713b-46d0-b976-e8691520f927&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1376,
+    "height": 3008,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Übergang zur intestinalen Metaplasie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9503.21,
+            "y": 31484.16
+          },
+          {
+            "x": 12429.96,
+            "y": 32703.55
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10966.59,
+        "y": 32093.85
+      },
+      "crop": {
+        "left": 9984,
+        "top": 31488,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 982.59,
+        "y": 605.85
+      },
+      "atlas_image": "atlas/05-ubergang-zur-intestinalen-metaplasie-annotiert.jpg",
+      "exercise_image": "pruefung/05-ubergang-zur-intestinalen-metaplasie.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Übergang zur intestinalen Metaplasie als charakteristischer Barrett-Befund.",
+      "didactic_note": "Übergang zur intestinalen Metaplasie als charakteristischer Barrett-Befund. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    },
+    {
+      "id": 10,
+      "label": "Becherzellen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18250.53,
+            "y": 22011.38
+          },
+          {
+            "x": 13047.64,
+            "y": 22875.54
+          },
+          {
+            "x": 13047.64,
+            "y": 22875.54
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13047.64,
+        "y": 22875.54
+      },
+      "crop": {
+        "left": 12032,
+        "top": 22272,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1015.64,
+        "y": 603.54
+      },
+      "atlas_image": "atlas/10-becherzellen-annotiert.jpg",
+      "exercise_image": "pruefung/10-becherzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Becherzellen als zellulärer Nachweis der intestinalen Metaplasie.",
+      "didactic_note": "Becherzellen als zellulärer Nachweis der intestinalen Metaplasie. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    },
+    {
+      "id": 11,
+      "label": "Plattenepithel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 1486.33,
+            "y": 44215.97
+          },
+          {
+            "x": 1912.42,
+            "y": 40756.36
+          },
+          {
+            "x": 1912.42,
+            "y": 40756.36
+          }
+        ]
+      },
+      "anchor": {
+        "x": 1912.42,
+        "y": 40756.36
+      },
+      "crop": {
+        "left": 1024,
+        "top": 40192,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 888.42,
+        "y": 564.36
+      },
+      "atlas_image": "atlas/11-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/11-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    },
+    {
+      "id": 12,
+      "label": "ösophageale Drüsen",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5546.66,
+            "y": 41229.35
+          },
+          {
+            "x": 9646.91,
+            "y": 43980.47
+          }
+        ]
+      },
+      "anchor": {
+        "x": 7596.78,
+        "y": 42604.91
+      },
+      "crop": {
+        "left": 6656,
+        "top": 41984,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 940.78,
+        "y": 620.91
+      },
+      "atlas_image": "atlas/12-osophageale-drusen-annotiert.jpg",
+      "exercise_image": "pruefung/12-osophageale-drusen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „ösophageale Drüsen“ dient hier als anatomischer Orientierungspunkt. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    },
+    {
+      "id": 13,
+      "label": "Cardia Schleimhaut",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5999.69,
+            "y": 31841.39
+          },
+          {
+            "x": 8483.39,
+            "y": 33759.3
+          },
+          {
+            "x": 8483.39,
+            "y": 33759.3
+          }
+        ]
+      },
+      "anchor": {
+        "x": 8483.39,
+        "y": 33759.3
+      },
+      "crop": {
+        "left": 7680,
+        "top": 33024,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 803.39,
+        "y": 735.3
+      },
+      "atlas_image": "atlas/13-cardia-schleimhaut-annotiert.jpg",
+      "exercise_image": "pruefung/13-cardia-schleimhaut.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Cardia Schleimhaut“ dient hier als anatomischer Orientierungspunkt. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Übergang zur intestinalen Metaplasie",
+      "exercise_image": "pruefung/05-ubergang-zur-intestinalen-metaplasie.jpg",
+      "rationale": "Übergang zur intestinalen Metaplasie als charakteristischer Barrett-Befund.",
+      "didactic_note": "Übergang zur intestinalen Metaplasie als charakteristischer Barrett-Befund. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    },
+    {
+      "annotation_id": 10,
+      "label": "Becherzellen",
+      "exercise_image": "pruefung/10-becherzellen.jpg",
+      "rationale": "Becherzellen als zellulärer Nachweis der intestinalen Metaplasie.",
+      "didactic_note": "Becherzellen als zellulärer Nachweis der intestinalen Metaplasie. Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+    }
+  ],
+  "didactic_context": "Der Übergang von Plattenepithel zu intestinaler Metaplasie mit Becherzellen ist der diagnostische Kernbefund der Barrett-Mukosa und muss von reiner Cardiaschleimhaut abgegrenzt werden."
+}

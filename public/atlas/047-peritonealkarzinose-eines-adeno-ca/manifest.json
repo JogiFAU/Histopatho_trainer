@@ -1,0 +1,893 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "047",
+    "name": "Peritonealkarzinose eines Adeno-Ca",
+    "organ": "Peritoneum und Subserosa",
+    "diagnosis": "Peritonealkarzinose eines Adenokarzinoms",
+    "description": [
+      "peritoneales Mesothel;",
+      "subseröses Fettgewebe mit fein lobulierter Architektur (passend für Omentum majus);",
+      "Drüsenverbände im Fettgewebe (Metastase eines Karzinoms, passend für Kolonkarzinom #74, #86);",
+      "desmoplastische Reaktion (=Neubildung von Bindegewebe);",
+      "lymphozytäre Entzündung mit Follikelbildung (chronische Komponente);",
+      "Peritonealkarzinose ist i.d.R. eine Metastase kann aber auch Ausdehnung (pT der TNM Klassifikation) bestimmter Primärtumore sein (z.B. beim Ovarialkarzinom);"
+    ],
+    "slide_id": "3c75baeb-6691-4e95-bae3-489d7c6e0ac7",
+    "slide_path": "Histopathologie 5. Semester/slides/047 - Peritonealkarzinose eines Adeno-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3c75baeb-6691-4e95-bae3-489d7c6e0ac7&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1968,
+    "height": 2560,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Drüsenstrukturenausbildende Karzinomverbände",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18299.79,
+            "y": 46862.68
+          },
+          {
+            "x": 19832.28,
+            "y": 48356.76
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19066.04,
+        "y": 47609.72
+      },
+      "crop": {
+        "left": 18176,
+        "top": 46848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 890.04,
+        "y": 761.72
+      },
+      "atlas_image": "atlas/03-drusenstrukturenausbildende-karzinomverbande-annotiert.jpg",
+      "exercise_image": "pruefung/03-drusenstrukturenausbildende-karzinomverbande.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase.",
+      "didactic_note": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "id": 5,
+      "label": "Desmoplasie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32281.85,
+            "y": 64826.81
+          },
+          {
+            "x": 33719.91,
+            "y": 65611.86
+          }
+        ]
+      },
+      "anchor": {
+        "x": 33000.88,
+        "y": 65219.34
+      },
+      "crop": {
+        "left": 32000,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1000.88,
+        "y": 707.34
+      },
+      "atlas_image": "atlas/05-desmoplasie-annotiert.jpg",
+      "exercise_image": "pruefung/05-desmoplasie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Desmoplasie“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "id": 11,
+      "label": "Begleitentzündung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 41321.54,
+            "y": 54609.15
+          },
+          {
+            "x": 42749.99,
+            "y": 56674.61
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42035.76,
+        "y": 55641.88
+      },
+      "crop": {
+        "left": 41216,
+        "top": 55040,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 819.76,
+        "y": 601.88
+      },
+      "atlas_image": "atlas/11-begleitentzundung-annotiert.jpg",
+      "exercise_image": "pruefung/11-begleitentzundung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Begleitentzündung“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "id": 15,
+      "label": "Lobulus",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43037.28,
+            "y": 43661.66
+          },
+          {
+            "x": 47774.79,
+            "y": 48591.23
+          },
+          {
+            "x": 47774.79,
+            "y": 48591.23
+          }
+        ]
+      },
+      "anchor": {
+        "x": 47774.79,
+        "y": 48591.23
+      },
+      "crop": {
+        "left": 46848,
+        "top": 47872,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 926.79,
+        "y": 719.23
+      },
+      "atlas_image": "atlas/15-lobulus-annotiert.jpg",
+      "exercise_image": "pruefung/15-lobulus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lobulus“ als morphologischen Teilbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "id": 16,
+      "label": "Mesothel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37839.63,
+            "y": 11701.07
+          },
+          {
+            "x": 35003.52,
+            "y": 12893.45
+          },
+          {
+            "x": 35003.52,
+            "y": 12893.45
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35003.52,
+        "y": 12893.45
+      },
+      "crop": {
+        "left": 34048,
+        "top": 12288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 955.52,
+        "y": 605.45
+      },
+      "atlas_image": "atlas/16-mesothel-annotiert.jpg",
+      "exercise_image": "pruefung/16-mesothel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Mesothel“ dient hier als anatomischer Orientierungspunkt. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "id": 17,
+      "label": "Metastase",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 21181.51,
+            "y": 24529.16
+          },
+          {
+            "x": 19905.11,
+            "y": 24529.16
+          },
+          {
+            "x": 19053.63,
+            "y": 24444.33
+          },
+          {
+            "x": 18118.14,
+            "y": 24444.33
+          },
+          {
+            "x": 17181.84,
+            "y": 24444.33
+          },
+          {
+            "x": 16330.37,
+            "y": 24614.79
+          },
+          {
+            "x": 15564.52,
+            "y": 25125.35
+          },
+          {
+            "x": 15139.59,
+            "y": 25891.19
+          },
+          {
+            "x": 14798.68,
+            "y": 26741.87
+          },
+          {
+            "x": 14713.85,
+            "y": 27678.16
+          },
+          {
+            "x": 14543.4,
+            "y": 28528.84
+          },
+          {
+            "x": 14118.46,
+            "y": 29380.31
+          },
+          {
+            "x": 13692.73,
+            "y": 30230.98
+          },
+          {
+            "x": 13182.16,
+            "y": 31081.65
+          },
+          {
+            "x": 12671.6,
+            "y": 31847.49
+          },
+          {
+            "x": 11905.76,
+            "y": 32443.68
+          },
+          {
+            "x": 11480.02,
+            "y": 33209.53
+          },
+          {
+            "x": 11139.91,
+            "y": 34145.83
+          },
+          {
+            "x": 10884.63,
+            "y": 34996.5
+          },
+          {
+            "x": 10714.18,
+            "y": 35847.17
+          },
+          {
+            "x": 10714.18,
+            "y": 36783.47
+          },
+          {
+            "x": 10884.63,
+            "y": 37719.77
+          },
+          {
+            "x": 11054.28,
+            "y": 38570.44
+          },
+          {
+            "x": 11139.91,
+            "y": 39591.56
+          },
+          {
+            "x": 11139.91,
+            "y": 40527.86
+          },
+          {
+            "x": 10799,
+            "y": 41464.16
+          },
+          {
+            "x": 10288.44,
+            "y": 42230
+          },
+          {
+            "x": 9693.05,
+            "y": 42910.22
+          },
+          {
+            "x": 8927.21,
+            "y": 43420.78
+          },
+          {
+            "x": 8501.47,
+            "y": 44186.63
+          },
+          {
+            "x": 8416.64,
+            "y": 45038.1
+          },
+          {
+            "x": 8756.75,
+            "y": 45888.77
+          },
+          {
+            "x": 9352.94,
+            "y": 46654.62
+          },
+          {
+            "x": 9863.5,
+            "y": 47420.46
+          },
+          {
+            "x": 10543.72,
+            "y": 48356.76
+          },
+          {
+            "x": 10884.63,
+            "y": 49207.43
+          },
+          {
+            "x": 11395.19,
+            "y": 49973.27
+          },
+          {
+            "x": 11820.93,
+            "y": 50739.92
+          },
+          {
+            "x": 12076.21,
+            "y": 51590.59
+          },
+          {
+            "x": 12416.32,
+            "y": 52441.26
+          },
+          {
+            "x": 12756.43,
+            "y": 53292.73
+          },
+          {
+            "x": 13097.34,
+            "y": 54143.4
+          },
+          {
+            "x": 13522.27,
+            "y": 54909.25
+          },
+          {
+            "x": 14032.83,
+            "y": 55760.72
+          },
+          {
+            "x": 14543.4,
+            "y": 56526.56
+          },
+          {
+            "x": 15309.24,
+            "y": 57121.95
+          },
+          {
+            "x": 16160.71,
+            "y": 57547.69
+          },
+          {
+            "x": 17181.84,
+            "y": 57802.97
+          },
+          {
+            "x": 18032.51,
+            "y": 57972.62
+          },
+          {
+            "x": 19053.63,
+            "y": 57972.62
+          },
+          {
+            "x": 19989.93,
+            "y": 58058.25
+          },
+          {
+            "x": 20926.23,
+            "y": 58143.08
+          },
+          {
+            "x": 21861.73,
+            "y": 58143.08
+          },
+          {
+            "x": 22883.66,
+            "y": 58058.25
+          },
+          {
+            "x": 23734.33,
+            "y": 57802.97
+          },
+          {
+            "x": 24585,
+            "y": 57462.06
+          },
+          {
+            "x": 25436.47,
+            "y": 57037.13
+          },
+          {
+            "x": 26287.14,
+            "y": 56696.22
+          },
+          {
+            "x": 27137.81,
+            "y": 56271.28
+          },
+          {
+            "x": 27903.66,
+            "y": 55760.72
+          },
+          {
+            "x": 28755.13,
+            "y": 55930.37
+          },
+          {
+            "x": 29180.86,
+            "y": 56696.22
+          },
+          {
+            "x": 29180.86,
+            "y": 57632.52
+          },
+          {
+            "x": 29010.41,
+            "y": 58483.19
+          },
+          {
+            "x": 28584.67,
+            "y": 59249.03
+          },
+          {
+            "x": 27989.28,
+            "y": 60100.5
+          },
+          {
+            "x": 27563.55,
+            "y": 61121.63
+          },
+          {
+            "x": 27223.44,
+            "y": 62057.93
+          },
+          {
+            "x": 26968.16,
+            "y": 62908.6
+          },
+          {
+            "x": 26968.16,
+            "y": 63844.9
+          },
+          {
+            "x": 27563.55,
+            "y": 64610.74
+          },
+          {
+            "x": 28244.57,
+            "y": 65461.41
+          },
+          {
+            "x": 28755.13,
+            "y": 66227.26
+          },
+          {
+            "x": 29350.52,
+            "y": 66993.1
+          },
+          {
+            "x": 29861.08,
+            "y": 67758.95
+          },
+          {
+            "x": 30286.82,
+            "y": 68524.79
+          },
+          {
+            "x": 30967.83,
+            "y": 69205.81
+          },
+          {
+            "x": 31733.68,
+            "y": 69716.37
+          },
+          {
+            "x": 32584.35,
+            "y": 69971.65
+          },
+          {
+            "x": 33520.65,
+            "y": 70226.93
+          },
+          {
+            "x": 34371.32,
+            "y": 70397.39
+          },
+          {
+            "x": 35222.79,
+            "y": 70311.76
+          },
+          {
+            "x": 36158.29,
+            "y": 69971.65
+          },
+          {
+            "x": 37094.59,
+            "y": 69545.92
+          },
+          {
+            "x": 37945.26,
+            "y": 69035.35
+          },
+          {
+            "x": 38796.73,
+            "y": 68439.96
+          },
+          {
+            "x": 39562.57,
+            "y": 68014.23
+          },
+          {
+            "x": 40328.42,
+            "y": 67418.84
+          },
+          {
+            "x": 41009.44,
+            "y": 66823.45
+          },
+          {
+            "x": 41689.65,
+            "y": 66142.43
+          },
+          {
+            "x": 42285.84,
+            "y": 65376.59
+          },
+          {
+            "x": 42710.78,
+            "y": 64610.74
+          },
+          {
+            "x": 43221.34,
+            "y": 63589.62
+          },
+          {
+            "x": 43476.62,
+            "y": 62738.14
+          },
+          {
+            "x": 43731.9,
+            "y": 61887.47
+          },
+          {
+            "x": 43902.36,
+            "y": 60866.35
+          },
+          {
+            "x": 44157.64,
+            "y": 59930.05
+          },
+          {
+            "x": 44328.09,
+            "y": 58908.92
+          },
+          {
+            "x": 44412.92,
+            "y": 57972.62
+          },
+          {
+            "x": 44412.92,
+            "y": 56781.85
+          },
+          {
+            "x": 44242.47,
+            "y": 55930.37
+          },
+          {
+            "x": 43987.19,
+            "y": 55079.7
+          },
+          {
+            "x": 43476.62,
+            "y": 54313.86
+          },
+          {
+            "x": 42966.06,
+            "y": 53548.01
+          },
+          {
+            "x": 42200.22,
+            "y": 52951.82
+          },
+          {
+            "x": 41434.37,
+            "y": 52441.26
+          },
+          {
+            "x": 40583.7,
+            "y": 52185.98
+          },
+          {
+            "x": 39733.03,
+            "y": 52016.33
+          },
+          {
+            "x": 38881.56,
+            "y": 51845.87
+          },
+          {
+            "x": 38030.89,
+            "y": 51761.04
+          },
+          {
+            "x": 36924.13,
+            "y": 51505.76
+          },
+          {
+            "x": 35988.64,
+            "y": 51250.48
+          },
+          {
+            "x": 35137.16,
+            "y": 50824.75
+          },
+          {
+            "x": 33946.38,
+            "y": 49548.34
+          },
+          {
+            "x": 33605.48,
+            "y": 48696.87
+          },
+          {
+            "x": 33520.65,
+            "y": 47846.2
+          },
+          {
+            "x": 33520.65,
+            "y": 46825.07
+          },
+          {
+            "x": 33520.65,
+            "y": 45888.77
+          },
+          {
+            "x": 33520.65,
+            "y": 44782.82
+          },
+          {
+            "x": 33605.48,
+            "y": 43846.52
+          },
+          {
+            "x": 33775.93,
+            "y": 42995.85
+          },
+          {
+            "x": 33946.38,
+            "y": 41974.72
+          },
+          {
+            "x": 34031.21,
+            "y": 40783.14
+          },
+          {
+            "x": 34031.21,
+            "y": 39846.85
+          },
+          {
+            "x": 34031.21,
+            "y": 38740.89
+          },
+          {
+            "x": 34031.21,
+            "y": 37634.14
+          },
+          {
+            "x": 34031.21,
+            "y": 36528.19
+          },
+          {
+            "x": 33946.38,
+            "y": 35677.52
+          },
+          {
+            "x": 33775.93,
+            "y": 34741.22
+          },
+          {
+            "x": 33520.65,
+            "y": 33890.55
+          },
+          {
+            "x": 33265.37,
+            "y": 32954.25
+          },
+          {
+            "x": 33010.09,
+            "y": 32017.95
+          },
+          {
+            "x": 32754.8,
+            "y": 31167.28
+          },
+          {
+            "x": 32329.07,
+            "y": 30230.98
+          },
+          {
+            "x": 31903.33,
+            "y": 29294.68
+          },
+          {
+            "x": 31648.05,
+            "y": 28444.01
+          },
+          {
+            "x": 31052.66,
+            "y": 27678.16
+          },
+          {
+            "x": 30457.27,
+            "y": 26997.15
+          },
+          {
+            "x": 29776.25,
+            "y": 26316.13
+          },
+          {
+            "x": 29180.86,
+            "y": 25550.29
+          },
+          {
+            "x": 28499.85,
+            "y": 24870.07
+          },
+          {
+            "x": 27648.38,
+            "y": 24444.33
+          },
+          {
+            "x": 26882.53,
+            "y": 24018.6
+          },
+          {
+            "x": 26031.86,
+            "y": 23678.49
+          },
+          {
+            "x": 25095.56,
+            "y": 23508.03
+          },
+          {
+            "x": 24074.44,
+            "y": 23508.03
+          },
+          {
+            "x": 23138.94,
+            "y": 23508.03
+          },
+          {
+            "x": 22287.47,
+            "y": 23848.94
+          },
+          {
+            "x": 21266.34,
+            "y": 24444.33
+          },
+          {
+            "x": 21266.34,
+            "y": 24444.33
+          },
+          {
+            "x": 21181.51,
+            "y": 24529.16
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26413.13,
+        "y": 47385.01
+      },
+      "crop": {
+        "left": 25600,
+        "top": 46848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 813.13,
+        "y": 537.01
+      },
+      "atlas_image": "atlas/17-metastase-annotiert.jpg",
+      "exercise_image": "pruefung/17-metastase.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Peritoneale Metastase als definierender Ausbreitungsbefund.",
+      "didactic_note": "Peritoneale Metastase als definierender Ausbreitungsbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 3,
+      "label": "Drüsenstrukturenausbildende Karzinomverbände",
+      "exercise_image": "pruefung/03-drusenstrukturenausbildende-karzinomverbande.jpg",
+      "rationale": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase.",
+      "didactic_note": "Drüsenbildende Karzinomverbände zeigen die Morphologie der Adenokarzinommetastase. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    },
+    {
+      "annotation_id": 17,
+      "label": "Metastase",
+      "exercise_image": "pruefung/17-metastase.jpg",
+      "rationale": "Peritoneale Metastase als definierender Ausbreitungsbefund.",
+      "didactic_note": "Peritoneale Metastase als definierender Ausbreitungsbefund. Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+    }
+  ],
+  "didactic_context": "Bei der Peritonealkarzinose liegen maligne drüsenbildende Verbände auf oder im Peritoneum und lösen häufig eine desmoplastische Stromareaktion aus; das Mesothel dient als topografische Orientierung."
+}

@@ -1,0 +1,606 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "081",
+    "name": "PSA Immunhistochemie ossäre Metastase",
+    "organ": "Knochen",
+    "diagnosis": "Metastase eines Prostatakarzinoms",
+    "description": [
+      "PSA Immun-Färbung (= prostate-specific antigen)",
+      "zytoplasmatische Färbung (rot) der metastasierten Zellen;",
+      "Luftblasenartefakte;",
+      "Knochengewebe mit verbreiterten Knochentrabekeln;",
+      "metastasierte Drüsenverbände mit kribriformen Wachstumsmuster",
+      "füllen Markraum fast komplett aus;",
+      "HE Fäbrung siehe #80;"
+    ],
+    "slide_id": "ed2dd051-651b-4747-9a33-cd7e524cd11a",
+    "slide_path": "Histopathologie 5. Semester/slides/081 - PSA Immunhistochemie ossäre Metastase.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=ed2dd051-651b-4747-9a33-cd7e524cd11a&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2688,
+    "height": 3496,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "verbreiterte Knochentrabekel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 74015,
+            "y": 12981
+          },
+          {
+            "x": 73961,
+            "y": 18076
+          },
+          {
+            "x": 73961,
+            "y": 18076
+          }
+        ]
+      },
+      "anchor": {
+        "x": 73961,
+        "y": 18076.0
+      },
+      "crop": {
+        "left": 72960,
+        "top": 17408,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1001,
+        "y": 668.0
+      },
+      "atlas_image": "atlas/05-verbreiterte-knochentrabekel-annotiert.jpg",
+      "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion.",
+      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+    },
+    {
+      "id": 6,
+      "label": "Prostatakarzinommetastasen im Markraum",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 72805,
+            "y": 59043
+          },
+          {
+            "x": 72728,
+            "y": 58956
+          },
+          {
+            "x": 72652,
+            "y": 58858
+          },
+          {
+            "x": 72576,
+            "y": 58750
+          },
+          {
+            "x": 72511,
+            "y": 58630
+          },
+          {
+            "x": 72435,
+            "y": 58543
+          },
+          {
+            "x": 72337,
+            "y": 58456
+          },
+          {
+            "x": 72261,
+            "y": 58370
+          },
+          {
+            "x": 72175,
+            "y": 58293
+          },
+          {
+            "x": 72077,
+            "y": 58239
+          },
+          {
+            "x": 71968,
+            "y": 58250
+          },
+          {
+            "x": 71860,
+            "y": 58293
+          },
+          {
+            "x": 71762,
+            "y": 58348
+          },
+          {
+            "x": 71707,
+            "y": 58456
+          },
+          {
+            "x": 71675,
+            "y": 58565
+          },
+          {
+            "x": 71610,
+            "y": 58663
+          },
+          {
+            "x": 71501,
+            "y": 58695
+          },
+          {
+            "x": 71393,
+            "y": 58684
+          },
+          {
+            "x": 71338,
+            "y": 58587
+          },
+          {
+            "x": 71262,
+            "y": 58489
+          },
+          {
+            "x": 71175,
+            "y": 58402
+          },
+          {
+            "x": 71056,
+            "y": 58348
+          },
+          {
+            "x": 70947,
+            "y": 58315
+          },
+          {
+            "x": 70828,
+            "y": 58283
+          },
+          {
+            "x": 70697,
+            "y": 58261
+          },
+          {
+            "x": 70589,
+            "y": 58250
+          },
+          {
+            "x": 70480,
+            "y": 58304
+          },
+          {
+            "x": 70382,
+            "y": 58359
+          },
+          {
+            "x": 70295,
+            "y": 58446
+          },
+          {
+            "x": 70198,
+            "y": 58532
+          },
+          {
+            "x": 70089,
+            "y": 58587
+          },
+          {
+            "x": 69981,
+            "y": 58619
+          },
+          {
+            "x": 69872,
+            "y": 58641
+          },
+          {
+            "x": 69742,
+            "y": 58641
+          },
+          {
+            "x": 69633,
+            "y": 58652
+          },
+          {
+            "x": 69513,
+            "y": 58706
+          },
+          {
+            "x": 69427,
+            "y": 58782
+          },
+          {
+            "x": 69340,
+            "y": 58869
+          },
+          {
+            "x": 69242,
+            "y": 58967
+          },
+          {
+            "x": 69177,
+            "y": 59076
+          },
+          {
+            "x": 69144,
+            "y": 59184
+          },
+          {
+            "x": 69101,
+            "y": 59293
+          },
+          {
+            "x": 69090,
+            "y": 59423
+          },
+          {
+            "x": 69090,
+            "y": 59553
+          },
+          {
+            "x": 69112,
+            "y": 59662
+          },
+          {
+            "x": 69166,
+            "y": 59782
+          },
+          {
+            "x": 69242,
+            "y": 59879
+          },
+          {
+            "x": 69340,
+            "y": 59955
+          },
+          {
+            "x": 69448,
+            "y": 60010
+          },
+          {
+            "x": 69568,
+            "y": 60042
+          },
+          {
+            "x": 69698,
+            "y": 60042
+          },
+          {
+            "x": 69807,
+            "y": 60031
+          },
+          {
+            "x": 69926,
+            "y": 60031
+          },
+          {
+            "x": 70035,
+            "y": 60020
+          },
+          {
+            "x": 70154,
+            "y": 60010
+          },
+          {
+            "x": 70263,
+            "y": 59999
+          },
+          {
+            "x": 70361,
+            "y": 59944
+          },
+          {
+            "x": 70426,
+            "y": 59847
+          },
+          {
+            "x": 70534,
+            "y": 59814
+          },
+          {
+            "x": 70665,
+            "y": 59836
+          },
+          {
+            "x": 70784,
+            "y": 59858
+          },
+          {
+            "x": 70893,
+            "y": 59879
+          },
+          {
+            "x": 71012,
+            "y": 59923
+          },
+          {
+            "x": 71121,
+            "y": 59955
+          },
+          {
+            "x": 71230,
+            "y": 59999
+          },
+          {
+            "x": 71338,
+            "y": 60042
+          },
+          {
+            "x": 71447,
+            "y": 60086
+          },
+          {
+            "x": 71555,
+            "y": 60140
+          },
+          {
+            "x": 71653,
+            "y": 60194
+          },
+          {
+            "x": 71751,
+            "y": 60270
+          },
+          {
+            "x": 71849,
+            "y": 60346
+          },
+          {
+            "x": 71805,
+            "y": 60455
+          },
+          {
+            "x": 71697,
+            "y": 60488
+          },
+          {
+            "x": 71588,
+            "y": 60509
+          },
+          {
+            "x": 71479,
+            "y": 60542
+          },
+          {
+            "x": 71382,
+            "y": 60607
+          },
+          {
+            "x": 71295,
+            "y": 60683
+          },
+          {
+            "x": 71208,
+            "y": 60770
+          },
+          {
+            "x": 71219,
+            "y": 60879
+          },
+          {
+            "x": 71295,
+            "y": 60976
+          },
+          {
+            "x": 71371,
+            "y": 61063
+          },
+          {
+            "x": 71447,
+            "y": 61172
+          },
+          {
+            "x": 71534,
+            "y": 61259
+          },
+          {
+            "x": 71621,
+            "y": 61346
+          },
+          {
+            "x": 71718,
+            "y": 61422
+          },
+          {
+            "x": 71838,
+            "y": 61465
+          },
+          {
+            "x": 71946,
+            "y": 61432
+          },
+          {
+            "x": 72099,
+            "y": 61356
+          },
+          {
+            "x": 72207,
+            "y": 61291
+          },
+          {
+            "x": 72327,
+            "y": 61248
+          },
+          {
+            "x": 72435,
+            "y": 61226
+          },
+          {
+            "x": 72544,
+            "y": 61204
+          },
+          {
+            "x": 72652,
+            "y": 61139
+          },
+          {
+            "x": 72761,
+            "y": 61096
+          },
+          {
+            "x": 72859,
+            "y": 61031
+          },
+          {
+            "x": 72967,
+            "y": 60955
+          },
+          {
+            "x": 73065,
+            "y": 60900
+          },
+          {
+            "x": 73152,
+            "y": 60824
+          },
+          {
+            "x": 73217,
+            "y": 60726
+          },
+          {
+            "x": 73250,
+            "y": 60607
+          },
+          {
+            "x": 73250,
+            "y": 60488
+          },
+          {
+            "x": 73250,
+            "y": 60368
+          },
+          {
+            "x": 73250,
+            "y": 60249
+          },
+          {
+            "x": 73250,
+            "y": 60129
+          },
+          {
+            "x": 73228,
+            "y": 60010
+          },
+          {
+            "x": 73228,
+            "y": 59890
+          },
+          {
+            "x": 73228,
+            "y": 59771
+          },
+          {
+            "x": 73196,
+            "y": 59662
+          },
+          {
+            "x": 73141,
+            "y": 59543
+          },
+          {
+            "x": 73087,
+            "y": 59445
+          },
+          {
+            "x": 73022,
+            "y": 59347
+          },
+          {
+            "x": 72946,
+            "y": 59260
+          },
+          {
+            "x": 72870,
+            "y": 59162
+          },
+          {
+            "x": 72783,
+            "y": 59021
+          },
+          {
+            "x": 72783,
+            "y": 59021
+          },
+          {
+            "x": 72805,
+            "y": 59043
+          }
+        ]
+      },
+      "anchor": {
+        "x": 71379.23,
+        "y": 59681.01
+      },
+      "crop": {
+        "left": 70400,
+        "top": 59136,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 979.23,
+        "y": 545.01
+      },
+      "atlas_image": "atlas/06-prostatakarzinommetastasen-im-markraum-annotiert.jpg",
+      "exercise_image": "pruefung/06-prostatakarzinommetastasen-im-markraum.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Prostatakarzinommetastasen im Markraum als definierender Befund.",
+      "didactic_note": "Prostatakarzinommetastasen im Markraum als definierender Befund. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 6,
+      "label": "Prostatakarzinommetastasen im Markraum",
+      "exercise_image": "pruefung/06-prostatakarzinommetastasen-im-markraum.jpg",
+      "rationale": "Prostatakarzinommetastasen im Markraum als definierender Befund.",
+      "didactic_note": "Prostatakarzinommetastasen im Markraum als definierender Befund. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+    },
+    {
+      "annotation_id": 5,
+      "label": "verbreiterte Knochentrabekel",
+      "exercise_image": "pruefung/05-verbreiterte-knochentrabekel.jpg",
+      "rationale": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion.",
+      "didactic_note": "Verbreiterte Knochentrabekel als osteoblastische Begleitreaktion. Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+    }
+  ],
+  "didactic_context": "Die metastatischen Prostatakarzinomdrüsen liegen zwischen Markzellen und reaktiv verbreiterten Knochentrabekeln; die osteoblastische Knochenneubildung ist für diese Primärtumorquelle typisch."
+}

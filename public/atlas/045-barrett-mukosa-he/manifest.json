@@ -1,0 +1,293 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "045",
+    "name": "Barrett-Mukosa (HE)",
+    "organ": "Ösophagus/ösophagogastraler Übergang",
+    "diagnosis": "Barrett-Mukosa",
+    "description": [
+      "Plattenepithel des Ösophagus;",
+      "typische Kardia Schleimhaut;",
+      "mucinöse Drüsenzellen, kaum dysplastisch;",
+      "geringe lymphozytäre und granulozytäre Begleitentzündung;",
+      "Präkanzerose;",
+      "Alz-Pas Färbung siehe #46;"
+    ],
+    "slide_id": "2e6bcd7f-5b57-4502-94e8-8446f7660765",
+    "slide_path": "Histopathologie 5. Semester/slides/045 - Barrett-Mukosa (HE).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2e6bcd7f-5b57-4502-94e8-8446f7660765&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1024,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.125,
+    "tile_level": 3,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 20,
+      "label": "Plattenepihtel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 0,
+            "y": 21541.36
+          },
+          {
+            "x": 3745.76,
+            "y": 23973.87
+          }
+        ]
+      },
+      "anchor": {
+        "x": 1872.88,
+        "y": 22757.62
+      },
+      "crop": {
+        "left": 1024,
+        "top": 22016,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 848.88,
+        "y": 741.62
+      },
+      "atlas_image": "atlas/20-plattenepihtel-annotiert.jpg",
+      "exercise_image": "pruefung/20-plattenepihtel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Plattenepihtel“ als morphologischen Teilbefund. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "id": 22,
+      "label": "Metaplasie vom intestinalen Typ",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 1888.69,
+            "y": 6468.86
+          },
+          {
+            "x": 3440.98,
+            "y": 8492.17
+          }
+        ]
+      },
+      "anchor": {
+        "x": 2664.84,
+        "y": 7480.52
+      },
+      "crop": {
+        "left": 1792,
+        "top": 6912,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 872.84,
+        "y": 568.52
+      },
+      "atlas_image": "atlas/22-metaplasie-vom-intestinalen-typ-annotiert.jpg",
+      "exercise_image": "pruefung/22-metaplasie-vom-intestinalen-typ.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Intestinale Metaplasie als definierender Barrett-Befund.",
+      "didactic_note": "Intestinale Metaplasie als definierender Barrett-Befund. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "id": 23,
+      "label": "Becherzelle",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 638.33,
+            "y": 7487.62
+          },
+          {
+            "x": 2546.55,
+            "y": 7289.41
+          },
+          {
+            "x": 2546.55,
+            "y": 7289.41
+          }
+        ]
+      },
+      "anchor": {
+        "x": 2546.55,
+        "y": 7289.41
+      },
+      "crop": {
+        "left": 1536,
+        "top": 6656,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1010.55,
+        "y": 633.41
+      },
+      "atlas_image": "atlas/23-becherzelle-annotiert.jpg",
+      "exercise_image": "pruefung/23-becherzelle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Becherzelle als spezifischer zellulärer Nachweis der intestinalen Differenzierung.",
+      "didactic_note": "Becherzelle als spezifischer zellulärer Nachweis der intestinalen Differenzierung. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "id": 24,
+      "label": "Beginn Cardia Schleimhaut",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 0,
+            "y": 19949.99
+          },
+          {
+            "x": 208.52,
+            "y": 21500.86
+          }
+        ]
+      },
+      "anchor": {
+        "x": 104.26,
+        "y": 20725.43
+      },
+      "crop": {
+        "left": 0,
+        "top": 19968,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 104.26,
+        "y": 757.43
+      },
+      "atlas_image": "atlas/24-beginn-cardia-schleimhaut-annotiert.jpg",
+      "exercise_image": "pruefung/24-beginn-cardia-schleimhaut.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Beginn Cardia Schleimhaut“ dient hier als anatomischer Orientierungspunkt. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "id": 25,
+      "label": "Übergang zur intestinalen Metaplasie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 2103.95,
+            "y": 12907.5
+          },
+          {
+            "x": 4897.37,
+            "y": 14792.27
+          }
+        ]
+      },
+      "anchor": {
+        "x": 3500.66,
+        "y": 13849.88
+      },
+      "crop": {
+        "left": 2560,
+        "top": 13312,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 940.66,
+        "y": 537.88
+      },
+      "atlas_image": "atlas/25-ubergang-zur-intestinalen-metaplasie-annotiert.jpg",
+      "exercise_image": "pruefung/25-ubergang-zur-intestinalen-metaplasie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Übergang zur intestinalen Metaplasie“ als morphologischen Teilbefund. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "id": 26,
+      "label": "follikulär angeordnete Lymphozyten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 2722.03,
+            "y": 15176.61
+          },
+          {
+            "x": 4564.88,
+            "y": 16633.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 3643.46,
+        "y": 15905.16
+      },
+      "crop": {
+        "left": 2816,
+        "top": 15360,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 827.46,
+        "y": 545.16
+      },
+      "atlas_image": "atlas/26-follikular-angeordnete-lymphozyten-annotiert.jpg",
+      "exercise_image": "pruefung/26-follikular-angeordnete-lymphozyten.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „follikulär angeordnete Lymphozyten“ als morphologischen Teilbefund. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 22,
+      "label": "Metaplasie vom intestinalen Typ",
+      "exercise_image": "pruefung/22-metaplasie-vom-intestinalen-typ.jpg",
+      "rationale": "Intestinale Metaplasie als definierender Barrett-Befund.",
+      "didactic_note": "Intestinale Metaplasie als definierender Barrett-Befund. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    },
+    {
+      "annotation_id": 23,
+      "label": "Becherzelle",
+      "exercise_image": "pruefung/23-becherzelle.jpg",
+      "rationale": "Becherzelle als spezifischer zellulärer Nachweis der intestinalen Differenzierung.",
+      "didactic_note": "Becherzelle als spezifischer zellulärer Nachweis der intestinalen Differenzierung. Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+    }
+  ],
+  "didactic_context": "Die Barrett-Mukosa ersetzt das normale Plattenepithel durch intestinal differenziertes Zylinderepithel mit Becherzellen; diese Metaplasie erhöht das Risiko für Dysplasie und Adenokarzinom."
+}

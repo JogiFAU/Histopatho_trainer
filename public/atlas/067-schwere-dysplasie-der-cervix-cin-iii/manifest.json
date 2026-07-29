@@ -1,0 +1,662 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "067",
+    "name": "Schwere Dysplasie der Cervix (CIN III)",
+    "organ": "Cervix",
+    "diagnosis": "schwere plattenepiteliale Dysplasie/ cervikale intraepitheliale Neoplasie/Carcinoma in situ (CIN III) der Cervix uteri",
+    "description": [
+      "Kauterrand durch operative Gewebsentfernung;",
+      "Cervixdrüsen, Cervixschleimhaut;",
+      "fehlende Ausreifung des Cervixepithels;",
+      "aufgehobene Zellschichtung, fehlende Ausreifung bis ins oberste 1/3;",
+      "hochgradige Dysplasie (Mitosen, verschobene Kern-Plasmarelation);",
+      "Mitosen bis ins oberste 1/3 des Epithels;",
+      "Beteiligung cervikaler Drüsen (Metaplasie);"
+    ],
+    "slide_id": "e3deeeed-c41f-4ae6-ba21-4060acb2135d",
+    "slide_path": "Histopathologie 5. Semester/slides/067 - Schwere Dysplasie der Cervix (CIN III).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=e3deeeed-c41f-4ae6-ba21-4060acb2135d&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2384,
+    "height": 4128,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Cervixkanal",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 33242.3,
+            "y": 16355.89
+          },
+          {
+            "x": 37792.61,
+            "y": 37521.27
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35517.45,
+        "y": 26938.58
+      },
+      "crop": {
+        "left": 34560,
+        "top": 26368,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 957.45,
+        "y": 570.58
+      },
+      "atlas_image": "atlas/07-cervixkanal-annotiert.jpg",
+      "exercise_image": "pruefung/07-cervixkanal.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Cervixkanal“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 9,
+      "label": "fehlende Epithelausreifung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31456,
+            "y": 47078.21
+          },
+          {
+            "x": 32922.07,
+            "y": 48778.45
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32189.03,
+        "y": 47928.33
+      },
+      "crop": {
+        "left": 31232,
+        "top": 47360,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 957.03,
+        "y": 568.33
+      },
+      "atlas_image": "atlas/09-fehlende-epithelausreifung-annotiert.jpg",
+      "exercise_image": "pruefung/09-fehlende-epithelausreifung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „fehlende Epithelausreifung“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 11,
+      "label": "endozervikale Drüsen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28791.06,
+            "y": 21687.76
+          },
+          {
+            "x": 32295.61,
+            "y": 28744.89
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30543.34,
+        "y": 25216.33
+      },
+      "crop": {
+        "left": 29696,
+        "top": 24576,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 847.34,
+        "y": 640.33
+      },
+      "atlas_image": "atlas/11-endozervikale-drusen-annotiert.jpg",
+      "exercise_image": "pruefung/11-endozervikale-drusen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „endozervikale Drüsen“ dient hier als anatomischer Orientierungspunkt. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 15,
+      "label": "Kauterrand",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 466.48,
+            "y": 33312.21
+          },
+          {
+            "x": 4638.51,
+            "y": 43433.57
+          }
+        ]
+      },
+      "anchor": {
+        "x": 2552.49,
+        "y": 38372.89
+      },
+      "crop": {
+        "left": 1536,
+        "top": 37632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1016.49,
+        "y": 740.89
+      },
+      "atlas_image": "atlas/15-kauterrand-annotiert.jpg",
+      "exercise_image": "pruefung/15-kauterrand.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Kauterrand“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 17,
+      "label": "Drüseninkarzerierung",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29095.28,
+            "y": 50070.39
+          },
+          {
+            "x": 32206.55,
+            "y": 51748.61
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30650.91,
+        "y": 50909.5
+      },
+      "crop": {
+        "left": 29696,
+        "top": 50176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 954.91,
+        "y": 733.5
+      },
+      "atlas_image": "atlas/17-druseninkarzerierung-annotiert.jpg",
+      "exercise_image": "pruefung/17-druseninkarzerierung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Drüseninkarzerierung“ dient hier als anatomischer Orientierungspunkt. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 19,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32393.68,
+            "y": 50145.44
+          },
+          {
+            "x": 32462.73,
+            "y": 50218.5
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32428.21,
+        "y": 50181.97
+      },
+      "crop": {
+        "left": 31488,
+        "top": 49664,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 940.21,
+        "y": 517.97
+      },
+      "atlas_image": "atlas/19-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/19-mitose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Mitose als Zeichen der gesteigerten atypischen Proliferation.",
+      "didactic_note": "Mitose als Zeichen der gesteigerten atypischen Proliferation. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 20,
+      "label": "schwere Dysplasie der Cervix",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24293.79,
+            "y": 59972.58
+          },
+          {
+            "x": 24681.08,
+            "y": 60414.91
+          },
+          {
+            "x": 25012.32,
+            "y": 60912.27
+          },
+          {
+            "x": 25454.64,
+            "y": 61298.55
+          },
+          {
+            "x": 25895.96,
+            "y": 61685.83
+          },
+          {
+            "x": 26393.32,
+            "y": 62017.07
+          },
+          {
+            "x": 26945.72,
+            "y": 62127.15
+          },
+          {
+            "x": 27498.12,
+            "y": 62072.11
+          },
+          {
+            "x": 27995.49,
+            "y": 61795.91
+          },
+          {
+            "x": 28437.81,
+            "y": 61409.63
+          },
+          {
+            "x": 28935.17,
+            "y": 60912.27
+          },
+          {
+            "x": 29321.45,
+            "y": 60469.95
+          },
+          {
+            "x": 29597.65,
+            "y": 59972.58
+          },
+          {
+            "x": 29983.93,
+            "y": 59531.26
+          },
+          {
+            "x": 30371.21,
+            "y": 58978.86
+          },
+          {
+            "x": 30757.49,
+            "y": 58536.54
+          },
+          {
+            "x": 31144.77,
+            "y": 57984.14
+          },
+          {
+            "x": 31476.01,
+            "y": 57431.74
+          },
+          {
+            "x": 31807.26,
+            "y": 56934.38
+          },
+          {
+            "x": 32138.5,
+            "y": 56437.02
+          },
+          {
+            "x": 32470.74,
+            "y": 55884.61
+          },
+          {
+            "x": 32691.9,
+            "y": 55332.21
+          },
+          {
+            "x": 32968.1,
+            "y": 54779.81
+          },
+          {
+            "x": 33188.26,
+            "y": 54227.41
+          },
+          {
+            "x": 33354.38,
+            "y": 53619.97
+          },
+          {
+            "x": 33520.5,
+            "y": 53067.57
+          },
+          {
+            "x": 33685.62,
+            "y": 52515.17
+          },
+          {
+            "x": 33796.7,
+            "y": 51961.76
+          },
+          {
+            "x": 33961.82,
+            "y": 51354.32
+          },
+          {
+            "x": 34072.9,
+            "y": 50746.88
+          },
+          {
+            "x": 34127.94,
+            "y": 50194.48
+          },
+          {
+            "x": 34127.94,
+            "y": 49531
+          },
+          {
+            "x": 34182.98,
+            "y": 48868.51
+          },
+          {
+            "x": 34238.02,
+            "y": 48316.11
+          },
+          {
+            "x": 34349.1,
+            "y": 47708.67
+          },
+          {
+            "x": 34349.1,
+            "y": 47100.23
+          },
+          {
+            "x": 34459.18,
+            "y": 46437.75
+          },
+          {
+            "x": 34514.22,
+            "y": 45885.35
+          },
+          {
+            "x": 34514.22,
+            "y": 45277.91
+          },
+          {
+            "x": 34514.22,
+            "y": 44669.46
+          },
+          {
+            "x": 34459.18,
+            "y": 44117.06
+          },
+          {
+            "x": 34294.06,
+            "y": 43564.66
+          },
+          {
+            "x": 34182.98,
+            "y": 43012.26
+          },
+          {
+            "x": 34072.9,
+            "y": 42459.86
+          },
+          {
+            "x": 28769.05,
+            "y": 43012.26
+          },
+          {
+            "x": 28824.09,
+            "y": 43619.7
+          },
+          {
+            "x": 28935.17,
+            "y": 44228.14
+          },
+          {
+            "x": 29100.29,
+            "y": 44780.54
+          },
+          {
+            "x": 29155.33,
+            "y": 45498.07
+          },
+          {
+            "x": 29321.45,
+            "y": 46106.51
+          },
+          {
+            "x": 29376.49,
+            "y": 46658.91
+          },
+          {
+            "x": 29487.57,
+            "y": 47211.31
+          },
+          {
+            "x": 29487.57,
+            "y": 47818.75
+          },
+          {
+            "x": 29487.57,
+            "y": 48481.23
+          },
+          {
+            "x": 29431.53,
+            "y": 49089.68
+          },
+          {
+            "x": 29321.45,
+            "y": 49642.08
+          },
+          {
+            "x": 29211.37,
+            "y": 50194.48
+          },
+          {
+            "x": 29045.25,
+            "y": 50746.88
+          },
+          {
+            "x": 28879.13,
+            "y": 51299.28
+          },
+          {
+            "x": 28714.01,
+            "y": 51906.72
+          },
+          {
+            "x": 28381.77,
+            "y": 52515.17
+          },
+          {
+            "x": 28050.53,
+            "y": 53287.73
+          },
+          {
+            "x": 27774.32,
+            "y": 53785.09
+          },
+          {
+            "x": 27498.12,
+            "y": 54337.49
+          },
+          {
+            "x": 27221.92,
+            "y": 54945.93
+          },
+          {
+            "x": 26890.68,
+            "y": 55442.29
+          },
+          {
+            "x": 26559.44,
+            "y": 55995.69
+          },
+          {
+            "x": 26283.24,
+            "y": 56548.1
+          },
+          {
+            "x": 26007.04,
+            "y": 57044.46
+          },
+          {
+            "x": 25674.8,
+            "y": 57597.86
+          },
+          {
+            "x": 25288.52,
+            "y": 58094.22
+          },
+          {
+            "x": 24957.28,
+            "y": 58591.58
+          },
+          {
+            "x": 24570,
+            "y": 59088.94
+          },
+          {
+            "x": 24238.75,
+            "y": 59641.34
+          },
+          {
+            "x": 24404.88,
+            "y": 60138.71
+          },
+          {
+            "x": 24404.88,
+            "y": 60138.71
+          },
+          {
+            "x": 24293.79,
+            "y": 59972.58
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29827.38,
+        "y": 53274.34
+      },
+      "crop": {
+        "left": 28928,
+        "top": 52736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 899.38,
+        "y": 538.34
+      },
+      "atlas_image": "atlas/20-schwere-dysplasie-der-cervix-annotiert.jpg",
+      "exercise_image": "pruefung/20-schwere-dysplasie-der-cervix.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund.",
+      "didactic_note": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "id": 21,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32256.58,
+            "y": 49858.23
+          },
+          {
+            "x": 32325.63,
+            "y": 49925.28
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32291.11,
+        "y": 49891.76
+      },
+      "crop": {
+        "left": 31488,
+        "top": 49152,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 803.11,
+        "y": 739.76
+      },
+      "atlas_image": "atlas/21-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/21-mitose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 20,
+      "label": "schwere Dysplasie der Cervix",
+      "exercise_image": "pruefung/20-schwere-dysplasie-der-cervix.jpg",
+      "rationale": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund.",
+      "didactic_note": "Schwere Dysplasie mit gestörter Ausreifung als definierender CIN-III-Befund. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    },
+    {
+      "annotation_id": 19,
+      "label": "Mitose",
+      "exercise_image": "pruefung/19-mitose.jpg",
+      "rationale": "Mitose als Zeichen der gesteigerten atypischen Proliferation.",
+      "didactic_note": "Mitose als Zeichen der gesteigerten atypischen Proliferation. CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+    }
+  ],
+  "didactic_context": "CIN III beziehungsweise HSIL zeigt eine hochgradige basaloide Atypie mit gestörter Ausreifung und Mitosen über mehr als zwei Drittel der Epitheldicke; eine Stromainvasion darf nicht vorliegen."
+}

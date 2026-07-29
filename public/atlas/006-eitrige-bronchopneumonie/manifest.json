@@ -1,0 +1,256 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "006",
+    "name": "Eitrige Bronchopneumonie",
+    "organ": "Lunge",
+    "diagnosis": "eitrige Bronchopneumonie",
+    "description": [
+      "meist viele kleine Herde in mehreren Lobuli;",
+      "häufig gleichzeitiges Vorhandensein der unterschiedlichen Stadien;",
+      "- Ödem (Transsudat);",
+      "- Desquamation und seröse Exsudation (Erreger und Zellen in Alveolen)",
+      "- rote Hepatisation: Erythrozyten-Fibrin-Pfröpfe in Alveolen",
+      "- graue Hepatisation: granulozytäres Infiltrat (in Kapillare & Alveolen)",
+      "( hier nicht zu sehen: gelbe Hepatisation (verfettete Makrophagen im Zuge der Abräumreaktion))",
+      "Nekrosebereiche;",
+      "abgeschilferte hochprismatische Bronchusepithelien;"
+    ],
+    "slide_id": "6d497cc5-e0b0-489f-9372-e38fc15d298f",
+    "slide_path": "Histopathologie 5. Semester/slides/006 - Eitrige Bronchopneumonie.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=6d497cc5-e0b0-489f-9372-e38fc15d298f&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3072,
+    "height": 3248,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 13,
+      "label": "rote Hepatisation",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18922,
+            "y": 6131
+          },
+          {
+            "x": 21201,
+            "y": 8107
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20061.5,
+        "y": 7119.0
+      },
+      "crop": {
+        "left": 19200,
+        "top": 6400,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 861.5,
+        "y": 719.0
+      },
+      "atlas_image": "atlas/13-rote-hepatisation-annotiert.jpg",
+      "exercise_image": "pruefung/13-rote-hepatisation.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „rote Hepatisation“ als morphologischen Teilbefund. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    },
+    {
+      "id": 14,
+      "label": "Bronchusepithelien im Lumen eines entzündl. zerstörten Bronchus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32189,
+            "y": 28170
+          },
+          {
+            "x": 32870,
+            "y": 28860
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32529.5,
+        "y": 28515
+      },
+      "crop": {
+        "left": 31744,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 785.5,
+        "y": 611
+      },
+      "atlas_image": "atlas/14-bronchusepithelien-im-lumen-eines-entzundl-zerstorten-bronchus-annotiert.jpg",
+      "exercise_image": "pruefung/14-bronchusepithelien-im-lumen-eines-entzundl-zerstorten-bronchus.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Entzündlich zerstörter Bronchus mit abgeschilferten Epithelien als typischer Fokus der Bronchopneumonie.",
+      "didactic_note": "Entzündlich zerstörter Bronchus mit abgeschilferten Epithelien als typischer Fokus der Bronchopneumonie. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    },
+    {
+      "id": 15,
+      "label": "Zelldetritus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31709,
+            "y": 34266
+          },
+          {
+            "x": 32769,
+            "y": 35133
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32239.0,
+        "y": 34699.5
+      },
+      "crop": {
+        "left": 31232,
+        "top": 34048,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1007.0,
+        "y": 651.5
+      },
+      "atlas_image": "atlas/15-zelldetritus-annotiert.jpg",
+      "exercise_image": "pruefung/15-zelldetritus.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zelldetritus repräsentiert die eitrig-destruktive Entzündung.",
+      "didactic_note": "Zelldetritus repräsentiert die eitrig-destruktive Entzündung. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    },
+    {
+      "id": 16,
+      "label": "graue Hepatisation",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31338,
+            "y": 31585
+          },
+          {
+            "x": 32540,
+            "y": 33065
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31939.0,
+        "y": 32325
+      },
+      "crop": {
+        "left": 30976,
+        "top": 31744,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 963.0,
+        "y": 581
+      },
+      "atlas_image": "atlas/16-graue-hepatisation-annotiert.jpg",
+      "exercise_image": "pruefung/16-graue-hepatisation.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „graue Hepatisation“ als morphologischen Teilbefund. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    },
+    {
+      "id": 17,
+      "label": "Ödem",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17606,
+            "y": 33010
+          },
+          {
+            "x": 18283,
+            "y": 33578
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17944.5,
+        "y": 33294
+      },
+      "crop": {
+        "left": 17152,
+        "top": 32768,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 792.5,
+        "y": 526
+      },
+      "atlas_image": "atlas/17-odem-annotiert.jpg",
+      "exercise_image": "pruefung/17-odem.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ödem“ als morphologischen Teilbefund. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 14,
+      "label": "Bronchusepithelien im Lumen eines entzündl. zerstörten Bronchus",
+      "exercise_image": "pruefung/14-bronchusepithelien-im-lumen-eines-entzundl-zerstorten-bronchus.jpg",
+      "rationale": "Entzündlich zerstörter Bronchus mit abgeschilferten Epithelien als typischer Fokus der Bronchopneumonie.",
+      "didactic_note": "Entzündlich zerstörter Bronchus mit abgeschilferten Epithelien als typischer Fokus der Bronchopneumonie. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    },
+    {
+      "annotation_id": 15,
+      "label": "Zelldetritus",
+      "exercise_image": "pruefung/15-zelldetritus.jpg",
+      "rationale": "Zelldetritus repräsentiert die eitrig-destruktive Entzündung.",
+      "didactic_note": "Zelldetritus repräsentiert die eitrig-destruktive Entzündung. Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+    }
+  ],
+  "didactic_context": "Die eitrige Bronchopneumonie zeigt herdförmige, bronchiolozentrische Ansammlungen neutrophiler Granulozyten mit Exsudat und Zelldetritus in den benachbarten Alveolen."
+}

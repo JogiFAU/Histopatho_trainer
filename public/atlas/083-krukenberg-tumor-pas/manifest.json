@@ -1,0 +1,186 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "083",
+    "name": "Krukenberg Tumor (PAS)",
+    "organ": "Ovar",
+    "diagnosis": "Krukenberg Tumor",
+    "description": [
+      "Serosa;",
+      "z.B. als Abtropfmetastase des Siegelringzellkarzinoms des Magens (#72);",
+      "Siegelringzellen sind prall mit Schleim gefüllt;",
+      "Zellkerne an den Rand gedrängt;",
+      "Mitosen;",
+      "PAS Färbung --> Schleimbildende Zellen erscheinen violett;",
+      "HE Färbung siehe #82"
+    ],
+    "slide_id": "bfb97cda-f55c-4b42-9010-35d7282e9d0f",
+    "slide_path": "Histopathologie 5. Semester/slides/083 - Krukenberg Tumor (PAS).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=bfb97cda-f55c-4b42-9010-35d7282e9d0f&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Serosa",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11879.42,
+            "y": 8415.79
+          },
+          {
+            "x": 13184,
+            "y": 9904.32
+          },
+          {
+            "x": 13184,
+            "y": 9904.32
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13184.0,
+        "y": 9904.32
+      },
+      "crop": {
+        "left": 12288,
+        "top": 9216,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 896.0,
+        "y": 688.32
+      },
+      "atlas_image": "atlas/05-serosa-annotiert.jpg",
+      "exercise_image": "pruefung/05-serosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+    },
+    {
+      "id": 6,
+      "label": "Siegelringzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13709.56,
+            "y": 27023.26
+          },
+          {
+            "x": 13780.77,
+            "y": 27103.79
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13745.17,
+        "y": 27063.52
+      },
+      "crop": {
+        "left": 12800,
+        "top": 26368,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 945.17,
+        "y": 695.52
+      },
+      "atlas_image": "atlas/06-siegelringzelle-annotiert.jpg",
+      "exercise_image": "pruefung/06-siegelringzelle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors.",
+      "didactic_note": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors. Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+    },
+    {
+      "id": 7,
+      "label": "Siegelringzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13574.78,
+            "y": 26623.15
+          },
+          {
+            "x": 13630.73,
+            "y": 26703.68
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13602.75,
+        "y": 26663.42
+      },
+      "crop": {
+        "left": 12800,
+        "top": 26112,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 802.75,
+        "y": 551.42
+      },
+      "atlas_image": "atlas/07-siegelringzelle-annotiert.jpg",
+      "exercise_image": "pruefung/07-siegelringzelle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation.",
+      "didactic_note": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation. Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 6,
+      "label": "Siegelringzelle",
+      "exercise_image": "pruefung/06-siegelringzelle.jpg",
+      "rationale": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors.",
+      "didactic_note": "Siegelringzelle als charakteristische Tumorzellmorphologie des Krukenberg-Tumors. Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+    },
+    {
+      "annotation_id": 7,
+      "label": "Siegelringzelle",
+      "exercise_image": "pruefung/07-siegelringzelle.jpg",
+      "rationale": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation.",
+      "didactic_note": "Zweiter repräsentativer Siegelringzellenausschnitt für Prüfungsvariation. Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+    }
+  ],
+  "didactic_context": "Muzingefüllte Siegelringzellen infiltrieren beim Krukenberg-Tumor das Ovarstroma diffus; die Morphologie muss an eine metastatische, besonders gastrale Primärquelle denken lassen."
+}

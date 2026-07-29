@@ -1,0 +1,290 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "008a",
+    "name": "Akute Pankreatitis",
+    "organ": "Pankreas",
+    "diagnosis": "Pankreatitis",
+    "description": [
+      "Pankreas: typisches Drüsengewebe mit Langerhans Inseln (ß-Zellen);",
+      "zusätzlich fibrotisch verändertes Gewebe;",
+      "ausgedehnte großflächige Nekrosezone;",
+      "Fettgewebsnekrose (=Kolliquationsnekrose);",
+      "Makroskopisch imponieren Kalkspritzer durch Ausfallen von Fettsäuren mit Kalziumsalzen;",
+      "entzüdliches granulozytäres Infiltrat;",
+      "Hämorrhagien;"
+    ],
+    "slide_id": "3660f244-1d6e-4071-a546-17be3730b226",
+    "slide_path": "Histopathologie 5. Semester/slides/008a - Akute Pankreatitis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3660f244-1d6e-4071-a546-17be3730b226&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2880,
+    "height": 3616,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Langerhans Insel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18115,
+            "y": 94595
+          },
+          {
+            "x": 19053,
+            "y": 95618
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18584.0,
+        "y": 95106.5
+      },
+      "crop": {
+        "left": 17664,
+        "top": 94464,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 920.0,
+        "y": 642.5
+      },
+      "atlas_image": "atlas/05-langerhans-insel-annotiert.jpg",
+      "exercise_image": "pruefung/05-langerhans-insel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Langerhans Insel“ dient hier als anatomischer Orientierungspunkt. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "id": 9,
+      "label": "Hämorrhagie und Nekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45568,
+            "y": 66688
+          },
+          {
+            "x": 52753,
+            "y": 74846
+          }
+        ]
+      },
+      "anchor": {
+        "x": 49160.5,
+        "y": 70767
+      },
+      "crop": {
+        "left": 48384,
+        "top": 70144,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 776.5,
+        "y": 623
+      },
+      "atlas_image": "atlas/09-hamorrhagie-und-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/09-hamorrhagie-und-nekrose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung.",
+      "didactic_note": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "id": 14,
+      "label": "exokriner Pankreas",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15551,
+            "y": 100293
+          },
+          {
+            "x": 19560,
+            "y": 104420
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17555.5,
+        "y": 102356.5
+      },
+      "crop": {
+        "left": 16640,
+        "top": 101632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 915.5,
+        "y": 724.5
+      },
+      "atlas_image": "atlas/14-exokriner-pankreas-annotiert.jpg",
+      "exercise_image": "pruefung/14-exokriner-pankreas.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „exokriner Pankreas“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "id": 15,
+      "label": "Fibrose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20186,
+            "y": 88888
+          },
+          {
+            "x": 21777,
+            "y": 90574
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20981.5,
+        "y": 89731
+      },
+      "crop": {
+        "left": 19968,
+        "top": 89088,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1013.5,
+        "y": 643
+      },
+      "atlas_image": "atlas/15-fibrose-annotiert.jpg",
+      "exercise_image": "pruefung/15-fibrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "id": 16,
+      "label": "triptische Nekrose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 64864,
+            "y": 64025
+          },
+          {
+            "x": 67442,
+            "y": 66729
+          }
+        ]
+      },
+      "anchor": {
+        "x": 66153,
+        "y": 65377.0
+      },
+      "crop": {
+        "left": 65280,
+        "top": 64768,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 873,
+        "y": 609.0
+      },
+      "atlas_image": "atlas/16-triptische-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/16-triptische-nekrose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis.",
+      "didactic_note": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "id": 17,
+      "label": "granulozytäres Infiltrat",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 82241,
+            "y": 50565
+          },
+          {
+            "x": 84450,
+            "y": 52959
+          }
+        ]
+      },
+      "anchor": {
+        "x": 83345.5,
+        "y": 51762.0
+      },
+      "crop": {
+        "left": 82432,
+        "top": 51200,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 913.5,
+        "y": 562.0
+      },
+      "atlas_image": "atlas/17-granulozytares-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/17-granulozytares-infiltrat.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „granulozytäres Infiltrat“ als morphologischen Teilbefund. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 16,
+      "label": "triptische Nekrose",
+      "exercise_image": "pruefung/16-triptische-nekrose.jpg",
+      "rationale": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis.",
+      "didactic_note": "Tryptische Nekrose als besonders charakteristischer Befund der akuten Pankreatitis. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    },
+    {
+      "annotation_id": 9,
+      "label": "Hämorrhagie und Nekrose",
+      "exercise_image": "pruefung/09-hamorrhagie-und-nekrose.jpg",
+      "rationale": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung.",
+      "didactic_note": "Hämorrhagie und Nekrose zeigen die schwere Gewebsschädigung. Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+    }
+  ],
+  "didactic_context": "Bei der akuten Pankreatitis führen aktivierte Verdauungsenzyme zu Azinus- und Fettgewebsnekrosen; Hämorrhagie und neutrophile Entzündung sprechen für eine schwere Gewebsschädigung."
+}

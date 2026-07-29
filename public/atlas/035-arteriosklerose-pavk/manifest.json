@@ -1,0 +1,443 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "035",
+    "name": "Arteriosklerose (pavk)",
+    "organ": "Gefäßsystem",
+    "diagnosis": "Arteriosklerose (periphere arterielle Verschlusskrankheit - pAVK)",
+    "description": [
+      "Schichtung der arteriellen Wand: Intima, Membrana elastica interna, Media, Adventitia);",
+      "Einlagerung von Lipiden in Intima;",
+      "Ausfällung von Cholesterinkristallen (Atherom);",
+      "Entzündungsreaktion, u.a. Schaumzellen (Fett abbauende Makrophagen);",
+      "Endothelschädigung;",
+      "Bild entspricht dem einer chronischen Entzündung;",
+      "Bildung von fibrösen Plaques (Intimafibrose);",
+      "zusätzlich benachbarte Venen mit Phlebosklerose;"
+    ],
+    "slide_id": "ceb4631e-0891-4fd1-8518-bd2d92ebdbb0",
+    "slide_path": "Histopathologie 5. Semester/slides/035 - Arteriosklerose (pavk).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=ceb4631e-0891-4fd1-8518-bd2d92ebdbb0&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2096,
+    "height": 2904,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "fibröse Plaques",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43924.37,
+            "y": 44807.3
+          },
+          {
+            "x": 46175.32,
+            "y": 46803.14
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45049.85,
+        "y": 45805.22
+      },
+      "crop": {
+        "left": 44032,
+        "top": 45056,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1017.85,
+        "y": 749.22
+      },
+      "atlas_image": "atlas/03-fibrose-plaques-annotiert.jpg",
+      "exercise_image": "pruefung/03-fibrose-plaques.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „fibröse Plaques“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 7,
+      "label": "Entzündungsreaktion",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37217.55,
+            "y": 41293.82
+          },
+          {
+            "x": 40856.08,
+            "y": 43206.63
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39036.82,
+        "y": 42250.23
+      },
+      "crop": {
+        "left": 38144,
+        "top": 41728,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 892.82,
+        "y": 522.23
+      },
+      "atlas_image": "atlas/07-entzundungsreaktion-annotiert.jpg",
+      "exercise_image": "pruefung/07-entzundungsreaktion.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Entzündungsreaktion“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 9,
+      "label": "Membrana elastica interna",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29486.3,
+            "y": 50369.64
+          },
+          {
+            "x": 31251.04,
+            "y": 50965.89
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30368.67,
+        "y": 50667.77
+      },
+      "crop": {
+        "left": 29440,
+        "top": 49920,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 928.67,
+        "y": 747.77
+      },
+      "atlas_image": "atlas/09-membrana-elastica-interna-annotiert.jpg",
+      "exercise_image": "pruefung/09-membrana-elastica-interna.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Membrana elastica interna“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 11,
+      "label": "Atherom",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23547.8,
+            "y": 38316.57
+          },
+          {
+            "x": 29714.39,
+            "y": 43384.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26631.09,
+        "y": 40850.64
+      },
+      "crop": {
+        "left": 25856,
+        "top": 40192,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 775.09,
+        "y": 658.64
+      },
+      "atlas_image": "atlas/11-atherom-annotiert.jpg",
+      "exercise_image": "pruefung/11-atherom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Atherom als definierender Plaquebestandteil.",
+      "didactic_note": "Atherom als definierender Plaquebestandteil. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 17,
+      "label": "Adventitia",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 47835.02,
+            "y": 61535.34
+          },
+          {
+            "x": 42526.78,
+            "y": 56412.19
+          },
+          {
+            "x": 42526.78,
+            "y": 56412.19
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42526.78,
+        "y": 56412.19
+      },
+      "crop": {
+        "left": 41728,
+        "top": 55808,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 798.78,
+        "y": 604.19
+      },
+      "atlas_image": "atlas/17-adventitia-annotiert.jpg",
+      "exercise_image": "pruefung/17-adventitia.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Adventitia“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 18,
+      "label": "Media",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 46856.61,
+            "y": 57411.61
+          },
+          {
+            "x": 44096.44,
+            "y": 54817.52
+          },
+          {
+            "x": 44096.44,
+            "y": 54817.52
+          }
+        ]
+      },
+      "anchor": {
+        "x": 44096.44,
+        "y": 54817.52
+      },
+      "crop": {
+        "left": 43264,
+        "top": 54272,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 832.44,
+        "y": 545.52
+      },
+      "atlas_image": "atlas/18-media-annotiert.jpg",
+      "exercise_image": "pruefung/18-media.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Media“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 19,
+      "label": "Schaumzellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38153.94,
+            "y": 50933.88
+          },
+          {
+            "x": 38054.9,
+            "y": 51023.92
+          },
+          {
+            "x": 38063.91,
+            "y": 51080.94
+          },
+          {
+            "x": 38080.91,
+            "y": 51099.95
+          },
+          {
+            "x": 38090.92,
+            "y": 51136.97
+          },
+          {
+            "x": 38139.94,
+            "y": 51137.97
+          },
+          {
+            "x": 38189.96,
+            "y": 51149.97
+          },
+          {
+            "x": 38238.98,
+            "y": 51143.97
+          },
+          {
+            "x": 38292,
+            "y": 51087.95
+          },
+          {
+            "x": 38322.01,
+            "y": 51056.93
+          },
+          {
+            "x": 38419.06,
+            "y": 51014.92
+          },
+          {
+            "x": 38460.07,
+            "y": 50994.91
+          },
+          {
+            "x": 38526.1,
+            "y": 50924.88
+          },
+          {
+            "x": 38519.1,
+            "y": 50899.87
+          },
+          {
+            "x": 38408.05,
+            "y": 50897.87
+          },
+          {
+            "x": 38329.02,
+            "y": 50902.87
+          },
+          {
+            "x": 38224.97,
+            "y": 50904.87
+          },
+          {
+            "x": 38151.94,
+            "y": 50935.88
+          },
+          {
+            "x": 38153.94,
+            "y": 50935.88
+          },
+          {
+            "x": 38153.94,
+            "y": 50933.88
+          }
+        ]
+      },
+      "anchor": {
+        "x": 38248.68,
+        "y": 51009.91
+      },
+      "crop": {
+        "left": 37376,
+        "top": 50432,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 872.68,
+        "y": 577.91
+      },
+      "atlas_image": "atlas/19-schaumzellen-annotiert.jpg",
+      "exercise_image": "pruefung/19-schaumzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose.",
+      "didactic_note": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "id": 20,
+      "label": "myxoide Bindegewebsreaktion",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 46193.33,
+            "y": 46299.93
+          },
+          {
+            "x": 47699.96,
+            "y": 47927.62
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46946.64,
+        "y": 47113.77
+      },
+      "crop": {
+        "left": 46080,
+        "top": 46592,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 866.64,
+        "y": 521.77
+      },
+      "atlas_image": "atlas/20-myxoide-bindegewebsreaktion-annotiert.jpg",
+      "exercise_image": "pruefung/20-myxoide-bindegewebsreaktion.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „myxoide Bindegewebsreaktion“ als morphologischen Teilbefund. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 19,
+      "label": "Schaumzellen",
+      "exercise_image": "pruefung/19-schaumzellen.jpg",
+      "rationale": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose.",
+      "didactic_note": "Schaumzellen als charakteristischer zellulärer Befund der Atherosklerose. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    },
+    {
+      "annotation_id": 11,
+      "label": "Atherom",
+      "exercise_image": "pruefung/11-atherom.jpg",
+      "rationale": "Atherom als definierender Plaquebestandteil.",
+      "didactic_note": "Atherom als definierender Plaquebestandteil. Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+    }
+  ],
+  "didactic_context": "Die atherosklerotische Plaque liegt in der Intima und besteht aus Schaumzellen, lipidreichem nekrotischem Kern und fibröser Kappe; Entzündung und Umbau können das Gefäßlumen kritisch einengen."
+}

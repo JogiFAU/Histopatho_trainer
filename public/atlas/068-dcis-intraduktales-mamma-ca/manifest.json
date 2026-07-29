@@ -1,0 +1,218 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "068",
+    "name": "DCIS intraduktales Mamma-Ca",
+    "organ": "Mamma",
+    "diagnosis": "Duktales Carcinoma in situ (DCIS)",
+    "description": [
+      "Resektionrand (mit Tusche gefärbt);",
+      "Vermehrung des Drüsengangepithels, in das Lumen hinein wachsend;",
+      "kein infiltratives Wachstum, Basalmembran bleibt intakt;",
+      "dilatierte Gänge;",
+      "nekrotisiert ins Lumen, sog. Komedonekrosen (deswegen auch Komedokarzinom);",
+      "Vorstufe des intraduktalen Mamma-CA (siehe #69);",
+      "hyperchromatische Kerne;"
+    ],
+    "slide_id": "edeb5180-8552-4ab8-8092-e24c04637f4b",
+    "slide_path": "Histopathologie 5. Semester/slides/068 - DCIS intraduktales Mamma-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=edeb5180-8552-4ab8-8092-e24c04637f4b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2784,
+    "height": 4112,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Tuschefärbung des Resektionrandes",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43299.93,
+            "y": 18868.35
+          },
+          {
+            "x": 47086.96,
+            "y": 23545.56
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45193.45,
+        "y": 21206.95
+      },
+      "crop": {
+        "left": 44288,
+        "top": 20480,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 905.45,
+        "y": 726.95
+      },
+      "atlas_image": "atlas/01-tuschefarbung-des-resektionrandes-annotiert.jpg",
+      "exercise_image": "pruefung/01-tuschefarbung-des-resektionrandes.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Tuschefärbung des Resektionrandes“ als morphologischen Teilbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    },
+    {
+      "id": 3,
+      "label": "gewöhnliche duktale Hyperplasie des Drüsenepithels",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38227.97,
+            "y": 63973.75
+          },
+          {
+            "x": 40722.08,
+            "y": 65648.45
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39475.03,
+        "y": 64811.1
+      },
+      "crop": {
+        "left": 38656,
+        "top": 64256,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 819.03,
+        "y": 555.1
+      },
+      "atlas_image": "atlas/03-gewohnliche-duktale-hyperplasie-des-drusenepithels-annotiert.jpg",
+      "exercise_image": "pruefung/03-gewohnliche-duktale-hyperplasie-des-drusenepithels.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „gewöhnliche duktale Hyperplasie des Drüsenepithels“ dient hier als anatomischer Orientierungspunkt. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    },
+    {
+      "id": 5,
+      "label": "Komedonekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17844.41,
+            "y": 64228.94
+          },
+          {
+            "x": 24895.12,
+            "y": 67152.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21369.76,
+        "y": 65690.82
+      },
+      "crop": {
+        "left": 20480,
+        "top": 65024,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 889.76,
+        "y": 666.82
+      },
+      "atlas_image": "atlas/05-komedonekrose-annotiert.jpg",
+      "exercise_image": "pruefung/05-komedonekrose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Komedonekrose als typischer hochgradiger Begleitbefund.",
+      "didactic_note": "Komedonekrose als typischer hochgradiger Begleitbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    },
+    {
+      "id": 10,
+      "label": "dilatierter Gang mit dysplastischem Epithel (DCIS)",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 14129.16,
+            "y": 77166.04
+          },
+          {
+            "x": 17802.54,
+            "y": 81798.4
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15965.85,
+        "y": 79482.22
+      },
+      "crop": {
+        "left": 15104,
+        "top": 78848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 861.85,
+        "y": 634.22
+      },
+      "atlas_image": "atlas/10-dilatierter-gang-mit-dysplastischem-epithel-dcis-annotiert.jpg",
+      "exercise_image": "pruefung/10-dilatierter-gang-mit-dysplastischem-epithel-dcis.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund.",
+      "didactic_note": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 10,
+      "label": "dilatierter Gang mit dysplastischem Epithel (DCIS)",
+      "exercise_image": "pruefung/10-dilatierter-gang-mit-dysplastischem-epithel-dcis.jpg",
+      "rationale": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund.",
+      "didactic_note": "Dilatierter Gang mit dysplastischem Epithel als definierender DCIS-Befund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    },
+    {
+      "annotation_id": 5,
+      "label": "Komedonekrose",
+      "exercise_image": "pruefung/05-komedonekrose.jpg",
+      "rationale": "Komedonekrose als typischer hochgradiger Begleitbefund.",
+      "didactic_note": "Komedonekrose als typischer hochgradiger Begleitbefund. Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+    }
+  ],
+  "didactic_context": "Beim DCIS füllen atypische Epithelzellen die Milchgänge, ohne Basalmembran und myoepitheliale Begrenzung zu durchbrechen; Komedonekrose spricht häufig für einen hohen Kerngrad."
+}

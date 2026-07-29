@@ -1,0 +1,97 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "049a",
+    "name": "Helicobactergastritis (WS)",
+    "organ": "Magen",
+    "diagnosis": "Helicobactergastritis",
+    "description": [
+      "WS-Färbung (Warthin-Starry);",
+      "Bakterien auf Schleimhautoberfläche;",
+      "HE-Färbung siehe #48;"
+    ],
+    "slide_id": "0079cd62-ec24-4720-afe1-d0fe37cacd5c",
+    "slide_path": "Histopathologie 5. Semester/slides/049a - Helicobactergastritis (WS).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0079cd62-ec24-4720-afe1-d0fe37cacd5c&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2048,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "H. pylori",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4097.49,
+            "y": 22708.99
+          },
+          {
+            "x": 4563.88,
+            "y": 22938.61
+          }
+        ]
+      },
+      "anchor": {
+        "x": 4330.69,
+        "y": 22823.8
+      },
+      "crop": {
+        "left": 3328,
+        "top": 22272,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1002.69,
+        "y": 551.8
+      },
+      "atlas_image": "atlas/01-h-pylori-annotiert.jpg",
+      "exercise_image": "pruefung/01-h-pylori.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund.",
+      "didactic_note": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 1,
+      "label": "H. pylori",
+      "exercise_image": "pruefung/01-h-pylori.jpg",
+      "rationale": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund.",
+      "didactic_note": "Direkter Nachweis von Helicobacter pylori als krankheitsdefinierender Befund. Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."
+    }
+  ],
+  "didactic_context": "Helicobacter pylori erscheint als kleine gekrümmte Stäbchen im Oberflächenschleim und an den Foveolen; Spezialfärbungen oder Immunhistochemie erleichtern den sicheren Erregernachweis."
+}

@@ -1,0 +1,1607 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "073",
+    "name": "Tubulovillöses Kolonadenom",
+    "organ": "Kolon",
+    "diagnosis": "tubulovillöses Kolonadenom",
+    "description": [
+      "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "Krypten mit Becherzellen;",
+      "Auerbach Plexus;",
+      "polypenartige Wucherung; nicht invasiv;",
+      "Pallisadenartige Aufreihung der Zellen;",
+      "Dysplasie gering:",
+      "wenig Zellatypien, wenige Mitosen;",
+      "Zellpolarität erhalten (Zellekerne basalständig);",
+      "intakte Basalmembran;",
+      "mehrreihiges Epithel;",
+      "Kryptenektasie (Verzweigung);",
+      "Vergleichen Sie Krypten und Zellen mit Tumorzellen aus #86 & #74"
+    ],
+    "slide_id": "0672e10b-75b1-4dbb-bdbf-cc353f6acb31",
+    "slide_path": "Histopathologie 5. Semester/slides/073 - Tubulovillöses Kolonadenom.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0672e10b-75b1-4dbb-bdbf-cc353f6acb31&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3072,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Adenom",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 2954.89,
+            "y": 936.91
+          },
+          {
+            "x": 42050.06,
+            "y": 30044.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22502.48,
+        "y": 15490.63
+      },
+      "crop": {
+        "left": 21504,
+        "top": 14848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 998.48,
+        "y": 642.63
+      },
+      "atlas_image": "atlas/03-adenom-annotiert.jpg",
+      "exercise_image": "pruefung/03-adenom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick.",
+      "didactic_note": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 9,
+      "label": "Plexus myentericus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30581.87,
+            "y": 57644.29
+          },
+          {
+            "x": 33174.9,
+            "y": 58199.84
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31878.38,
+        "y": 57922.06
+      },
+      "crop": {
+        "left": 30976,
+        "top": 57344,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 902.38,
+        "y": 578.06
+      },
+      "atlas_image": "atlas/09-plexus-myentericus-annotiert.jpg",
+      "exercise_image": "pruefung/09-plexus-myentericus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Plexus myentericus“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 11,
+      "label": "Stratum circulare",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36779.92,
+            "y": 55410.11
+          },
+          {
+            "x": 38647.74,
+            "y": 56079.77
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37713.83,
+        "y": 55744.94
+      },
+      "crop": {
+        "left": 36864,
+        "top": 55040,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 849.83,
+        "y": 704.94
+      },
+      "atlas_image": "atlas/11-stratum-circulare-annotiert.jpg",
+      "exercise_image": "pruefung/11-stratum-circulare.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 13,
+      "label": "Stratum longitudinale",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37860.97,
+            "y": 58641.27
+          },
+          {
+            "x": 40673.97,
+            "y": 59768.87
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39267.47,
+        "y": 59205.07
+      },
+      "crop": {
+        "left": 38400,
+        "top": 58624,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 867.47,
+        "y": 581.07
+      },
+      "atlas_image": "atlas/13-stratum-longitudinale-annotiert.jpg",
+      "exercise_image": "pruefung/13-stratum-longitudinale.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 15,
+      "label": "Krypte",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 21280.28,
+            "y": 55095.55
+          },
+          {
+            "x": 21967.2,
+            "y": 55663.86
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21623.74,
+        "y": 55379.71
+      },
+      "crop": {
+        "left": 20736,
+        "top": 54784,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 887.74,
+        "y": 595.71
+      },
+      "atlas_image": "atlas/15-krypte-annotiert.jpg",
+      "exercise_image": "pruefung/15-krypte.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Krypte“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 16,
+      "label": "Pallisadenartige Aufreihung der Zellkerne",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11830.05,
+            "y": 18422.99
+          },
+          {
+            "x": 11844.32,
+            "y": 18444.76
+          },
+          {
+            "x": 11854.83,
+            "y": 18460.53
+          },
+          {
+            "x": 11867.59,
+            "y": 18479.3
+          },
+          {
+            "x": 11882.6,
+            "y": 18495.81
+          },
+          {
+            "x": 11893.87,
+            "y": 18508.57
+          },
+          {
+            "x": 11902.12,
+            "y": 18525.09
+          },
+          {
+            "x": 11912.63,
+            "y": 18540.11
+          },
+          {
+            "x": 11925.4,
+            "y": 18556.62
+          },
+          {
+            "x": 11938.91,
+            "y": 18569.38
+          },
+          {
+            "x": 11953.17,
+            "y": 18584.4
+          },
+          {
+            "x": 11966.69,
+            "y": 18596.41
+          },
+          {
+            "x": 11986.21,
+            "y": 18612.93
+          },
+          {
+            "x": 12002.72,
+            "y": 18625.69
+          },
+          {
+            "x": 12017.74,
+            "y": 18639.2
+          },
+          {
+            "x": 12032.75,
+            "y": 18651.96
+          },
+          {
+            "x": 12047.77,
+            "y": 18665.48
+          },
+          {
+            "x": 12062.03,
+            "y": 18676.74
+          },
+          {
+            "x": 12077.04,
+            "y": 18685
+          },
+          {
+            "x": 12092.06,
+            "y": 18694.76
+          },
+          {
+            "x": 12107.07,
+            "y": 18703.01
+          },
+          {
+            "x": 12121.34,
+            "y": 18713.52
+          },
+          {
+            "x": 12140.11,
+            "y": 18719.53
+          },
+          {
+            "x": 12158.12,
+            "y": 18726.29
+          },
+          {
+            "x": 12176.14,
+            "y": 18731.54
+          },
+          {
+            "x": 12192.66,
+            "y": 18733.04
+          },
+          {
+            "x": 12215.93,
+            "y": 18733.04
+          },
+          {
+            "x": 12235.45,
+            "y": 18733.04
+          },
+          {
+            "x": 12253.47,
+            "y": 18731.54
+          },
+          {
+            "x": 12271.48,
+            "y": 18726.29
+          },
+          {
+            "x": 12288,
+            "y": 18724.79
+          },
+          {
+            "x": 12304.52,
+            "y": 18721.03
+          },
+          {
+            "x": 12321.03,
+            "y": 18716.53
+          },
+          {
+            "x": 12339.05,
+            "y": 18715.03
+          },
+          {
+            "x": 12360.82,
+            "y": 18715.03
+          },
+          {
+            "x": 12381.84,
+            "y": 18719.53
+          },
+          {
+            "x": 12400.61,
+            "y": 18724.79
+          },
+          {
+            "x": 12417.13,
+            "y": 18727.79
+          },
+          {
+            "x": 12433.64,
+            "y": 18734.55
+          },
+          {
+            "x": 12449.41,
+            "y": 18739.8
+          },
+          {
+            "x": 12465.92,
+            "y": 18741.3
+          },
+          {
+            "x": 12484.69,
+            "y": 18742.8
+          },
+          {
+            "x": 12507.21,
+            "y": 18742.8
+          },
+          {
+            "x": 12523.73,
+            "y": 18744.3
+          },
+          {
+            "x": 12541.75,
+            "y": 18745.81
+          },
+          {
+            "x": 12558.26,
+            "y": 18748.06
+          },
+          {
+            "x": 12577.03,
+            "y": 18745.81
+          },
+          {
+            "x": 12593.55,
+            "y": 18742.8
+          },
+          {
+            "x": 12610.06,
+            "y": 18737.55
+          },
+          {
+            "x": 12621.33,
+            "y": 18724.79
+          },
+          {
+            "x": 12622.83,
+            "y": 18706.77
+          },
+          {
+            "x": 12624.33,
+            "y": 18688.75
+          },
+          {
+            "x": 12625.83,
+            "y": 18672.23
+          },
+          {
+            "x": 12622.83,
+            "y": 18655.72
+          },
+          {
+            "x": 12607.81,
+            "y": 18647.46
+          },
+          {
+            "x": 12591.3,
+            "y": 18643.71
+          },
+          {
+            "x": 12573.28,
+            "y": 18642.21
+          },
+          {
+            "x": 12553.76,
+            "y": 18640.7
+          },
+          {
+            "x": 12530.49,
+            "y": 18635.45
+          },
+          {
+            "x": 12513.97,
+            "y": 18632.45
+          },
+          {
+            "x": 12495.95,
+            "y": 18625.69
+          },
+          {
+            "x": 12477.94,
+            "y": 18621.18
+          },
+          {
+            "x": 12457.67,
+            "y": 18614.43
+          },
+          {
+            "x": 12435.14,
+            "y": 18607.67
+          },
+          {
+            "x": 12417.13,
+            "y": 18602.42
+          },
+          {
+            "x": 12398.36,
+            "y": 18597.91
+          },
+          {
+            "x": 12381.84,
+            "y": 18594.16
+          },
+          {
+            "x": 12363.82,
+            "y": 18589.65
+          },
+          {
+            "x": 12337.55,
+            "y": 18584.4
+          },
+          {
+            "x": 12316.53,
+            "y": 18582.9
+          },
+          {
+            "x": 12296.26,
+            "y": 18582.9
+          },
+          {
+            "x": 12276.74,
+            "y": 18582.9
+          },
+          {
+            "x": 12253.47,
+            "y": 18582.9
+          },
+          {
+            "x": 12232.45,
+            "y": 18582.9
+          },
+          {
+            "x": 12215.93,
+            "y": 18579.89
+          },
+          {
+            "x": 12195.66,
+            "y": 18576.14
+          },
+          {
+            "x": 12174.64,
+            "y": 18569.38
+          },
+          {
+            "x": 12158.12,
+            "y": 18563.38
+          },
+          {
+            "x": 12141.61,
+            "y": 18552.87
+          },
+          {
+            "x": 12119.84,
+            "y": 18540.11
+          },
+          {
+            "x": 12104.82,
+            "y": 18531.85
+          },
+          {
+            "x": 12089.06,
+            "y": 18518.33
+          },
+          {
+            "x": 12075.54,
+            "y": 18505.57
+          },
+          {
+            "x": 12062.03,
+            "y": 18489.06
+          },
+          {
+            "x": 12052.27,
+            "y": 18474.04
+          },
+          {
+            "x": 12039.51,
+            "y": 18454.52
+          },
+          {
+            "x": 12027.5,
+            "y": 18438.01
+          },
+          {
+            "x": 12016.23,
+            "y": 18422.99
+          },
+          {
+            "x": 12006.48,
+            "y": 18407.98
+          },
+          {
+            "x": 11992.96,
+            "y": 18392.96
+          },
+          {
+            "x": 11976.45,
+            "y": 18376.45
+          },
+          {
+            "x": 11959.93,
+            "y": 18362.18
+          },
+          {
+            "x": 11947.17,
+            "y": 18350.17
+          },
+          {
+            "x": 11932.15,
+            "y": 18340.41
+          },
+          {
+            "x": 11915.64,
+            "y": 18333.65
+          },
+          {
+            "x": 11899.12,
+            "y": 18325.4
+          },
+          {
+            "x": 11882.6,
+            "y": 18320.89
+          },
+          {
+            "x": 11866.09,
+            "y": 18329.15
+          },
+          {
+            "x": 11856.33,
+            "y": 18344.16
+          },
+          {
+            "x": 11849.57,
+            "y": 18360.68
+          },
+          {
+            "x": 11842.82,
+            "y": 18376.45
+          },
+          {
+            "x": 11838.31,
+            "y": 18392.96
+          },
+          {
+            "x": 11831.55,
+            "y": 18422.99
+          },
+          {
+            "x": 11831.55,
+            "y": 18422.99
+          },
+          {
+            "x": 11830.05,
+            "y": 18422.99
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12202.39,
+        "y": 18589.76
+      },
+      "crop": {
+        "left": 11264,
+        "top": 17920,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 938.39,
+        "y": 669.76
+      },
+      "atlas_image": "atlas/16-pallisadenartige-aufreihung-der-zellkerne-annotiert.jpg",
+      "exercise_image": "pruefung/16-pallisadenartige-aufreihung-der-zellkerne.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms.",
+      "didactic_note": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "id": 17,
+      "label": "verschlepptes Material aus dem Adenombereich",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37046.43,
+            "y": 47737.62
+          },
+          {
+            "x": 36872.26,
+            "y": 47691.82
+          },
+          {
+            "x": 36743.88,
+            "y": 47646.03
+          },
+          {
+            "x": 36642.53,
+            "y": 47600.23
+          },
+          {
+            "x": 36532.18,
+            "y": 47544.68
+          },
+          {
+            "x": 36394.04,
+            "y": 47480.87
+          },
+          {
+            "x": 36284.43,
+            "y": 47444.08
+          },
+          {
+            "x": 36192.09,
+            "y": 47416.3
+          },
+          {
+            "x": 36072.73,
+            "y": 47407.3
+          },
+          {
+            "x": 35934.59,
+            "y": 47379.52
+          },
+          {
+            "x": 35833.99,
+            "y": 47379.52
+          },
+          {
+            "x": 35695.86,
+            "y": 47370.51
+          },
+          {
+            "x": 35567.48,
+            "y": 47370.51
+          },
+          {
+            "x": 35457.13,
+            "y": 47398.29
+          },
+          {
+            "x": 35355.78,
+            "y": 47435.07
+          },
+          {
+            "x": 35227.4,
+            "y": 47498.89
+          },
+          {
+            "x": 35135.06,
+            "y": 47544.68
+          },
+          {
+            "x": 35052.48,
+            "y": 47618.25
+          },
+          {
+            "x": 34978.91,
+            "y": 47682.82
+          },
+          {
+            "x": 34905.34,
+            "y": 47756.39
+          },
+          {
+            "x": 34813.75,
+            "y": 47829.96
+          },
+          {
+            "x": 34722.16,
+            "y": 47903.53
+          },
+          {
+            "x": 34638.83,
+            "y": 47977.1
+          },
+          {
+            "x": 34556.25,
+            "y": 48087.46
+          },
+          {
+            "x": 34473.67,
+            "y": 48215.84
+          },
+          {
+            "x": 34409.1,
+            "y": 48317.18
+          },
+          {
+            "x": 34345.29,
+            "y": 48427.54
+          },
+          {
+            "x": 34299.5,
+            "y": 48555.92
+          },
+          {
+            "x": 34252.95,
+            "y": 48666.28
+          },
+          {
+            "x": 34189.14,
+            "y": 48766.87
+          },
+          {
+            "x": 34152.35,
+            "y": 48859.21
+          },
+          {
+            "x": 34115.57,
+            "y": 48987.59
+          },
+          {
+            "x": 34069.77,
+            "y": 49106.96
+          },
+          {
+            "x": 34051,
+            "y": 49226.32
+          },
+          {
+            "x": 34032.99,
+            "y": 49327.67
+          },
+          {
+            "x": 34014.22,
+            "y": 49447.04
+          },
+          {
+            "x": 33986.44,
+            "y": 49548.39
+          },
+          {
+            "x": 33977.43,
+            "y": 49639.98
+          },
+          {
+            "x": 33959.41,
+            "y": 49787.12
+          },
+          {
+            "x": 33940.65,
+            "y": 49906.49
+          },
+          {
+            "x": 33922.63,
+            "y": 49998.83
+          },
+          {
+            "x": 33885.84,
+            "y": 50163.99
+          },
+          {
+            "x": 33867.07,
+            "y": 50255.58
+          },
+          {
+            "x": 33867.07,
+            "y": 50411.73
+          },
+          {
+            "x": 33858.06,
+            "y": 50504.07
+          },
+          {
+            "x": 33840.05,
+            "y": 50641.45
+          },
+          {
+            "x": 33840.05,
+            "y": 50807.37
+          },
+          {
+            "x": 33849.06,
+            "y": 50907.96
+          },
+          {
+            "x": 33867.07,
+            "y": 51064.87
+          },
+          {
+            "x": 33885.84,
+            "y": 51230.03
+          },
+          {
+            "x": 33903.86,
+            "y": 51505.55
+          },
+          {
+            "x": 33922.63,
+            "y": 51624.91
+          },
+          {
+            "x": 33922.63,
+            "y": 51744.28
+          },
+          {
+            "x": 33940.65,
+            "y": 51836.62
+          },
+          {
+            "x": 33949.65,
+            "y": 51937.22
+          },
+          {
+            "x": 33968.42,
+            "y": 52029.56
+          },
+          {
+            "x": 33986.44,
+            "y": 52121.15
+          },
+          {
+            "x": 34014.22,
+            "y": 52268.29
+          },
+          {
+            "x": 34051,
+            "y": 52396.67
+          },
+          {
+            "x": 34106.56,
+            "y": 52498.02
+          },
+          {
+            "x": 34179.38,
+            "y": 52599.37
+          },
+          {
+            "x": 34252.95,
+            "y": 52709.72
+          },
+          {
+            "x": 34336.28,
+            "y": 52782.55
+          },
+          {
+            "x": 34427.87,
+            "y": 52847.11
+          },
+          {
+            "x": 34529.22,
+            "y": 52883.89
+          },
+          {
+            "x": 34657.6,
+            "y": 52957.47
+          },
+          {
+            "x": 34767.95,
+            "y": 53003.26
+          },
+          {
+            "x": 34859.54,
+            "y": 53040.05
+          },
+          {
+            "x": 34978.91,
+            "y": 53076.83
+          },
+          {
+            "x": 35108.04,
+            "y": 53122.63
+          },
+          {
+            "x": 35227.4,
+            "y": 53150.4
+          },
+          {
+            "x": 35328.75,
+            "y": 53159.41
+          },
+          {
+            "x": 35448.12,
+            "y": 53169.17
+          },
+          {
+            "x": 35548.72,
+            "y": 53169.17
+          },
+          {
+            "x": 35650.06,
+            "y": 53178.18
+          },
+          {
+            "x": 35806.22,
+            "y": 53178.18
+          },
+          {
+            "x": 35999.16,
+            "y": 53159.41
+          },
+          {
+            "x": 36100.5,
+            "y": 53141.4
+          },
+          {
+            "x": 36210.86,
+            "y": 53132.39
+          },
+          {
+            "x": 36302.45,
+            "y": 53122.63
+          },
+          {
+            "x": 36403.8,
+            "y": 53122.63
+          },
+          {
+            "x": 36550.19,
+            "y": 53095.6
+          },
+          {
+            "x": 36707.1,
+            "y": 53040.05
+          },
+          {
+            "x": 36807.7,
+            "y": 53022.03
+          },
+          {
+            "x": 36982.62,
+            "y": 52966.48
+          },
+          {
+            "x": 37092.97,
+            "y": 52929.69
+          },
+          {
+            "x": 37240.12,
+            "y": 52892.9
+          },
+          {
+            "x": 37396.27,
+            "y": 52856.12
+          },
+          {
+            "x": 37487.86,
+            "y": 52847.11
+          },
+          {
+            "x": 37579.45,
+            "y": 52829.09
+          },
+          {
+            "x": 37717.58,
+            "y": 52792.3
+          },
+          {
+            "x": 37836.95,
+            "y": 52773.54
+          },
+          {
+            "x": 38075.68,
+            "y": 52764.53
+          },
+          {
+            "x": 38195.8,
+            "y": 52764.53
+          },
+          {
+            "x": 38315.17,
+            "y": 52755.52
+          },
+          {
+            "x": 38461.56,
+            "y": 52746.51
+          },
+          {
+            "x": 38581.68,
+            "y": 52746.51
+          },
+          {
+            "x": 38710.05,
+            "y": 52746.51
+          },
+          {
+            "x": 38820.41,
+            "y": 52746.51
+          },
+          {
+            "x": 38939.78,
+            "y": 52746.51
+          },
+          {
+            "x": 39050.13,
+            "y": 52746.51
+          },
+          {
+            "x": 39178.51,
+            "y": 52755.52
+          },
+          {
+            "x": 39270.85,
+            "y": 52764.53
+          },
+          {
+            "x": 39436.01,
+            "y": 52782.55
+          },
+          {
+            "x": 39555.38,
+            "y": 52801.31
+          },
+          {
+            "x": 39683.75,
+            "y": 52829.09
+          },
+          {
+            "x": 39794.11,
+            "y": 52847.11
+          },
+          {
+            "x": 39960.02,
+            "y": 52892.9
+          },
+          {
+            "x": 40079.39,
+            "y": 52911.67
+          },
+          {
+            "x": 40170.98,
+            "y": 52929.69
+          },
+          {
+            "x": 40281.34,
+            "y": 52957.47
+          },
+          {
+            "x": 40382.69,
+            "y": 52966.48
+          },
+          {
+            "x": 40474.28,
+            "y": 52976.23
+          },
+          {
+            "x": 40575.62,
+            "y": 52994.25
+          },
+          {
+            "x": 40685.98,
+            "y": 53022.03
+          },
+          {
+            "x": 40777.57,
+            "y": 53040.05
+          },
+          {
+            "x": 40942.73,
+            "y": 53067.82
+          },
+          {
+            "x": 41071.86,
+            "y": 53085.84
+          },
+          {
+            "x": 41191.23,
+            "y": 53104.61
+          },
+          {
+            "x": 41329.36,
+            "y": 53150.4
+          },
+          {
+            "x": 41448.73,
+            "y": 53178.18
+          },
+          {
+            "x": 41568.09,
+            "y": 53214.97
+          },
+          {
+            "x": 41687.46,
+            "y": 53260.76
+          },
+          {
+            "x": 41779.05,
+            "y": 53288.54
+          },
+          {
+            "x": 41880.4,
+            "y": 53325.33
+          },
+          {
+            "x": 41981.75,
+            "y": 53343.34
+          },
+          {
+            "x": 42137.9,
+            "y": 53380.13
+          },
+          {
+            "x": 42229.49,
+            "y": 53398.9
+          },
+          {
+            "x": 42339.85,
+            "y": 53416.91
+          },
+          {
+            "x": 42431.44,
+            "y": 53425.92
+          },
+          {
+            "x": 42523.78,
+            "y": 53453.7
+          },
+          {
+            "x": 42643.14,
+            "y": 53462.71
+          },
+          {
+            "x": 42790.29,
+            "y": 53499.5
+          },
+          {
+            "x": 42927.67,
+            "y": 53508.5
+          },
+          {
+            "x": 43074.82,
+            "y": 53536.28
+          },
+          {
+            "x": 43185.17,
+            "y": 53536.28
+          },
+          {
+            "x": 43313.55,
+            "y": 53536.28
+          },
+          {
+            "x": 43405.89,
+            "y": 53508.5
+          },
+          {
+            "x": 43525.26,
+            "y": 53435.68
+          },
+          {
+            "x": 43626.6,
+            "y": 53380.13
+          },
+          {
+            "x": 43718.19,
+            "y": 53297.55
+          },
+          {
+            "x": 43782.76,
+            "y": 53214.97
+          },
+          {
+            "x": 43846.57,
+            "y": 53104.61
+          },
+          {
+            "x": 43893.11,
+            "y": 52985.24
+          },
+          {
+            "x": 43929.9,
+            "y": 52819.33
+          },
+          {
+            "x": 43938.91,
+            "y": 52718.73
+          },
+          {
+            "x": 43956.93,
+            "y": 52516.79
+          },
+          {
+            "x": 43956.93,
+            "y": 52369.64
+          },
+          {
+            "x": 43938.91,
+            "y": 52213.49
+          },
+          {
+            "x": 43911.13,
+            "y": 52103.13
+          },
+          {
+            "x": 43883.35,
+            "y": 52010.79
+          },
+          {
+            "x": 43846.57,
+            "y": 51873.41
+          },
+          {
+            "x": 43800.77,
+            "y": 51790.83
+          },
+          {
+            "x": 43745.97,
+            "y": 51652.69
+          },
+          {
+            "x": 43681.41,
+            "y": 51551.34
+          },
+          {
+            "x": 43626.6,
+            "y": 51468.76
+          },
+          {
+            "x": 43580.06,
+            "y": 51386.18
+          },
+          {
+            "x": 43516.25,
+            "y": 51294.59
+          },
+          {
+            "x": 43387.12,
+            "y": 51100.9
+          },
+          {
+            "x": 43304.54,
+            "y": 51000.3
+          },
+          {
+            "x": 43203.94,
+            "y": 50907.96
+          },
+          {
+            "x": 43102.59,
+            "y": 50825.38
+          },
+          {
+            "x": 42955.45,
+            "y": 50706.02
+          },
+          {
+            "x": 42780.53,
+            "y": 50577.64
+          },
+          {
+            "x": 42707.71,
+            "y": 50504.07
+          },
+          {
+            "x": 42615.37,
+            "y": 50430.5
+          },
+          {
+            "x": 42450.21,
+            "y": 50320.14
+          },
+          {
+            "x": 42357.87,
+            "y": 50265.34
+          },
+          {
+            "x": 42211.47,
+            "y": 50200.77
+          },
+          {
+            "x": 42119.13,
+            "y": 50173
+          },
+          {
+            "x": 42027.54,
+            "y": 50145.22
+          },
+          {
+            "x": 41779.05,
+            "y": 50090.42
+          },
+          {
+            "x": 41678.45,
+            "y": 50053.63
+          },
+          {
+            "x": 41531.31,
+            "y": 50007.84
+          },
+          {
+            "x": 41438.97,
+            "y": 49989.07
+          },
+          {
+            "x": 41273.81,
+            "y": 49952.28
+          },
+          {
+            "x": 41117.65,
+            "y": 49915.5
+          },
+          {
+            "x": 40998.29,
+            "y": 49897.48
+          },
+          {
+            "x": 40768.56,
+            "y": 49869.7
+          },
+          {
+            "x": 40593.64,
+            "y": 49869.7
+          },
+          {
+            "x": 40446.5,
+            "y": 49860.69
+          },
+          {
+            "x": 40290.35,
+            "y": 49851.68
+          },
+          {
+            "x": 40198.76,
+            "y": 49842.67
+          },
+          {
+            "x": 40079.39,
+            "y": 49842.67
+          },
+          {
+            "x": 39969.03,
+            "y": 49842.67
+          },
+          {
+            "x": 39867.68,
+            "y": 49832.91
+          },
+          {
+            "x": 39776.09,
+            "y": 49814.9
+          },
+          {
+            "x": 39647.72,
+            "y": 49796.13
+          },
+          {
+            "x": 39537.36,
+            "y": 49787.12
+          },
+          {
+            "x": 39399.23,
+            "y": 49769.1
+          },
+          {
+            "x": 39307.64,
+            "y": 49759.34
+          },
+          {
+            "x": 39197.28,
+            "y": 49741.33
+          },
+          {
+            "x": 39086.92,
+            "y": 49704.54
+          },
+          {
+            "x": 38957.79,
+            "y": 49630.97
+          },
+          {
+            "x": 38866.21,
+            "y": 49594.18
+          },
+          {
+            "x": 38746.84,
+            "y": 49548.39
+          },
+          {
+            "x": 38608.7,
+            "y": 49492.83
+          },
+          {
+            "x": 38480.33,
+            "y": 49429.02
+          },
+          {
+            "x": 38342.19,
+            "y": 49318.66
+          },
+          {
+            "x": 38278.38,
+            "y": 49245.09
+          },
+          {
+            "x": 38159.01,
+            "y": 49134.73
+          },
+          {
+            "x": 38085.44,
+            "y": 49070.17
+          },
+          {
+            "x": 38011.87,
+            "y": 48978.58
+          },
+          {
+            "x": 37938.3,
+            "y": 48877.23
+          },
+          {
+            "x": 37845.96,
+            "y": 48739.85
+          },
+          {
+            "x": 37772.39,
+            "y": 48647.51
+          },
+          {
+            "x": 37708.57,
+            "y": 48555.92
+          },
+          {
+            "x": 37644.01,
+            "y": 48463.58
+          },
+          {
+            "x": 37570.44,
+            "y": 48390.76
+          },
+          {
+            "x": 37478.85,
+            "y": 48270.64
+          },
+          {
+            "x": 37405.28,
+            "y": 48170.04
+          },
+          {
+            "x": 37349.72,
+            "y": 48087.46
+          },
+          {
+            "x": 37276.15,
+            "y": 47995.12
+          },
+          {
+            "x": 37230.36,
+            "y": 47903.53
+          },
+          {
+            "x": 37184.56,
+            "y": 47820.95
+          },
+          {
+            "x": 37028.41,
+            "y": 47728.61
+          },
+          {
+            "x": 37028.41,
+            "y": 47728.61
+          },
+          {
+            "x": 37046.43,
+            "y": 47737.62
+          }
+        ]
+      },
+      "anchor": {
+        "x": 38406.3,
+        "y": 50971.76
+      },
+      "crop": {
+        "left": 37632,
+        "top": 50432,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 774.3,
+        "y": 539.76
+      },
+      "atlas_image": "atlas/17-verschlepptes-material-aus-dem-adenombereich-annotiert.jpg",
+      "exercise_image": "pruefung/17-verschlepptes-material-aus-dem-adenombereich.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „verschlepptes Material aus dem Adenombereich“ als morphologischen Teilbefund. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 16,
+      "label": "Pallisadenartige Aufreihung der Zellkerne",
+      "exercise_image": "pruefung/16-pallisadenartige-aufreihung-der-zellkerne.jpg",
+      "rationale": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms.",
+      "didactic_note": "Palisadenartige Kernaufreihung als dysplastisches Zellmerkmal des Adenoms. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    },
+    {
+      "annotation_id": 3,
+      "label": "Adenom",
+      "exercise_image": "pruefung/03-adenom.jpg",
+      "rationale": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick.",
+      "didactic_note": "Tubulovillöses Adenomgewebe als ergänzender Architekturüberblick. Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+    }
+  ],
+  "didactic_context": "Das tubulovillöse Adenom zeigt gedrängte dysplastische Drüsen und Zotten mit länglichen hyperchromatischen, pseudostratifizierten Kernen; eine desmoplastische Stromainvasion fehlt."
+}

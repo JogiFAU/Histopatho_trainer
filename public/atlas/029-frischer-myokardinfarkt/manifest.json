@@ -1,0 +1,688 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "029",
+    "name": "Frischer Myokardinfarkt",
+    "organ": "Herz",
+    "diagnosis": "frischer Myokardinfarkt",
+    "description": [
+      "spärlich vitale Myokardfasern;",
+      "Myokardfaserödem;",
+      "Verlust der Querstreifung;",
+      "Auflösung der Zellkerne (Kernschatten);",
+      "homogenes eosinophiles Zytoplasma des Myokards;",
+      "Myolyse (nekrotisches Plasma wird herausgelöst, Zellmembranen bleiben noch erhalten);",
+      "Koagulationsnekrose;",
+      "später erst Einwandern von Granulozyten, dann Makrophagen;",
+      "Hämorhagischer Randsaum erst ab ca. 24h postinfarziell sichtbar;"
+    ],
+    "slide_id": "4df3672d-79e3-4592-9f21-2346abd58d46",
+    "slide_path": "Histopathologie 5. Semester/slides/029 - Frischer Myokardinfarkt.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4df3672d-79e3-4592-9f21-2346abd58d46&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3856,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "absterbende Herzmuskelzellen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24017.52,
+            "y": 40994.32
+          },
+          {
+            "x": 26596.83,
+            "y": 44617.65
+          }
+        ]
+      },
+      "anchor": {
+        "x": 25307.17,
+        "y": 42805.99
+      },
+      "crop": {
+        "left": 24320,
+        "top": 42240,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 987.17,
+        "y": 565.99
+      },
+      "atlas_image": "atlas/03-absterbende-herzmuskelzellen-annotiert.jpg",
+      "exercise_image": "pruefung/03-absterbende-herzmuskelzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts.",
+      "didactic_note": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 11,
+      "label": "Myokardfaserödem",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30210.86,
+            "y": 28097.79
+          },
+          {
+            "x": 28564.74,
+            "y": 29583.73
+          },
+          {
+            "x": 27078.79,
+            "y": 31046.79
+          },
+          {
+            "x": 25706.55,
+            "y": 32418.32
+          },
+          {
+            "x": 25638.61,
+            "y": 32647.15
+          },
+          {
+            "x": 25820.96,
+            "y": 32853.09
+          },
+          {
+            "x": 26049.79,
+            "y": 32898.86
+          },
+          {
+            "x": 26255.73,
+            "y": 33035.44
+          },
+          {
+            "x": 26484.56,
+            "y": 33104.09
+          },
+          {
+            "x": 26712.67,
+            "y": 33081.21
+          },
+          {
+            "x": 26941.5,
+            "y": 32944.63
+          },
+          {
+            "x": 27147.44,
+            "y": 32807.33
+          },
+          {
+            "x": 27352.67,
+            "y": 32692.92
+          },
+          {
+            "x": 27558.61,
+            "y": 32555.62
+          },
+          {
+            "x": 27741.68,
+            "y": 32395.44
+          },
+          {
+            "x": 27970.5,
+            "y": 32258.15
+          },
+          {
+            "x": 28198.61,
+            "y": 32098.68
+          },
+          {
+            "x": 28404.56,
+            "y": 31961.39
+          },
+          {
+            "x": 28587.62,
+            "y": 31801.21
+          },
+          {
+            "x": 28793.56,
+            "y": 31618.15
+          },
+          {
+            "x": 28975.91,
+            "y": 31457.97
+          },
+          {
+            "x": 29158.97,
+            "y": 31298.5
+          },
+          {
+            "x": 29364.92,
+            "y": 31161.21
+          },
+          {
+            "x": 29570.86,
+            "y": 31023.91
+          },
+          {
+            "x": 29798.97,
+            "y": 30749.32
+          },
+          {
+            "x": 29982.03,
+            "y": 30589.14
+          },
+          {
+            "x": 30165.09,
+            "y": 30429.68
+          },
+          {
+            "x": 30371.04,
+            "y": 30292.38
+          },
+          {
+            "x": 30576.27,
+            "y": 30177.97
+          },
+          {
+            "x": 30782.21,
+            "y": 30063.55
+          },
+          {
+            "x": 30988.16,
+            "y": 29949.14
+          },
+          {
+            "x": 31194.1,
+            "y": 29834.73
+          },
+          {
+            "x": 31399.33,
+            "y": 29698.15
+          },
+          {
+            "x": 31628.16,
+            "y": 29583.73
+          },
+          {
+            "x": 31856.98,
+            "y": 29469.32
+          },
+          {
+            "x": 32062.93,
+            "y": 29309.14
+          },
+          {
+            "x": 32245.27,
+            "y": 29148.96
+          },
+          {
+            "x": 32451.22,
+            "y": 29011.66
+          },
+          {
+            "x": 32680.04,
+            "y": 28852.2
+          },
+          {
+            "x": 32885.99,
+            "y": 28692.02
+          },
+          {
+            "x": 33068.34,
+            "y": 28508.96
+          },
+          {
+            "x": 33251.4,
+            "y": 28348.78
+          },
+          {
+            "x": 33411.58,
+            "y": 28166.44
+          },
+          {
+            "x": 33594.64,
+            "y": 27983.37
+          },
+          {
+            "x": 33776.98,
+            "y": 27800.31
+          },
+          {
+            "x": 33891.4,
+            "y": 27594.37
+          },
+          {
+            "x": 33982.93,
+            "y": 27343.37
+          },
+          {
+            "x": 34028.69,
+            "y": 27091.66
+          },
+          {
+            "x": 33982.93,
+            "y": 26862.84
+          },
+          {
+            "x": 33776.98,
+            "y": 26725.54
+          },
+          {
+            "x": 33548.87,
+            "y": 26702.66
+          },
+          {
+            "x": 33297.16,
+            "y": 26679.78
+          },
+          {
+            "x": 33045.45,
+            "y": 26679.78
+          },
+          {
+            "x": 32817.34,
+            "y": 26702.66
+          },
+          {
+            "x": 32565.63,
+            "y": 26771.31
+          },
+          {
+            "x": 32359.69,
+            "y": 26885.72
+          },
+          {
+            "x": 32153.74,
+            "y": 27045.9
+          },
+          {
+            "x": 31925.63,
+            "y": 27137.43
+          },
+          {
+            "x": 31673.92,
+            "y": 27228.96
+          },
+          {
+            "x": 31422.21,
+            "y": 27343.37
+          },
+          {
+            "x": 31216.98,
+            "y": 27457.07
+          },
+          {
+            "x": 31033.92,
+            "y": 27617.25
+          },
+          {
+            "x": 30827.98,
+            "y": 27754.55
+          },
+          {
+            "x": 30622.03,
+            "y": 27868.96
+          },
+          {
+            "x": 30393.92,
+            "y": 27960.49
+          },
+          {
+            "x": 30187.98,
+            "y": 28074.91
+          },
+          {
+            "x": 30165.09,
+            "y": 28120.67
+          },
+          {
+            "x": 30165.09,
+            "y": 28120.67
+          },
+          {
+            "x": 30210.86,
+            "y": 28097.79
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30464.6,
+        "y": 29577.17
+      },
+      "crop": {
+        "left": 29696,
+        "top": 28928,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 768.6,
+        "y": 649.17
+      },
+      "atlas_image": "atlas/11-myokardfaserodem-annotiert.jpg",
+      "exercise_image": "pruefung/11-myokardfaserodem.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Myokardfaserödem“ dient hier als anatomischer Orientierungspunkt. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 12,
+      "label": "Nekrose/Zelldetritus",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31840.54,
+            "y": 32872.4
+          },
+          {
+            "x": 31387.89,
+            "y": 33390.84
+          },
+          {
+            "x": 30847.28,
+            "y": 34020.11
+          },
+          {
+            "x": 30339.58,
+            "y": 34924.69
+          },
+          {
+            "x": 29478.61,
+            "y": 35730.59
+          },
+          {
+            "x": 29666.68,
+            "y": 36491.44
+          },
+          {
+            "x": 30648.49,
+            "y": 36414.21
+          },
+          {
+            "x": 31332.83,
+            "y": 35432.4
+          },
+          {
+            "x": 31410.06,
+            "y": 34682.28
+          },
+          {
+            "x": 32458.37,
+            "y": 33699.75
+          },
+          {
+            "x": 33583.91,
+            "y": 32188.07
+          },
+          {
+            "x": 32822.35,
+            "y": 32077.94
+          },
+          {
+            "x": 31818.37,
+            "y": 32894.57
+          },
+          {
+            "x": 31818.37,
+            "y": 32894.57
+          },
+          {
+            "x": 31840.54,
+            "y": 32872.4
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31391.11,
+        "y": 34120.84
+      },
+      "crop": {
+        "left": 30464,
+        "top": 33536,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 927.11,
+        "y": 584.84
+      },
+      "atlas_image": "atlas/12-nekrose-zelldetritus-annotiert.jpg",
+      "exercise_image": "pruefung/12-nekrose-zelldetritus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nekrose/Zelldetritus“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 13,
+      "label": "Kernschatten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 25680.09,
+            "y": 43966.21
+          },
+          {
+            "x": 25776.63,
+            "y": 44052.74
+          }
+        ]
+      },
+      "anchor": {
+        "x": 25728.36,
+        "y": 44009.47
+      },
+      "crop": {
+        "left": 24832,
+        "top": 43264,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 896.36,
+        "y": 745.47
+      },
+      "atlas_image": "atlas/13-kernschatten-annotiert.jpg",
+      "exercise_image": "pruefung/13-kernschatten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Kernschatten als zelluläres Nekrosezeichen.",
+      "didactic_note": "Kernschatten als zelluläres Nekrosezeichen. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 14,
+      "label": "Kernschatten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26054.79,
+            "y": 43309.05
+          },
+          {
+            "x": 26156.34,
+            "y": 43372.69
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26105.56,
+        "y": 43340.87
+      },
+      "crop": {
+        "left": 25088,
+        "top": 42752,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1017.56,
+        "y": 588.87
+      },
+      "atlas_image": "atlas/14-kernschatten-annotiert.jpg",
+      "exercise_image": "pruefung/14-kernschatten.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Kernschatten“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 15,
+      "label": "vitales Myokard",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 50766.66,
+            "y": 59776.72
+          },
+          {
+            "x": 49358.66,
+            "y": 60609.07
+          },
+          {
+            "x": 49358.66,
+            "y": 60609.07
+          }
+        ]
+      },
+      "anchor": {
+        "x": 49358.66,
+        "y": 60609.07
+      },
+      "crop": {
+        "left": 48384,
+        "top": 59904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 974.66,
+        "y": 705.07
+      },
+      "atlas_image": "atlas/15-vitales-myokard-annotiert.jpg",
+      "exercise_image": "pruefung/15-vitales-myokard.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „vitales Myokard“ dient hier als anatomischer Orientierungspunkt. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 16,
+      "label": "Abräumreaktion/Hyperämie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13514.37,
+            "y": 34317.59
+          },
+          {
+            "x": 15714.68,
+            "y": 36849.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14614.53,
+        "y": 35583.64
+      },
+      "crop": {
+        "left": 13824,
+        "top": 34816,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 790.53,
+        "y": 767.64
+      },
+      "atlas_image": "atlas/16-abraumreaktion-hyperamie-annotiert.jpg",
+      "exercise_image": "pruefung/16-abraumreaktion-hyperamie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Abräumreaktion/Hyperämie“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "id": 17,
+      "label": "Hämosiderophage",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13883.35,
+            "y": 36071.69
+          },
+          {
+            "x": 13941.27,
+            "y": 36135.33
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13912.31,
+        "y": 36103.51
+      },
+      "crop": {
+        "left": 13056,
+        "top": 35584,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 856.31,
+        "y": 519.51
+      },
+      "atlas_image": "atlas/17-hamosiderophage-annotiert.jpg",
+      "exercise_image": "pruefung/17-hamosiderophage.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Hämosiderophage“ als morphologischen Teilbefund. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 3,
+      "label": "absterbende Herzmuskelzellen",
+      "exercise_image": "pruefung/03-absterbende-herzmuskelzellen.jpg",
+      "rationale": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts.",
+      "didactic_note": "Absterbende Herzmuskelzellen als Leitbefund des frischen Myokardinfarkts. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    },
+    {
+      "annotation_id": 13,
+      "label": "Kernschatten",
+      "exercise_image": "pruefung/13-kernschatten.jpg",
+      "rationale": "Kernschatten als zelluläres Nekrosezeichen.",
+      "didactic_note": "Kernschatten als zelluläres Nekrosezeichen. Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+    }
+  ],
+  "didactic_context": "Im frischen Myokardinfarkt werden Kardiomyozyten stark eosinophil, verlieren Kerne und Querstreifung und können wellig erscheinen; anschließend beginnt die neutrophile Abräumreaktion."
+}

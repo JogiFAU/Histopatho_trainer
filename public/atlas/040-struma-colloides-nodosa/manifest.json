@@ -1,0 +1,894 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "040",
+    "name": "Struma colloides nodosa",
+    "organ": "Weichgewebe",
+    "diagnosis": "Struma colloides nodosa",
+    "description": [
+      "im unteren Randbereich unauffälliges Schilddrüsengewebe;",
+      "im restlichen Präparat Hyperplasie der Thyreozyten;",
+      "knotige Umwandlung des Schilddrüsengewebes (Pseudolobuli)",
+      "(makroskopisch sichtbar --> rauszoomen!);",
+      "umgeben von Pseudokapsel;",
+      "zystische Degeneration im Knoten;",
+      "Schaumzellen, die Kolloid abbauen;"
+    ],
+    "slide_id": "c06fc96a-a1f9-4e15-adb7-0633300d160d",
+    "slide_path": "Histopathologie 5. Semester/slides/040 - Struma colloides nodosa.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c06fc96a-a1f9-4e15-adb7-0633300d160d&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Schaumzellen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16533.99,
+            "y": 33991.03
+          },
+          {
+            "x": 17692.12,
+            "y": 35022.96
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17113.06,
+        "y": 34507.0
+      },
+      "crop": {
+        "left": 16128,
+        "top": 33792,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 985.06,
+        "y": 715.0
+      },
+      "atlas_image": "atlas/03-schaumzellen-annotiert.jpg",
+      "exercise_image": "pruefung/03-schaumzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    },
+    {
+      "id": 5,
+      "label": "unauffälliges Gewebe",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19861.99,
+            "y": 55736.61
+          },
+          {
+            "x": 22365.03,
+            "y": 57695.91
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21113.51,
+        "y": 56716.26
+      },
+      "crop": {
+        "left": 20224,
+        "top": 56064,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 889.51,
+        "y": 652.26
+      },
+      "atlas_image": "atlas/05-unauffalliges-gewebe-annotiert.jpg",
+      "exercise_image": "pruefung/05-unauffalliges-gewebe.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „unauffälliges Gewebe“ dient hier als anatomischer Orientierungspunkt. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    },
+    {
+      "id": 20,
+      "label": "Strumaknoten mit zystischer Degeneration und Pseudokapsel",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19342.06,
+            "y": 5854.11
+          },
+          {
+            "x": 16784.95,
+            "y": 8923.22
+          },
+          {
+            "x": 16159.73,
+            "y": 13299.74
+          },
+          {
+            "x": 16841.19,
+            "y": 18414.69
+          },
+          {
+            "x": 17523.38,
+            "y": 20404.28
+          },
+          {
+            "x": 17807.5,
+            "y": 21029.5
+          },
+          {
+            "x": 17921.44,
+            "y": 21597.75
+          },
+          {
+            "x": 18091.63,
+            "y": 22165.99
+          },
+          {
+            "x": 18262.54,
+            "y": 22791.21
+          },
+          {
+            "x": 18376.47,
+            "y": 23473.4
+          },
+          {
+            "x": 18432.72,
+            "y": 24041.65
+          },
+          {
+            "x": 18546.66,
+            "y": 24837.05
+          },
+          {
+            "x": 18660.6,
+            "y": 25462.26
+          },
+          {
+            "x": 18830.78,
+            "y": 26030.51
+          },
+          {
+            "x": 18887.75,
+            "y": 26655.73
+          },
+          {
+            "x": 19001.69,
+            "y": 27679.01
+          },
+          {
+            "x": 19171.88,
+            "y": 28474.41
+          },
+          {
+            "x": 19342.06,
+            "y": 29270.54
+          },
+          {
+            "x": 19512.97,
+            "y": 29895.75
+          },
+          {
+            "x": 19740.12,
+            "y": 30464
+          },
+          {
+            "x": 20024.25,
+            "y": 31089.22
+          },
+          {
+            "x": 20251.4,
+            "y": 31657.46
+          },
+          {
+            "x": 20592.5,
+            "y": 32282.68
+          },
+          {
+            "x": 20933.59,
+            "y": 32794.68
+          },
+          {
+            "x": 21388.62,
+            "y": 33248.99
+          },
+          {
+            "x": 21842.93,
+            "y": 33647.05
+          },
+          {
+            "x": 22354.93,
+            "y": 34044.39
+          },
+          {
+            "x": 22809.24,
+            "y": 34442.46
+          },
+          {
+            "x": 23377.49,
+            "y": 35010.7
+          },
+          {
+            "x": 24059.67,
+            "y": 35635.92
+          },
+          {
+            "x": 24571.67,
+            "y": 36033.98
+          },
+          {
+            "x": 25082.95,
+            "y": 36602.23
+          },
+          {
+            "x": 25594.23,
+            "y": 37057.26
+          },
+          {
+            "x": 26106.23,
+            "y": 37511.57
+          },
+          {
+            "x": 26674.48,
+            "y": 37852.66
+          },
+          {
+            "x": 27128.79,
+            "y": 38250.73
+          },
+          {
+            "x": 27640.79,
+            "y": 38534.85
+          },
+          {
+            "x": 28266.01,
+            "y": 39046.13
+          },
+          {
+            "x": 28777.28,
+            "y": 39444.19
+          },
+          {
+            "x": 29459.47,
+            "y": 39955.47
+          },
+          {
+            "x": 29970.75,
+            "y": 40410.5
+          },
+          {
+            "x": 30539,
+            "y": 40864.81
+          },
+          {
+            "x": 30994.03,
+            "y": 41262.87
+          },
+          {
+            "x": 31562.28,
+            "y": 41603.97
+          },
+          {
+            "x": 32073.55,
+            "y": 41945.06
+          },
+          {
+            "x": 32585.55,
+            "y": 42286.15
+          },
+          {
+            "x": 33210.77,
+            "y": 42570.28
+          },
+          {
+            "x": 33835.99,
+            "y": 42684.21
+          },
+          {
+            "x": 34404.24,
+            "y": 42797.43
+          },
+          {
+            "x": 34972.48,
+            "y": 42968.34
+          },
+          {
+            "x": 35654.67,
+            "y": 43195.49
+          },
+          {
+            "x": 36336.14,
+            "y": 43309.43
+          },
+          {
+            "x": 37018.32,
+            "y": 43479.62
+          },
+          {
+            "x": 37643.54,
+            "y": 43593.55
+          },
+          {
+            "x": 38211.79,
+            "y": 43820.71
+          },
+          {
+            "x": 38666.82,
+            "y": 44218.77
+          },
+          {
+            "x": 39178.1,
+            "y": 44559.86
+          },
+          {
+            "x": 39746.34,
+            "y": 44900.24
+          },
+          {
+            "x": 40485.5,
+            "y": 45241.33
+          },
+          {
+            "x": 41110.72,
+            "y": 45582.42
+          },
+          {
+            "x": 41849.87,
+            "y": 45809.58
+          },
+          {
+            "x": 42531.34,
+            "y": 45639.39
+          },
+          {
+            "x": 43100.3,
+            "y": 45355.27
+          },
+          {
+            "x": 43781.77,
+            "y": 44957.21
+          },
+          {
+            "x": 44293.77,
+            "y": 44502.9
+          },
+          {
+            "x": 44748.08,
+            "y": 44047.86
+          },
+          {
+            "x": 45260.08,
+            "y": 43479.62
+          },
+          {
+            "x": 45601.17,
+            "y": 42968.34
+          },
+          {
+            "x": 45885.3,
+            "y": 42286.15
+          },
+          {
+            "x": 46169.42,
+            "y": 41660.94
+          },
+          {
+            "x": 46453.54,
+            "y": 41092.69
+          },
+          {
+            "x": 46794.64,
+            "y": 40296.56
+          },
+          {
+            "x": 47078.76,
+            "y": 39615.1
+          },
+          {
+            "x": 47305.92,
+            "y": 38875.94
+          },
+          {
+            "x": 47647.01,
+            "y": 38364.66
+          },
+          {
+            "x": 47988.1,
+            "y": 37739.45
+          },
+          {
+            "x": 48329.19,
+            "y": 37227.45
+          },
+          {
+            "x": 48613.32,
+            "y": 36659.2
+          },
+          {
+            "x": 48783.5,
+            "y": 36090.95
+          },
+          {
+            "x": 48954.41,
+            "y": 35465.74
+          },
+          {
+            "x": 49011.38,
+            "y": 34726.58
+          },
+          {
+            "x": 49067.63,
+            "y": 34158.33
+          },
+          {
+            "x": 49067.63,
+            "y": 33533.12
+          },
+          {
+            "x": 49238.54,
+            "y": 32850.93
+          },
+          {
+            "x": 49408.72,
+            "y": 32282.68
+          },
+          {
+            "x": 49465.69,
+            "y": 31600.5
+          },
+          {
+            "x": 49579.63,
+            "y": 31032.25
+          },
+          {
+            "x": 49579.63,
+            "y": 30236.85
+          },
+          {
+            "x": 49692.85,
+            "y": 29611.63
+          },
+          {
+            "x": 49863.75,
+            "y": 28986.41
+          },
+          {
+            "x": 50033.94,
+            "y": 28361.19
+          },
+          {
+            "x": 50033.94,
+            "y": 27735.98
+          },
+          {
+            "x": 49920.72,
+            "y": 26996.82
+          },
+          {
+            "x": 49749.81,
+            "y": 26371.61
+          },
+          {
+            "x": 49636.6,
+            "y": 25803.36
+          },
+          {
+            "x": 49465.69,
+            "y": 25235.11
+          },
+          {
+            "x": 49238.54,
+            "y": 24609.89
+          },
+          {
+            "x": 48840.47,
+            "y": 24098.61
+          },
+          {
+            "x": 48442.41,
+            "y": 23359.46
+          },
+          {
+            "x": 48158.29,
+            "y": 22734.24
+          },
+          {
+            "x": 47874.16,
+            "y": 22165.99
+          },
+          {
+            "x": 47590.04,
+            "y": 21654.72
+          },
+          {
+            "x": 47305.92,
+            "y": 21142.72
+          },
+          {
+            "x": 46907.85,
+            "y": 20688.41
+          },
+          {
+            "x": 46453.54,
+            "y": 20233.37
+          },
+          {
+            "x": 46055.48,
+            "y": 19779.06
+          },
+          {
+            "x": 45657.42,
+            "y": 19267.06
+          },
+          {
+            "x": 45203.11,
+            "y": 18812.75
+          },
+          {
+            "x": 44862.02,
+            "y": 18300.75
+          },
+          {
+            "x": 44463.95,
+            "y": 17732.51
+          },
+          {
+            "x": 44122.86,
+            "y": 17107.29
+          },
+          {
+            "x": 43838.74,
+            "y": 16539.04
+          },
+          {
+            "x": 43497.65,
+            "y": 16027.76
+          },
+          {
+            "x": 43043.34,
+            "y": 15402.55
+          },
+          {
+            "x": 42645.27,
+            "y": 14947.52
+          },
+          {
+            "x": 42361.15,
+            "y": 14379.27
+          },
+          {
+            "x": 41963.09,
+            "y": 13924.96
+          },
+          {
+            "x": 41678.96,
+            "y": 13412.96
+          },
+          {
+            "x": 41224.65,
+            "y": 12787.74
+          },
+          {
+            "x": 40826.59,
+            "y": 12276.46
+          },
+          {
+            "x": 40428.53,
+            "y": 11708.21
+          },
+          {
+            "x": 40031.19,
+            "y": 11253.18
+          },
+          {
+            "x": 39462.22,
+            "y": 10741.9
+          },
+          {
+            "x": 39007.91,
+            "y": 10286.87
+          },
+          {
+            "x": 38552.88,
+            "y": 9832.56
+          },
+          {
+            "x": 38098.57,
+            "y": 9377.53
+          },
+          {
+            "x": 37530.32,
+            "y": 8866.25
+          },
+          {
+            "x": 37075.29,
+            "y": 8354.97
+          },
+          {
+            "x": 36677.23,
+            "y": 7899.94
+          },
+          {
+            "x": 36165.95,
+            "y": 7388.66
+          },
+          {
+            "x": 35597.7,
+            "y": 6876.66
+          },
+          {
+            "x": 35142.67,
+            "y": 6422.35
+          },
+          {
+            "x": 34688.36,
+            "y": 6024.29
+          },
+          {
+            "x": 34233.33,
+            "y": 5626.23
+          },
+          {
+            "x": 33722.05,
+            "y": 5171.92
+          },
+          {
+            "x": 33210.77,
+            "y": 4716.89
+          },
+          {
+            "x": 32698.77,
+            "y": 4148.64
+          },
+          {
+            "x": 32244.46,
+            "y": 3694.33
+          },
+          {
+            "x": 31789.43,
+            "y": 3239.3
+          },
+          {
+            "x": 31221.18,
+            "y": 2898.21
+          },
+          {
+            "x": 30539,
+            "y": 2557.12
+          },
+          {
+            "x": 29970.75,
+            "y": 2329.96
+          },
+          {
+            "x": 29402.5,
+            "y": 2272.99
+          },
+          {
+            "x": 28663.35,
+            "y": 2272.99
+          },
+          {
+            "x": 28095.1,
+            "y": 2216.02
+          },
+          {
+            "x": 27469.88,
+            "y": 2216.02
+          },
+          {
+            "x": 26787.7,
+            "y": 2216.02
+          },
+          {
+            "x": 26162.48,
+            "y": 2216.02
+          },
+          {
+            "x": 25367.08,
+            "y": 2329.96
+          },
+          {
+            "x": 24741.86,
+            "y": 2443.9
+          },
+          {
+            "x": 24173.61,
+            "y": 2614.08
+          },
+          {
+            "x": 23605.36,
+            "y": 2784.99
+          },
+          {
+            "x": 23036.39,
+            "y": 3012.15
+          },
+          {
+            "x": 22468.15,
+            "y": 3182.33
+          },
+          {
+            "x": 21899.9,
+            "y": 3353.24
+          },
+          {
+            "x": 21331.65,
+            "y": 3580.39
+          },
+          {
+            "x": 20820.37,
+            "y": 3921.49
+          },
+          {
+            "x": 20365.34,
+            "y": 4319.55
+          },
+          {
+            "x": 19342.06,
+            "y": 5854.11
+          },
+          {
+            "x": 19342.06,
+            "y": 5854.11
+          }
+        ]
+      },
+      "anchor": {
+        "x": 34908.41,
+        "y": 24965.21
+      },
+      "crop": {
+        "left": 34048,
+        "top": 24320,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 860.41,
+        "y": 645.21
+      },
+      "atlas_image": "atlas/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel-annotiert.jpg",
+      "exercise_image": "pruefung/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund.",
+      "didactic_note": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    },
+    {
+      "id": 21,
+      "label": "Zyste",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40233.83,
+            "y": 28808.29
+          },
+          {
+            "x": 26717.03,
+            "y": 25190.4
+          },
+          {
+            "x": 26717.03,
+            "y": 25190.4
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26717.03,
+        "y": 25190.4
+      },
+      "crop": {
+        "left": 25856,
+        "top": 24576,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 861.03,
+        "y": 614.4
+      },
+      "atlas_image": "atlas/21-zyste-annotiert.jpg",
+      "exercise_image": "pruefung/21-zyste.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zystische Degeneration in einem ergänzenden Detail.",
+      "didactic_note": "Zystische Degeneration in einem ergänzenden Detail. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    },
+    {
+      "id": 22,
+      "label": "Pseudokapsel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 41360.23,
+            "y": 3921.49
+          },
+          {
+            "x": 37995.45,
+            "y": 8779.72
+          },
+          {
+            "x": 37995.45,
+            "y": 8779.72
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37995.45,
+        "y": 8779.72
+      },
+      "crop": {
+        "left": 37120,
+        "top": 8192,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 875.45,
+        "y": 587.72
+      },
+      "atlas_image": "atlas/22-pseudokapsel-annotiert.jpg",
+      "exercise_image": "pruefung/22-pseudokapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Pseudokapsel“ dient hier als anatomischer Orientierungspunkt. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 20,
+      "label": "Strumaknoten mit zystischer Degeneration und Pseudokapsel",
+      "exercise_image": "pruefung/20-strumaknoten-mit-zystischer-degeneration-und-pseudokapsel.jpg",
+      "rationale": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund.",
+      "didactic_note": "Strumaknoten mit zystischer Degeneration und Pseudokapsel als Hauptbefund. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    },
+    {
+      "annotation_id": 21,
+      "label": "Zyste",
+      "exercise_image": "pruefung/21-zyste.jpg",
+      "rationale": "Zystische Degeneration in einem ergänzenden Detail.",
+      "didactic_note": "Zystische Degeneration in einem ergänzenden Detail. Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+    }
+  ],
+  "didactic_context": "Die Struma colloides nodosa besitzt unterschiedlich große, kolloidgefüllte Follikel in umschriebenen Knoten; Zysten, Einblutungen, Fibrose und eine Pseudokapsel sind typische Sekundärveränderungen."
+}

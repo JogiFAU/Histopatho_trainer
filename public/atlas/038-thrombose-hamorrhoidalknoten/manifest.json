@@ -1,0 +1,327 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "038",
+    "name": "Thrombose (Hämorrhoidalknoten)",
+    "organ": "Gefäßsystem",
+    "diagnosis": "Thrombose",
+    "description": [
+      "verhornendes Plattenepithel;",
+      "pigmentierte Haut (Melanin aufnehmende basale Zellschicht);",
+      "ektatischer gestauter Venenplexus mit",
+      "vielen thrombosierten venösen Gefäßen (Parietalthromben);"
+    ],
+    "slide_id": "04dfaebb-aab4-47f1-9e3c-9f4afe6ebd6b",
+    "slide_path": "Histopathologie 5. Semester/slides/038 - Thrombose (Hämorrhoidalknoten).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=04dfaebb-aab4-47f1-9e3c-9f4afe6ebd6b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3264,
+    "height": 3456,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "beginnende Thrombosierung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13476,
+            "y": 25756
+          },
+          {
+            "x": 16642,
+            "y": 28316
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15059,
+        "y": 27036
+      },
+      "crop": {
+        "left": 14080,
+        "top": 26368,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 979,
+        "y": 668
+      },
+      "atlas_image": "atlas/05-beginnende-thrombosierung-annotiert.jpg",
+      "exercise_image": "pruefung/05-beginnende-thrombosierung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Beginnende Thrombosierung als ergänzendes frühes Stadium.",
+      "didactic_note": "Beginnende Thrombosierung als ergänzendes frühes Stadium. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 7,
+      "label": "Thrombus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 7400,
+            "y": 34512
+          },
+          {
+            "x": 12562,
+            "y": 40398
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9981.0,
+        "y": 37455
+      },
+      "crop": {
+        "left": 8960,
+        "top": 36864,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1021.0,
+        "y": 591
+      },
+      "atlas_image": "atlas/07-thrombus-annotiert.jpg",
+      "exercise_image": "pruefung/07-thrombus.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Ausgebildeter Thrombus als diagnostischer Hauptbefund.",
+      "didactic_note": "Ausgebildeter Thrombus als diagnostischer Hauptbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 9,
+      "label": "Linie #9",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 52224,
+            "y": 24848
+          },
+          {
+            "x": 52224,
+            "y": 26568
+          }
+        ]
+      },
+      "anchor": {
+        "x": 52224,
+        "y": 26568
+      },
+      "crop": {
+        "left": 50688,
+        "top": 25856,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 712
+      },
+      "atlas_image": "atlas/09-linie-9-annotiert.jpg",
+      "exercise_image": "pruefung/09-linie-9.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Linie #9“ als morphologischen Teilbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 10,
+      "label": "verhornendes Plattenepithel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 52224,
+            "y": 22068
+          },
+          {
+            "x": 52224,
+            "y": 22069
+          }
+        ]
+      },
+      "anchor": {
+        "x": 52224,
+        "y": 22069.0
+      },
+      "crop": {
+        "left": 50688,
+        "top": 21504,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 565.0
+      },
+      "atlas_image": "atlas/10-verhornendes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/10-verhornendes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 11,
+      "label": "Melaninhaltige basale Zellschicht",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 47323,
+            "y": 8044
+          },
+          {
+            "x": 45504,
+            "y": 9158
+          },
+          {
+            "x": 45504,
+            "y": 9158
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45504,
+        "y": 9158
+      },
+      "crop": {
+        "left": 44544,
+        "top": 8448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 960,
+        "y": 710
+      },
+      "atlas_image": "atlas/11-melaninhaltige-basale-zellschicht-annotiert.jpg",
+      "exercise_image": "pruefung/11-melaninhaltige-basale-zellschicht.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Melaninhaltige basale Zellschicht“ als morphologischen Teilbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 12,
+      "label": "ektatischer Venenplexus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20159,
+            "y": 29264
+          },
+          {
+            "x": 33289,
+            "y": 42810
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26724.0,
+        "y": 36037
+      },
+      "crop": {
+        "left": 25856,
+        "top": 35328,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 868.0,
+        "y": 709
+      },
+      "atlas_image": "atlas/12-ektatischer-venenplexus-annotiert.jpg",
+      "exercise_image": "pruefung/12-ektatischer-venenplexus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „ektatischer Venenplexus“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "id": 14,
+      "label": "verhornendes Plattenepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45082,
+            "y": 9405
+          },
+          {
+            "x": 47049,
+            "y": 10828
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46065.5,
+        "y": 10116.5
+      },
+      "crop": {
+        "left": 45056,
+        "top": 9472,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1009.5,
+        "y": 644.5
+      },
+      "atlas_image": "atlas/14-verhornendes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/14-verhornendes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 7,
+      "label": "Thrombus",
+      "exercise_image": "pruefung/07-thrombus.jpg",
+      "rationale": "Ausgebildeter Thrombus als diagnostischer Hauptbefund.",
+      "didactic_note": "Ausgebildeter Thrombus als diagnostischer Hauptbefund. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    },
+    {
+      "annotation_id": 5,
+      "label": "beginnende Thrombosierung",
+      "exercise_image": "pruefung/05-beginnende-thrombosierung.jpg",
+      "rationale": "Beginnende Thrombosierung als ergänzendes frühes Stadium.",
+      "didactic_note": "Beginnende Thrombosierung als ergänzendes frühes Stadium. Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+    }
+  ],
+  "didactic_context": "Ein Thrombus besteht aus intravaskulärem Fibrin, Thrombozyten und eingeschlossenen Blutzellen und haftet an der Gefäßwand; Organisation und Rekanalisation kennzeichnen ältere Stadien."
+}

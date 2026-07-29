@@ -1,0 +1,1065 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "086",
+    "name": "Adeno-Ca des Kolon - Fall 2",
+    "organ": "Kolon",
+    "diagnosis": "Adenokarzinom",
+    "description": [
+      "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "Appendix Epiploicae;",
+      "Plexus Myentericus;",
+      "Colonadenom als Vorstufe (siehe #73);",
+      "invasives Wachstum der maligne entarteten Drüsen;",
+      "Serosadurchbruch, damit pT4;",
+      "schwere Dysplasie:",
+      "- viele Mitosen",
+      "- große, hyperchromatische Zellkerne;",
+      "- deutliche Nucleoli;",
+      "- mehrreihiges Epithel der Drüsen;",
+      "- Verlust der Zellpolarität (Zellkerne nicht mehr basal);",
+      "Nekrosen;",
+      "lymphozytäre Begleitentzündung;"
+    ],
+    "slide_id": "30d61db7-5192-495a-8e4d-cf7de207ed05",
+    "slide_path": "Histopathologie 5. Semester/slides/086 - Adeno-Ca des Kolon - Fall 2.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=30d61db7-5192-495a-8e4d-cf7de207ed05&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2976,
+    "height": 3848,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Nekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 68880,
+            "y": 74384
+          },
+          {
+            "x": 70219,
+            "y": 75208
+          }
+        ]
+      },
+      "anchor": {
+        "x": 69549.5,
+        "y": 74796
+      },
+      "crop": {
+        "left": 68608,
+        "top": 74240,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 941.5,
+        "y": 556
+      },
+      "atlas_image": "atlas/03-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/03-nekrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 5,
+      "label": "Plexus Myentericus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 64816,
+            "y": 18024
+          },
+          {
+            "x": 66646,
+            "y": 19409
+          }
+        ]
+      },
+      "anchor": {
+        "x": 65731,
+        "y": 18716.5
+      },
+      "crop": {
+        "left": 64768,
+        "top": 18176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 963,
+        "y": 540.5
+      },
+      "atlas_image": "atlas/05-plexus-myentericus-annotiert.jpg",
+      "exercise_image": "pruefung/05-plexus-myentericus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Plexus Myentericus“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 7,
+      "label": "Stratum circulare",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 64256,
+            "y": 11936
+          },
+          {
+            "x": 71057,
+            "y": 17467
+          }
+        ]
+      },
+      "anchor": {
+        "x": 67656.5,
+        "y": 14701.5
+      },
+      "crop": {
+        "left": 66816,
+        "top": 14080,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 840.5,
+        "y": 621.5
+      },
+      "atlas_image": "atlas/07-stratum-circulare-annotiert.jpg",
+      "exercise_image": "pruefung/07-stratum-circulare.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 9,
+      "label": "Stratum longitudinale",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 60880,
+            "y": 32016
+          },
+          {
+            "x": 64736,
+            "y": 35658
+          }
+        ]
+      },
+      "anchor": {
+        "x": 62808,
+        "y": 33837
+      },
+      "crop": {
+        "left": 61952,
+        "top": 33280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 856,
+        "y": 557
+      },
+      "atlas_image": "atlas/09-stratum-longitudinale-annotiert.jpg",
+      "exercise_image": "pruefung/09-stratum-longitudinale.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 11,
+      "label": "Durchbruch durch Stratum longitudinale",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36896,
+            "y": 54688
+          },
+          {
+            "x": 50400,
+            "y": 67808
+          }
+        ]
+      },
+      "anchor": {
+        "x": 43648.0,
+        "y": 61248
+      },
+      "crop": {
+        "left": 42752,
+        "top": 60672,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 896.0,
+        "y": 576
+      },
+      "atlas_image": "atlas/11-durchbruch-durch-stratum-longitudinale-annotiert.jpg",
+      "exercise_image": "pruefung/11-durchbruch-durch-stratum-longitudinale.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Durchbruch durch Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 13,
+      "label": "invasives Wachstum",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26192,
+            "y": 65392
+          },
+          {
+            "x": 34264,
+            "y": 71016
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30228.0,
+        "y": 68204
+      },
+      "crop": {
+        "left": 29440,
+        "top": 67584,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 788.0,
+        "y": 620
+      },
+      "atlas_image": "atlas/13-invasives-wachstum-annotiert.jpg",
+      "exercise_image": "pruefung/13-invasives-wachstum.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms.",
+      "didactic_note": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 17,
+      "label": "Appendix Epiploicae",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24897,
+            "y": 10875
+          },
+          {
+            "x": 24401,
+            "y": 11427
+          },
+          {
+            "x": 24069,
+            "y": 11979
+          },
+          {
+            "x": 23517,
+            "y": 12531
+          },
+          {
+            "x": 22910,
+            "y": 13194
+          },
+          {
+            "x": 22413,
+            "y": 13691
+          },
+          {
+            "x": 22027,
+            "y": 14132
+          },
+          {
+            "x": 21585,
+            "y": 14574
+          },
+          {
+            "x": 21199,
+            "y": 15016
+          },
+          {
+            "x": 20757,
+            "y": 15457
+          },
+          {
+            "x": 20260,
+            "y": 16064
+          },
+          {
+            "x": 19763,
+            "y": 16506
+          },
+          {
+            "x": 19322,
+            "y": 17058
+          },
+          {
+            "x": 18880,
+            "y": 17721
+          },
+          {
+            "x": 18604,
+            "y": 18218
+          },
+          {
+            "x": 18273,
+            "y": 18714
+          },
+          {
+            "x": 17886,
+            "y": 19322
+          },
+          {
+            "x": 17500,
+            "y": 19929
+          },
+          {
+            "x": 17113,
+            "y": 20647
+          },
+          {
+            "x": 16893,
+            "y": 21309
+          },
+          {
+            "x": 16672,
+            "y": 22027
+          },
+          {
+            "x": 16506,
+            "y": 22800
+          },
+          {
+            "x": 16396,
+            "y": 23352
+          },
+          {
+            "x": 16396,
+            "y": 24125
+          },
+          {
+            "x": 16396,
+            "y": 24897
+          },
+          {
+            "x": 16396,
+            "y": 25560
+          },
+          {
+            "x": 16396,
+            "y": 26333
+          },
+          {
+            "x": 16617,
+            "y": 26885
+          },
+          {
+            "x": 16782,
+            "y": 27437
+          },
+          {
+            "x": 16893,
+            "y": 28044
+          },
+          {
+            "x": 17113,
+            "y": 28651
+          },
+          {
+            "x": 17334,
+            "y": 29369
+          },
+          {
+            "x": 17610,
+            "y": 29921
+          },
+          {
+            "x": 17886,
+            "y": 30584
+          },
+          {
+            "x": 18107,
+            "y": 31136
+          },
+          {
+            "x": 18438,
+            "y": 31853
+          },
+          {
+            "x": 18714,
+            "y": 32350
+          },
+          {
+            "x": 19101,
+            "y": 32958
+          },
+          {
+            "x": 19377,
+            "y": 33675
+          },
+          {
+            "x": 19653,
+            "y": 34283
+          },
+          {
+            "x": 19929,
+            "y": 34835
+          },
+          {
+            "x": 20260,
+            "y": 35387
+          },
+          {
+            "x": 20757,
+            "y": 36104
+          },
+          {
+            "x": 21033,
+            "y": 36601
+          },
+          {
+            "x": 21309,
+            "y": 37098
+          },
+          {
+            "x": 21640,
+            "y": 37650
+          },
+          {
+            "x": 21972,
+            "y": 38147
+          },
+          {
+            "x": 22248,
+            "y": 38644
+          },
+          {
+            "x": 22524,
+            "y": 39196
+          },
+          {
+            "x": 22910,
+            "y": 39858
+          },
+          {
+            "x": 23241,
+            "y": 40521
+          },
+          {
+            "x": 23628,
+            "y": 41073
+          },
+          {
+            "x": 24125,
+            "y": 41515
+          },
+          {
+            "x": 24621,
+            "y": 41956
+          },
+          {
+            "x": 25174,
+            "y": 42287
+          },
+          {
+            "x": 25726,
+            "y": 42563
+          },
+          {
+            "x": 26333,
+            "y": 42839
+          },
+          {
+            "x": 26885,
+            "y": 42950
+          },
+          {
+            "x": 27547,
+            "y": 42950
+          },
+          {
+            "x": 28099,
+            "y": 42895
+          },
+          {
+            "x": 28762,
+            "y": 42674
+          },
+          {
+            "x": 29424,
+            "y": 42508
+          },
+          {
+            "x": 30032,
+            "y": 42232
+          },
+          {
+            "x": 30639,
+            "y": 42011
+          },
+          {
+            "x": 31191,
+            "y": 41735
+          },
+          {
+            "x": 31909,
+            "y": 41459
+          },
+          {
+            "x": 32626,
+            "y": 41349
+          },
+          {
+            "x": 33178,
+            "y": 41183
+          },
+          {
+            "x": 33730,
+            "y": 41018
+          },
+          {
+            "x": 34283,
+            "y": 40797
+          },
+          {
+            "x": 34835,
+            "y": 40631
+          },
+          {
+            "x": 35387,
+            "y": 40576
+          },
+          {
+            "x": 36104,
+            "y": 40410
+          },
+          {
+            "x": 36767,
+            "y": 40245
+          },
+          {
+            "x": 37319,
+            "y": 40079
+          },
+          {
+            "x": 37926,
+            "y": 40079
+          },
+          {
+            "x": 38533,
+            "y": 39969
+          },
+          {
+            "x": 39251,
+            "y": 39803
+          },
+          {
+            "x": 39803,
+            "y": 39693
+          },
+          {
+            "x": 40355,
+            "y": 39527
+          },
+          {
+            "x": 40962,
+            "y": 39196
+          },
+          {
+            "x": 41515,
+            "y": 38920
+          },
+          {
+            "x": 42287,
+            "y": 38589
+          },
+          {
+            "x": 42950,
+            "y": 38368
+          },
+          {
+            "x": 43557,
+            "y": 38257
+          },
+          {
+            "x": 44164,
+            "y": 38037
+          },
+          {
+            "x": 44772,
+            "y": 37705
+          },
+          {
+            "x": 45269,
+            "y": 37319
+          },
+          {
+            "x": 45710,
+            "y": 36932
+          },
+          {
+            "x": 46262,
+            "y": 36601
+          },
+          {
+            "x": 46649,
+            "y": 36104
+          },
+          {
+            "x": 47090,
+            "y": 35663
+          },
+          {
+            "x": 47587,
+            "y": 35166
+          },
+          {
+            "x": 47918,
+            "y": 34669
+          },
+          {
+            "x": 48305,
+            "y": 34062
+          },
+          {
+            "x": 48581,
+            "y": 33454
+          },
+          {
+            "x": 48857,
+            "y": 32902
+          },
+          {
+            "x": 49023,
+            "y": 32240
+          },
+          {
+            "x": 49188,
+            "y": 31522
+          },
+          {
+            "x": 49188,
+            "y": 30694
+          },
+          {
+            "x": 49188,
+            "y": 30087
+          },
+          {
+            "x": 49133,
+            "y": 29369
+          },
+          {
+            "x": 49023,
+            "y": 28762
+          },
+          {
+            "x": 48857,
+            "y": 28155
+          },
+          {
+            "x": 48691,
+            "y": 27382
+          },
+          {
+            "x": 48581,
+            "y": 26774
+          },
+          {
+            "x": 48526,
+            "y": 26167
+          },
+          {
+            "x": 48526,
+            "y": 25560
+          },
+          {
+            "x": 48470,
+            "y": 25008
+          },
+          {
+            "x": 48360,
+            "y": 24456
+          },
+          {
+            "x": 48305,
+            "y": 23904
+          },
+          {
+            "x": 48305,
+            "y": 23296
+          },
+          {
+            "x": 48250,
+            "y": 22579
+          },
+          {
+            "x": 48139,
+            "y": 21861
+          },
+          {
+            "x": 47918,
+            "y": 21088
+          },
+          {
+            "x": 47698,
+            "y": 20371
+          },
+          {
+            "x": 47532,
+            "y": 19653
+          },
+          {
+            "x": 47532,
+            "y": 18935
+          },
+          {
+            "x": 47477,
+            "y": 18273
+          },
+          {
+            "x": 47366,
+            "y": 17610
+          },
+          {
+            "x": 47201,
+            "y": 17058
+          },
+          {
+            "x": 47090,
+            "y": 16506
+          },
+          {
+            "x": 46980,
+            "y": 15899
+          },
+          {
+            "x": 46759,
+            "y": 15071
+          },
+          {
+            "x": 46649,
+            "y": 14519
+          },
+          {
+            "x": 46428,
+            "y": 13856
+          },
+          {
+            "x": 46262,
+            "y": 13249
+          },
+          {
+            "x": 45986,
+            "y": 12642
+          },
+          {
+            "x": 45710,
+            "y": 12090
+          },
+          {
+            "x": 45545,
+            "y": 11538
+          },
+          {
+            "x": 45434,
+            "y": 10986
+          },
+          {
+            "x": 45269,
+            "y": 10323
+          },
+          {
+            "x": 45213,
+            "y": 9716
+          },
+          {
+            "x": 45158,
+            "y": 9164
+          },
+          {
+            "x": 45158,
+            "y": 8336
+          },
+          {
+            "x": 45103,
+            "y": 7728
+          },
+          {
+            "x": 44937,
+            "y": 7176
+          },
+          {
+            "x": 44882,
+            "y": 6624
+          },
+          {
+            "x": 44772,
+            "y": 6017
+          },
+          {
+            "x": 44606,
+            "y": 5354
+          },
+          {
+            "x": 44330,
+            "y": 4802
+          },
+          {
+            "x": 43999,
+            "y": 4250
+          },
+          {
+            "x": 43668,
+            "y": 3698
+          },
+          {
+            "x": 43336,
+            "y": 3036
+          },
+          {
+            "x": 42895,
+            "y": 2429
+          },
+          {
+            "x": 42453,
+            "y": 1987
+          },
+          {
+            "x": 41791,
+            "y": 1766
+          },
+          {
+            "x": 41073,
+            "y": 1600
+          },
+          {
+            "x": 40300,
+            "y": 1600
+          },
+          {
+            "x": 39748,
+            "y": 1766
+          },
+          {
+            "x": 39141,
+            "y": 2042
+          },
+          {
+            "x": 38423,
+            "y": 2429
+          },
+          {
+            "x": 37705,
+            "y": 2815
+          },
+          {
+            "x": 37098,
+            "y": 3257
+          },
+          {
+            "x": 36325,
+            "y": 3809
+          },
+          {
+            "x": 35828,
+            "y": 4195
+          },
+          {
+            "x": 35000,
+            "y": 4747
+          },
+          {
+            "x": 34338,
+            "y": 5189
+          },
+          {
+            "x": 33730,
+            "y": 5575
+          },
+          {
+            "x": 33123,
+            "y": 5962
+          },
+          {
+            "x": 32626,
+            "y": 6293
+          },
+          {
+            "x": 32129,
+            "y": 6569
+          },
+          {
+            "x": 31577,
+            "y": 6900
+          },
+          {
+            "x": 31025,
+            "y": 7232
+          },
+          {
+            "x": 30363,
+            "y": 7508
+          },
+          {
+            "x": 29811,
+            "y": 7728
+          },
+          {
+            "x": 29259,
+            "y": 8004
+          },
+          {
+            "x": 28320,
+            "y": 8391
+          },
+          {
+            "x": 27768,
+            "y": 8612
+          },
+          {
+            "x": 27216,
+            "y": 8998
+          },
+          {
+            "x": 26719,
+            "y": 9329
+          },
+          {
+            "x": 26222,
+            "y": 9716
+          },
+          {
+            "x": 25726,
+            "y": 10102
+          },
+          {
+            "x": 24842,
+            "y": 10930
+          },
+          {
+            "x": 24842,
+            "y": 10930
+          },
+          {
+            "x": 24897,
+            "y": 10875
+          }
+        ]
+      },
+      "anchor": {
+        "x": 33924.14,
+        "y": 23493.34
+      },
+      "crop": {
+        "left": 33024,
+        "top": 22784,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 900.14,
+        "y": 709.34
+      },
+      "atlas_image": "atlas/17-appendix-epiploicae-annotiert.jpg",
+      "exercise_image": "pruefung/17-appendix-epiploicae.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Appendix Epiploicae“ als morphologischen Teilbefund. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "id": 18,
+      "label": "Serosadurchbruch",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 42168,
+            "y": 38301
+          },
+          {
+            "x": 43701,
+            "y": 39313
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42934.5,
+        "y": 38807.0
+      },
+      "crop": {
+        "left": 41984,
+        "top": 38144,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 950.5,
+        "y": 663.0
+      },
+      "atlas_image": "atlas/18-serosadurchbruch-annotiert.jpg",
+      "exercise_image": "pruefung/18-serosadurchbruch.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion.",
+      "didactic_note": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 13,
+      "label": "invasives Wachstum",
+      "exercise_image": "pruefung/13-invasives-wachstum.jpg",
+      "rationale": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms.",
+      "didactic_note": "Invasives Wachstum als diagnostischer Hauptbefund des Kolonkarzinoms. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    },
+    {
+      "annotation_id": 18,
+      "label": "Serosadurchbruch",
+      "exercise_image": "pruefung/18-serosadurchbruch.jpg",
+      "rationale": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion.",
+      "didactic_note": "Serosadurchbruch als Zeichen fortgeschrittener lokaler Invasion. Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+    }
+  ],
+  "didactic_context": "Das fortgeschrittene Kolonadenokarzinom infiltriert desmoplastisch durch die Muskularis bis an beziehungsweise durch die Serosa; der Serosadurchbruch entspricht einem hohen lokalen Tumorstadium."
+}

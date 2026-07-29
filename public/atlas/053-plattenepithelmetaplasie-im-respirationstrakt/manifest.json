@@ -1,0 +1,673 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "053",
+    "name": "Plattenepithelmetaplasie im Respirationstrakt",
+    "organ": "Respirationstrakt",
+    "diagnosis": "Plattenepithelmetaplasie",
+    "description": [
+      "Knorpelspangen;",
+      "Flimmerepithel; Trachealmuskulatur; Trachealdrüsen;",
+      "Übergang von Flimmer- zu Plattenepithel;"
+    ],
+    "slide_id": "3c49ac59-119b-42cd-9b26-6b100452c26b",
+    "slide_path": "Histopathologie 5. Semester/slides/053 - Plattenepithelmetaplasie im Respirationstrakt.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3c49ac59-119b-42cd-9b26-6b100452c26b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Flimmerepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36745.31,
+            "y": 19729.79
+          },
+          {
+            "x": 38413.78,
+            "y": 21818.86
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37579.55,
+        "y": 20774.32
+      },
+      "crop": {
+        "left": 36608,
+        "top": 20224,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 971.55,
+        "y": 550.32
+      },
+      "atlas_image": "atlas/03-flimmerepithel-annotiert.jpg",
+      "exercise_image": "pruefung/03-flimmerepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Flimmerepithel“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    },
+    {
+      "id": 15,
+      "label": "Übergang von Flimmerepithel zur Metaplasie",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43982.18,
+            "y": 20808.07
+          },
+          {
+            "x": 46197.2,
+            "y": 19415.35
+          },
+          {
+            "x": 49705.33,
+            "y": 23339.16
+          },
+          {
+            "x": 49205.7,
+            "y": 26247.25
+          },
+          {
+            "x": 44766.61,
+            "y": 22423.86
+          },
+          {
+            "x": 43997,
+            "y": 20815.48
+          },
+          {
+            "x": 43997,
+            "y": 20815.48
+          },
+          {
+            "x": 43982.18,
+            "y": 20808.07
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45976.6,
+        "y": 21979.61
+      },
+      "crop": {
+        "left": 45056,
+        "top": 21248,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 920.6,
+        "y": 731.61
+      },
+      "atlas_image": "atlas/15-ubergang-von-flimmerepithel-zur-metaplasie-annotiert.jpg",
+      "exercise_image": "pruefung/15-ubergang-von-flimmerepithel-zur-metaplasie.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund.",
+      "didactic_note": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    },
+    {
+      "id": 16,
+      "label": "Glandulae tracheales",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36425.12,
+            "y": 5915.37
+          },
+          {
+            "x": 41611.6,
+            "y": 11089.5
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39018.36,
+        "y": 8502.43
+      },
+      "crop": {
+        "left": 38144,
+        "top": 7936,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 874.36,
+        "y": 566.43
+      },
+      "atlas_image": "atlas/16-glandulae-tracheales-annotiert.jpg",
+      "exercise_image": "pruefung/16-glandulae-tracheales.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Glandulae tracheales“ als morphologischen Teilbefund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    },
+    {
+      "id": 17,
+      "label": "Knorpelspange",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 44141.87,
+            "y": 5679.96
+          },
+          {
+            "x": 43957.49,
+            "y": 6048.71
+          },
+          {
+            "x": 43773.11,
+            "y": 6379.61
+          },
+          {
+            "x": 43662.81,
+            "y": 6747.54
+          },
+          {
+            "x": 43552.51,
+            "y": 7152.52
+          },
+          {
+            "x": 43552.51,
+            "y": 7557.49
+          },
+          {
+            "x": 43589.55,
+            "y": 7962.47
+          },
+          {
+            "x": 43736.89,
+            "y": 8331.22
+          },
+          {
+            "x": 43920.45,
+            "y": 8699.16
+          },
+          {
+            "x": 44141.87,
+            "y": 9030.05
+          },
+          {
+            "x": 44399.5,
+            "y": 9324.73
+          },
+          {
+            "x": 44657.14,
+            "y": 9656.45
+          },
+          {
+            "x": 44988.03,
+            "y": 9877.04
+          },
+          {
+            "x": 45282.71,
+            "y": 10134.68
+          },
+          {
+            "x": 45504.13,
+            "y": 10502.61
+          },
+          {
+            "x": 45761.77,
+            "y": 10797.29
+          },
+          {
+            "x": 46019.4,
+            "y": 11091.97
+          },
+          {
+            "x": 46313.26,
+            "y": 11459.9
+          },
+          {
+            "x": 46534.68,
+            "y": 11791.62
+          },
+          {
+            "x": 46792.31,
+            "y": 12122.51
+          },
+          {
+            "x": 47012.91,
+            "y": 12490.45
+          },
+          {
+            "x": 47270.54,
+            "y": 12822.17
+          },
+          {
+            "x": 47565.22,
+            "y": 13116.84
+          },
+          {
+            "x": 47933.16,
+            "y": 13374.48
+          },
+          {
+            "x": 48227.83,
+            "y": 13632.12
+          },
+          {
+            "x": 48559.55,
+            "y": 13816.49
+          },
+          {
+            "x": 48890.44,
+            "y": 14074.13
+          },
+          {
+            "x": 49185.12,
+            "y": 14331.77
+          },
+          {
+            "x": 49442.76,
+            "y": 14625.62
+          },
+          {
+            "x": 49663.35,
+            "y": 14957.34
+          },
+          {
+            "x": 49958.03,
+            "y": 15362.31
+          },
+          {
+            "x": 50215.67,
+            "y": 15656.99
+          },
+          {
+            "x": 50510.34,
+            "y": 15914.63
+          },
+          {
+            "x": 50952.36,
+            "y": 16282.56
+          },
+          {
+            "x": 51247.04,
+            "y": 16577.24
+          },
+          {
+            "x": 51540.89,
+            "y": 16871.91
+          },
+          {
+            "x": 51835.57,
+            "y": 17165.77
+          },
+          {
+            "x": 52093.2,
+            "y": 17460.44
+          },
+          {
+            "x": 52424.92,
+            "y": 17681.86
+          },
+          {
+            "x": 52792.85,
+            "y": 17939.5
+          },
+          {
+            "x": 53123.75,
+            "y": 18123.06
+          },
+          {
+            "x": 53492.51,
+            "y": 18417.73
+          },
+          {
+            "x": 53823.4,
+            "y": 18638.33
+          },
+          {
+            "x": 54155.12,
+            "y": 18822.71
+          },
+          {
+            "x": 54486.01,
+            "y": 19043.3
+          },
+          {
+            "x": 54928.03,
+            "y": 19300.94
+          },
+          {
+            "x": 55295.96,
+            "y": 19485.32
+          },
+          {
+            "x": 55663.9,
+            "y": 19669.7
+          },
+          {
+            "x": 56032.65,
+            "y": 19780
+          },
+          {
+            "x": 56400.59,
+            "y": 19817.04
+          },
+          {
+            "x": 56768.52,
+            "y": 19705.91
+          },
+          {
+            "x": 57100.24,
+            "y": 19485.32
+          },
+          {
+            "x": 57394.92,
+            "y": 19154.42
+          },
+          {
+            "x": 57578.47,
+            "y": 18785.67
+          },
+          {
+            "x": 57615.51,
+            "y": 18417.73
+          },
+          {
+            "x": 57541.43,
+            "y": 18012.76
+          },
+          {
+            "x": 57431.13,
+            "y": 17644.82
+          },
+          {
+            "x": 57247.58,
+            "y": 17239.85
+          },
+          {
+            "x": 57100.24,
+            "y": 16871.91
+          },
+          {
+            "x": 56878.82,
+            "y": 16503.16
+          },
+          {
+            "x": 56695.26,
+            "y": 16172.26
+          },
+          {
+            "x": 56437.63,
+            "y": 15840.55
+          },
+          {
+            "x": 56179.99,
+            "y": 15509.65
+          },
+          {
+            "x": 55958.57,
+            "y": 15177.93
+          },
+          {
+            "x": 55700.94,
+            "y": 14884.08
+          },
+          {
+            "x": 55480.34,
+            "y": 14552.36
+          },
+          {
+            "x": 55148.62,
+            "y": 14221.47
+          },
+          {
+            "x": 54817.73,
+            "y": 13852.71
+          },
+          {
+            "x": 54338.67,
+            "y": 13300.4
+          },
+          {
+            "x": 54044.82,
+            "y": 12895.42
+          },
+          {
+            "x": 53787.18,
+            "y": 12564.53
+          },
+          {
+            "x": 53528.72,
+            "y": 12232.81
+          },
+          {
+            "x": 53234.87,
+            "y": 11938.96
+          },
+          {
+            "x": 52903.15,
+            "y": 11644.28
+          },
+          {
+            "x": 52572.26,
+            "y": 11349.6
+          },
+          {
+            "x": 52277.58,
+            "y": 11054.93
+          },
+          {
+            "x": 51909.65,
+            "y": 10686.99
+          },
+          {
+            "x": 51651.19,
+            "y": 10392.32
+          },
+          {
+            "x": 51357.33,
+            "y": 10061.42
+          },
+          {
+            "x": 51062.66,
+            "y": 9766.75
+          },
+          {
+            "x": 50805.02,
+            "y": 9472.07
+          },
+          {
+            "x": 50547.38,
+            "y": 9177.39
+          },
+          {
+            "x": 50289.75,
+            "y": 8882.71
+          },
+          {
+            "x": 50032.11,
+            "y": 8588.86
+          },
+          {
+            "x": 49774.47,
+            "y": 8294.18
+          },
+          {
+            "x": 49405.72,
+            "y": 7962.47
+          },
+          {
+            "x": 49111.86,
+            "y": 7631.57
+          },
+          {
+            "x": 48817.19,
+            "y": 7336.9
+          },
+          {
+            "x": 48485.47,
+            "y": 7152.52
+          },
+          {
+            "x": 48117.53,
+            "y": 6968.96
+          },
+          {
+            "x": 47785.82,
+            "y": 6784.58
+          },
+          {
+            "x": 47454.92,
+            "y": 6563.99
+          },
+          {
+            "x": 47123.21,
+            "y": 6379.61
+          },
+          {
+            "x": 46792.31,
+            "y": 6196.05
+          },
+          {
+            "x": 46424.38,
+            "y": 6084.93
+          },
+          {
+            "x": 46092.66,
+            "y": 5864.34
+          },
+          {
+            "x": 45687.69,
+            "y": 5679.96
+          },
+          {
+            "x": 45319.75,
+            "y": 5533.44
+          },
+          {
+            "x": 44914.78,
+            "y": 5459.36
+          },
+          {
+            "x": 44435.72,
+            "y": 5459.36
+          },
+          {
+            "x": 44067.79,
+            "y": 5791.08
+          },
+          {
+            "x": 44067.79,
+            "y": 5791.08
+          },
+          {
+            "x": 44141.87,
+            "y": 5679.96
+          }
+        ]
+      },
+      "anchor": {
+        "x": 50356.64,
+        "y": 12435.94
+      },
+      "crop": {
+        "left": 49408,
+        "top": 11776,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 948.64,
+        "y": 659.94
+      },
+      "atlas_image": "atlas/17-knorpelspange-annotiert.jpg",
+      "exercise_image": "pruefung/17-knorpelspange.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Knorpelspange“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    },
+    {
+      "id": 18,
+      "label": "Trachealmuskulatur",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 53905.71,
+            "y": 26978.18
+          },
+          {
+            "x": 48445.96,
+            "y": 17194.58
+          },
+          {
+            "x": 48445.96,
+            "y": 17194.58
+          }
+        ]
+      },
+      "anchor": {
+        "x": 48445.96,
+        "y": 17194.58
+      },
+      "crop": {
+        "left": 47616,
+        "top": 16640,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 829.96,
+        "y": 554.58
+      },
+      "atlas_image": "atlas/18-trachealmuskulatur-annotiert.jpg",
+      "exercise_image": "pruefung/18-trachealmuskulatur.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Trachealmuskulatur“ dient hier als anatomischer Orientierungspunkt. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 15,
+      "label": "Übergang von Flimmerepithel zur Metaplasie",
+      "exercise_image": "pruefung/15-ubergang-von-flimmerepithel-zur-metaplasie.jpg",
+      "rationale": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund.",
+      "didactic_note": "Übergang vom Flimmerepithel zur Plattenepithelmetaplasie als definierender Befund. Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+    }
+  ],
+  "didactic_context": "Bei der Plattenepithelmetaplasie wird respiratorisches Flimmerepithel durch reifes Plattenepithel ersetzt; erhaltene Ausreifung und fehlende Atypie grenzen sie von einer Dysplasie ab."
+}

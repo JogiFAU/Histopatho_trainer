@@ -1,0 +1,294 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "004",
+    "name": "Granulationsgewebe",
+    "organ": "periarticuläres Weichgewebe",
+    "diagnosis": "Granulationsgewebe",
+    "description": [
+      "quergestreifte Muskulatur;",
+      "hämorrhagischer Randsaum (durch defekte Gefäße);",
+      "einwandernde Granulozyten & Makrophagen (resorbieren abgestorbenes Gewebe);",
+      "einsprießende Kapillare;",
+      "Fibroblasten (bilden bindegewebige Narbe);",
+      "unten: fortgeschrittenes Granulationsgewebe mit zurückgebildeten Kapillaren;",
+      "Narbengewebe (siehe #5)"
+    ],
+    "slide_id": "2950688c-47f6-45b8-8f1e-492af3f87aed",
+    "slide_path": "Histopathologie 5. Semester/slides/004 - Granulationsgewebe.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2950688c-47f6-45b8-8f1e-492af3f87aed&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4368,
+    "height": 4896,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "beginnende Vernarbung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 49632,
+            "y": 35056
+          },
+          {
+            "x": 53237,
+            "y": 37924
+          }
+        ]
+      },
+      "anchor": {
+        "x": 51434.5,
+        "y": 36490
+      },
+      "crop": {
+        "left": 50432,
+        "top": 35840,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1002.5,
+        "y": 650
+      },
+      "atlas_image": "atlas/01-beginnende-vernarbung-annotiert.jpg",
+      "exercise_image": "pruefung/01-beginnende-vernarbung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „beginnende Vernarbung“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "id": 5,
+      "label": "Skelettmuskulatur",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 34496,
+            "y": 59520
+          },
+          {
+            "x": 37062,
+            "y": 61693
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35779,
+        "y": 60606.5
+      },
+      "crop": {
+        "left": 34816,
+        "top": 59904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 963,
+        "y": 702.5
+      },
+      "atlas_image": "atlas/05-skelettmuskulatur-annotiert.jpg",
+      "exercise_image": "pruefung/05-skelettmuskulatur.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Skelettmuskulatur“ dient hier als anatomischer Orientierungspunkt. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "id": 7,
+      "label": "Einblutung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23440,
+            "y": 53280
+          },
+          {
+            "x": 29411,
+            "y": 58728
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26425.5,
+        "y": 56004
+      },
+      "crop": {
+        "left": 25600,
+        "top": 55296,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 825.5,
+        "y": 708
+      },
+      "atlas_image": "atlas/07-einblutung-annotiert.jpg",
+      "exercise_image": "pruefung/07-einblutung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Einblutung“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "id": 9,
+      "label": "Gefäßeinsprossung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 27000,
+            "y": 10000
+          },
+          {
+            "x": 30532,
+            "y": 13363
+          }
+        ]
+      },
+      "anchor": {
+        "x": 28766.0,
+        "y": 11681.5
+      },
+      "crop": {
+        "left": 27904,
+        "top": 11008,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 862.0,
+        "y": 673.5
+      },
+      "atlas_image": "atlas/09-gefasseinsprossung-annotiert.jpg",
+      "exercise_image": "pruefung/09-gefasseinsprossung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe.",
+      "didactic_note": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "id": 13,
+      "label": "granulozytäres Infiltrat",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40488,
+            "y": 18901
+          },
+          {
+            "x": 35038,
+            "y": 15392
+          },
+          {
+            "x": 35038,
+            "y": 15392
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35038,
+        "y": 15392
+      },
+      "crop": {
+        "left": 34048,
+        "top": 14848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 990,
+        "y": 544
+      },
+      "atlas_image": "atlas/13-granulozytares-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/13-granulozytares-infiltrat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion.",
+      "didactic_note": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "id": 15,
+      "label": "abgeschlossenes Granulationsgewebe",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18768,
+            "y": 48089
+          },
+          {
+            "x": 25335,
+            "y": 51353
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22051.5,
+        "y": 49721
+      },
+      "crop": {
+        "left": 21248,
+        "top": 49152,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 803.5,
+        "y": 569
+      },
+      "atlas_image": "atlas/15-abgeschlossenes-granulationsgewebe-annotiert.jpg",
+      "exercise_image": "pruefung/15-abgeschlossenes-granulationsgewebe.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „abgeschlossenes Granulationsgewebe“ als morphologischen Teilbefund. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 9,
+      "label": "Gefäßeinsprossung",
+      "exercise_image": "pruefung/09-gefasseinsprossung.jpg",
+      "rationale": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe.",
+      "didactic_note": "Gefäßeinsprossung ist ein zentraler mikroskopischer Bestandteil von Granulationsgewebe. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    },
+    {
+      "annotation_id": 13,
+      "label": "granulozytäres Infiltrat",
+      "exercise_image": "pruefung/13-granulozytares-infiltrat.jpg",
+      "rationale": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion.",
+      "didactic_note": "Das granulozytäre Infiltrat zeigt die begleitende Entzündungsreaktion. Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+    }
+  ],
+  "didactic_context": "Granulationsgewebe besteht aus einsprossenden Kapillaren, aktivierten Fibroblasten und Entzündungszellen in lockerer Matrix und reift mit zunehmender Kollagenablagerung zur Narbe aus."
+}

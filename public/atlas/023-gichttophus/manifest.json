@@ -1,0 +1,216 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "023",
+    "name": "Gichttophus",
+    "organ": "Synovia",
+    "diagnosis": "Gicht",
+    "description": [
+      "Uratausfällung (bevorzugt in Gelenken [in Synovialmembran])",
+      "Reste des Synovialepithels;",
+      "amorphe Matrix der Ablagerungen;",
+      "Fremdkörperriesenzellen (Zusammenschluss von Makrophagen, Zellkerne diffus verteilt);",
+      "unspezifische Entzündungsreaktion umgibt Fremdkörper;"
+    ],
+    "slide_id": "a249d44f-f10e-4702-87e4-00adc8236347",
+    "slide_path": "Histopathologie 5. Semester/slides/023 - Gichttophus.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a249d44f-f10e-4702-87e4-00adc8236347&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2952,
+    "height": 3224,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "synovialer Rest",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 21360,
+            "y": 44032
+          },
+          {
+            "x": 25437,
+            "y": 48318
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23398.5,
+        "y": 46175.0
+      },
+      "crop": {
+        "left": 22528,
+        "top": 45568,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 870.5,
+        "y": 607.0
+      },
+      "atlas_image": "atlas/01-synovialer-rest-annotiert.jpg",
+      "exercise_image": "pruefung/01-synovialer-rest.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „synovialer Rest“ als morphologischen Teilbefund. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    },
+    {
+      "id": 5,
+      "label": "Natriumurat",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32064,
+            "y": 42512
+          },
+          {
+            "x": 33927,
+            "y": 43576
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32995.5,
+        "y": 43044
+      },
+      "crop": {
+        "left": 32000,
+        "top": 42496,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 995.5,
+        "y": 548
+      },
+      "atlas_image": "atlas/05-natriumurat-annotiert.jpg",
+      "exercise_image": "pruefung/05-natriumurat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht.",
+      "didactic_note": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    },
+    {
+      "id": 7,
+      "label": "Entzündungsreaktion",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 73000,
+            "y": 42000
+          },
+          {
+            "x": 74930,
+            "y": 46825
+          }
+        ]
+      },
+      "anchor": {
+        "x": 73965,
+        "y": 44412.5
+      },
+      "crop": {
+        "left": 72960,
+        "top": 43776,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1005,
+        "y": 636.5
+      },
+      "atlas_image": "atlas/07-entzundungsreaktion-annotiert.jpg",
+      "exercise_image": "pruefung/07-entzundungsreaktion.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Entzündungsreaktion“ als morphologischen Teilbefund. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    },
+    {
+      "id": 9,
+      "label": "zwei Fremdkörperriesenzellen",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31342,
+            "y": 44642
+          },
+          {
+            "x": 31813,
+            "y": 45273
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31577.5,
+        "y": 44957.5
+      },
+      "crop": {
+        "left": 30720,
+        "top": 44288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 857.5,
+        "y": 669.5
+      },
+      "atlas_image": "atlas/09-zwei-fremdkorperriesenzellen-annotiert.jpg",
+      "exercise_image": "pruefung/09-zwei-fremdkorperriesenzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle.",
+      "didactic_note": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Natriumurat",
+      "exercise_image": "pruefung/05-natriumurat.jpg",
+      "rationale": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht.",
+      "didactic_note": "Natriumuratablagerungen als krankheitsdefinierender Befund der Gicht. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    },
+    {
+      "annotation_id": 9,
+      "label": "zwei Fremdkörperriesenzellen",
+      "exercise_image": "pruefung/09-zwei-fremdkorperriesenzellen.jpg",
+      "rationale": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle.",
+      "didactic_note": "Fremdkörperriesenzellen zeigen die granulomatöse Reaktion auf die Kristalle. Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+    }
+  ],
+  "didactic_context": "Bei der Gicht hinterlassen ausgewaschene nadelförmige Mononatriumuratkristalle leere Spalten, die von Histiozyten und Fremdkörperriesenzellen umgeben werden."
+}

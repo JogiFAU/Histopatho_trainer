@@ -1,0 +1,324 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "037",
+    "name": "Fremdkörpergranulom der Serosa (Magenperforation)",
+    "organ": "Peritoneum und Subserosa",
+    "diagnosis": "Fremdkörpergranulom",
+    "description": [
+      "Fremdmaterialien (Samenkörner);",
+      "umgeben von Fremdkörperriesenzellen (Zusammenschluss von Makrophagen);",
+      "Epitheloidzellwall;",
+      "floride eitrig phlegmonöse Entzündung und Hämorrhagie;",
+      "ausgeprägte Fibrose;"
+    ],
+    "slide_id": "57039a10-610f-461e-a874-5929462cee1b",
+    "slide_path": "Histopathologie 5. Semester/slides/037 - Fremdkörpergranulom der Serosa (Magenperforation).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=57039a10-610f-461e-a874-5929462cee1b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2048,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Entzündung und Hämorrhagie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10473.22,
+            "y": 49543.96
+          },
+          {
+            "x": 22606.39,
+            "y": 66647.21
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16539.8,
+        "y": 58095.59
+      },
+      "crop": {
+        "left": 15616,
+        "top": 57344,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 923.8,
+        "y": 751.59
+      },
+      "atlas_image": "atlas/01-entzundung-und-hamorrhagie-annotiert.jpg",
+      "exercise_image": "pruefung/01-entzundung-und-hamorrhagie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Entzündung und Hämorrhagie“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    },
+    {
+      "id": 24,
+      "label": "Fremdkörperriesenzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17047.4,
+            "y": 56123.04
+          },
+          {
+            "x": 17807.8,
+            "y": 56704.12
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17427.6,
+        "y": 56413.58
+      },
+      "crop": {
+        "left": 16640,
+        "top": 55808,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 787.6,
+        "y": 605.58
+      },
+      "atlas_image": "atlas/24-fremdkorperriesenzelle-annotiert.jpg",
+      "exercise_image": "pruefung/24-fremdkorperriesenzelle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms.",
+      "didactic_note": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    },
+    {
+      "id": 25,
+      "label": "Fremdmaterial",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 46344.57,
+            "y": 19375.65
+          },
+          {
+            "x": 46825.71,
+            "y": 19818.56
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46585.14,
+        "y": 19597.11
+      },
+      "crop": {
+        "left": 45568,
+        "top": 18944,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1017.14,
+        "y": 653.11
+      },
+      "atlas_image": "atlas/25-fremdmaterial-annotiert.jpg",
+      "exercise_image": "pruefung/25-fremdmaterial.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fremdmaterial als auslösender krankheitsspezifischer Befund.",
+      "didactic_note": "Fremdmaterial als auslösender krankheitsspezifischer Befund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    },
+    {
+      "id": 26,
+      "label": "Fremdmaterial",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45540.07,
+            "y": 19150.27
+          },
+          {
+            "x": 45863.44,
+            "y": 19514.79
+          }
+        ]
+      },
+      "anchor": {
+        "x": 45701.76,
+        "y": 19332.53
+      },
+      "crop": {
+        "left": 44800,
+        "top": 18688,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 901.76,
+        "y": 644.53
+      },
+      "atlas_image": "atlas/26-fremdmaterial-annotiert.jpg",
+      "exercise_image": "pruefung/26-fremdmaterial.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Fremdmaterial“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    },
+    {
+      "id": 27,
+      "label": "Epitheloidzellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45925.18,
+            "y": 21163.97
+          },
+          {
+            "x": 45697.84,
+            "y": 21267.84
+          },
+          {
+            "x": 45572.41,
+            "y": 21389.35
+          },
+          {
+            "x": 45548.89,
+            "y": 21573.57
+          },
+          {
+            "x": 45578.29,
+            "y": 21718.6
+          },
+          {
+            "x": 45740.95,
+            "y": 21742.12
+          },
+          {
+            "x": 45835.02,
+            "y": 21585.33
+          },
+          {
+            "x": 45947.71,
+            "y": 21512.82
+          },
+          {
+            "x": 45972.21,
+            "y": 21504
+          },
+          {
+            "x": 46104.5,
+            "y": 21492.24
+          },
+          {
+            "x": 46262.26,
+            "y": 21501.06
+          },
+          {
+            "x": 46372.99,
+            "y": 21526.54
+          },
+          {
+            "x": 46435.71,
+            "y": 21557.89
+          },
+          {
+            "x": 46519,
+            "y": 21462.84
+          },
+          {
+            "x": 46454.32,
+            "y": 21308.02
+          },
+          {
+            "x": 46300.48,
+            "y": 21199.25
+          },
+          {
+            "x": 46043.74,
+            "y": 21151.23
+          },
+          {
+            "x": 45921.26,
+            "y": 21164.95
+          },
+          {
+            "x": 45921.26,
+            "y": 21164.95
+          },
+          {
+            "x": 45925.18,
+            "y": 21163.97
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46008.31,
+        "y": 21420.3
+      },
+      "crop": {
+        "left": 45056,
+        "top": 20736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 952.31,
+        "y": 684.3
+      },
+      "atlas_image": "atlas/27-epitheloidzellen-annotiert.jpg",
+      "exercise_image": "pruefung/27-epitheloidzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Epitheloidzellen“ als morphologischen Teilbefund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 24,
+      "label": "Fremdkörperriesenzelle",
+      "exercise_image": "pruefung/24-fremdkorperriesenzelle.jpg",
+      "rationale": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms.",
+      "didactic_note": "Fremdkörperriesenzelle als Leitbefund des Fremdkörpergranuloms. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    },
+    {
+      "annotation_id": 25,
+      "label": "Fremdmaterial",
+      "exercise_image": "pruefung/25-fremdmaterial.jpg",
+      "rationale": "Fremdmaterial als auslösender krankheitsspezifischer Befund.",
+      "didactic_note": "Fremdmaterial als auslösender krankheitsspezifischer Befund. Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+    }
+  ],
+  "didactic_context": "Fremdkörperriesenzellen entstehen durch Fusion von Makrophagen um Material, das nicht phagozytiert werden kann; begleitende Epitheloidzellen und Fibrose organisieren das Granulom."
+}

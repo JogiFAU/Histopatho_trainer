@@ -1,0 +1,702 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "002a",
+    "name": "Ulcero-phlegmonöse Entzündung",
+    "organ": "Appendix",
+    "diagnosis": "ulcero-phlegmonöse Appendizitis",
+    "description": [
+      "typische Schichtung der GI Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "Schleimhaut mit Krypten und Becherzellen;",
+      "Serosa, Mesoappendix;",
+      "transmurale phlegmonöse Entzündungsausbreitung;",
+      "neutrophiles granulozytäres Entzündungsinfiltrat;",
+      "Nekrose, Ulzeration;",
+      "Periappendizitis und lokale Peritonitis;"
+    ],
+    "slide_id": "b64c938b-f228-4ce3-b903-c74ac157a0df",
+    "slide_path": "Histopathologie 5. Semester/slides/002a - Ulcero-phlegmonöse Entzündung.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=b64c938b-f228-4ce3-b903-c74ac157a0df&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2768,
+    "height": 2336,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Ulzeration",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20328,
+            "y": 12896
+          },
+          {
+            "x": 21709,
+            "y": 14147
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21018.5,
+        "y": 13521.5
+      },
+      "crop": {
+        "left": 20224,
+        "top": 12800,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.5,
+        "y": 721.5
+      },
+      "atlas_image": "atlas/07-ulzeration-annotiert.jpg",
+      "exercise_image": "pruefung/07-ulzeration.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ulzeration“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 9,
+      "label": "transmurale Appendizitis",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18888,
+            "y": 6432
+          },
+          {
+            "x": 20315,
+            "y": 9275
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19601.5,
+        "y": 7853.5
+      },
+      "crop": {
+        "left": 18688,
+        "top": 7168,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 913.5,
+        "y": 685.5
+      },
+      "atlas_image": "atlas/09-transmurale-appendizitis-annotiert.jpg",
+      "exercise_image": "pruefung/09-transmurale-appendizitis.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „transmurale Appendizitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 13,
+      "label": "Mesoappendix",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5160,
+            "y": 7232
+          },
+          {
+            "x": 11749,
+            "y": 22823
+          }
+        ]
+      },
+      "anchor": {
+        "x": 8454.5,
+        "y": 15027.5
+      },
+      "crop": {
+        "left": 7680,
+        "top": 14336,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 774.5,
+        "y": 691.5
+      },
+      "atlas_image": "atlas/13-mesoappendix-annotiert.jpg",
+      "exercise_image": "pruefung/13-mesoappendix.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mesoappendix“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 35,
+      "label": "Zelldetritus und Nekrose",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24423,
+            "y": 18532
+          },
+          {
+            "x": 24359,
+            "y": 18648
+          },
+          {
+            "x": 24243,
+            "y": 18763
+          },
+          {
+            "x": 24128,
+            "y": 18866
+          },
+          {
+            "x": 24038,
+            "y": 18968
+          },
+          {
+            "x": 23974,
+            "y": 19084
+          },
+          {
+            "x": 23910,
+            "y": 19200
+          },
+          {
+            "x": 23845,
+            "y": 19328
+          },
+          {
+            "x": 23781,
+            "y": 19443
+          },
+          {
+            "x": 23756,
+            "y": 19572
+          },
+          {
+            "x": 23756,
+            "y": 19713
+          },
+          {
+            "x": 23794,
+            "y": 19841
+          },
+          {
+            "x": 23948,
+            "y": 19841
+          },
+          {
+            "x": 24102,
+            "y": 19828
+          },
+          {
+            "x": 24243,
+            "y": 19790
+          },
+          {
+            "x": 24385,
+            "y": 19726
+          },
+          {
+            "x": 24513,
+            "y": 19713
+          },
+          {
+            "x": 24616,
+            "y": 19803
+          },
+          {
+            "x": 24603,
+            "y": 19931
+          },
+          {
+            "x": 24474,
+            "y": 19995
+          },
+          {
+            "x": 24346,
+            "y": 20047
+          },
+          {
+            "x": 24218,
+            "y": 20098
+          },
+          {
+            "x": 24077,
+            "y": 20149
+          },
+          {
+            "x": 23948,
+            "y": 20201
+          },
+          {
+            "x": 23820,
+            "y": 20252
+          },
+          {
+            "x": 23704,
+            "y": 20329
+          },
+          {
+            "x": 23589,
+            "y": 20393
+          },
+          {
+            "x": 23486,
+            "y": 20483
+          },
+          {
+            "x": 23525,
+            "y": 20611
+          },
+          {
+            "x": 23640,
+            "y": 20688
+          },
+          {
+            "x": 23768,
+            "y": 20701
+          },
+          {
+            "x": 23897,
+            "y": 20740
+          },
+          {
+            "x": 24051,
+            "y": 20740
+          },
+          {
+            "x": 24166,
+            "y": 20817
+          },
+          {
+            "x": 24205,
+            "y": 20945
+          },
+          {
+            "x": 24333,
+            "y": 21022
+          },
+          {
+            "x": 24474,
+            "y": 20958
+          },
+          {
+            "x": 24590,
+            "y": 20881
+          },
+          {
+            "x": 24693,
+            "y": 20791
+          },
+          {
+            "x": 24808,
+            "y": 20727
+          },
+          {
+            "x": 24949,
+            "y": 20714
+          },
+          {
+            "x": 25090,
+            "y": 20714
+          },
+          {
+            "x": 25232,
+            "y": 20701
+          },
+          {
+            "x": 25360,
+            "y": 20637
+          },
+          {
+            "x": 25475,
+            "y": 20573
+          },
+          {
+            "x": 25604,
+            "y": 20534
+          },
+          {
+            "x": 25732,
+            "y": 20521
+          },
+          {
+            "x": 25848,
+            "y": 20444
+          },
+          {
+            "x": 25912,
+            "y": 20329
+          },
+          {
+            "x": 26014,
+            "y": 20239
+          },
+          {
+            "x": 26143,
+            "y": 20175
+          },
+          {
+            "x": 26271,
+            "y": 20124
+          },
+          {
+            "x": 26400,
+            "y": 20059
+          },
+          {
+            "x": 26502,
+            "y": 19970
+          },
+          {
+            "x": 26451,
+            "y": 19828
+          },
+          {
+            "x": 26335,
+            "y": 19739
+          },
+          {
+            "x": 26220,
+            "y": 19649
+          },
+          {
+            "x": 26091,
+            "y": 19572
+          },
+          {
+            "x": 25976,
+            "y": 19508
+          },
+          {
+            "x": 25809,
+            "y": 19443
+          },
+          {
+            "x": 25668,
+            "y": 19418
+          },
+          {
+            "x": 25540,
+            "y": 19405
+          },
+          {
+            "x": 25386,
+            "y": 19405
+          },
+          {
+            "x": 25257,
+            "y": 19379
+          },
+          {
+            "x": 25142,
+            "y": 19302
+          },
+          {
+            "x": 25078,
+            "y": 19187
+          },
+          {
+            "x": 25026,
+            "y": 19058
+          },
+          {
+            "x": 24975,
+            "y": 18891
+          },
+          {
+            "x": 24911,
+            "y": 18763
+          },
+          {
+            "x": 24821,
+            "y": 18648
+          },
+          {
+            "x": 24718,
+            "y": 18558
+          },
+          {
+            "x": 24577,
+            "y": 18506
+          },
+          {
+            "x": 24436,
+            "y": 18506
+          },
+          {
+            "x": 24410,
+            "y": 18571
+          },
+          {
+            "x": 24410,
+            "y": 18571
+          },
+          {
+            "x": 24423,
+            "y": 18532
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24746.81,
+        "y": 19836.8
+      },
+      "crop": {
+        "left": 23808,
+        "top": 19200,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 938.81,
+        "y": 636.8
+      },
+      "atlas_image": "atlas/35-zelldetritus-und-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/35-zelldetritus-und-nekrose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung.",
+      "didactic_note": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 45,
+      "label": "Neutrophiler Granulozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19564,
+            "y": 13137
+          },
+          {
+            "x": 19610,
+            "y": 13191
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19587,
+        "y": 13164.0
+      },
+      "crop": {
+        "left": 18688,
+        "top": 12544,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 899,
+        "y": 620.0
+      },
+      "atlas_image": "atlas/45-neutrophiler-granulozyt-annotiert.jpg",
+      "exercise_image": "pruefung/45-neutrophiler-granulozyt.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung.",
+      "didactic_note": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 50,
+      "label": "Serosa",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29493,
+            "y": 33653
+          },
+          {
+            "x": 29466,
+            "y": 31173
+          },
+          {
+            "x": 29466,
+            "y": 31173
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29466.0,
+        "y": 31173.0
+      },
+      "crop": {
+        "left": 28672,
+        "top": 30464,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.0,
+        "y": 709.0
+      },
+      "atlas_image": "atlas/50-serosa-annotiert.jpg",
+      "exercise_image": "pruefung/50-serosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 51,
+      "label": "Periappendizitis",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 14069,
+            "y": 3124
+          },
+          {
+            "x": 19690,
+            "y": 6581
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16879.5,
+        "y": 4852.5
+      },
+      "crop": {
+        "left": 15872,
+        "top": 4096,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1007.5,
+        "y": 756.5
+      },
+      "atlas_image": "atlas/51-periappendizitis-annotiert.jpg",
+      "exercise_image": "pruefung/51-periappendizitis.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Periappendizitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 53,
+      "label": "lokale Peritonitis",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 27391,
+            "y": 1792
+          },
+          {
+            "x": 22239,
+            "y": 1824
+          },
+          {
+            "x": 22239,
+            "y": 1824
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22239.0,
+        "y": 1824.0
+      },
+      "crop": {
+        "left": 21248,
+        "top": 1280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 991.0,
+        "y": 544.0
+      },
+      "atlas_image": "atlas/53-lokale-peritonitis-annotiert.jpg",
+      "exercise_image": "pruefung/53-lokale-peritonitis.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „lokale Peritonitis“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "id": 54,
+      "label": "intraepitheliale Entzündung",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26800,
+            "y": 20346
+          },
+          {
+            "x": 29680,
+            "y": 22346
+          }
+        ]
+      },
+      "anchor": {
+        "x": 28240,
+        "y": 21346.0
+      },
+      "crop": {
+        "left": 27392,
+        "top": 20736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 848,
+        "y": 610.0
+      },
+      "atlas_image": "atlas/54-intraepitheliale-entzundung-annotiert.jpg",
+      "exercise_image": "pruefung/54-intraepitheliale-entzundung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „intraepitheliale Entzündung“ als morphologischen Teilbefund. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 45,
+      "label": "Neutrophiler Granulozyt",
+      "exercise_image": "pruefung/45-neutrophiler-granulozyt.jpg",
+      "rationale": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung.",
+      "didactic_note": "Neutrophiler Granulozyt als zellulärer Leitbefund der akuten eitrigen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    },
+    {
+      "annotation_id": 35,
+      "label": "Zelldetritus und Nekrose",
+      "exercise_image": "pruefung/35-zelldetritus-und-nekrose.jpg",
+      "rationale": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung.",
+      "didactic_note": "Zelldetritus und Nekrose als komplementärer Befund der ulcero-phlegmonösen Entzündung. Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+    }
+  ],
+  "didactic_context": "Für die akute ulcero-phlegmonöse Appendizitis ist ein neutrophilenreiches, transmurales Infiltrat diagnostisch; Ulzeration und Nekrose können bis zur Serosa mit Periappendizitis fortschreiten."
+}

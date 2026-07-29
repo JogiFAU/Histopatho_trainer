@@ -1,0 +1,1061 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "048a",
+    "name": "Helicobactergastritis (HE)",
+    "organ": "Magen",
+    "diagnosis": "Helicobactergastritis",
+    "description": [
+      "Corpusschleimhaut (Foveolen, Hauptzellen - blau, Belegzellen - rot);",
+      "Muskulatur, Lamina muscularis mucosae;",
+      "Atrophie der Schleimhaut;",
+      "Hyperplasie der Foveolen (Helicobactergastritis ist Präkanzerose);",
+      "lymphozytäres, plasmazelluläres und granulozytäres Infiltrat;",
+      "Bakterien auf Oberfläche der Foveolen (siehe #49)"
+    ],
+    "slide_id": "33d2f42b-d438-44b1-89fa-37d777641e0d",
+    "slide_path": "Histopathologie 5. Semester/slides/048a - Helicobactergastritis (HE).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=33d2f42b-d438-44b1-89fa-37d777641e0d&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2048,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "entzündliches Infiltrat (lymphoplasmazellulär)",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9351.05,
+            "y": 39951.97
+          },
+          {
+            "x": 10505.97,
+            "y": 42294.85
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9928.51,
+        "y": 41123.41
+      },
+      "crop": {
+        "left": 8960,
+        "top": 40448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 968.51,
+        "y": 675.41
+      },
+      "atlas_image": "atlas/05-entzundliches-infiltrat-lymphoplasmazellular-annotiert.jpg",
+      "exercise_image": "pruefung/05-entzundliches-infiltrat-lymphoplasmazellular.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund.",
+      "didactic_note": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 11,
+      "label": "Lamina muscularis mucosae",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13039.9,
+            "y": 43537.4
+          },
+          {
+            "x": 13600.12,
+            "y": 44150.05
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13320.01,
+        "y": 43843.72
+      },
+      "crop": {
+        "left": 12544,
+        "top": 43264,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 776.01,
+        "y": 579.72
+      },
+      "atlas_image": "atlas/11-lamina-muscularis-mucosae-annotiert.jpg",
+      "exercise_image": "pruefung/11-lamina-muscularis-mucosae.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lamina muscularis mucosae“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 19,
+      "label": "prominenter Lymphfollikel",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12103.32,
+            "y": 5506.15
+          },
+          {
+            "x": 13537.64,
+            "y": 6370.19
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12820.48,
+        "y": 5938.17
+      },
+      "crop": {
+        "left": 12032,
+        "top": 5376,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 788.48,
+        "y": 562.17
+      },
+      "atlas_image": "atlas/19-prominenter-lymphfollikel-annotiert.jpg",
+      "exercise_image": "pruefung/19-prominenter-lymphfollikel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „prominenter Lymphfollikel“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 20,
+      "label": "Belegzellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12152.16,
+            "y": 44935.08
+          },
+          {
+            "x": 12111.94,
+            "y": 44958.06
+          },
+          {
+            "x": 12094.7,
+            "y": 44970.99
+          },
+          {
+            "x": 12092.55,
+            "y": 44992.54
+          },
+          {
+            "x": 12117.69,
+            "y": 45004.03
+          },
+          {
+            "x": 12152.16,
+            "y": 45004.03
+          },
+          {
+            "x": 12175.86,
+            "y": 44998.29
+          },
+          {
+            "x": 12216.08,
+            "y": 44961.66
+          },
+          {
+            "x": 12227.58,
+            "y": 44935.08
+          },
+          {
+            "x": 12211.77,
+            "y": 44913.53
+          },
+          {
+            "x": 12188.79,
+            "y": 44907.79
+          },
+          {
+            "x": 12167.96,
+            "y": 44907.79
+          },
+          {
+            "x": 12146.42,
+            "y": 44936.52
+          },
+          {
+            "x": 12146.42,
+            "y": 44936.52
+          },
+          {
+            "x": 12152.16,
+            "y": 44935.08
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12157.7,
+        "y": 44954.32
+      },
+      "crop": {
+        "left": 11264,
+        "top": 44288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 893.7,
+        "y": 666.32
+      },
+      "atlas_image": "atlas/20-belegzellen-annotiert.jpg",
+      "exercise_image": "pruefung/20-belegzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Belegzellen“ dient hier als anatomischer Orientierungspunkt. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 21,
+      "label": "Hauptzellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12696.58,
+            "y": 44550.83
+          },
+          {
+            "x": 12685.81,
+            "y": 44545.8
+          },
+          {
+            "x": 12674.32,
+            "y": 44538.62
+          },
+          {
+            "x": 12664.26,
+            "y": 44532.87
+          },
+          {
+            "x": 12653.49,
+            "y": 44530.71
+          },
+          {
+            "x": 12641.28,
+            "y": 44533.59
+          },
+          {
+            "x": 12629.07,
+            "y": 44537.18
+          },
+          {
+            "x": 12616.86,
+            "y": 44541.49
+          },
+          {
+            "x": 12605.37,
+            "y": 44545.8
+          },
+          {
+            "x": 12596.75,
+            "y": 44553.7
+          },
+          {
+            "x": 12590.28,
+            "y": 44563.75
+          },
+          {
+            "x": 12588.13,
+            "y": 44575.96
+          },
+          {
+            "x": 12585.26,
+            "y": 44588.17
+          },
+          {
+            "x": 12588.13,
+            "y": 44599.67
+          },
+          {
+            "x": 12592.44,
+            "y": 44610.44
+          },
+          {
+            "x": 12598.18,
+            "y": 44621.93
+          },
+          {
+            "x": 12608.96,
+            "y": 44627.68
+          },
+          {
+            "x": 12620.45,
+            "y": 44629.83
+          },
+          {
+            "x": 12631.22,
+            "y": 44632.7
+          },
+          {
+            "x": 12643.43,
+            "y": 44634.86
+          },
+          {
+            "x": 12653.49,
+            "y": 44640.6
+          },
+          {
+            "x": 12664.26,
+            "y": 44644.91
+          },
+          {
+            "x": 12675.75,
+            "y": 44644.2
+          },
+          {
+            "x": 12684.37,
+            "y": 44636.3
+          },
+          {
+            "x": 12691.56,
+            "y": 44626.24
+          },
+          {
+            "x": 12701.61,
+            "y": 44617.62
+          },
+          {
+            "x": 12711.67,
+            "y": 44611.88
+          },
+          {
+            "x": 12724.59,
+            "y": 44611.88
+          },
+          {
+            "x": 12736.09,
+            "y": 44617.62
+          },
+          {
+            "x": 12744.7,
+            "y": 44626.24
+          },
+          {
+            "x": 12753.32,
+            "y": 44634.86
+          },
+          {
+            "x": 12763.38,
+            "y": 44640.6
+          },
+          {
+            "x": 12775.59,
+            "y": 44640.6
+          },
+          {
+            "x": 12787.8,
+            "y": 44640.6
+          },
+          {
+            "x": 12799.29,
+            "y": 44637.01
+          },
+          {
+            "x": 12807.91,
+            "y": 44628.39
+          },
+          {
+            "x": 12812.94,
+            "y": 44616.18
+          },
+          {
+            "x": 12812.94,
+            "y": 44603.97
+          },
+          {
+            "x": 12812.94,
+            "y": 44591.76
+          },
+          {
+            "x": 12822.27,
+            "y": 44583.86
+          },
+          {
+            "x": 12833.77,
+            "y": 44580.27
+          },
+          {
+            "x": 12843.82,
+            "y": 44575.25
+          },
+          {
+            "x": 12844.54,
+            "y": 44563.04
+          },
+          {
+            "x": 12840.23,
+            "y": 44551.54
+          },
+          {
+            "x": 12835.2,
+            "y": 44541.49
+          },
+          {
+            "x": 12839.51,
+            "y": 44529.28
+          },
+          {
+            "x": 12843.82,
+            "y": 44518.5
+          },
+          {
+            "x": 12845.98,
+            "y": 44507.01
+          },
+          {
+            "x": 12845.98,
+            "y": 44494.8
+          },
+          {
+            "x": 12854.59,
+            "y": 44486.18
+          },
+          {
+            "x": 12866.09,
+            "y": 44484.03
+          },
+          {
+            "x": 12878.3,
+            "y": 44484.03
+          },
+          {
+            "x": 12888.35,
+            "y": 44491.93
+          },
+          {
+            "x": 12898.41,
+            "y": 44498.39
+          },
+          {
+            "x": 12906.31,
+            "y": 44488.34
+          },
+          {
+            "x": 12909.18,
+            "y": 44476.85
+          },
+          {
+            "x": 12912.77,
+            "y": 44466.07
+          },
+          {
+            "x": 12916.36,
+            "y": 44454.58
+          },
+          {
+            "x": 12914.21,
+            "y": 44443.81
+          },
+          {
+            "x": 12902.72,
+            "y": 44438.06
+          },
+          {
+            "x": 12889.07,
+            "y": 44438.06
+          },
+          {
+            "x": 12878.3,
+            "y": 44435.91
+          },
+          {
+            "x": 12866.8,
+            "y": 44432.32
+          },
+          {
+            "x": 12854.59,
+            "y": 44435.19
+          },
+          {
+            "x": 12843.82,
+            "y": 44439.5
+          },
+          {
+            "x": 12830.17,
+            "y": 44439.5
+          },
+          {
+            "x": 12819.4,
+            "y": 44435.91
+          },
+          {
+            "x": 12807.91,
+            "y": 44432.32
+          },
+          {
+            "x": 12799.29,
+            "y": 44425.13
+          },
+          {
+            "x": 12790.67,
+            "y": 44415.8
+          },
+          {
+            "x": 12781.33,
+            "y": 44407.9
+          },
+          {
+            "x": 12770.56,
+            "y": 44409.33
+          },
+          {
+            "x": 12760.51,
+            "y": 44415.08
+          },
+          {
+            "x": 12756.91,
+            "y": 44425.85
+          },
+          {
+            "x": 12759.07,
+            "y": 44437.34
+          },
+          {
+            "x": 12766.97,
+            "y": 44445.96
+          },
+          {
+            "x": 12764.82,
+            "y": 44456.74
+          },
+          {
+            "x": 12752.61,
+            "y": 44462.48
+          },
+          {
+            "x": 12740.4,
+            "y": 44462.48
+          },
+          {
+            "x": 12726.75,
+            "y": 44462.48
+          },
+          {
+            "x": 12715.98,
+            "y": 44468.23
+          },
+          {
+            "x": 12708.79,
+            "y": 44478.28
+          },
+          {
+            "x": 12700.17,
+            "y": 44486.9
+          },
+          {
+            "x": 12694.43,
+            "y": 44496.96
+          },
+          {
+            "x": 12696.58,
+            "y": 44508.45
+          },
+          {
+            "x": 12702.33,
+            "y": 44518.5
+          },
+          {
+            "x": 12708.07,
+            "y": 44529.28
+          },
+          {
+            "x": 12708.79,
+            "y": 44540.77
+          },
+          {
+            "x": 12700.17,
+            "y": 44548.67
+          },
+          {
+            "x": 12696.58,
+            "y": 44549.39
+          },
+          {
+            "x": 12696.58,
+            "y": 44549.39
+          },
+          {
+            "x": 12696.58,
+            "y": 44550.83
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12753.36,
+        "y": 44532.48
+      },
+      "crop": {
+        "left": 11776,
+        "top": 43776,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 977.36,
+        "y": 756.48
+      },
+      "atlas_image": "atlas/21-hauptzellen-annotiert.jpg",
+      "exercise_image": "pruefung/21-hauptzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Hauptzellen“ dient hier als anatomischer Orientierungspunkt. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 22,
+      "label": "Ganulozytenansammlung",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9284.97,
+            "y": 36334.94
+          },
+          {
+            "x": 9281.38,
+            "y": 36347.15
+          },
+          {
+            "x": 9277.79,
+            "y": 36357.2
+          },
+          {
+            "x": 9268.45,
+            "y": 36363.67
+          },
+          {
+            "x": 9253.37,
+            "y": 36363.67
+          },
+          {
+            "x": 9241.16,
+            "y": 36362.95
+          },
+          {
+            "x": 9229.66,
+            "y": 36359.36
+          },
+          {
+            "x": 9217.45,
+            "y": 36356.49
+          },
+          {
+            "x": 9207.4,
+            "y": 36355.77
+          },
+          {
+            "x": 9196.63,
+            "y": 36356.49
+          },
+          {
+            "x": 9186.57,
+            "y": 36360.8
+          },
+          {
+            "x": 9182.26,
+            "y": 36370.85
+          },
+          {
+            "x": 9180.11,
+            "y": 36381.62
+          },
+          {
+            "x": 9187.29,
+            "y": 36389.52
+          },
+          {
+            "x": 9198.06,
+            "y": 36394.55
+          },
+          {
+            "x": 9208.12,
+            "y": 36398.86
+          },
+          {
+            "x": 9217.45,
+            "y": 36405.33
+          },
+          {
+            "x": 9222.48,
+            "y": 36414.66
+          },
+          {
+            "x": 9224.64,
+            "y": 36426.15
+          },
+          {
+            "x": 9231.82,
+            "y": 36434.06
+          },
+          {
+            "x": 9241.16,
+            "y": 36439.08
+          },
+          {
+            "x": 9249.77,
+            "y": 36448.42
+          },
+          {
+            "x": 9252.65,
+            "y": 36459.19
+          },
+          {
+            "x": 9255.52,
+            "y": 36469.25
+          },
+          {
+            "x": 9261.27,
+            "y": 36478.59
+          },
+          {
+            "x": 9271.32,
+            "y": 36482.9
+          },
+          {
+            "x": 9282.81,
+            "y": 36483.61
+          },
+          {
+            "x": 9294.31,
+            "y": 36483.61
+          },
+          {
+            "x": 9305.08,
+            "y": 36483.61
+          },
+          {
+            "x": 9320.88,
+            "y": 36485.77
+          },
+          {
+            "x": 9330.94,
+            "y": 36488.64
+          },
+          {
+            "x": 9341.71,
+            "y": 36490.08
+          },
+          {
+            "x": 9353.2,
+            "y": 36490.8
+          },
+          {
+            "x": 9363.26,
+            "y": 36492.95
+          },
+          {
+            "x": 9373.31,
+            "y": 36494.39
+          },
+          {
+            "x": 9384.8,
+            "y": 36494.39
+          },
+          {
+            "x": 9393.42,
+            "y": 36485.77
+          },
+          {
+            "x": 9398.45,
+            "y": 36475.71
+          },
+          {
+            "x": 9403.48,
+            "y": 36464.94
+          },
+          {
+            "x": 9410.66,
+            "y": 36455.6
+          },
+          {
+            "x": 9414.97,
+            "y": 36445.55
+          },
+          {
+            "x": 9421.43,
+            "y": 36436.21
+          },
+          {
+            "x": 9427.18,
+            "y": 36426.15
+          },
+          {
+            "x": 9429.33,
+            "y": 36415.38
+          },
+          {
+            "x": 9428.62,
+            "y": 36403.89
+          },
+          {
+            "x": 9417.84,
+            "y": 36400.3
+          },
+          {
+            "x": 9405.63,
+            "y": 36396.71
+          },
+          {
+            "x": 9393.42,
+            "y": 36395.99
+          },
+          {
+            "x": 9382.65,
+            "y": 36390.96
+          },
+          {
+            "x": 9373.31,
+            "y": 36383.06
+          },
+          {
+            "x": 9364.69,
+            "y": 36375.88
+          },
+          {
+            "x": 9351.76,
+            "y": 36375.88
+          },
+          {
+            "x": 9339.55,
+            "y": 36375.88
+          },
+          {
+            "x": 9332.37,
+            "y": 36366.54
+          },
+          {
+            "x": 9327.34,
+            "y": 36355.77
+          },
+          {
+            "x": 9323.03,
+            "y": 36344.99
+          },
+          {
+            "x": 9320.88,
+            "y": 36334.94
+          },
+          {
+            "x": 9320.88,
+            "y": 36323.45
+          },
+          {
+            "x": 9311.54,
+            "y": 36318.42
+          },
+          {
+            "x": 9300.05,
+            "y": 36319.14
+          },
+          {
+            "x": 9290.71,
+            "y": 36326.32
+          },
+          {
+            "x": 9282.81,
+            "y": 36333.5
+          },
+          {
+            "x": 9283.53,
+            "y": 36339.25
+          },
+          {
+            "x": 9283.53,
+            "y": 36339.25
+          },
+          {
+            "x": 9284.97,
+            "y": 36334.94
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9304.9,
+        "y": 36406.26
+      },
+      "crop": {
+        "left": 8448,
+        "top": 35840,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 856.9,
+        "y": 566.26
+      },
+      "atlas_image": "atlas/22-ganulozytenansammlung-annotiert.jpg",
+      "exercise_image": "pruefung/22-ganulozytenansammlung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ganulozytenansammlung“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 23,
+      "label": "Kryptenabszess 1",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9072.37,
+            "y": 36213.56
+          },
+          {
+            "x": 9167.18,
+            "y": 36288.25
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9119.77,
+        "y": 36250.91
+      },
+      "crop": {
+        "left": 8192,
+        "top": 35584,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 927.77,
+        "y": 666.91
+      },
+      "atlas_image": "atlas/23-kryptenabszess-1-annotiert.jpg",
+      "exercise_image": "pruefung/23-kryptenabszess-1.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis.",
+      "didactic_note": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 24,
+      "label": "Kyptenabszess 2",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10209.34,
+            "y": 40423.85
+          },
+          {
+            "x": 10528.23,
+            "y": 40615.62
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10368.78,
+        "y": 40519.73
+      },
+      "crop": {
+        "left": 9472,
+        "top": 39936,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 896.78,
+        "y": 583.73
+      },
+      "atlas_image": "atlas/24-kyptenabszess-2-annotiert.jpg",
+      "exercise_image": "pruefung/24-kyptenabszess-2.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Kyptenabszess 2“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "id": 25,
+      "label": "Kryptenabszess 3",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9784.86,
+            "y": 40510.76
+          },
+          {
+            "x": 10167.68,
+            "y": 40669.49
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9976.27,
+        "y": 40590.12
+      },
+      "crop": {
+        "left": 8960,
+        "top": 39936,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1016.27,
+        "y": 654.12
+      },
+      "atlas_image": "atlas/25-kryptenabszess-3-annotiert.jpg",
+      "exercise_image": "pruefung/25-kryptenabszess-3.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Kryptenabszess 3“ als morphologischen Teilbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 23,
+      "label": "Kryptenabszess 1",
+      "exercise_image": "pruefung/23-kryptenabszess-1.jpg",
+      "rationale": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis.",
+      "didactic_note": "Kryptenabszess als aktiver entzündlicher Befund der Helicobacter-Gastritis. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    },
+    {
+      "annotation_id": 5,
+      "label": "entzündliches Infiltrat (lymphoplasmazellulär)",
+      "exercise_image": "pruefung/05-entzundliches-infiltrat-lymphoplasmazellular.jpg",
+      "rationale": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund.",
+      "didactic_note": "Lymphoplasmazelluläres Infiltrat als chronischer Entzündungsbefund. Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+    }
+  ],
+  "didactic_context": "Die Helicobacter-Gastritis kombiniert ein lymphoplasmazelluläres Infiltrat mit neutrophiler Aktivität in Foveolen und Drüsen; Lymphfollikel und Kryptenabszesse sprechen für chronisch aktive Entzündung."
+}

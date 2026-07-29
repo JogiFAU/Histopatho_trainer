@@ -1,0 +1,341 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "071",
+    "name": "Magen-Ca intestinaler Typ, pT1sm",
+    "organ": "Magen",
+    "diagnosis": "Magenfrühkarzinom (intestinales Adenokarzinom)",
+    "description": [
+      "Antrumschleimhaut bei atropher chronischer Gastritis;",
+      "intestinale Metaplasie (siehe #45, #46);",
+      "Tumor mit drüsiger (intestinaler) Differenzierung;",
+      "invasives Wachstumsmuster;",
+      "hyperchromatische dysplastische Kerne mit prominenten Nucleoli;",
+      "lymphozytäres Begleitinfiltrat;",
+      "Nerv;",
+      "Perineuralscheideninfiltration;",
+      "pT1sm (infiltriert Lamina muscularis mucosae & Submucosa);",
+      "Invasion nicht über Submucosa hinaus Magenfrühkarzinom;"
+    ],
+    "slide_id": "9ceb8b74-9b35-4ebc-ba90-c11d71365a45",
+    "slide_path": "Histopathologie 5. Semester/slides/071 - Magen-Ca intestinaler Typ, pT1sm.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=9ceb8b74-9b35-4ebc-ba90-c11d71365a45&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1672,
+    "height": 2560,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "intestinale Metaplasie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 22250.71,
+            "y": 75053.09
+          },
+          {
+            "x": 25219.36,
+            "y": 79010.66
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23735.04,
+        "y": 77031.88
+      },
+      "crop": {
+        "left": 22784,
+        "top": 76288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 951.04,
+        "y": 743.88
+      },
+      "atlas_image": "atlas/03-intestinale-metaplasie-annotiert.jpg",
+      "exercise_image": "pruefung/03-intestinale-metaplasie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „intestinale Metaplasie“ als morphologischen Teilbefund. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 9,
+      "label": "Durchbruch durch Lamina muscularis mucosae",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38861.53,
+            "y": 21757.53
+          },
+          {
+            "x": 40988.08,
+            "y": 24699.66
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39924.8,
+        "y": 23228.6
+      },
+      "crop": {
+        "left": 38912,
+        "top": 22528,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1012.8,
+        "y": 700.6
+      },
+      "atlas_image": "atlas/09-durchbruch-durch-lamina-muscularis-mucosae-annotiert.jpg",
+      "exercise_image": "pruefung/09-durchbruch-durch-lamina-muscularis-mucosae.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Durchbruch der Lamina muscularis mucosae als komplementärer Nachweis der Invasion.",
+      "didactic_note": "Durchbruch der Lamina muscularis mucosae als komplementärer Nachweis der Invasion. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 13,
+      "label": "Antrumschleimhaut",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45909,
+            "y": 5055.78
+          },
+          {
+            "x": 49869.41,
+            "y": 7359.47
+          }
+        ]
+      },
+      "anchor": {
+        "x": 47889.21,
+        "y": 6207.63
+      },
+      "crop": {
+        "left": 47104,
+        "top": 5632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 785.21,
+        "y": 575.63
+      },
+      "atlas_image": "atlas/13-antrumschleimhaut-annotiert.jpg",
+      "exercise_image": "pruefung/13-antrumschleimhaut.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Antrumschleimhaut“ als morphologischen Teilbefund. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 15,
+      "label": "Nerv",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29857.06,
+            "y": 37217.45
+          },
+          {
+            "x": 28991.28,
+            "y": 36798.77
+          },
+          {
+            "x": 28991.28,
+            "y": 36798.77
+          }
+        ]
+      },
+      "anchor": {
+        "x": 28991.28,
+        "y": 36798.77
+      },
+      "crop": {
+        "left": 28160,
+        "top": 36096,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 831.28,
+        "y": 702.77
+      },
+      "atlas_image": "atlas/15-nerv-annotiert.jpg",
+      "exercise_image": "pruefung/15-nerv.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nerv“ als morphologischen Teilbefund. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 17,
+      "label": "Infiltration der Submucosa",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43863.91,
+            "y": 26784.54
+          },
+          {
+            "x": 37146.07,
+            "y": 26697.39
+          },
+          {
+            "x": 37146.07,
+            "y": 26697.39
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37146.07,
+        "y": 26697.39
+      },
+      "crop": {
+        "left": 36352,
+        "top": 26112,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.07,
+        "y": 585.39
+      },
+      "atlas_image": "atlas/17-infiltration-der-submucosa-annotiert.jpg",
+      "exercise_image": "pruefung/17-infiltration-der-submucosa.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Infiltration der Submukosa als definierender Invasionsbefund des Frühkarzinoms.",
+      "didactic_note": "Infiltration der Submukosa als definierender Invasionsbefund des Frühkarzinoms. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 18,
+      "label": "Submucosa",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37775.99,
+            "y": 7383.15
+          },
+          {
+            "x": 37827.14,
+            "y": 13157.53
+          },
+          {
+            "x": 37827.14,
+            "y": 13157.53
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37827.14,
+        "y": 13157.53
+      },
+      "crop": {
+        "left": 36864,
+        "top": 12544,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 963.14,
+        "y": 613.53
+      },
+      "atlas_image": "atlas/18-submucosa-annotiert.jpg",
+      "exercise_image": "pruefung/18-submucosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Submucosa“ dient hier als anatomischer Orientierungspunkt. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "id": 19,
+      "label": "Ganglienzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 34420.86,
+            "y": 28050.05
+          },
+          {
+            "x": 34585.68,
+            "y": 28155.2
+          }
+        ]
+      },
+      "anchor": {
+        "x": 34503.27,
+        "y": 28102.63
+      },
+      "crop": {
+        "left": 33536,
+        "top": 27392,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 967.27,
+        "y": 710.63
+      },
+      "atlas_image": "atlas/19-ganglienzelle-annotiert.jpg",
+      "exercise_image": "pruefung/19-ganglienzelle.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ganglienzelle“ als morphologischen Teilbefund. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 17,
+      "label": "Infiltration der Submucosa",
+      "exercise_image": "pruefung/17-infiltration-der-submucosa.jpg",
+      "rationale": "Infiltration der Submukosa als definierender Invasionsbefund des Frühkarzinoms.",
+      "didactic_note": "Infiltration der Submukosa als definierender Invasionsbefund des Frühkarzinoms. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    },
+    {
+      "annotation_id": 9,
+      "label": "Durchbruch durch Lamina muscularis mucosae",
+      "exercise_image": "pruefung/09-durchbruch-durch-lamina-muscularis-mucosae.jpg",
+      "rationale": "Durchbruch der Lamina muscularis mucosae als komplementärer Nachweis der Invasion.",
+      "didactic_note": "Durchbruch der Lamina muscularis mucosae als komplementärer Nachweis der Invasion. Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+    }
+  ],
+  "didactic_context": "Ein Magenfrühkarzinom ist durch auf Mukosa und Submukosa begrenzte Invasion definiert, unabhängig von Tumorgröße oder Lymphknotenstatus; der Durchbruch der Muscularis mucosae ist daher entscheidend."
+}

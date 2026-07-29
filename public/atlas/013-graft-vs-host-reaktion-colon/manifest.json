@@ -1,0 +1,264 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "013",
+    "name": "Graft vs Host Reaktion Colon",
+    "organ": "Kolon",
+    "diagnosis": "Graft vs Host Reaktion (GvHD)",
+    "description": [
+      "Krypten mit Becherzellen;",
+      "subtotaler Kryptenuntergang;",
+      "total untergegangene Krypten;",
+      "Apoptosen;",
+      "ödematöse Auflockerung;"
+    ],
+    "slide_id": "9c2e30cf-a7f2-4699-a3e7-8a4eae104a27",
+    "slide_path": "Histopathologie 5. Semester/slides/013 - Graft vs Host Reaktion Colon.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=9c2e30cf-a7f2-4699-a3e7-8a4eae104a27&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3808,
+    "height": 2560,
+    "level_0_to_overview_scale": 0.125,
+    "tile_level": 3,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 12,
+      "label": "ödematöse Auflockerung",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 14857,
+            "y": 9807
+          },
+          {
+            "x": 16658,
+            "y": 10871
+          },
+          {
+            "x": 16658,
+            "y": 10871
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16658.0,
+        "y": 10871.0
+      },
+      "crop": {
+        "left": 15872,
+        "top": 10240,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 786.0,
+        "y": 631.0
+      },
+      "atlas_image": "atlas/12-odematose-auflockerung-annotiert.jpg",
+      "exercise_image": "pruefung/12-odematose-auflockerung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „ödematöse Auflockerung“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    },
+    {
+      "id": 13,
+      "label": "Ödem",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16197,
+            "y": 7991
+          },
+          {
+            "x": 14869,
+            "y": 9790
+          },
+          {
+            "x": 14869,
+            "y": 9790
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14869,
+        "y": 9790.0
+      },
+      "crop": {
+        "left": 14080,
+        "top": 9216,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 789,
+        "y": 574.0
+      },
+      "atlas_image": "atlas/13-odem-annotiert.jpg",
+      "exercise_image": "pruefung/13-odem.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ödem“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    },
+    {
+      "id": 14,
+      "label": "Apoptotic Bodies",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 6538,
+            "y": 5223
+          },
+          {
+            "x": 6676,
+            "y": 5327
+          }
+        ]
+      },
+      "anchor": {
+        "x": 6607,
+        "y": 5275.0
+      },
+      "crop": {
+        "left": 5632,
+        "top": 4608,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 975,
+        "y": 667.0
+      },
+      "atlas_image": "atlas/14-apoptotic-bodies-annotiert.jpg",
+      "exercise_image": "pruefung/14-apoptotic-bodies.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion.",
+      "didactic_note": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    },
+    {
+      "id": 15,
+      "label": "totaler Kryptenverlust",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 8982,
+            "y": 4116
+          },
+          {
+            "x": 6798,
+            "y": 4755
+          },
+          {
+            "x": 6798,
+            "y": 4755
+          }
+        ]
+      },
+      "anchor": {
+        "x": 6798.0,
+        "y": 4755.0
+      },
+      "crop": {
+        "left": 5888,
+        "top": 4096,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 910.0,
+        "y": 659.0
+      },
+      "atlas_image": "atlas/15-totaler-kryptenverlust-annotiert.jpg",
+      "exercise_image": "pruefung/15-totaler-kryptenverlust.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „totaler Kryptenverlust“ als morphologischen Teilbefund. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    },
+    {
+      "id": 16,
+      "label": "subtotaler Kryptenuntergang",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4411,
+            "y": 4449
+          },
+          {
+            "x": 5113,
+            "y": 4921
+          }
+        ]
+      },
+      "anchor": {
+        "x": 4762,
+        "y": 4685.0
+      },
+      "crop": {
+        "left": 3840,
+        "top": 4096,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 922,
+        "y": 589.0
+      },
+      "atlas_image": "atlas/16-subtotaler-kryptenuntergang-annotiert.jpg",
+      "exercise_image": "pruefung/16-subtotaler-kryptenuntergang.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster.",
+      "didactic_note": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 14,
+      "label": "Apoptotic Bodies",
+      "exercise_image": "pruefung/14-apoptotic-bodies.jpg",
+      "rationale": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion.",
+      "didactic_note": "Apoptotic Bodies sind ein zentraler zellulärer Befund der Graft-versus-Host-Reaktion. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    },
+    {
+      "annotation_id": 16,
+      "label": "subtotaler Kryptenuntergang",
+      "exercise_image": "pruefung/16-subtotaler-kryptenuntergang.jpg",
+      "rationale": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster.",
+      "didactic_note": "Subtotaler Kryptenuntergang zeigt das zugehörige Schädigungsmuster. Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+    }
+  ],
+  "didactic_context": "Bei der intestinalen Graft-versus-Host-Reaktion sind apoptotische Kryptenepithelien und ein fortschreitender Kryptenverlust besonders wichtig; die Entzündung kann im Verhältnis zur ausgeprägten Epithelschädigung diskret sein."
+}

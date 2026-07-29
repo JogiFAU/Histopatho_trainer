@@ -1,0 +1,734 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "014",
+    "name": "Lungenmetastase Rectum-Ca",
+    "organ": "Lunge",
+    "diagnosis": "Lungenmetastase eines kolorektalen Adenokarzinoms",
+    "description": [
+      "Lungengewebe;",
+      "Metastase eines Rektumkarzinoms;",
+      "ausgedehnte Nekrose;",
+      "blumenkohlartiges invasiv-destruierendes Wachstumsmuster, unscharf begrenzt;",
+      "Zell- und Kernanomalien (Mitosen, große blasige Zellkerne, deutliche Nukleoli, teilweise Verlust der Zellpolarität, Hyperchromasie, verschobene Kern-Plasmarelation);",
+      "entzündliche Randreaktion (Lymphozyten, Granulozyten & Schaumzellen);",
+      "zusätzlich Anthrakose;"
+    ],
+    "slide_id": "96387df8-1beb-4734-81b5-03e243bb6164",
+    "slide_path": "Histopathologie 5. Semester/slides/014 - Lungenmetastase Rectum-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=96387df8-1beb-4734-81b5-03e243bb6164&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2720,
+    "height": 2608,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Nekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24464,
+            "y": 48816
+          },
+          {
+            "x": 29819,
+            "y": 52719
+          }
+        ]
+      },
+      "anchor": {
+        "x": 27141.5,
+        "y": 50767.5
+      },
+      "crop": {
+        "left": 26368,
+        "top": 50176,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 773.5,
+        "y": 591.5
+      },
+      "atlas_image": "atlas/05-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/05-nekrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 13,
+      "label": "Anthrakose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 34701,
+            "y": 26676
+          },
+          {
+            "x": 36350,
+            "y": 27859
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35525.5,
+        "y": 27267.5
+      },
+      "crop": {
+        "left": 34560,
+        "top": 26624,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 965.5,
+        "y": 643.5
+      },
+      "atlas_image": "atlas/13-anthrakose-annotiert.jpg",
+      "exercise_image": "pruefung/13-anthrakose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Anthrakose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 14,
+      "label": "Bronchiolus",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28532,
+            "y": 20682
+          },
+          {
+            "x": 33152,
+            "y": 24367
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30842.0,
+        "y": 22524.5
+      },
+      "crop": {
+        "left": 29952,
+        "top": 21760,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 890.0,
+        "y": 764.5
+      },
+      "atlas_image": "atlas/14-bronchiolus-annotiert.jpg",
+      "exercise_image": "pruefung/14-bronchiolus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 15,
+      "label": "Alveolen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18795,
+            "y": 12207
+          },
+          {
+            "x": 23949,
+            "y": 17239
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21372.0,
+        "y": 14723
+      },
+      "crop": {
+        "left": 20480,
+        "top": 14080,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 892.0,
+        "y": 643
+      },
+      "atlas_image": "atlas/15-alveolen-annotiert.jpg",
+      "exercise_image": "pruefung/15-alveolen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Alveolen“ dient hier als anatomischer Orientierungspunkt. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 16,
+      "label": "Schaumzellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29460,
+            "y": 31306
+          },
+          {
+            "x": 29476,
+            "y": 31383
+          },
+          {
+            "x": 29493,
+            "y": 31397
+          },
+          {
+            "x": 29480,
+            "y": 31416
+          },
+          {
+            "x": 29460,
+            "y": 31426
+          },
+          {
+            "x": 29439,
+            "y": 31435
+          },
+          {
+            "x": 29418,
+            "y": 31441
+          },
+          {
+            "x": 29399,
+            "y": 31453
+          },
+          {
+            "x": 29381,
+            "y": 31466
+          },
+          {
+            "x": 29362,
+            "y": 31478
+          },
+          {
+            "x": 29345,
+            "y": 31493
+          },
+          {
+            "x": 29331,
+            "y": 31511
+          },
+          {
+            "x": 29333,
+            "y": 31534
+          },
+          {
+            "x": 29352,
+            "y": 31549
+          },
+          {
+            "x": 29370,
+            "y": 31559
+          },
+          {
+            "x": 29391,
+            "y": 31565
+          },
+          {
+            "x": 29412,
+            "y": 31568
+          },
+          {
+            "x": 29433,
+            "y": 31570
+          },
+          {
+            "x": 29453,
+            "y": 31568
+          },
+          {
+            "x": 29474,
+            "y": 31561
+          },
+          {
+            "x": 29493,
+            "y": 31551
+          },
+          {
+            "x": 29514,
+            "y": 31543
+          },
+          {
+            "x": 29534,
+            "y": 31538
+          },
+          {
+            "x": 29557,
+            "y": 31538
+          },
+          {
+            "x": 29576,
+            "y": 31549
+          },
+          {
+            "x": 29584,
+            "y": 31570
+          },
+          {
+            "x": 29586,
+            "y": 31590
+          },
+          {
+            "x": 29592,
+            "y": 31611
+          },
+          {
+            "x": 29607,
+            "y": 31628
+          },
+          {
+            "x": 29626,
+            "y": 31638
+          },
+          {
+            "x": 29642,
+            "y": 31653
+          },
+          {
+            "x": 29659,
+            "y": 31667
+          },
+          {
+            "x": 29680,
+            "y": 31678
+          },
+          {
+            "x": 29700,
+            "y": 31680
+          },
+          {
+            "x": 29721,
+            "y": 31669
+          },
+          {
+            "x": 29736,
+            "y": 31653
+          },
+          {
+            "x": 29752,
+            "y": 31636
+          },
+          {
+            "x": 29769,
+            "y": 31622
+          },
+          {
+            "x": 29788,
+            "y": 31607
+          },
+          {
+            "x": 29802,
+            "y": 31590
+          },
+          {
+            "x": 29802,
+            "y": 31568
+          },
+          {
+            "x": 29804,
+            "y": 31545
+          },
+          {
+            "x": 29817,
+            "y": 31526
+          },
+          {
+            "x": 29833,
+            "y": 31511
+          },
+          {
+            "x": 29848,
+            "y": 31495
+          },
+          {
+            "x": 29860,
+            "y": 31476
+          },
+          {
+            "x": 29867,
+            "y": 31453
+          },
+          {
+            "x": 29867,
+            "y": 31430
+          },
+          {
+            "x": 29856,
+            "y": 31412
+          },
+          {
+            "x": 29842,
+            "y": 31395
+          },
+          {
+            "x": 29825,
+            "y": 31381
+          },
+          {
+            "x": 29806,
+            "y": 31370
+          },
+          {
+            "x": 29788,
+            "y": 31360
+          },
+          {
+            "x": 29777,
+            "y": 31341
+          },
+          {
+            "x": 29775,
+            "y": 31320
+          },
+          {
+            "x": 29771,
+            "y": 31300
+          },
+          {
+            "x": 29763,
+            "y": 31279
+          },
+          {
+            "x": 29757,
+            "y": 31256
+          },
+          {
+            "x": 29752,
+            "y": 31235
+          },
+          {
+            "x": 29742,
+            "y": 31214
+          },
+          {
+            "x": 29723,
+            "y": 31204
+          },
+          {
+            "x": 29703,
+            "y": 31212
+          },
+          {
+            "x": 29690,
+            "y": 31231
+          },
+          {
+            "x": 29680,
+            "y": 31252
+          },
+          {
+            "x": 29663,
+            "y": 31268
+          },
+          {
+            "x": 29642,
+            "y": 31283
+          },
+          {
+            "x": 29619,
+            "y": 31289
+          },
+          {
+            "x": 29599,
+            "y": 31293
+          },
+          {
+            "x": 29578,
+            "y": 31302
+          },
+          {
+            "x": 29557,
+            "y": 31306
+          },
+          {
+            "x": 29534,
+            "y": 31306
+          },
+          {
+            "x": 29514,
+            "y": 31298
+          },
+          {
+            "x": 29493,
+            "y": 31293
+          },
+          {
+            "x": 29472,
+            "y": 31300
+          },
+          {
+            "x": 29466,
+            "y": 31320
+          },
+          {
+            "x": 29466,
+            "y": 31320
+          },
+          {
+            "x": 29460,
+            "y": 31306
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29614.8,
+        "y": 31450.26
+      },
+      "crop": {
+        "left": 28672,
+        "top": 30720,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 942.8,
+        "y": 730.26
+      },
+      "atlas_image": "atlas/16-schaumzellen-annotiert.jpg",
+      "exercise_image": "pruefung/16-schaumzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 19,
+      "label": "Metastase",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9658,
+            "y": 28000
+          },
+          {
+            "x": 65365,
+            "y": 77853
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37511.5,
+        "y": 52926.5
+      },
+      "crop": {
+        "left": 36608,
+        "top": 52224,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 903.5,
+        "y": 702.5
+      },
+      "atlas_image": "atlas/19-metastase-annotiert.jpg",
+      "exercise_image": "pruefung/19-metastase.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund.",
+      "didactic_note": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 22,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31044,
+            "y": 34004
+          },
+          {
+            "x": 31102,
+            "y": 34065
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31073.0,
+        "y": 34034.5
+      },
+      "crop": {
+        "left": 30208,
+        "top": 33280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 865.0,
+        "y": 754.5
+      },
+      "atlas_image": "atlas/22-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/22-mitose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Mitose als ergänzendes Zeichen der malignen Proliferation.",
+      "didactic_note": "Mitose als ergänzendes Zeichen der malignen Proliferation. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 23,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30835,
+            "y": 34333
+          },
+          {
+            "x": 30887,
+            "y": 34394
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30861.0,
+        "y": 34363.5
+      },
+      "crop": {
+        "left": 29952,
+        "top": 33792,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 909.0,
+        "y": 571.5
+      },
+      "atlas_image": "atlas/23-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/23-mitose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 24,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30619,
+            "y": 33971
+          },
+          {
+            "x": 30676,
+            "y": 34031
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30647.5,
+        "y": 34001
+      },
+      "crop": {
+        "left": 29696,
+        "top": 33280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 951.5,
+        "y": 721
+      },
+      "atlas_image": "atlas/24-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/24-mitose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "id": 25,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30139,
+            "y": 33288
+          },
+          {
+            "x": 30206,
+            "y": 33354
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30172.5,
+        "y": 33321
+      },
+      "crop": {
+        "left": 29184,
+        "top": 32768,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 988.5,
+        "y": 553
+      },
+      "atlas_image": "atlas/25-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/25-mitose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 19,
+      "label": "Metastase",
+      "exercise_image": "pruefung/19-metastase.jpg",
+      "rationale": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund.",
+      "didactic_note": "Metastatisches kolorektales Adenokarzinom im Lungengewebe als definierender Befund. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    },
+    {
+      "annotation_id": 22,
+      "label": "Mitose",
+      "exercise_image": "pruefung/22-mitose.jpg",
+      "rationale": "Mitose als ergänzendes Zeichen der malignen Proliferation.",
+      "didactic_note": "Mitose als ergänzendes Zeichen der malignen Proliferation. Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+    }
+  ],
+  "didactic_context": "Eine kolorektale Adenokarzinommetastase in der Lunge bildet atypische Drüsenverbände, oft mit sogenannter schmutziger Nekrose, die sich klar von Alveolar- und Bronchialepithel abgrenzen."
+}

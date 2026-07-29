@@ -1,0 +1,1107 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "072",
+    "name": "Siegelringzell-Ca",
+    "organ": "Magen",
+    "diagnosis": "Siegelringzellkarzinom",
+    "description": [
+      "Siegelringzellhaltiges Magenkarzinom mit diffuser Infiltration in die Muskulatur;",
+      "Einteilung nach Lauren, hier liegt ein diffuser Typ n. Lauren vor;",
+      "Siegelringzellen sind prall mit Schleim gefüllt, Zellkerne an den Rand gedrängt;",
+      "bildet haufig lymphogene Metastasen;",
+      "Lymphgefäßinfiltration;",
+      "Serosadurchbruch;",
+      "in PAS Färbung erscheint Zellinhalt tiefrot (vergleichen Sie hierzu #83)",
+      "Karzinom ist erblich bedingt bei einer E-Cadherin Mutation;"
+    ],
+    "slide_id": "293baa7e-7aa0-49f1-b513-4d9e5d16b97f",
+    "slide_path": "Histopathologie 5. Semester/slides/072 - Siegelringzell-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=293baa7e-7aa0-49f1-b513-4d9e5d16b97f&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 9,
+      "label": "intakte Serosa",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 0,
+            "y": 65536
+          },
+          {
+            "x": 0,
+            "y": 65536
+          },
+          {
+            "x": 0,
+            "y": 65536
+          },
+          {
+            "x": 0,
+            "y": 65536
+          }
+        ]
+      },
+      "anchor": {
+        "x": 0,
+        "y": 65536
+      },
+      "crop": {
+        "left": 0,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 0,
+        "y": 1024
+      },
+      "atlas_image": "atlas/09-intakte-serosa-annotiert.jpg",
+      "exercise_image": "pruefung/09-intakte-serosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „intakte Serosa“ dient hier als anatomischer Orientierungspunkt. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    },
+    {
+      "id": 10,
+      "label": "Serosadurchbruch",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          }
+        ]
+      },
+      "anchor": {
+        "x": 65536,
+        "y": 65536
+      },
+      "crop": {
+        "left": 64000,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 1024
+      },
+      "atlas_image": "atlas/10-serosadurchbruch-annotiert.jpg",
+      "exercise_image": "pruefung/10-serosadurchbruch.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Serosadurchbruch“ dient hier als anatomischer Orientierungspunkt. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    },
+    {
+      "id": 11,
+      "label": "Siegelringzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 0,
+            "y": 65536
+          },
+          {
+            "x": 0,
+            "y": 65536
+          }
+        ]
+      },
+      "anchor": {
+        "x": 0,
+        "y": 65536
+      },
+      "crop": {
+        "left": 0,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 0,
+        "y": 1024
+      },
+      "atlas_image": "atlas/11-siegelringzelle-annotiert.jpg",
+      "exercise_image": "pruefung/11-siegelringzelle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie.",
+      "didactic_note": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    },
+    {
+      "id": 12,
+      "label": "Lymphgefäßinfiltration",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          }
+        ]
+      },
+      "anchor": {
+        "x": 65536,
+        "y": 65536
+      },
+      "crop": {
+        "left": 64000,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 1024
+      },
+      "atlas_image": "atlas/12-lymphgefassinfiltration-annotiert.jpg",
+      "exercise_image": "pruefung/12-lymphgefassinfiltration.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung.",
+      "didactic_note": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    },
+    {
+      "id": 13,
+      "label": "Lymphgefäßinfiltration",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          },
+          {
+            "x": 65536,
+            "y": 65536
+          }
+        ]
+      },
+      "anchor": {
+        "x": 65536,
+        "y": 65536
+      },
+      "crop": {
+        "left": 64000,
+        "top": 64512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 1024
+      },
+      "atlas_image": "atlas/13-lymphgefassinfiltration-annotiert.jpg",
+      "exercise_image": "pruefung/13-lymphgefassinfiltration.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lymphgefäßinfiltration“ als morphologischen Teilbefund. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 11,
+      "label": "Siegelringzelle",
+      "exercise_image": "pruefung/11-siegelringzelle.jpg",
+      "rationale": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie.",
+      "didactic_note": "Siegelringzelle als krankheitsdefinierende Tumorzellmorphologie. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    },
+    {
+      "annotation_id": 12,
+      "label": "Lymphgefäßinfiltration",
+      "exercise_image": "pruefung/12-lymphgefassinfiltration.jpg",
+      "rationale": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung.",
+      "didactic_note": "Lymphgefäßinfiltration als Zeichen der malignen Ausbreitung. Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+    }
+  ],
+  "didactic_context": "Siegelringzellen enthalten reichlich intrazytoplasmatisches Muzin, das den Kern randständig verdrängt; diffuse Einzelzellinfiltration und Lymphgefäßeinbruch kennzeichnen die aggressive Ausbreitung."
+}

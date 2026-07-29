@@ -1,0 +1,1633 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "042",
+    "name": "Adeno-Ca des Ösophagus (Barrett-Ca)",
+    "organ": "Ösophagus/ösophagogastraler Übergang",
+    "diagnosis": "Adenokarzinom des Ösophagus/ösophagogastralen Übergangs (Barrett Karzinom)",
+    "description": [
+      "typische Schichtung der Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "Plattenepithel;",
+      "Barrett Metaplasie (Plattenepithel wird durch intestinales Zylinderepithel ersetzt);",
+      "Tumorgrenze;",
+      "kleindrüsiges, diffus infiltrierendes Wachstumsmuster;",
+      "lymphozytäres Infiltrat (chronische Komponente mit follikulärer Anordnung);",
+      "Zell- und Kernanomalien (deutliche Nucleoli, helle blasige Kerne, Mitosen);",
+      "Schleimsezernierung;",
+      "Nekrosen;",
+      "pT2 (Infiltration der Muskulatur);"
+    ],
+    "slide_id": "d9b6d907-9c77-4e8e-8e74-fcaded71da7b",
+    "slide_path": "Histopathologie 5. Semester/slides/042 - Adeno-Ca des Ösophagus (Barrett-Ca).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=d9b6d907-9c77-4e8e-8e74-fcaded71da7b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2048,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Cardia Schleimhaut",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16666.63,
+            "y": 863.36
+          },
+          {
+            "x": 22404.17,
+            "y": 6038.35
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19535.4,
+        "y": 3450.86
+      },
+      "crop": {
+        "left": 18688,
+        "top": 2816,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 847.4,
+        "y": 634.86
+      },
+      "atlas_image": "atlas/05-cardia-schleimhaut-annotiert.jpg",
+      "exercise_image": "pruefung/05-cardia-schleimhaut.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Cardia Schleimhaut“ dient hier als anatomischer Orientierungspunkt. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 33,
+      "label": "Muscularis propria infiltrierende Karzinomverbände",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17081.74,
+            "y": 54119.51
+          },
+          {
+            "x": 16808.63,
+            "y": 55040.1
+          },
+          {
+            "x": 18060.08,
+            "y": 54811.82
+          },
+          {
+            "x": 21412.24,
+            "y": 53389.16
+          },
+          {
+            "x": 23292.14,
+            "y": 53135.06
+          },
+          {
+            "x": 23768.4,
+            "y": 52690.73
+          },
+          {
+            "x": 23641.35,
+            "y": 52183.22
+          },
+          {
+            "x": 22694.95,
+            "y": 51954.27
+          },
+          {
+            "x": 20853.77,
+            "y": 52309.59
+          },
+          {
+            "x": 20517.47,
+            "y": 52931.92
+          },
+          {
+            "x": 17081.74,
+            "y": 54119.51
+          },
+          {
+            "x": 17081.74,
+            "y": 54119.51
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20473.87,
+        "y": 53334.99
+      },
+      "crop": {
+        "left": 19456,
+        "top": 52736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1017.87,
+        "y": 598.99
+      },
+      "atlas_image": "atlas/33-muscularis-propria-infiltrierende-karzinomverbande-annotiert.jpg",
+      "exercise_image": "pruefung/33-muscularis-propria-infiltrierende-karzinomverbande.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Infiltration der Muscularis propria belegt das invasive Wachstum.",
+      "didactic_note": "Infiltration der Muscularis propria belegt das invasive Wachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 34,
+      "label": "Schleim",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 25000.15,
+            "y": 48123.81
+          },
+          {
+            "x": 24398.21,
+            "y": 47437.61
+          },
+          {
+            "x": 24398.21,
+            "y": 47437.61
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24398.21,
+        "y": 47437.61
+      },
+      "crop": {
+        "left": 23552,
+        "top": 46848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 846.21,
+        "y": 589.61
+      },
+      "atlas_image": "atlas/34-schleim-annotiert.jpg",
+      "exercise_image": "pruefung/34-schleim.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schleim“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 35,
+      "label": "Becherzelle",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 25642.19,
+            "y": 10665.75
+          },
+          {
+            "x": 24699.86,
+            "y": 11313.9
+          },
+          {
+            "x": 24699.86,
+            "y": 11313.9
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24699.86,
+        "y": 11313.9
+      },
+      "crop": {
+        "left": 23808,
+        "top": 10752,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 891.86,
+        "y": 561.9
+      },
+      "atlas_image": "atlas/35-becherzelle-annotiert.jpg",
+      "exercise_image": "pruefung/35-becherzelle.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Becherzelle“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 38,
+      "label": "Barrett Mucosa/ intestinale Metaplasie",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23243.23,
+            "y": 9777.77
+          },
+          {
+            "x": 24594.55,
+            "y": 11297.59
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23918.89,
+        "y": 10537.68
+      },
+      "crop": {
+        "left": 23040,
+        "top": 9984,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 878.89,
+        "y": 553.68
+      },
+      "atlas_image": "atlas/38-barrett-mucosa-intestinale-metaplasie-annotiert.jpg",
+      "exercise_image": "pruefung/38-barrett-mucosa-intestinale-metaplasie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Barrett Mucosa/ intestinale Metaplasie“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 39,
+      "label": "verschlepptes Plattenepithel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12548.11,
+            "y": 2237.79
+          },
+          {
+            "x": 14375.69,
+            "y": 2877.1
+          },
+          {
+            "x": 14375.69,
+            "y": 2877.1
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14375.69,
+        "y": 2877.1
+      },
+      "crop": {
+        "left": 13568,
+        "top": 2304,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 807.69,
+        "y": 573.1
+      },
+      "atlas_image": "atlas/39-verschlepptes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/39-verschlepptes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verschlepptes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 40,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 22152.79,
+            "y": 44533.18
+          },
+          {
+            "x": 22202.38,
+            "y": 44579.37
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22177.59,
+        "y": 44556.27
+      },
+      "crop": {
+        "left": 21248,
+        "top": 44032,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 929.59,
+        "y": 524.27
+      },
+      "atlas_image": "atlas/40-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/40-mitose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mitose“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 41,
+      "label": "Karzinomareal 1",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15693.73,
+            "y": 26663.59
+          },
+          {
+            "x": 15131.19,
+            "y": 26700.96
+          },
+          {
+            "x": 14681.42,
+            "y": 26700.96
+          },
+          {
+            "x": 14268.35,
+            "y": 26700.96
+          },
+          {
+            "x": 13781.22,
+            "y": 26739
+          },
+          {
+            "x": 13293.41,
+            "y": 26776.37
+          },
+          {
+            "x": 12918.38,
+            "y": 26851.1
+          },
+          {
+            "x": 12543.35,
+            "y": 26926.52
+          },
+          {
+            "x": 12168.32,
+            "y": 27075.98
+          },
+          {
+            "x": 11868.03,
+            "y": 27376.28
+          },
+          {
+            "x": 11717.88,
+            "y": 27751.31
+          },
+          {
+            "x": 11643.14,
+            "y": 28163.7
+          },
+          {
+            "x": 11568.41,
+            "y": 28538.73
+          },
+          {
+            "x": 11568.41,
+            "y": 29063.91
+          },
+          {
+            "x": 11568.41,
+            "y": 29476.98
+          },
+          {
+            "x": 11717.88,
+            "y": 29964.11
+          },
+          {
+            "x": 11868.03,
+            "y": 30414.56
+          },
+          {
+            "x": 12055.54,
+            "y": 30901.69
+          },
+          {
+            "x": 12243.06,
+            "y": 31314.76
+          },
+          {
+            "x": 12430.57,
+            "y": 31764.53
+          },
+          {
+            "x": 12618.08,
+            "y": 32139.55
+          },
+          {
+            "x": 12730.86,
+            "y": 32514.58
+          },
+          {
+            "x": 12918.38,
+            "y": 32889.61
+          },
+          {
+            "x": 13068.53,
+            "y": 33264.64
+          },
+          {
+            "x": 13293.41,
+            "y": 33677.72
+          },
+          {
+            "x": 13480.92,
+            "y": 34015.38
+          },
+          {
+            "x": 13556.34,
+            "y": 34090.11
+          },
+          {
+            "x": 13855.95,
+            "y": 34465.14
+          },
+          {
+            "x": 14118.88,
+            "y": 34840.17
+          },
+          {
+            "x": 14456.54,
+            "y": 35177.83
+          },
+          {
+            "x": 14718.79,
+            "y": 35478.13
+          },
+          {
+            "x": 15056.45,
+            "y": 35853.16
+          },
+          {
+            "x": 15318.7,
+            "y": 36078.04
+          },
+          {
+            "x": 15693.73,
+            "y": 36302.92
+          },
+          {
+            "x": 16068.76,
+            "y": 36415.7
+          },
+          {
+            "x": 16556.57,
+            "y": 36527.8
+          },
+          {
+            "x": 17119.11,
+            "y": 36527.8
+          },
+          {
+            "x": 17606.92,
+            "y": 36527.8
+          },
+          {
+            "x": 18019.32,
+            "y": 36527.8
+          },
+          {
+            "x": 18469.76,
+            "y": 36377.65
+          },
+          {
+            "x": 18844.79,
+            "y": 36115.41
+          },
+          {
+            "x": 19032.3,
+            "y": 36002.62
+          },
+          {
+            "x": 19331.92,
+            "y": 35665.64
+          },
+          {
+            "x": 19706.95,
+            "y": 35365.35
+          },
+          {
+            "x": 20044.61,
+            "y": 35102.42
+          },
+          {
+            "x": 20194.76,
+            "y": 34990.32
+          },
+          {
+            "x": 20495.05,
+            "y": 34727.39
+          },
+          {
+            "x": 20757.3,
+            "y": 34390.41
+          },
+          {
+            "x": 21057.59,
+            "y": 33977.33
+          },
+          {
+            "x": 21319.84,
+            "y": 33602.3
+          },
+          {
+            "x": 21544.72,
+            "y": 33264.64
+          },
+          {
+            "x": 21732.24,
+            "y": 32927.66
+          },
+          {
+            "x": 21882.39,
+            "y": 32551.95
+          },
+          {
+            "x": 21995.17,
+            "y": 32102.19
+          },
+          {
+            "x": 22145.31,
+            "y": 31652.42
+          },
+          {
+            "x": 22182.68,
+            "y": 31239.35
+          },
+          {
+            "x": 22220.05,
+            "y": 30789.59
+          },
+          {
+            "x": 22220.05,
+            "y": 30301.78
+          },
+          {
+            "x": 22145.31,
+            "y": 29926.75
+          },
+          {
+            "x": 21957.8,
+            "y": 29438.94
+          },
+          {
+            "x": 21845.02,
+            "y": 28989.18
+          },
+          {
+            "x": 21770.29,
+            "y": 28614.15
+          },
+          {
+            "x": 21732.24,
+            "y": 28239.12
+          },
+          {
+            "x": 21694.87,
+            "y": 27864.09
+          },
+          {
+            "x": 21657.51,
+            "y": 27451.01
+          },
+          {
+            "x": 21657.51,
+            "y": 27038.62
+          },
+          {
+            "x": 21657.51,
+            "y": 26626.22
+          },
+          {
+            "x": 21732.24,
+            "y": 26213.83
+          },
+          {
+            "x": 21882.39,
+            "y": 25800.75
+          },
+          {
+            "x": 22032.53,
+            "y": 25425.72
+          },
+          {
+            "x": 22220.05,
+            "y": 25050.69
+          },
+          {
+            "x": 22370.2,
+            "y": 24675.66
+          },
+          {
+            "x": 22557.71,
+            "y": 24338
+          },
+          {
+            "x": 22782.59,
+            "y": 23888.24
+          },
+          {
+            "x": 22970.11,
+            "y": 23513.21
+          },
+          {
+            "x": 23157.62,
+            "y": 23175.55
+          },
+          {
+            "x": 23345.14,
+            "y": 22837.88
+          },
+          {
+            "x": 23532.65,
+            "y": 22388.12
+          },
+          {
+            "x": 23720.16,
+            "y": 21937.68
+          },
+          {
+            "x": 23907.68,
+            "y": 21487.92
+          },
+          {
+            "x": 24057.83,
+            "y": 21112.89
+          },
+          {
+            "x": 24133.24,
+            "y": 20737.86
+          },
+          {
+            "x": 24245.34,
+            "y": 20362.15
+          },
+          {
+            "x": 24320.75,
+            "y": 19949.75
+          },
+          {
+            "x": 24395.49,
+            "y": 19462.62
+          },
+          {
+            "x": 24470.9,
+            "y": 19086.92
+          },
+          {
+            "x": 24583,
+            "y": 18599.79
+          },
+          {
+            "x": 24620.37,
+            "y": 18187.39
+          },
+          {
+            "x": 24658.42,
+            "y": 17811.68
+          },
+          {
+            "x": 24695.78,
+            "y": 17399.29
+          },
+          {
+            "x": 24733.15,
+            "y": 16986.89
+          },
+          {
+            "x": 24733.15,
+            "y": 16574.49
+          },
+          {
+            "x": 24770.52,
+            "y": 16199.46
+          },
+          {
+            "x": 24770.52,
+            "y": 15786.39
+          },
+          {
+            "x": 24733.15,
+            "y": 15336.63
+          },
+          {
+            "x": 24620.37,
+            "y": 14961.6
+          },
+          {
+            "x": 24470.9,
+            "y": 14511.15
+          },
+          {
+            "x": 24320.75,
+            "y": 14136.13
+          },
+          {
+            "x": 24095.19,
+            "y": 13723.73
+          },
+          {
+            "x": 23907.68,
+            "y": 13386.07
+          },
+          {
+            "x": 23608.06,
+            "y": 13048.41
+          },
+          {
+            "x": 23270.4,
+            "y": 12823.52
+          },
+          {
+            "x": 22895.37,
+            "y": 12523.23
+          },
+          {
+            "x": 22520.34,
+            "y": 12223.61
+          },
+          {
+            "x": 22069.9,
+            "y": 12073.47
+          },
+          {
+            "x": 21694.87,
+            "y": 11998.05
+          },
+          {
+            "x": 21319.84,
+            "y": 11885.95
+          },
+          {
+            "x": 20944.81,
+            "y": 11773.17
+          },
+          {
+            "x": 20569.79,
+            "y": 11623.02
+          },
+          {
+            "x": 20157.39,
+            "y": 11548.29
+          },
+          {
+            "x": 19706.95,
+            "y": 11398.14
+          },
+          {
+            "x": 19294.55,
+            "y": 11286.04
+          },
+          {
+            "x": 18806.74,
+            "y": 11098.53
+          },
+          {
+            "x": 18431.71,
+            "y": 10948.38
+          },
+          {
+            "x": 17944.58,
+            "y": 10722.82
+          },
+          {
+            "x": 17531.51,
+            "y": 10610.72
+          },
+          {
+            "x": 17007.01,
+            "y": 10460.57
+          },
+          {
+            "x": 16631.3,
+            "y": 10385.84
+          },
+          {
+            "x": 16181.54,
+            "y": 10385.84
+          },
+          {
+            "x": 15769.14,
+            "y": 10423.2
+          },
+          {
+            "x": 15281.33,
+            "y": 10497.94
+          },
+          {
+            "x": 14906.3,
+            "y": 10648.08
+          },
+          {
+            "x": 14456.54,
+            "y": 10760.86
+          },
+          {
+            "x": 14043.47,
+            "y": 10872.97
+          },
+          {
+            "x": 13705.8,
+            "y": 11060.48
+          },
+          {
+            "x": 13443.56,
+            "y": 11360.78
+          },
+          {
+            "x": 13180.63,
+            "y": 11661.07
+          },
+          {
+            "x": 13031.16,
+            "y": 12036.1
+          },
+          {
+            "x": 12993.11,
+            "y": 12448.5
+          },
+          {
+            "x": 12993.11,
+            "y": 12898.26
+          },
+          {
+            "x": 13105.89,
+            "y": 13311.33
+          },
+          {
+            "x": 13218.67,
+            "y": 13686.36
+          },
+          {
+            "x": 13406.19,
+            "y": 14098.76
+          },
+          {
+            "x": 13593.7,
+            "y": 14473.79
+          },
+          {
+            "x": 13781.22,
+            "y": 14811.45
+          },
+          {
+            "x": 13968.73,
+            "y": 15186.48
+          },
+          {
+            "x": 14156.25,
+            "y": 15561.51
+          },
+          {
+            "x": 14381.13,
+            "y": 15899.17
+          },
+          {
+            "x": 14493.91,
+            "y": 16311.57
+          },
+          {
+            "x": 14606.01,
+            "y": 16723.96
+          },
+          {
+            "x": 14606.01,
+            "y": 17137.04
+          },
+          {
+            "x": 14644.06,
+            "y": 17624.17
+          },
+          {
+            "x": 14606.01,
+            "y": 18111.98
+          },
+          {
+            "x": 14531.28,
+            "y": 18524.37
+          },
+          {
+            "x": 14343.76,
+            "y": 18937.45
+          },
+          {
+            "x": 14156.25,
+            "y": 19349.84
+          },
+          {
+            "x": 13968.73,
+            "y": 19762.24
+          },
+          {
+            "x": 13855.95,
+            "y": 20137.27
+          },
+          {
+            "x": 13781.22,
+            "y": 20587.71
+          },
+          {
+            "x": 13743.85,
+            "y": 21037.47
+          },
+          {
+            "x": 13743.85,
+            "y": 21449.87
+          },
+          {
+            "x": 13781.22,
+            "y": 21862.95
+          },
+          {
+            "x": 13893.32,
+            "y": 22237.97
+          },
+          {
+            "x": 14006.1,
+            "y": 22650.37
+          },
+          {
+            "x": 14193.61,
+            "y": 23025.4
+          },
+          {
+            "x": 14343.76,
+            "y": 23437.8
+          },
+          {
+            "x": 14493.91,
+            "y": 23812.82
+          },
+          {
+            "x": 14718.79,
+            "y": 24338
+          },
+          {
+            "x": 14906.3,
+            "y": 24713.03
+          },
+          {
+            "x": 15093.82,
+            "y": 25088.06
+          },
+          {
+            "x": 15281.33,
+            "y": 25501.13
+          },
+          {
+            "x": 15468.85,
+            "y": 25838.8
+          },
+          {
+            "x": 15619,
+            "y": 26588.85
+          },
+          {
+            "x": 15619,
+            "y": 26588.85
+          },
+          {
+            "x": 15693.73,
+            "y": 26663.59
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17880.52,
+        "y": 23180.05
+      },
+      "crop": {
+        "left": 16896,
+        "top": 22528,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 984.52,
+        "y": 652.05
+      },
+      "atlas_image": "atlas/41-karzinomareal-1-annotiert.jpg",
+      "exercise_image": "pruefung/41-karzinomareal-1.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Karzinomareal mit der malignen Drüsenmorphologie.",
+      "didactic_note": "Karzinomareal mit der malignen Drüsenmorphologie. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "id": 42,
+      "label": "Karzinomareal 2",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19183.81,
+            "y": 39176.1
+          },
+          {
+            "x": 18655.24,
+            "y": 39176.1
+          },
+          {
+            "x": 18240.12,
+            "y": 39138.06
+          },
+          {
+            "x": 17674.18,
+            "y": 39138.06
+          },
+          {
+            "x": 17221.02,
+            "y": 39251.52
+          },
+          {
+            "x": 16843.95,
+            "y": 39402.34
+          },
+          {
+            "x": 16428.84,
+            "y": 39666.63
+          },
+          {
+            "x": 16089.14,
+            "y": 39893.55
+          },
+          {
+            "x": 15711.39,
+            "y": 40119.79
+          },
+          {
+            "x": 15371.69,
+            "y": 40346.03
+          },
+          {
+            "x": 15070.04,
+            "y": 40610.32
+          },
+          {
+            "x": 14767.71,
+            "y": 40950.02
+          },
+          {
+            "x": 14503.42,
+            "y": 41327.76
+          },
+          {
+            "x": 14315.23,
+            "y": 41667.46
+          },
+          {
+            "x": 14088.31,
+            "y": 42044.53
+          },
+          {
+            "x": 13824.02,
+            "y": 42497.69
+          },
+          {
+            "x": 13559.73,
+            "y": 42874.76
+          },
+          {
+            "x": 13296.13,
+            "y": 43365.97
+          },
+          {
+            "x": 13107.25,
+            "y": 43818.45
+          },
+          {
+            "x": 12956.43,
+            "y": 44309.65
+          },
+          {
+            "x": 12880.33,
+            "y": 44686.72
+          },
+          {
+            "x": 12842.97,
+            "y": 45139.88
+          },
+          {
+            "x": 12767.55,
+            "y": 45592.36
+          },
+          {
+            "x": 12804.92,
+            "y": 46008.15
+          },
+          {
+            "x": 12842.97,
+            "y": 46460.63
+          },
+          {
+            "x": 12993.79,
+            "y": 46875.75
+          },
+          {
+            "x": 13220.03,
+            "y": 47253.49
+          },
+          {
+            "x": 13408.91,
+            "y": 47630.56
+          },
+          {
+            "x": 13371.54,
+            "y": 48083.72
+          },
+          {
+            "x": 13182.67,
+            "y": 48423.42
+          },
+          {
+            "x": 12842.97,
+            "y": 48801.17
+          },
+          {
+            "x": 12578.68,
+            "y": 49102.82
+          },
+          {
+            "x": 12277.03,
+            "y": 49442.52
+          },
+          {
+            "x": 12088.15,
+            "y": 49782.22
+          },
+          {
+            "x": 12012.74,
+            "y": 50159.97
+          },
+          {
+            "x": 12012.74,
+            "y": 50575.08
+          },
+          {
+            "x": 12050.11,
+            "y": 51065.61
+          },
+          {
+            "x": 12125.52,
+            "y": 51594.18
+          },
+          {
+            "x": 12200.93,
+            "y": 52009.3
+          },
+          {
+            "x": 12352.44,
+            "y": 52424.41
+          },
+          {
+            "x": 12578.68,
+            "y": 52914.94
+          },
+          {
+            "x": 12842.97,
+            "y": 53254.64
+          },
+          {
+            "x": 13031.84,
+            "y": 53594.34
+          },
+          {
+            "x": 13220.03,
+            "y": 53934.04
+          },
+          {
+            "x": 13408.91,
+            "y": 54349.15
+          },
+          {
+            "x": 13597.78,
+            "y": 54688.85
+          },
+          {
+            "x": 13786.65,
+            "y": 55028.55
+          },
+          {
+            "x": 14126.35,
+            "y": 55406.3
+          },
+          {
+            "x": 14466.05,
+            "y": 55707.95
+          },
+          {
+            "x": 14730.34,
+            "y": 56047.65
+          },
+          {
+            "x": 14994.63,
+            "y": 56349.99
+          },
+          {
+            "x": 15258.23,
+            "y": 56651.64
+          },
+          {
+            "x": 15560.57,
+            "y": 56953.97
+          },
+          {
+            "x": 15937.63,
+            "y": 57293.67
+          },
+          {
+            "x": 16239.97,
+            "y": 57557.96
+          },
+          {
+            "x": 16617.03,
+            "y": 57859.61
+          },
+          {
+            "x": 16956.73,
+            "y": 58123.9
+          },
+          {
+            "x": 17259.07,
+            "y": 58425.55
+          },
+          {
+            "x": 17523.35,
+            "y": 58765.25
+          },
+          {
+            "x": 17712.23,
+            "y": 59143
+          },
+          {
+            "x": 18013.88,
+            "y": 59444.65
+          },
+          {
+            "x": 18391.63,
+            "y": 59708.94
+          },
+          {
+            "x": 18806.74,
+            "y": 59859.77
+          },
+          {
+            "x": 19183.81,
+            "y": 59935.86
+          },
+          {
+            "x": 19636.97,
+            "y": 59935.86
+          },
+          {
+            "x": 20127.5,
+            "y": 59822.4
+          },
+          {
+            "x": 20656.07,
+            "y": 59596.16
+          },
+          {
+            "x": 21222.01,
+            "y": 59407.29
+          },
+          {
+            "x": 21788.63,
+            "y": 59067.59
+          },
+          {
+            "x": 22241.11,
+            "y": 58803.3
+          },
+          {
+            "x": 22580.81,
+            "y": 58614.43
+          },
+          {
+            "x": 22883.14,
+            "y": 58312.77
+          },
+          {
+            "x": 23222.84,
+            "y": 58085.85
+          },
+          {
+            "x": 23637.96,
+            "y": 57784.2
+          },
+          {
+            "x": 23977.66,
+            "y": 57595.33
+          },
+          {
+            "x": 24317.36,
+            "y": 57293.67
+          },
+          {
+            "x": 24657.06,
+            "y": 57066.75
+          },
+          {
+            "x": 24996.76,
+            "y": 56802.47
+          },
+          {
+            "x": 25449.92,
+            "y": 56462.77
+          },
+          {
+            "x": 25865.03,
+            "y": 56199.16
+          },
+          {
+            "x": 26204.73,
+            "y": 56010.28
+          },
+          {
+            "x": 26619.85,
+            "y": 55783.37
+          },
+          {
+            "x": 27034.96,
+            "y": 55519.76
+          },
+          {
+            "x": 27374.66,
+            "y": 55292.84
+          },
+          {
+            "x": 27827.82,
+            "y": 54991.18
+          },
+          {
+            "x": 28167.52,
+            "y": 54802.31
+          },
+          {
+            "x": 28507.22,
+            "y": 54462.61
+          },
+          {
+            "x": 28922.33,
+            "y": 53934.04
+          },
+          {
+            "x": 29223.99,
+            "y": 53594.34
+          },
+          {
+            "x": 29488.27,
+            "y": 53028.4
+          },
+          {
+            "x": 29677.15,
+            "y": 52688.7
+          },
+          {
+            "x": 29903.39,
+            "y": 52273.58
+          },
+          {
+            "x": 30092.26,
+            "y": 51933.88
+          },
+          {
+            "x": 30167.67,
+            "y": 51556.14
+          },
+          {
+            "x": 30281.13,
+            "y": 51179.07
+          },
+          {
+            "x": 30431.96,
+            "y": 50687.86
+          },
+          {
+            "x": 30507.37,
+            "y": 50310.8
+          },
+          {
+            "x": 30582.79,
+            "y": 49895.68
+          },
+          {
+            "x": 30620.83,
+            "y": 49517.94
+          },
+          {
+            "x": 30620.83,
+            "y": 49065.45
+          },
+          {
+            "x": 30544.74,
+            "y": 48687.71
+          },
+          {
+            "x": 30469.33,
+            "y": 48309.96
+          },
+          {
+            "x": 30431.96,
+            "y": 47932.89
+          },
+          {
+            "x": 30356.55,
+            "y": 47442.37
+          },
+          {
+            "x": 30281.13,
+            "y": 46989.21
+          },
+          {
+            "x": 30167.67,
+            "y": 46611.46
+          },
+          {
+            "x": 29941.43,
+            "y": 46196.35
+          },
+          {
+            "x": 29752.56,
+            "y": 45856.65
+          },
+          {
+            "x": 29450.23,
+            "y": 45479.58
+          },
+          {
+            "x": 29186.62,
+            "y": 45177.25
+          },
+          {
+            "x": 28770.83,
+            "y": 44762.13
+          },
+          {
+            "x": 28355.71,
+            "y": 44347.02
+          },
+          {
+            "x": 27978.65,
+            "y": 43969.95
+          },
+          {
+            "x": 27525.49,
+            "y": 43516.79
+          },
+          {
+            "x": 27034.96,
+            "y": 43139.05
+          },
+          {
+            "x": 26544.43,
+            "y": 42837.39
+          },
+          {
+            "x": 26204.73,
+            "y": 42648.52
+          },
+          {
+            "x": 25676.16,
+            "y": 42308.82
+          },
+          {
+            "x": 25110.22,
+            "y": 42044.53
+          },
+          {
+            "x": 24657.06,
+            "y": 41818.29
+          },
+          {
+            "x": 24203.9,
+            "y": 41554
+          },
+          {
+            "x": 23826.83,
+            "y": 41403.18
+          },
+          {
+            "x": 23449.08,
+            "y": 41176.26
+          },
+          {
+            "x": 23033.97,
+            "y": 41025.43
+          },
+          {
+            "x": 22656.22,
+            "y": 40836.56
+          },
+          {
+            "x": 22128.33,
+            "y": 40534.9
+          },
+          {
+            "x": 21826,
+            "y": 40233.25
+          },
+          {
+            "x": 21222.01,
+            "y": 39780.09
+          },
+          {
+            "x": 20806.9,
+            "y": 39553.85
+          },
+          {
+            "x": 20429.83,
+            "y": 39326.93
+          },
+          {
+            "x": 20052.08,
+            "y": 39214.15
+          },
+          {
+            "x": 19032.98,
+            "y": 39138.06
+          },
+          {
+            "x": 19032.98,
+            "y": 39138.06
+          },
+          {
+            "x": 19183.81,
+            "y": 39176.1
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20585.11,
+        "y": 49333.04
+      },
+      "crop": {
+        "left": 19712,
+        "top": 48640,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 873.11,
+        "y": 693.04
+      },
+      "atlas_image": "atlas/42-karzinomareal-2-annotiert.jpg",
+      "exercise_image": "pruefung/42-karzinomareal-2.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Karzinomareal 2“ als morphologischen Teilbefund. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 41,
+      "label": "Karzinomareal 1",
+      "exercise_image": "pruefung/41-karzinomareal-1.jpg",
+      "rationale": "Karzinomareal mit der malignen Drüsenmorphologie.",
+      "didactic_note": "Karzinomareal mit der malignen Drüsenmorphologie. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    },
+    {
+      "annotation_id": 33,
+      "label": "Muscularis propria infiltrierende Karzinomverbände",
+      "exercise_image": "pruefung/33-muscularis-propria-infiltrierende-karzinomverbande.jpg",
+      "rationale": "Infiltration der Muscularis propria belegt das invasive Wachstum.",
+      "didactic_note": "Infiltration der Muscularis propria belegt das invasive Wachstum. Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+    }
+  ],
+  "didactic_context": "Das Barrett-Adenokarzinom zeigt atypische drüsenbildende Tumorverbände auf dem Boden intestinal metaplastischer Schleimhaut; der Einbruch in die Muscularis propria beweist invasives Wachstum."
+}

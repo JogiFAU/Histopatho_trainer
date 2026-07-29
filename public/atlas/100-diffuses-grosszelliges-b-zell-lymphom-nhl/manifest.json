@@ -1,0 +1,223 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "100",
+    "name": "Diffuses großzelliges B-Zell-Lymphom (NHL)",
+    "organ": "Lymphknoten",
+    "diagnosis": "diffuses großzelliges B-Zell-Lymphom",
+    "description": [
+      "fibrosierte Kapsel;",
+      "Randsinus;",
+      "Zerstörung der Lymphknotenarchitektur, kein follikuläres Bild;",
+      "Lymphoblasten mit große Zellkerne, rasenartig vermehrt (Zentroblasten mit Kernen am äußeren Rand);",
+      "maligne Neoplasie des Lymphsystems;",
+      "Tumorzellen diffus im gesamten Lymphknoten ausgebreitet;",
+      "deutliche Nukleoli und viele Mitosen;",
+      "Fixierfehler: Riss, mittige Aufhellung im Lymphknoten;"
+    ],
+    "slide_id": "f9bee563-3807-4fd9-8aca-a68503d209fb",
+    "slide_path": "Histopathologie 5. Semester/slides/100 - Diffuses großzelliges B-Zell-Lymphom (NHL).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f9bee563-3807-4fd9-8aca-a68503d209fb&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Kapsel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 56244.43,
+            "y": 33284.09
+          },
+          {
+            "x": 53907.06,
+            "y": 32616.85
+          },
+          {
+            "x": 53907.06,
+            "y": 32616.85
+          }
+        ]
+      },
+      "anchor": {
+        "x": 53907.06,
+        "y": 32616.85
+      },
+      "crop": {
+        "left": 52992,
+        "top": 32000,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 915.06,
+        "y": 616.85
+      },
+      "atlas_image": "atlas/07-kapsel-annotiert.jpg",
+      "exercise_image": "pruefung/07-kapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Kapsel“ dient hier als anatomischer Orientierungspunkt. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    },
+    {
+      "id": 8,
+      "label": "Randsinus",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19010.72,
+            "y": 61628.6
+          },
+          {
+            "x": 22067.06,
+            "y": 62828.26
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20538.89,
+        "y": 62228.43
+      },
+      "crop": {
+        "left": 19712,
+        "top": 61696,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 826.89,
+        "y": 532.43
+      },
+      "atlas_image": "atlas/08-randsinus-annotiert.jpg",
+      "exercise_image": "pruefung/08-randsinus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Randsinus“ als morphologischen Teilbefund. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    },
+    {
+      "id": 9,
+      "label": "großleibige Lymphomzellen",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 14616.51,
+            "y": 40806.81
+          },
+          {
+            "x": 15371.57,
+            "y": 41514.21
+          }
+        ]
+      },
+      "anchor": {
+        "x": 14994.04,
+        "y": 41160.51
+      },
+      "crop": {
+        "left": 14080,
+        "top": 40448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 914.04,
+        "y": 712.51
+      },
+      "atlas_image": "atlas/09-grossleibige-lymphomzellen-annotiert.jpg",
+      "exercise_image": "pruefung/09-grossleibige-lymphomzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL.",
+      "didactic_note": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    },
+    {
+      "id": 10,
+      "label": "im Vergleich zu den großen Lymphomzellen kleine Lymphozyten",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15579.23,
+            "y": 41446.13
+          },
+          {
+            "x": 15669.79,
+            "y": 41578.89
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15624.51,
+        "y": 41512.51
+      },
+      "crop": {
+        "left": 14848,
+        "top": 40960,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 776.51,
+        "y": 552.51
+      },
+      "atlas_image": "atlas/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten-annotiert.jpg",
+      "exercise_image": "pruefung/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie.",
+      "didactic_note": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 9,
+      "label": "großleibige Lymphomzellen",
+      "exercise_image": "pruefung/09-grossleibige-lymphomzellen.jpg",
+      "rationale": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL.",
+      "didactic_note": "Großleibige Lymphomzellen als definierende Tumorzellpopulation des DLBCL. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    },
+    {
+      "annotation_id": 10,
+      "label": "im Vergleich zu den großen Lymphomzellen kleine Lymphozyten",
+      "exercise_image": "pruefung/10-im-vergleich-zu-den-grossen-lymphomzellen-kleine-lymphozyten.jpg",
+      "rationale": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie.",
+      "didactic_note": "Direkter Größenvergleich mit kleinen Lymphozyten verdeutlicht die Zellatypie. Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+    }
+  ],
+  "didactic_context": "Das diffuse großzellige B-Zell-Lymphom löscht die Lymphknotenarchitektur durch diffuse Verbände großer atypischer Lymphomzellen mit vesikulärem Chromatin und prominenten Nukleolen aus."
+}

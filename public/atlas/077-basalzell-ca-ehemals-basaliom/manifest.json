@@ -1,0 +1,1106 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "077",
+    "name": "Basalzell-Ca (ehemals Basaliom)",
+    "organ": "Haut",
+    "diagnosis": "Basalzellkarzinom",
+    "description": [
+      "verhornendes Plattenepithel;",
+      "Neoplasie der basophilen Basalzellen des Plattenepithels",
+      "(häufig im Bereich der Haarwurzeln);",
+      "nodulär-cystisches Wachstum mit Pallisadenstellung der",
+      "Tumorzellen im Randbereich;",
+      "Dysplasien (Mitosen, Hyperchromasie, verschobene Kern- Plasmarelation);",
+      "Tumor umgeben von lockerem Stroma mit Myofibroblasten;",
+      "metastasiert so gut wie nie;",
+      "aber:häufiges Auftreten eines Lokalrezidivs;",
+      "gelegentlich sehr großes Ausmaß",
+      "mit ausgeprägten langstreckigen Ulzerationen (sog. Ulcus rodens);"
+    ],
+    "slide_id": "fdb86ea1-47a1-44d0-8d4c-7a6aeb81fe74",
+    "slide_path": "Histopathologie 5. Semester/slides/077 - Basalzell-Ca (ehemals Basaliom).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=fdb86ea1-47a1-44d0-8d4c-7a6aeb81fe74&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1296,
+    "height": 2616,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "Plattenepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9312.72,
+            "y": 10117.54
+          },
+          {
+            "x": 13455.26,
+            "y": 13860.54
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11383.99,
+        "y": 11989.04
+      },
+      "crop": {
+        "left": 10496,
+        "top": 11264,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 887.99,
+        "y": 725.04
+      },
+      "atlas_image": "atlas/07-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/07-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "id": 13,
+      "label": "lockeres Stroma",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26465.67,
+            "y": 35280.2
+          },
+          {
+            "x": 23342.49,
+            "y": 37455.11
+          },
+          {
+            "x": 23342.49,
+            "y": 37455.11
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23342.49,
+        "y": 37455.11
+      },
+      "crop": {
+        "left": 22528,
+        "top": 36864,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 814.49,
+        "y": 591.11
+      },
+      "atlas_image": "atlas/13-lockeres-stroma-annotiert.jpg",
+      "exercise_image": "pruefung/13-lockeres-stroma.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „lockeres Stroma“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "id": 15,
+      "label": "Basalzellkarzinom",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5320.38,
+            "y": 55915.81
+          },
+          {
+            "x": 5416.5,
+            "y": 56871.09
+          },
+          {
+            "x": 5416.5,
+            "y": 57921.49
+          },
+          {
+            "x": 5416.5,
+            "y": 59068.03
+          },
+          {
+            "x": 5702.89,
+            "y": 60118.43
+          },
+          {
+            "x": 5989.27,
+            "y": 61169.84
+          },
+          {
+            "x": 6275.65,
+            "y": 62220.25
+          },
+          {
+            "x": 6562.04,
+            "y": 63175.52
+          },
+          {
+            "x": 6944.55,
+            "y": 64225.93
+          },
+          {
+            "x": 7422.19,
+            "y": 65276.33
+          },
+          {
+            "x": 7899.83,
+            "y": 66231.61
+          },
+          {
+            "x": 8377.47,
+            "y": 67091.76
+          },
+          {
+            "x": 9045.36,
+            "y": 67950.91
+          },
+          {
+            "x": 9714.25,
+            "y": 68811.06
+          },
+          {
+            "x": 10574.4,
+            "y": 69670.21
+          },
+          {
+            "x": 11242.3,
+            "y": 70434.24
+          },
+          {
+            "x": 11816.07,
+            "y": 71294.39
+          },
+          {
+            "x": 12388.83,
+            "y": 72153.54
+          },
+          {
+            "x": 12866.47,
+            "y": 73013.69
+          },
+          {
+            "x": 13630.49,
+            "y": 73681.58
+          },
+          {
+            "x": 14585.77,
+            "y": 74159.22
+          },
+          {
+            "x": 15541.05,
+            "y": 74541.73
+          },
+          {
+            "x": 16496.33,
+            "y": 74924.24
+          },
+          {
+            "x": 17451.61,
+            "y": 75210.63
+          },
+          {
+            "x": 18405.88,
+            "y": 75305.75
+          },
+          {
+            "x": 19361.16,
+            "y": 74828.11
+          },
+          {
+            "x": 20221.31,
+            "y": 74255.35
+          },
+          {
+            "x": 20985.33,
+            "y": 73586.45
+          },
+          {
+            "x": 21654.23,
+            "y": 72822.43
+          },
+          {
+            "x": 21844.48,
+            "y": 71867.15
+          },
+          {
+            "x": 21749.36,
+            "y": 70816.75
+          },
+          {
+            "x": 21367.85,
+            "y": 69861.47
+          },
+          {
+            "x": 20890.21,
+            "y": 68906.19
+          },
+          {
+            "x": 20412.57,
+            "y": 68047.04
+          },
+          {
+            "x": 19743.67,
+            "y": 67282.02
+          },
+          {
+            "x": 19170.91,
+            "y": 66327.74
+          },
+          {
+            "x": 18502.01,
+            "y": 65562.72
+          },
+          {
+            "x": 17833.12,
+            "y": 64608.44
+          },
+          {
+            "x": 17260.35,
+            "y": 63748.29
+          },
+          {
+            "x": 16591.45,
+            "y": 62601.76
+          },
+          {
+            "x": 16113.82,
+            "y": 61742.61
+          },
+          {
+            "x": 15541.05,
+            "y": 60692.2
+          },
+          {
+            "x": 15063.41,
+            "y": 59736.92
+          },
+          {
+            "x": 14490.64,
+            "y": 58685.52
+          },
+          {
+            "x": 14013.01,
+            "y": 57731.24
+          },
+          {
+            "x": 13535.37,
+            "y": 56489.58
+          },
+          {
+            "x": 13057.73,
+            "y": 55343.04
+          },
+          {
+            "x": 12580.09,
+            "y": 54482.89
+          },
+          {
+            "x": 12102.45,
+            "y": 53527.62
+          },
+          {
+            "x": 11816.07,
+            "y": 52573.34
+          },
+          {
+            "x": 11816.07,
+            "y": 51426.8
+          },
+          {
+            "x": 11529.68,
+            "y": 50280.27
+          },
+          {
+            "x": 11052.04,
+            "y": 49421.12
+          },
+          {
+            "x": 10478.28,
+            "y": 48560.97
+          },
+          {
+            "x": 10191.89,
+            "y": 47510.57
+          },
+          {
+            "x": 10191.89,
+            "y": 46460.16
+          },
+          {
+            "x": 10096.77,
+            "y": 45408.75
+          },
+          {
+            "x": 10096.77,
+            "y": 44358.35
+          },
+          {
+            "x": 10191.89,
+            "y": 43307.94
+          },
+          {
+            "x": 10669.53,
+            "y": 42447.79
+          },
+          {
+            "x": 11338.43,
+            "y": 41493.52
+          },
+          {
+            "x": 11911.19,
+            "y": 40633.36
+          },
+          {
+            "x": 12388.83,
+            "y": 39774.21
+          },
+          {
+            "x": 12866.47,
+            "y": 38818.94
+          },
+          {
+            "x": 13344.11,
+            "y": 37767.53
+          },
+          {
+            "x": 13535.37,
+            "y": 36717.12
+          },
+          {
+            "x": 13725.62,
+            "y": 35570.59
+          },
+          {
+            "x": 13821.75,
+            "y": 34520.19
+          },
+          {
+            "x": 13916.88,
+            "y": 33374.65
+          },
+          {
+            "x": 14013.01,
+            "y": 32419.37
+          },
+          {
+            "x": 14013.01,
+            "y": 31272.84
+          },
+          {
+            "x": 14013.01,
+            "y": 30126.31
+          },
+          {
+            "x": 14013.01,
+            "y": 29075.9
+          },
+          {
+            "x": 13821.75,
+            "y": 28120.62
+          },
+          {
+            "x": 13439.24,
+            "y": 27165.35
+          },
+          {
+            "x": 12866.47,
+            "y": 26306.2
+          },
+          {
+            "x": 12102.45,
+            "y": 25542.17
+          },
+          {
+            "x": 11242.3,
+            "y": 24873.28
+          },
+          {
+            "x": 10287.02,
+            "y": 24490.77
+          },
+          {
+            "x": 9236.61,
+            "y": 24204.38
+          },
+          {
+            "x": 8281.34,
+            "y": 24109.26
+          },
+          {
+            "x": 7230.93,
+            "y": 24109.26
+          },
+          {
+            "x": 6371.78,
+            "y": 24682.02
+          },
+          {
+            "x": 5702.89,
+            "y": 25446.04
+          },
+          {
+            "x": 5225.25,
+            "y": 26306.2
+          },
+          {
+            "x": 4938.86,
+            "y": 27261.47
+          },
+          {
+            "x": 4842.74,
+            "y": 28216.75
+          },
+          {
+            "x": 5225.25,
+            "y": 29171.03
+          },
+          {
+            "x": 4842.74,
+            "y": 30126.31
+          },
+          {
+            "x": 3887.46,
+            "y": 30603.95
+          },
+          {
+            "x": 2933.18,
+            "y": 30890.33
+          },
+          {
+            "x": 2073.03,
+            "y": 31367.97
+          },
+          {
+            "x": 1213.88,
+            "y": 32228.12
+          },
+          {
+            "x": 736.24,
+            "y": 33087.27
+          },
+          {
+            "x": 448.86,
+            "y": 34233.8
+          },
+          {
+            "x": 448.86,
+            "y": 35380.34
+          },
+          {
+            "x": 544.99,
+            "y": 36335.61
+          },
+          {
+            "x": 640.11,
+            "y": 37289.89
+          },
+          {
+            "x": 831.37,
+            "y": 38436.42
+          },
+          {
+            "x": 926.5,
+            "y": 39391.7
+          },
+          {
+            "x": 926.5,
+            "y": 40442.11
+          },
+          {
+            "x": 736.24,
+            "y": 41588.64
+          },
+          {
+            "x": 640.11,
+            "y": 42543.92
+          },
+          {
+            "x": 544.99,
+            "y": 43499.2
+          },
+          {
+            "x": 640.11,
+            "y": 44454.48
+          },
+          {
+            "x": 736.24,
+            "y": 45696.14
+          },
+          {
+            "x": 736.24,
+            "y": 46746.54
+          },
+          {
+            "x": 926.5,
+            "y": 47701.82
+          },
+          {
+            "x": 1213.88,
+            "y": 48657.1
+          },
+          {
+            "x": 1595.39,
+            "y": 49707.5
+          },
+          {
+            "x": 1881.77,
+            "y": 50757.91
+          },
+          {
+            "x": 2264.29,
+            "y": 51713.19
+          },
+          {
+            "x": 2645.8,
+            "y": 52763.59
+          },
+          {
+            "x": 3314.69,
+            "y": 53623.74
+          },
+          {
+            "x": 4078.71,
+            "y": 54387.77
+          },
+          {
+            "x": 4938.86,
+            "y": 55246.92
+          },
+          {
+            "x": 5416.5,
+            "y": 56107.07
+          },
+          {
+            "x": 5416.5,
+            "y": 56107.07
+          },
+          {
+            "x": 5320.38,
+            "y": 55915.81
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9784.06,
+        "y": 49985.1
+      },
+      "crop": {
+        "left": 8960,
+        "top": 49408,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 824.06,
+        "y": 577.1
+      },
+      "atlas_image": "atlas/15-basalzellkarzinom-annotiert.jpg",
+      "exercise_image": "pruefung/15-basalzellkarzinom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund.",
+      "didactic_note": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "id": 17,
+      "label": "Ulzeration",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 2162.15,
+            "y": 31416.03
+          },
+          {
+            "x": 3273.64,
+            "y": 36707.11
+          }
+        ]
+      },
+      "anchor": {
+        "x": 2717.89,
+        "y": 34061.57
+      },
+      "crop": {
+        "left": 1792,
+        "top": 33536,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 925.89,
+        "y": 525.57
+      },
+      "atlas_image": "atlas/17-ulzeration-annotiert.jpg",
+      "exercise_image": "pruefung/17-ulzeration.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Ulzeration“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "id": 18,
+      "label": "Pallisadenartige Aufreihung",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4724.58,
+            "y": 49780.6
+          },
+          {
+            "x": 4703.55,
+            "y": 49782.61
+          },
+          {
+            "x": 4676.51,
+            "y": 49782.61
+          },
+          {
+            "x": 4656.49,
+            "y": 49778.6
+          },
+          {
+            "x": 4635.46,
+            "y": 49774.59
+          },
+          {
+            "x": 4612.43,
+            "y": 49768.59
+          },
+          {
+            "x": 4591.4,
+            "y": 49759.57
+          },
+          {
+            "x": 4571.37,
+            "y": 49753.57
+          },
+          {
+            "x": 4550.34,
+            "y": 49745.56
+          },
+          {
+            "x": 4529.32,
+            "y": 49734.54
+          },
+          {
+            "x": 4512.29,
+            "y": 49720.52
+          },
+          {
+            "x": 4496.27,
+            "y": 49703.5
+          },
+          {
+            "x": 4486.26,
+            "y": 49685.48
+          },
+          {
+            "x": 4477.25,
+            "y": 49664.45
+          },
+          {
+            "x": 4469.24,
+            "y": 49641.42
+          },
+          {
+            "x": 4465.23,
+            "y": 49614.38
+          },
+          {
+            "x": 4463.23,
+            "y": 49589.35
+          },
+          {
+            "x": 4465.23,
+            "y": 49569.32
+          },
+          {
+            "x": 4477.25,
+            "y": 49540.28
+          },
+          {
+            "x": 4488.26,
+            "y": 49510.24
+          },
+          {
+            "x": 4494.27,
+            "y": 49490.21
+          },
+          {
+            "x": 4504.28,
+            "y": 49471.19
+          },
+          {
+            "x": 4517.3,
+            "y": 49452.16
+          },
+          {
+            "x": 4531.32,
+            "y": 49432.14
+          },
+          {
+            "x": 4546.34,
+            "y": 49415.11
+          },
+          {
+            "x": 4562.36,
+            "y": 49399.09
+          },
+          {
+            "x": 4579.38,
+            "y": 49382.07
+          },
+          {
+            "x": 4597.41,
+            "y": 49367.05
+          },
+          {
+            "x": 4620.44,
+            "y": 49361.04
+          },
+          {
+            "x": 4641.47,
+            "y": 49349.03
+          },
+          {
+            "x": 4664.5,
+            "y": 49338.01
+          },
+          {
+            "x": 4687.53,
+            "y": 49330
+          },
+          {
+            "x": 4707.56,
+            "y": 49321.99
+          },
+          {
+            "x": 4732.59,
+            "y": 49312.98
+          },
+          {
+            "x": 4753.62,
+            "y": 49308.97
+          },
+          {
+            "x": 4776.65,
+            "y": 49302.96
+          },
+          {
+            "x": 4799.68,
+            "y": 49298.96
+          },
+          {
+            "x": 4830.72,
+            "y": 49294.95
+          },
+          {
+            "x": 4855.75,
+            "y": 49292.95
+          },
+          {
+            "x": 4875.78,
+            "y": 49290.95
+          },
+          {
+            "x": 4900.81,
+            "y": 49290.95
+          },
+          {
+            "x": 4923.84,
+            "y": 49290.95
+          },
+          {
+            "x": 4946.88,
+            "y": 49290.95
+          },
+          {
+            "x": 4971.91,
+            "y": 49290.95
+          },
+          {
+            "x": 4967.9,
+            "y": 49310.97
+          },
+          {
+            "x": 4956.89,
+            "y": 49332
+          },
+          {
+            "x": 4950.88,
+            "y": 49353.03
+          },
+          {
+            "x": 4946.88,
+            "y": 49374.06
+          },
+          {
+            "x": 4940.87,
+            "y": 49394.09
+          },
+          {
+            "x": 4925.85,
+            "y": 49411.11
+          },
+          {
+            "x": 4902.82,
+            "y": 49417.12
+          },
+          {
+            "x": 4879.79,
+            "y": 49419.12
+          },
+          {
+            "x": 4850.75,
+            "y": 49419.12
+          },
+          {
+            "x": 4826.71,
+            "y": 49419.12
+          },
+          {
+            "x": 4803.68,
+            "y": 49419.12
+          },
+          {
+            "x": 4780.65,
+            "y": 49423.12
+          },
+          {
+            "x": 4757.62,
+            "y": 49428.13
+          },
+          {
+            "x": 4736.59,
+            "y": 49434.14
+          },
+          {
+            "x": 4714.56,
+            "y": 49442.15
+          },
+          {
+            "x": 4693.54,
+            "y": 49452.16
+          },
+          {
+            "x": 4674.51,
+            "y": 49463.18
+          },
+          {
+            "x": 4656.49,
+            "y": 49475.19
+          },
+          {
+            "x": 4637.46,
+            "y": 49490.21
+          },
+          {
+            "x": 4618.44,
+            "y": 49506.24
+          },
+          {
+            "x": 4602.41,
+            "y": 49523.26
+          },
+          {
+            "x": 4591.4,
+            "y": 49542.28
+          },
+          {
+            "x": 4579.38,
+            "y": 49560.31
+          },
+          {
+            "x": 4573.38,
+            "y": 49581.34
+          },
+          {
+            "x": 4571.37,
+            "y": 49602.36
+          },
+          {
+            "x": 4577.38,
+            "y": 49622.39
+          },
+          {
+            "x": 4593.4,
+            "y": 49639.41
+          },
+          {
+            "x": 4614.43,
+            "y": 49651.43
+          },
+          {
+            "x": 4635.46,
+            "y": 49660.44
+          },
+          {
+            "x": 4656.49,
+            "y": 49666.45
+          },
+          {
+            "x": 4676.51,
+            "y": 49670.46
+          },
+          {
+            "x": 4697.54,
+            "y": 49676.46
+          },
+          {
+            "x": 4718.57,
+            "y": 49678.47
+          },
+          {
+            "x": 4743.6,
+            "y": 49683.47
+          },
+          {
+            "x": 4763.63,
+            "y": 49689.48
+          },
+          {
+            "x": 4784.66,
+            "y": 49691.48
+          },
+          {
+            "x": 4784.66,
+            "y": 49718.52
+          },
+          {
+            "x": 4774.64,
+            "y": 49737.54
+          },
+          {
+            "x": 4763.63,
+            "y": 49755.57
+          },
+          {
+            "x": 4753.62,
+            "y": 49774.59
+          },
+          {
+            "x": 4726.58,
+            "y": 49780.6
+          },
+          {
+            "x": 4726.58,
+            "y": 49780.6
+          },
+          {
+            "x": 4724.58,
+            "y": 49780.6
+          }
+        ]
+      },
+      "anchor": {
+        "x": 4688.42,
+        "y": 49527.28
+      },
+      "crop": {
+        "left": 3840,
+        "top": 48896,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 848.42,
+        "y": 631.28
+      },
+      "atlas_image": "atlas/18-pallisadenartige-aufreihung-annotiert.jpg",
+      "exercise_image": "pruefung/18-pallisadenartige-aufreihung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund.",
+      "didactic_note": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "id": 19,
+      "label": "nodulär-zystisches Wachstum",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 6430.86,
+            "y": 36546.9
+          },
+          {
+            "x": 11781.02,
+            "y": 41629.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9105.94,
+        "y": 39088.3
+      },
+      "crop": {
+        "left": 8192,
+        "top": 38400,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 913.94,
+        "y": 688.3
+      },
+      "atlas_image": "atlas/19-nodular-zystisches-wachstum-annotiert.jpg",
+      "exercise_image": "pruefung/19-nodular-zystisches-wachstum.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „nodulär-zystisches Wachstum“ als morphologischen Teilbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 18,
+      "label": "Pallisadenartige Aufreihung",
+      "exercise_image": "pruefung/18-pallisadenartige-aufreihung.jpg",
+      "rationale": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund.",
+      "didactic_note": "Palisadenartige Randstellung als charakteristischer Basalzellkarzinombefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    },
+    {
+      "annotation_id": 15,
+      "label": "Basalzellkarzinom",
+      "exercise_image": "pruefung/15-basalzellkarzinom.jpg",
+      "rationale": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund.",
+      "didactic_note": "Basalzellkarzinomgewebe als diagnostischer Hauptbefund. Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+    }
+  ],
+  "didactic_context": "Das Basalzellkarzinom zeigt basaloide Tumornester mit peripherer Palisadenstellung und typischen Retraktionsspalten zum lockeren Stroma; nodulär-zystisches Wachstum und Ulzeration sind häufig."
+}

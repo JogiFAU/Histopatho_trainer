@@ -1,0 +1,331 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "051",
+    "name": "Seborrhoische Keratose",
+    "organ": "Haut",
+    "diagnosis": "seborrhoische Keratose",
+    "description": [
+      "verhornendes Plattenepithel;",
+      "Talgdrüsen;",
+      "benigne papilläre Epidermisverdickung aus basaloiden Zellen (=Basalzelladenom);",
+      "nicht invasives, scharf begrenztes polypoides Wachstum;",
+      "hyperkeratotische Verhornung (typische Hornperlen);",
+      "Hyperkeratose zieht sich Kryptenartig in die Tiefe;",
+      "Hyperpigmentierung im Bereich der Keratose;",
+      "seborrhoisch = warzenartig;"
+    ],
+    "slide_id": "4f8a6fca-8833-4ab2-aaaa-caa6e4dbb497",
+    "slide_path": "Histopathologie 5. Semester/slides/051 - Seborrhoische Keratose.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4f8a6fca-8833-4ab2-aaaa-caa6e4dbb497&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1656,
+    "height": 3584,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Läsion",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 35456,
+            "y": 41255.82
+          },
+          {
+            "x": 51989.19,
+            "y": 77008.21
+          }
+        ]
+      },
+      "anchor": {
+        "x": 43722.6,
+        "y": 59132.02
+      },
+      "crop": {
+        "left": 42752,
+        "top": 58368,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 970.6,
+        "y": 764.02
+      },
+      "atlas_image": "atlas/01-lasion-annotiert.jpg",
+      "exercise_image": "pruefung/01-lasion.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Läsion“ als morphologischen Teilbefund. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 5,
+      "label": "verhornendes Plattenepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40824.04,
+            "y": 24793.32
+          },
+          {
+            "x": 41988.84,
+            "y": 26921.81
+          }
+        ]
+      },
+      "anchor": {
+        "x": 41406.44,
+        "y": 25857.56
+      },
+      "crop": {
+        "left": 40448,
+        "top": 25344,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 958.44,
+        "y": 513.56
+      },
+      "atlas_image": "atlas/05-verhornendes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/05-verhornendes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 11,
+      "label": "Talgdrüse",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 37067.8,
+            "y": 35970.42
+          },
+          {
+            "x": 38144,
+            "y": 36673.28
+          }
+        ]
+      },
+      "anchor": {
+        "x": 37605.9,
+        "y": 36321.85
+      },
+      "crop": {
+        "left": 36608,
+        "top": 35584,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 997.9,
+        "y": 737.85
+      },
+      "atlas_image": "atlas/11-talgdruse-annotiert.jpg",
+      "exercise_image": "pruefung/11-talgdruse.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Talgdrüse“ dient hier als anatomischer Orientierungspunkt. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 12,
+      "label": "Haarfollikel (Querschnitt)",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36550.12,
+            "y": 36748.94
+          },
+          {
+            "x": 37362.49,
+            "y": 37697.71
+          }
+        ]
+      },
+      "anchor": {
+        "x": 36956.3,
+        "y": 37223.32
+      },
+      "crop": {
+        "left": 36096,
+        "top": 36608,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 860.3,
+        "y": 615.32
+      },
+      "atlas_image": "atlas/12-haarfollikel-querschnitt-annotiert.jpg",
+      "exercise_image": "pruefung/12-haarfollikel-querschnitt.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Haarfollikel (Querschnitt)“ als morphologischen Teilbefund. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 13,
+      "label": "Hornperle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38908.59,
+            "y": 48577.14
+          },
+          {
+            "x": 39234.13,
+            "y": 48927.57
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39071.36,
+        "y": 48752.36
+      },
+      "crop": {
+        "left": 38144,
+        "top": 48128,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 927.36,
+        "y": 624.36
+      },
+      "atlas_image": "atlas/13-hornperle-annotiert.jpg",
+      "exercise_image": "pruefung/13-hornperle.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Hornperle beziehungsweise Hornzyste als typischer Befund der seborrhoischen Keratose.",
+      "didactic_note": "Hornperle beziehungsweise Hornzyste als typischer Befund der seborrhoischen Keratose. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 14,
+      "label": "kryptenartige Einziehung",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45992.96,
+            "y": 45197.23
+          },
+          {
+            "x": 44727.61,
+            "y": 46527.29
+          },
+          {
+            "x": 44727.61,
+            "y": 46527.29
+          }
+        ]
+      },
+      "anchor": {
+        "x": 44727.61,
+        "y": 46527.29
+      },
+      "crop": {
+        "left": 43776,
+        "top": 45824,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 951.61,
+        "y": 703.29
+      },
+      "atlas_image": "atlas/14-kryptenartige-einziehung-annotiert.jpg",
+      "exercise_image": "pruefung/14-kryptenartige-einziehung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Kryptenartige Einziehung als weiteres charakteristisches Architekturmerkmal.",
+      "didactic_note": "Kryptenartige Einziehung als weiteres charakteristisches Architekturmerkmal. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "id": 16,
+      "label": "Verhornung",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 39646.29,
+            "y": 50850.99
+          },
+          {
+            "x": 44868.98,
+            "y": 56918.9
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42257.64,
+        "y": 53884.94
+      },
+      "crop": {
+        "left": 41472,
+        "top": 53248,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 785.64,
+        "y": 636.94
+      },
+      "atlas_image": "atlas/16-verhornung-annotiert.jpg",
+      "exercise_image": "pruefung/16-verhornung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Verhornung“ als morphologischen Teilbefund. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 13,
+      "label": "Hornperle",
+      "exercise_image": "pruefung/13-hornperle.jpg",
+      "rationale": "Hornperle beziehungsweise Hornzyste als typischer Befund der seborrhoischen Keratose.",
+      "didactic_note": "Hornperle beziehungsweise Hornzyste als typischer Befund der seborrhoischen Keratose. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    },
+    {
+      "annotation_id": 14,
+      "label": "kryptenartige Einziehung",
+      "exercise_image": "pruefung/14-kryptenartige-einziehung.jpg",
+      "rationale": "Kryptenartige Einziehung als weiteres charakteristisches Architekturmerkmal.",
+      "didactic_note": "Kryptenartige Einziehung als weiteres charakteristisches Architekturmerkmal. Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+    }
+  ],
+  "didactic_context": "Die seborrhoische Keratose zeigt akanthotisches basaloides Epithel mit Hyperkeratose und Hornpseudocysten; die scharfe Begrenzung und fehlende Invasion sind wichtige Benignitätszeichen."
+}

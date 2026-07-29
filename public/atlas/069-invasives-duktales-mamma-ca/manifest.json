@@ -1,0 +1,757 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "069",
+    "name": "Invasives duktales Mamma-Ca",
+    "organ": "Mamma",
+    "diagnosis": "invasives Mammakarzinom (NST), ehemals invasives-duktales Mammakarzinom (IDC)",
+    "description": [
+      "Drüsenartiges Wachstum (Mamma-Ca ist Adenokarzinom);",
+      "invasives Wachstum;",
+      "Tumorabsiedelungen, diffuse Infiltration ins Fettgewebe;",
+      "Zell- und Kernatypien (große blasige Kerne);",
+      "bindegewebige Begleitreaktion;",
+      "Vergleichen Sie mit dem DCIS Mamma-CA (siehe #68);"
+    ],
+    "slide_id": "8253882c-a230-4728-8702-df7aac8ad5ab",
+    "slide_path": "Histopathologie 5. Semester/slides/069 - Invasives duktales Mamma-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8253882c-a230-4728-8702-df7aac8ad5ab&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "das Fettgewebe infiltrierendes Wachstum",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13840.94,
+            "y": 54717.56
+          },
+          {
+            "x": 18140.17,
+            "y": 62487.45
+          }
+        ]
+      },
+      "anchor": {
+        "x": 15990.55,
+        "y": 58602.5
+      },
+      "crop": {
+        "left": 15104,
+        "top": 57856,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 886.55,
+        "y": 746.5
+      },
+      "atlas_image": "atlas/01-das-fettgewebe-infiltrierendes-wachstum-annotiert.jpg",
+      "exercise_image": "pruefung/01-das-fettgewebe-infiltrierendes-wachstum.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „das Fettgewebe infiltrierendes Wachstum“ dient hier als anatomischer Orientierungspunkt. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    },
+    {
+      "id": 9,
+      "label": "DCIS Komponente",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 58046.21,
+            "y": 47274.67
+          },
+          {
+            "x": 56527.15,
+            "y": 44811.73
+          },
+          {
+            "x": 56527.15,
+            "y": 44811.73
+          }
+        ]
+      },
+      "anchor": {
+        "x": 56527.15,
+        "y": 44811.73
+      },
+      "crop": {
+        "left": 55552,
+        "top": 44288,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 975.15,
+        "y": 523.73
+      },
+      "atlas_image": "atlas/09-dcis-komponente-annotiert.jpg",
+      "exercise_image": "pruefung/09-dcis-komponente.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „DCIS Komponente“ als morphologischen Teilbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    },
+    {
+      "id": 10,
+      "label": "Invasives duktales Mammakarzinom",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 33623.29,
+            "y": 28335.88
+          },
+          {
+            "x": 33549.03,
+            "y": 29155.99
+          },
+          {
+            "x": 33324.95,
+            "y": 29901.84
+          },
+          {
+            "x": 33101.52,
+            "y": 30647.69
+          },
+          {
+            "x": 32803.18,
+            "y": 31467.81
+          },
+          {
+            "x": 32430.58,
+            "y": 32362.83
+          },
+          {
+            "x": 32057.32,
+            "y": 33182.94
+          },
+          {
+            "x": 31758.98,
+            "y": 33928.79
+          },
+          {
+            "x": 31312.12,
+            "y": 34674.65
+          },
+          {
+            "x": 30864.61,
+            "y": 35345.59
+          },
+          {
+            "x": 30267.93,
+            "y": 35867.36
+          },
+          {
+            "x": 29671.25,
+            "y": 36389.78
+          },
+          {
+            "x": 28925.39,
+            "y": 36538.3
+          },
+          {
+            "x": 28180.19,
+            "y": 36464.04
+          },
+          {
+            "x": 27359.43,
+            "y": 36314.87
+          },
+          {
+            "x": 26539.32,
+            "y": 36314.87
+          },
+          {
+            "x": 25868.38,
+            "y": 36687.47
+          },
+          {
+            "x": 25644.3,
+            "y": 37433.32
+          },
+          {
+            "x": 25719.21,
+            "y": 38179.18
+          },
+          {
+            "x": 26017.55,
+            "y": 38925.03
+          },
+          {
+            "x": 26390.15,
+            "y": 39670.23
+          },
+          {
+            "x": 26091.81,
+            "y": 40416.08
+          },
+          {
+            "x": 25942.64,
+            "y": 41161.93
+          },
+          {
+            "x": 25868.38,
+            "y": 41907.79
+          },
+          {
+            "x": 25793.47,
+            "y": 42727.9
+          },
+          {
+            "x": 25644.3,
+            "y": 43473.75
+          },
+          {
+            "x": 25346.61,
+            "y": 44293.86
+          },
+          {
+            "x": 25048.26,
+            "y": 45039.72
+          },
+          {
+            "x": 24675.01,
+            "y": 45710.66
+          },
+          {
+            "x": 24078.33,
+            "y": 46456.51
+          },
+          {
+            "x": 23556.56,
+            "y": 47201.71
+          },
+          {
+            "x": 22810.71,
+            "y": 47724.13
+          },
+          {
+            "x": 22065.51,
+            "y": 48171.64
+          },
+          {
+            "x": 21468.82,
+            "y": 48767.67
+          },
+          {
+            "x": 21170.48,
+            "y": 49513.53
+          },
+          {
+            "x": 20797.88,
+            "y": 50259.38
+          },
+          {
+            "x": 20275.46,
+            "y": 50930.32
+          },
+          {
+            "x": 19604.52,
+            "y": 51452.74
+          },
+          {
+            "x": 18858.67,
+            "y": 51825.34
+          },
+          {
+            "x": 18261.98,
+            "y": 52571.2
+          },
+          {
+            "x": 17815.12,
+            "y": 53242.14
+          },
+          {
+            "x": 17218.44,
+            "y": 53838.82
+          },
+          {
+            "x": 16546.85,
+            "y": 54435.5
+          },
+          {
+            "x": 16025.08,
+            "y": 55031.53
+          },
+          {
+            "x": 15428.4,
+            "y": 55553.95
+          },
+          {
+            "x": 14906.63,
+            "y": 56150.64
+          },
+          {
+            "x": 14384.85,
+            "y": 56821.58
+          },
+          {
+            "x": 14086.51,
+            "y": 57567.43
+          },
+          {
+            "x": 13862.43,
+            "y": 58312.63
+          },
+          {
+            "x": 13862.43,
+            "y": 59133.39
+          },
+          {
+            "x": 13788.17,
+            "y": 59878.6
+          },
+          {
+            "x": 13937.34,
+            "y": 60699.36
+          },
+          {
+            "x": 14235.68,
+            "y": 61593.73
+          },
+          {
+            "x": 14384.85,
+            "y": 62339.58
+          },
+          {
+            "x": 14608.28,
+            "y": 63159.69
+          },
+          {
+            "x": 14757.46,
+            "y": 63905.55
+          },
+          {
+            "x": 36606.05,
+            "y": 64353.06
+          },
+          {
+            "x": 36456.88,
+            "y": 63383.78
+          },
+          {
+            "x": 36307.7,
+            "y": 62563.01
+          },
+          {
+            "x": 36307.7,
+            "y": 61742.9
+          },
+          {
+            "x": 36531.79,
+            "y": 60922.79
+          },
+          {
+            "x": 36904.39,
+            "y": 60176.94
+          },
+          {
+            "x": 37351.9,
+            "y": 59356.82
+          },
+          {
+            "x": 38022.84,
+            "y": 58610.97
+          },
+          {
+            "x": 38545.26,
+            "y": 58014.29
+          },
+          {
+            "x": 39216.2,
+            "y": 57567.43
+          },
+          {
+            "x": 39962.06,
+            "y": 57119.92
+          },
+          {
+            "x": 40782.17,
+            "y": 56746.67
+          },
+          {
+            "x": 41602.28,
+            "y": 56374.07
+          },
+          {
+            "x": 42497.3,
+            "y": 56075.73
+          },
+          {
+            "x": 43243.16,
+            "y": 56001.47
+          },
+          {
+            "x": 44063.27,
+            "y": 56001.47
+          },
+          {
+            "x": 44809.12,
+            "y": 55852.3
+          },
+          {
+            "x": 45629.23,
+            "y": 55852.3
+          },
+          {
+            "x": 46524.25,
+            "y": 55852.3
+          },
+          {
+            "x": 47269.46,
+            "y": 55703.12
+          },
+          {
+            "x": 48015.31,
+            "y": 55255.61
+          },
+          {
+            "x": 48686.25,
+            "y": 54733.19
+          },
+          {
+            "x": 49357.84,
+            "y": 54137.16
+          },
+          {
+            "x": 49879.61,
+            "y": 53465.57
+          },
+          {
+            "x": 50252.21,
+            "y": 52794.63
+          },
+          {
+            "x": 50550.55,
+            "y": 52048.77
+          },
+          {
+            "x": 50774.64,
+            "y": 51303.57
+          },
+          {
+            "x": 50998.07,
+            "y": 50557.72
+          },
+          {
+            "x": 51370.67,
+            "y": 49886.78
+          },
+          {
+            "x": 51818.18,
+            "y": 49140.93
+          },
+          {
+            "x": 52340.6,
+            "y": 48469.98
+          },
+          {
+            "x": 53011.54,
+            "y": 47873.3
+          },
+          {
+            "x": 53608.22,
+            "y": 47350.88
+          },
+          {
+            "x": 54502.6,
+            "y": 46754.85
+          },
+          {
+            "x": 55174.19,
+            "y": 46307.34
+          },
+          {
+            "x": 55919.39,
+            "y": 45934.09
+          },
+          {
+            "x": 56665.24,
+            "y": 45635.75
+          },
+          {
+            "x": 57411.09,
+            "y": 45263.15
+          },
+          {
+            "x": 58156.95,
+            "y": 44964.8
+          },
+          {
+            "x": 58827.89,
+            "y": 44443.03
+          },
+          {
+            "x": 59349.66,
+            "y": 43846.35
+          },
+          {
+            "x": 58455.29,
+            "y": 18269.15
+          },
+          {
+            "x": 57783.69,
+            "y": 17598.21
+          },
+          {
+            "x": 57187.66,
+            "y": 17075.79
+          },
+          {
+            "x": 56516.07,
+            "y": 16404.84
+          },
+          {
+            "x": 55919.39,
+            "y": 15883.07
+          },
+          {
+            "x": 55099.28,
+            "y": 15509.82
+          },
+          {
+            "x": 54204.91,
+            "y": 15360.65
+          },
+          {
+            "x": 53459.05,
+            "y": 15584.73
+          },
+          {
+            "x": 52713.2,
+            "y": 15957.33
+          },
+          {
+            "x": 52042.26,
+            "y": 16404.84
+          },
+          {
+            "x": 51445.58,
+            "y": 17001.53
+          },
+          {
+            "x": 50923.81,
+            "y": 17747.38
+          },
+          {
+            "x": 50476.3,
+            "y": 18492.58
+          },
+          {
+            "x": 50028.78,
+            "y": 19238.43
+          },
+          {
+            "x": 49581.27,
+            "y": 19984.28
+          },
+          {
+            "x": 49059.5,
+            "y": 20730.14
+          },
+          {
+            "x": 48387.91,
+            "y": 21475.34
+          },
+          {
+            "x": 47642.71,
+            "y": 21997.76
+          },
+          {
+            "x": 46896.85,
+            "y": 22445.27
+          },
+          {
+            "x": 46151,
+            "y": 22743.61
+          },
+          {
+            "x": 45255.98,
+            "y": 22967.04
+          },
+          {
+            "x": 44510.78,
+            "y": 23339.64
+          },
+          {
+            "x": 43764.93,
+            "y": 23862.07
+          },
+          {
+            "x": 43243.16,
+            "y": 24458.1
+          },
+          {
+            "x": 42795.64,
+            "y": 25203.95
+          },
+          {
+            "x": 42273.22,
+            "y": 25800.63
+          },
+          {
+            "x": 41677.19,
+            "y": 26322.4
+          },
+          {
+            "x": 40782.17,
+            "y": 26546.48
+          },
+          {
+            "x": 40036.32,
+            "y": 26471.57
+          },
+          {
+            "x": 39290.46,
+            "y": 26098.97
+          },
+          {
+            "x": 38619.52,
+            "y": 25726.37
+          },
+          {
+            "x": 37873.67,
+            "y": 25577.2
+          },
+          {
+            "x": 37053.56,
+            "y": 25577.2
+          },
+          {
+            "x": 36233.45,
+            "y": 25577.2
+          },
+          {
+            "x": 35487.59,
+            "y": 25651.46
+          },
+          {
+            "x": 34816.65,
+            "y": 26024.06
+          },
+          {
+            "x": 33698.2,
+            "y": 28335.88
+          },
+          {
+            "x": 33698.2,
+            "y": 28335.88
+          },
+          {
+            "x": 33623.29,
+            "y": 28335.88
+          }
+        ]
+      },
+      "anchor": {
+        "x": 36910.6,
+        "y": 41298.36
+      },
+      "crop": {
+        "left": 36096,
+        "top": 40704,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 814.6,
+        "y": 594.36
+      },
+      "atlas_image": "atlas/10-invasives-duktales-mammakarzinom-annotiert.jpg",
+      "exercise_image": "pruefung/10-invasives-duktales-mammakarzinom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Invasives Mammakarzinom als diagnostischer Hauptbefund.",
+      "didactic_note": "Invasives Mammakarzinom als diagnostischer Hauptbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    },
+    {
+      "id": 11,
+      "label": "angedeutet tubuläres Wachstum",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 35425.06,
+            "y": 29229.6
+          },
+          {
+            "x": 35696.69,
+            "y": 29464.1
+          }
+        ]
+      },
+      "anchor": {
+        "x": 35560.88,
+        "y": 29346.85
+      },
+      "crop": {
+        "left": 34560,
+        "top": 28672,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1000.88,
+        "y": 674.85
+      },
+      "atlas_image": "atlas/11-angedeutet-tubulares-wachstum-annotiert.jpg",
+      "exercise_image": "pruefung/11-angedeutet-tubulares-wachstum.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster.",
+      "didactic_note": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 10,
+      "label": "Invasives duktales Mammakarzinom",
+      "exercise_image": "pruefung/10-invasives-duktales-mammakarzinom.jpg",
+      "rationale": "Invasives Mammakarzinom als diagnostischer Hauptbefund.",
+      "didactic_note": "Invasives Mammakarzinom als diagnostischer Hauptbefund. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    },
+    {
+      "annotation_id": 11,
+      "label": "angedeutet tubuläres Wachstum",
+      "exercise_image": "pruefung/11-angedeutet-tubulares-wachstum.jpg",
+      "rationale": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster.",
+      "didactic_note": "Angedeutet tubuläres Wachstum als ergänzendes Differenzierungsmuster. Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+    }
+  ],
+  "didactic_context": "Beim invasiven Mammakarzinom überschreiten maligne Epithelzellen die Gangbegrenzung und infiltrieren desmoplastisches Stroma oder Fettgewebe; tubuläre Strukturen zeigen eine partielle Drüsendifferenzierung."
+}

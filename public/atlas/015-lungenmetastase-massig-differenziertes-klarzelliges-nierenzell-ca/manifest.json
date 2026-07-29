@@ -1,0 +1,1310 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "015",
+    "name": "Lungenmetastase mäßig differenziertes klarzelliges Nierenzell-CA",
+    "organ": "Lunge",
+    "diagnosis": "Metastase eines klarzelligen Nierenzellkarzinoms",
+    "description": [
+      "Alveolen, Bronchioli;",
+      "Knorpelspangen der Bronchien;",
+      "abgekapselter Tumor bestehend aus hellen, schaumigen Zellen;",
+      "scharfe gut abtrennbare Zellwände;",
+      "wenig Mitosen;",
+      "ausgeprägte Fibrose im Randbereich;",
+      "Morphologie typisch (vergleichen Sie hierzu #58);",
+      "lymphozytäres & granulozytäres Infiltrat;"
+    ],
+    "slide_id": "76d19bd6-5329-4b2e-9a76-ed3f50fc36eb",
+    "slide_path": "Histopathologie 5. Semester/slides/015 - Lungenmetastase mäßig differenziertes klarzelliges Nierenzell-CA.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=76d19bd6-5329-4b2e-9a76-ed3f50fc36eb&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 11,
+      "label": "Bronchiolus",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24366,
+            "y": 6362.67
+          },
+          {
+            "x": 25983.33,
+            "y": 7550
+          }
+        ]
+      },
+      "anchor": {
+        "x": 25174.67,
+        "y": 6956.33
+      },
+      "crop": {
+        "left": 24320,
+        "top": 6400,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 854.67,
+        "y": 556.33
+      },
+      "atlas_image": "atlas/11-bronchiolus-annotiert.jpg",
+      "exercise_image": "pruefung/11-bronchiolus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Bronchiolus“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 12,
+      "label": "Knorpelspangen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38832,
+            "y": 17763.33
+          },
+          {
+            "x": 37959.33,
+            "y": 19212.67
+          },
+          {
+            "x": 36214,
+            "y": 20070.67
+          },
+          {
+            "x": 36406.67,
+            "y": 20529.33
+          },
+          {
+            "x": 38048,
+            "y": 21268.67
+          },
+          {
+            "x": 39793.33,
+            "y": 22422.67
+          },
+          {
+            "x": 39956.67,
+            "y": 22200.67
+          },
+          {
+            "x": 39157.33,
+            "y": 19952.67
+          },
+          {
+            "x": 39409.33,
+            "y": 17763.33
+          },
+          {
+            "x": 38817.33,
+            "y": 17763.33
+          },
+          {
+            "x": 38817.33,
+            "y": 17763.33
+          }
+        ]
+      },
+      "anchor": {
+        "x": 38459.4,
+        "y": 19894.73
+      },
+      "crop": {
+        "left": 37632,
+        "top": 19200,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 827.4,
+        "y": 694.73
+      },
+      "atlas_image": "atlas/12-knorpelspangen-annotiert.jpg",
+      "exercise_image": "pruefung/12-knorpelspangen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 13,
+      "label": "Knorpelspangen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 41860.67,
+            "y": 29682.67
+          },
+          {
+            "x": 41905.33,
+            "y": 30346
+          },
+          {
+            "x": 42834,
+            "y": 31894.67
+          },
+          {
+            "x": 43409.33,
+            "y": 32336.67
+          },
+          {
+            "x": 44028.67,
+            "y": 32160
+          },
+          {
+            "x": 43896,
+            "y": 31452
+          },
+          {
+            "x": 42303.33,
+            "y": 29638
+          },
+          {
+            "x": 41905.33,
+            "y": 29638
+          },
+          {
+            "x": 41905.33,
+            "y": 29638
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42767.83,
+        "y": 30893.5
+      },
+      "crop": {
+        "left": 41984,
+        "top": 30208,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 783.83,
+        "y": 685.5
+      },
+      "atlas_image": "atlas/13-knorpelspangen-annotiert.jpg",
+      "exercise_image": "pruefung/13-knorpelspangen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 14,
+      "label": "Knorpelspangen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40974.67,
+            "y": 15597.33
+          },
+          {
+            "x": 41489.33,
+            "y": 16111.33
+          },
+          {
+            "x": 42136,
+            "y": 17184.67
+          },
+          {
+            "x": 42768,
+            "y": 17920
+          },
+          {
+            "x": 43047.33,
+            "y": 17714
+          },
+          {
+            "x": 42930,
+            "y": 17140.67
+          },
+          {
+            "x": 41798,
+            "y": 15685.33
+          },
+          {
+            "x": 41460,
+            "y": 15464.67
+          },
+          {
+            "x": 41092.67,
+            "y": 15435.33
+          },
+          {
+            "x": 40960,
+            "y": 15567.33
+          },
+          {
+            "x": 40960,
+            "y": 15567.33
+          }
+        ]
+      },
+      "anchor": {
+        "x": 41865.6,
+        "y": 16382.07
+      },
+      "crop": {
+        "left": 40960,
+        "top": 15616,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 905.6,
+        "y": 766.07
+      },
+      "atlas_image": "atlas/14-knorpelspangen-annotiert.jpg",
+      "exercise_image": "pruefung/14-knorpelspangen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Knorpelspangen“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 15,
+      "label": "Flimmerepithel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 44014.67,
+            "y": 28239.33
+          },
+          {
+            "x": 44518,
+            "y": 28617.33
+          },
+          {
+            "x": 44518,
+            "y": 28617.33
+          }
+        ]
+      },
+      "anchor": {
+        "x": 44518,
+        "y": 28617.33
+      },
+      "crop": {
+        "left": 43520,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 998,
+        "y": 713.33
+      },
+      "atlas_image": "atlas/15-flimmerepithel-annotiert.jpg",
+      "exercise_image": "pruefung/15-flimmerepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Flimmerepithel“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 16,
+      "label": "Fibrose",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 36598,
+            "y": 41314.67
+          },
+          {
+            "x": 36462.67,
+            "y": 41808
+          },
+          {
+            "x": 36253.33,
+            "y": 41869.33
+          },
+          {
+            "x": 36130,
+            "y": 41808
+          },
+          {
+            "x": 36031.33,
+            "y": 41869.33
+          },
+          {
+            "x": 36068,
+            "y": 42165.33
+          },
+          {
+            "x": 36240.67,
+            "y": 42498
+          },
+          {
+            "x": 36290,
+            "y": 42892
+          },
+          {
+            "x": 36512,
+            "y": 43446.67
+          },
+          {
+            "x": 36610.67,
+            "y": 43545.33
+          },
+          {
+            "x": 36807.33,
+            "y": 43545.33
+          },
+          {
+            "x": 36856.67,
+            "y": 43594.67
+          },
+          {
+            "x": 36844.67,
+            "y": 43840.67
+          },
+          {
+            "x": 37017.33,
+            "y": 43878
+          },
+          {
+            "x": 37091.33,
+            "y": 43458.67
+          },
+          {
+            "x": 37004.67,
+            "y": 43089.33
+          },
+          {
+            "x": 36795.33,
+            "y": 42916.67
+          },
+          {
+            "x": 36721.33,
+            "y": 42485.33
+          },
+          {
+            "x": 36894,
+            "y": 42547.33
+          },
+          {
+            "x": 36955.33,
+            "y": 41808
+          },
+          {
+            "x": 36770.67,
+            "y": 41154.67
+          },
+          {
+            "x": 36672,
+            "y": 41080.67
+          },
+          {
+            "x": 36573.33,
+            "y": 41154.67
+          },
+          {
+            "x": 36586,
+            "y": 41327.33
+          },
+          {
+            "x": 36586,
+            "y": 41327.33
+          },
+          {
+            "x": 36598,
+            "y": 41314.67
+          }
+        ]
+      },
+      "anchor": {
+        "x": 36615.39,
+        "y": 42416.51
+      },
+      "crop": {
+        "left": 35840,
+        "top": 41728,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 775.39,
+        "y": 688.51
+      },
+      "atlas_image": "atlas/16-fibrose-annotiert.jpg",
+      "exercise_image": "pruefung/16-fibrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Fibrose“ als morphologischen Teilbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 17,
+      "label": "Tumorkapsel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32951.33,
+            "y": 53449.33
+          },
+          {
+            "x": 32537.33,
+            "y": 52762.67
+          },
+          {
+            "x": 32537.33,
+            "y": 52762.67
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32537.33,
+        "y": 52762.67
+      },
+      "crop": {
+        "left": 31744,
+        "top": 52224,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 793.33,
+        "y": 538.67
+      },
+      "atlas_image": "atlas/17-tumorkapsel-annotiert.jpg",
+      "exercise_image": "pruefung/17-tumorkapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Tumorkapsel“ dient hier als anatomischer Orientierungspunkt. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 18,
+      "label": "Schaumzellen",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 51514,
+            "y": 28022.67
+          },
+          {
+            "x": 51841.33,
+            "y": 29149.33
+          }
+        ]
+      },
+      "anchor": {
+        "x": 51677.67,
+        "y": 28586.0
+      },
+      "crop": {
+        "left": 50688,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 989.67,
+        "y": 682.0
+      },
+      "atlas_image": "atlas/18-schaumzellen-annotiert.jpg",
+      "exercise_image": "pruefung/18-schaumzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Schaumzellen“ als morphologischen Teilbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    },
+    {
+      "id": 19,
+      "label": "Metastase eines klarzelligen Nierenzellkarzinoms",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30149.33,
+            "y": 46296
+          },
+          {
+            "x": 30149.33,
+            "y": 47852
+          },
+          {
+            "x": 30133.33,
+            "y": 48058
+          },
+          {
+            "x": 30117.33,
+            "y": 48232.67
+          },
+          {
+            "x": 30086,
+            "y": 48423.33
+          },
+          {
+            "x": 30054,
+            "y": 48582
+          },
+          {
+            "x": 30038,
+            "y": 48740.67
+          },
+          {
+            "x": 30038,
+            "y": 48931.33
+          },
+          {
+            "x": 30038,
+            "y": 49106
+          },
+          {
+            "x": 30054,
+            "y": 49264.67
+          },
+          {
+            "x": 30102,
+            "y": 49439.33
+          },
+          {
+            "x": 30149.33,
+            "y": 49598
+          },
+          {
+            "x": 30212.67,
+            "y": 49757.33
+          },
+          {
+            "x": 30276.67,
+            "y": 49932
+          },
+          {
+            "x": 30308,
+            "y": 50106.67
+          },
+          {
+            "x": 30371.33,
+            "y": 50281.33
+          },
+          {
+            "x": 30419.33,
+            "y": 50455.33
+          },
+          {
+            "x": 30466.67,
+            "y": 50614.67
+          },
+          {
+            "x": 30546,
+            "y": 50773.33
+          },
+          {
+            "x": 30594,
+            "y": 50932
+          },
+          {
+            "x": 30657.33,
+            "y": 51122.67
+          },
+          {
+            "x": 30720.67,
+            "y": 51281.33
+          },
+          {
+            "x": 30800,
+            "y": 51440
+          },
+          {
+            "x": 30895.33,
+            "y": 51582.67
+          },
+          {
+            "x": 30990.67,
+            "y": 51726
+          },
+          {
+            "x": 31102,
+            "y": 51868.67
+          },
+          {
+            "x": 31228.67,
+            "y": 51996
+          },
+          {
+            "x": 31340,
+            "y": 52122.67
+          },
+          {
+            "x": 31467.33,
+            "y": 52234
+          },
+          {
+            "x": 31530.67,
+            "y": 52297.33
+          },
+          {
+            "x": 31673.33,
+            "y": 52408.67
+          },
+          {
+            "x": 31816.67,
+            "y": 52504
+          },
+          {
+            "x": 31975.33,
+            "y": 52614.67
+          },
+          {
+            "x": 32150,
+            "y": 52710
+          },
+          {
+            "x": 32308.67,
+            "y": 52742
+          },
+          {
+            "x": 32483.33,
+            "y": 52742
+          },
+          {
+            "x": 32674,
+            "y": 52742
+          },
+          {
+            "x": 32864,
+            "y": 52742
+          },
+          {
+            "x": 33023.33,
+            "y": 52758
+          },
+          {
+            "x": 33182,
+            "y": 52694
+          },
+          {
+            "x": 33340.67,
+            "y": 52630.67
+          },
+          {
+            "x": 33499.33,
+            "y": 52567.33
+          },
+          {
+            "x": 33658,
+            "y": 52519.33
+          },
+          {
+            "x": 33816.67,
+            "y": 52472
+          },
+          {
+            "x": 33960,
+            "y": 52360.67
+          },
+          {
+            "x": 34023.33,
+            "y": 52281.33
+          },
+          {
+            "x": 34102.67,
+            "y": 52138.67
+          },
+          {
+            "x": 34198,
+            "y": 51996
+          },
+          {
+            "x": 34277.33,
+            "y": 51836.67
+          },
+          {
+            "x": 34372.67,
+            "y": 51694
+          },
+          {
+            "x": 34436,
+            "y": 51535.33
+          },
+          {
+            "x": 34452,
+            "y": 51360.67
+          },
+          {
+            "x": 34452,
+            "y": 51186
+          },
+          {
+            "x": 34420,
+            "y": 51027.33
+          },
+          {
+            "x": 34356.67,
+            "y": 50852.67
+          },
+          {
+            "x": 34293.33,
+            "y": 50694
+          },
+          {
+            "x": 34229.33,
+            "y": 50535.33
+          },
+          {
+            "x": 34182,
+            "y": 50376
+          },
+          {
+            "x": 34134.67,
+            "y": 50201.33
+          },
+          {
+            "x": 34070.67,
+            "y": 50026.67
+          },
+          {
+            "x": 34054.67,
+            "y": 49820.67
+          },
+          {
+            "x": 34039.33,
+            "y": 49662
+          },
+          {
+            "x": 34039.33,
+            "y": 49487.33
+          },
+          {
+            "x": 34007.33,
+            "y": 49328.67
+          },
+          {
+            "x": 33944,
+            "y": 49154
+          },
+          {
+            "x": 33896,
+            "y": 48994.67
+          },
+          {
+            "x": 33832.67,
+            "y": 48836
+          },
+          {
+            "x": 33769.33,
+            "y": 48677.33
+          },
+          {
+            "x": 33706,
+            "y": 48502.67
+          },
+          {
+            "x": 33674,
+            "y": 48296.67
+          },
+          {
+            "x": 33690,
+            "y": 48137.33
+          },
+          {
+            "x": 33737.33,
+            "y": 47978.67
+          },
+          {
+            "x": 33848.67,
+            "y": 47836
+          },
+          {
+            "x": 33991.33,
+            "y": 47708.67
+          },
+          {
+            "x": 34102.67,
+            "y": 47582
+          },
+          {
+            "x": 34102.67,
+            "y": 47360
+          },
+          {
+            "x": 34102.67,
+            "y": 47153.33
+          },
+          {
+            "x": 34102.67,
+            "y": 46962.67
+          },
+          {
+            "x": 33991.33,
+            "y": 46677.33
+          },
+          {
+            "x": 33928,
+            "y": 46518
+          },
+          {
+            "x": 33864.67,
+            "y": 46359.33
+          },
+          {
+            "x": 33785.33,
+            "y": 46184.67
+          },
+          {
+            "x": 33690,
+            "y": 45994
+          },
+          {
+            "x": 33610.67,
+            "y": 45835.33
+          },
+          {
+            "x": 33515.33,
+            "y": 45660.67
+          },
+          {
+            "x": 33436,
+            "y": 45518
+          },
+          {
+            "x": 33372,
+            "y": 45359.33
+          },
+          {
+            "x": 33324.67,
+            "y": 45168.67
+          },
+          {
+            "x": 33388,
+            "y": 45010
+          },
+          {
+            "x": 33467.33,
+            "y": 44867.33
+          },
+          {
+            "x": 33467.33,
+            "y": 44676.67
+          },
+          {
+            "x": 33436,
+            "y": 44518
+          },
+          {
+            "x": 33308.67,
+            "y": 44374.67
+          },
+          {
+            "x": 33182,
+            "y": 44264
+          },
+          {
+            "x": 33023.33,
+            "y": 44216
+          },
+          {
+            "x": 32912,
+            "y": 44089.33
+          },
+          {
+            "x": 32991.33,
+            "y": 43946
+          },
+          {
+            "x": 33102.67,
+            "y": 43819.33
+          },
+          {
+            "x": 33134,
+            "y": 43644.67
+          },
+          {
+            "x": 33086.67,
+            "y": 43486
+          },
+          {
+            "x": 32991.33,
+            "y": 43327.33
+          },
+          {
+            "x": 32912,
+            "y": 43184
+          },
+          {
+            "x": 32816.67,
+            "y": 43025.33
+          },
+          {
+            "x": 32768.67,
+            "y": 42866.67
+          },
+          {
+            "x": 32689.33,
+            "y": 42724
+          },
+          {
+            "x": 32626,
+            "y": 42549.33
+          },
+          {
+            "x": 32530.67,
+            "y": 42406
+          },
+          {
+            "x": 32483.33,
+            "y": 42247.33
+          },
+          {
+            "x": 32610,
+            "y": 42136
+          },
+          {
+            "x": 32721.33,
+            "y": 42009.33
+          },
+          {
+            "x": 32753.33,
+            "y": 41850.67
+          },
+          {
+            "x": 32737.33,
+            "y": 41676
+          },
+          {
+            "x": 32642,
+            "y": 41532.67
+          },
+          {
+            "x": 32562.67,
+            "y": 41374
+          },
+          {
+            "x": 32435.33,
+            "y": 41247.33
+          },
+          {
+            "x": 32276.67,
+            "y": 41199.33
+          },
+          {
+            "x": 32038.67,
+            "y": 41104
+          },
+          {
+            "x": 31880,
+            "y": 41040.67
+          },
+          {
+            "x": 31721.33,
+            "y": 41104
+          },
+          {
+            "x": 31562.67,
+            "y": 41056.67
+          },
+          {
+            "x": 31403.33,
+            "y": 41024.67
+          },
+          {
+            "x": 31197.33,
+            "y": 41024.67
+          },
+          {
+            "x": 31022.67,
+            "y": 41040.67
+          },
+          {
+            "x": 30864,
+            "y": 41136
+          },
+          {
+            "x": 30705.33,
+            "y": 41184
+          },
+          {
+            "x": 30482.67,
+            "y": 41168
+          },
+          {
+            "x": 30308,
+            "y": 41088.67
+          },
+          {
+            "x": 30149.33,
+            "y": 41056.67
+          },
+          {
+            "x": 29990.67,
+            "y": 41072.67
+          },
+          {
+            "x": 29879.33,
+            "y": 41199.33
+          },
+          {
+            "x": 29800,
+            "y": 41342.67
+          },
+          {
+            "x": 29720.67,
+            "y": 41501.33
+          },
+          {
+            "x": 29688.67,
+            "y": 41660
+          },
+          {
+            "x": 29688.67,
+            "y": 41834.67
+          },
+          {
+            "x": 29720.67,
+            "y": 42009.33
+          },
+          {
+            "x": 29768,
+            "y": 42168
+          },
+          {
+            "x": 29848,
+            "y": 42326.67
+          },
+          {
+            "x": 29895.33,
+            "y": 42485.33
+          },
+          {
+            "x": 30006.67,
+            "y": 42612.67
+          },
+          {
+            "x": 30102,
+            "y": 42755.33
+          },
+          {
+            "x": 30244.67,
+            "y": 42850.67
+          },
+          {
+            "x": 30387.33,
+            "y": 42946
+          },
+          {
+            "x": 30530.67,
+            "y": 43025.33
+          },
+          {
+            "x": 30673.33,
+            "y": 43120.67
+          },
+          {
+            "x": 30832,
+            "y": 43184
+          },
+          {
+            "x": 31022.67,
+            "y": 43232
+          },
+          {
+            "x": 31181.33,
+            "y": 43279.33
+          },
+          {
+            "x": 31308,
+            "y": 43406.67
+          },
+          {
+            "x": 31403.33,
+            "y": 43549.33
+          },
+          {
+            "x": 31514.67,
+            "y": 43676
+          },
+          {
+            "x": 31578,
+            "y": 43835.33
+          },
+          {
+            "x": 31657.33,
+            "y": 43978
+          },
+          {
+            "x": 31800.67,
+            "y": 44057.33
+          },
+          {
+            "x": 31975.33,
+            "y": 44073.33
+          },
+          {
+            "x": 32150,
+            "y": 44073.33
+          },
+          {
+            "x": 32292.67,
+            "y": 44184.67
+          },
+          {
+            "x": 32372,
+            "y": 44343.33
+          },
+          {
+            "x": 32451.33,
+            "y": 44486
+          },
+          {
+            "x": 32467.33,
+            "y": 44660.67
+          },
+          {
+            "x": 32404,
+            "y": 44819.33
+          },
+          {
+            "x": 32308.67,
+            "y": 44962
+          },
+          {
+            "x": 32213.33,
+            "y": 45105.33
+          },
+          {
+            "x": 32134,
+            "y": 45280
+          },
+          {
+            "x": 32038.67,
+            "y": 45422.67
+          },
+          {
+            "x": 31975.33,
+            "y": 45581.33
+          },
+          {
+            "x": 31943.33,
+            "y": 45740
+          },
+          {
+            "x": 31880,
+            "y": 45899.33
+          },
+          {
+            "x": 31800.67,
+            "y": 46042
+          },
+          {
+            "x": 31673.33,
+            "y": 46153.33
+          },
+          {
+            "x": 31514.67,
+            "y": 46200.67
+          },
+          {
+            "x": 31340,
+            "y": 46184.67
+          },
+          {
+            "x": 31181.33,
+            "y": 46121.33
+          },
+          {
+            "x": 31038.67,
+            "y": 46042
+          },
+          {
+            "x": 30848,
+            "y": 46010
+          },
+          {
+            "x": 30689.33,
+            "y": 45994
+          },
+          {
+            "x": 30514.67,
+            "y": 46042
+          },
+          {
+            "x": 30371.33,
+            "y": 46168.67
+          },
+          {
+            "x": 30244.67,
+            "y": 46280
+          },
+          {
+            "x": 30165.33,
+            "y": 46343.33
+          },
+          {
+            "x": 30165.33,
+            "y": 46343.33
+          },
+          {
+            "x": 30149.33,
+            "y": 46296
+          }
+        ]
+      },
+      "anchor": {
+        "x": 32096.62,
+        "y": 46587.03
+      },
+      "crop": {
+        "left": 31232,
+        "top": 45824,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 864.62,
+        "y": 763.03
+      },
+      "atlas_image": "atlas/19-metastase-eines-klarzelligen-nierenzellkarzinoms-annotiert.jpg",
+      "exercise_image": "pruefung/19-metastase-eines-klarzelligen-nierenzellkarzinoms.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund.",
+      "didactic_note": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 19,
+      "label": "Metastase eines klarzelligen Nierenzellkarzinoms",
+      "exercise_image": "pruefung/19-metastase-eines-klarzelligen-nierenzellkarzinoms.jpg",
+      "rationale": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund.",
+      "didactic_note": "Die klarzellige Nierenzellkarzinommetastase ist der spezifische Tumorbefund. Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+    }
+  ],
+  "didactic_context": "Metastasen eines klarzelligen Nierenzellkarzinoms bestehen typischerweise aus Nestern heller, lipid- und glykogenreicher Tumorzellen in einem feinen, reich vaskularisierten Stroma."
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "022",
+    "name": "Leberzirrhose (Sirius)",
+    "organ": "Leber",
+    "diagnosis": "Zirrhose",
+    "description": [
+      "Sirius Färbung (BG=rot, Parenchym=gelb);",
+      "typische Hepatozyten in Bälkchen angeordnet;",
+      "Zentralvenen;",
+      "Periportalfelder (Arterie, Vene, Gallengang);",
+      "fibrosierte Bindegewebssepten (rot gefärbt) mit vielen kleinen Gallengangsproliferaten;",
+      "knotige Regeneratknoten (Pseudolobuli);",
+      "hier ohne prominente Begleitentzündung;",
+      "HE Färbung siehe #20"
+    ],
+    "slide_id": "4470bae3-8f6f-45e7-b9a3-578622c4e68a",
+    "slide_path": "Histopathologie 5. Semester/slides/022 - Leberzirrhose (Sirius).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4470bae3-8f6f-45e7-b9a3-578622c4e68a&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2600,
+    "height": 2728,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Pseudolobuli",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3872,
+            "y": 18496
+          },
+          {
+            "x": 11586,
+            "y": 28932
+          }
+        ]
+      },
+      "anchor": {
+        "x": 7729.0,
+        "y": 23714
+      },
+      "crop": {
+        "left": 6912,
+        "top": 23040,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 817.0,
+        "y": 674
+      },
+      "atlas_image": "atlas/01-pseudolobuli-annotiert.jpg",
+      "exercise_image": "pruefung/01-pseudolobuli.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau.",
+      "didactic_note": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+    },
+    {
+      "id": 5,
+      "label": "fibrosierte Bindegewebssepten",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 8844,
+            "y": 46707
+          },
+          {
+            "x": 22992,
+            "y": 37915
+          },
+          {
+            "x": 22992,
+            "y": 37915
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22992.0,
+        "y": 37915
+      },
+      "crop": {
+        "left": 22016,
+        "top": 37376,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 976.0,
+        "y": 539
+      },
+      "atlas_image": "atlas/05-fibrosierte-bindegewebssepten-annotiert.jpg",
+      "exercise_image": "pruefung/05-fibrosierte-bindegewebssepten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund.",
+      "didactic_note": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 1,
+      "label": "Pseudolobuli",
+      "exercise_image": "pruefung/01-pseudolobuli.jpg",
+      "rationale": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau.",
+      "didactic_note": "Pseudolobuli als charakteristischer zirrhotischer Architekturumbau. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+    },
+    {
+      "annotation_id": 5,
+      "label": "fibrosierte Bindegewebssepten",
+      "exercise_image": "pruefung/05-fibrosierte-bindegewebssepten.jpg",
+      "rationale": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund.",
+      "didactic_note": "Fibrosierte Bindegewebssepten als komplementärer Zirrhosebefund. Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+    }
+  ],
+  "didactic_context": "Pseudolobuli werden durch breite fibrotische Septen voneinander getrennt und ersetzen die regelhafte Läppchenarchitektur; dieses Zusammenspiel kennzeichnet die Zirrhose."
+}

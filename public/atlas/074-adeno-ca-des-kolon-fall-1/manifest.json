@@ -1,0 +1,1381 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "074",
+    "name": "Adeno-Ca des Kolon - Fall 1",
+    "organ": "Kolon",
+    "diagnosis": "Adenokarzinom",
+    "description": [
+      "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "normale Colonschleimhaut mit Krypten & Becherzellen;",
+      "invasiver Tumor mit infiltrierendem Tiefenwachstum;",
+      "schwere Dysplasie (Mitosen, Hyperchromasie, deutliche Nucleoli, verschobene Kern-Plasmarelation, aufgegebene Zellpolarität);",
+      "lymphozytäres Entzündungsinfiltrat;",
+      "pT2a (Infiltration der inneren Schicht der Lamina muscularis propria);"
+    ],
+    "slide_id": "09a4e7ec-26ad-4142-af08-7ad1378d30d5",
+    "slide_path": "Histopathologie 5. Semester/slides/074 - Adeno-Ca des Kolon - Fall 1.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=09a4e7ec-26ad-4142-af08-7ad1378d30d5&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2048,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "nicht-neoplastische Colonschleimhaut mit Ödem",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28975.82,
+            "y": 26545.23
+          },
+          {
+            "x": 32768,
+            "y": 39438.77
+          }
+        ]
+      },
+      "anchor": {
+        "x": 30871.91,
+        "y": 32992
+      },
+      "crop": {
+        "left": 29952,
+        "top": 32256,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 919.91,
+        "y": 736
+      },
+      "atlas_image": "atlas/01-nicht-neoplastische-colonschleimhaut-mit-odem-annotiert.jpg",
+      "exercise_image": "pruefung/01-nicht-neoplastische-colonschleimhaut-mit-odem.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „nicht-neoplastische Colonschleimhaut mit Ödem“ als morphologischen Teilbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "id": 3,
+      "label": "Stratum longitudinale",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17149.19,
+            "y": 8237.01
+          },
+          {
+            "x": 19629.01,
+            "y": 10019.87
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18389.1,
+        "y": 9128.44
+      },
+      "crop": {
+        "left": 17408,
+        "top": 8448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 981.1,
+        "y": 680.44
+      },
+      "atlas_image": "atlas/03-stratum-longitudinale-annotiert.jpg",
+      "exercise_image": "pruefung/03-stratum-longitudinale.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum longitudinale“ dient hier als anatomischer Orientierungspunkt. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "id": 7,
+      "label": "Stratum circulare",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10161.23,
+            "y": 11444.04
+          },
+          {
+            "x": 13180.48,
+            "y": 13530.73
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11670.86,
+        "y": 12487.38
+      },
+      "crop": {
+        "left": 10752,
+        "top": 11776,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 918.86,
+        "y": 711.38
+      },
+      "atlas_image": "atlas/07-stratum-circulare-annotiert.jpg",
+      "exercise_image": "pruefung/07-stratum-circulare.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Stratum circulare“ dient hier als anatomischer Orientierungspunkt. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "id": 9,
+      "label": "Infiltration der Tunica muscularis propria",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4917.45,
+            "y": 6942.95
+          },
+          {
+            "x": 8446.59,
+            "y": 10057.14
+          }
+        ]
+      },
+      "anchor": {
+        "x": 6682.02,
+        "y": 8500.04
+      },
+      "crop": {
+        "left": 5888,
+        "top": 7936,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.02,
+        "y": 564.04
+      },
+      "atlas_image": "atlas/09-infiltration-der-tunica-muscularis-propria-annotiert.jpg",
+      "exercise_image": "pruefung/09-infiltration-der-tunica-muscularis-propria.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums.",
+      "didactic_note": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "id": 13,
+      "label": "Invasiver Tumor",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 0,
+            "y": 7995.08
+          },
+          {
+            "x": 0,
+            "y": 8721.58
+          },
+          {
+            "x": 0,
+            "y": 9392.53
+          },
+          {
+            "x": 0,
+            "y": 10119.03
+          },
+          {
+            "x": 0,
+            "y": 10734.42
+          },
+          {
+            "x": 0,
+            "y": 11517.19
+          },
+          {
+            "x": 0,
+            "y": 12131.87
+          },
+          {
+            "x": 0,
+            "y": 12747.25
+          },
+          {
+            "x": 0,
+            "y": 13418.2
+          },
+          {
+            "x": 0,
+            "y": 14200.97
+          },
+          {
+            "x": 0,
+            "y": 15095.56
+          },
+          {
+            "x": 0,
+            "y": 15822.07
+          },
+          {
+            "x": 0,
+            "y": 16549.27
+          },
+          {
+            "x": 0,
+            "y": 17220.22
+          },
+          {
+            "x": 0,
+            "y": 17890.46
+          },
+          {
+            "x": 0,
+            "y": 18561.41
+          },
+          {
+            "x": 0,
+            "y": 19176.79
+          },
+          {
+            "x": 0,
+            "y": 19847.74
+          },
+          {
+            "x": 0,
+            "y": 20574.24
+          },
+          {
+            "x": 0,
+            "y": 21245.19
+          },
+          {
+            "x": 0,
+            "y": 21972.4
+          },
+          {
+            "x": 0,
+            "y": 22698.9
+          },
+          {
+            "x": 0,
+            "y": 23481.67
+          },
+          {
+            "x": 0,
+            "y": 24264.44
+          },
+          {
+            "x": 0,
+            "y": 24823.56
+          },
+          {
+            "x": 0,
+            "y": 25382.68
+          },
+          {
+            "x": 0,
+            "y": 26053.63
+          },
+          {
+            "x": 0,
+            "y": 26724.57
+          },
+          {
+            "x": 0,
+            "y": 27619.16
+          },
+          {
+            "x": 0,
+            "y": 28290.11
+          },
+          {
+            "x": 0,
+            "y": 28904.79
+          },
+          {
+            "x": 0,
+            "y": 29632
+          },
+          {
+            "x": 0,
+            "y": 30358.51
+          },
+          {
+            "x": 0,
+            "y": 30973.89
+          },
+          {
+            "x": 0,
+            "y": 31588.57
+          },
+          {
+            "x": 0,
+            "y": 32203.96
+          },
+          {
+            "x": 0,
+            "y": 33154.11
+          },
+          {
+            "x": 0,
+            "y": 33825.05
+          },
+          {
+            "x": 0,
+            "y": 34496
+          },
+          {
+            "x": 123.08,
+            "y": 35390.59
+          },
+          {
+            "x": 458.55,
+            "y": 35893.45
+          },
+          {
+            "x": 849.58,
+            "y": 36564.4
+          },
+          {
+            "x": 1241.32,
+            "y": 37347.16
+          },
+          {
+            "x": 1520.53,
+            "y": 37850.73
+          },
+          {
+            "x": 1800.44,
+            "y": 38409.85
+          },
+          {
+            "x": 2191.47,
+            "y": 39528.09
+          },
+          {
+            "x": 2471.38,
+            "y": 40366.42
+          },
+          {
+            "x": 2750.59,
+            "y": 41093.63
+          },
+          {
+            "x": 3197.89,
+            "y": 41764.57
+          },
+          {
+            "x": 3533.36,
+            "y": 42323.69
+          },
+          {
+            "x": 3925.1,
+            "y": 42770.99
+          },
+          {
+            "x": 4427.96,
+            "y": 43330.11
+          },
+          {
+            "x": 4875.25,
+            "y": 43721.14
+          },
+          {
+            "x": 5434.37,
+            "y": 44335.82
+          },
+          {
+            "x": 5825.41,
+            "y": 44783.12
+          },
+          {
+            "x": 6272.7,
+            "y": 45174.86
+          },
+          {
+            "x": 6831.82,
+            "y": 45677.71
+          },
+          {
+            "x": 7390.95,
+            "y": 46013.19
+          },
+          {
+            "x": 7950.07,
+            "y": 46293.1
+          },
+          {
+            "x": 8677.27,
+            "y": 46516.75
+          },
+          {
+            "x": 9236.4,
+            "y": 46740.4
+          },
+          {
+            "x": 9795.52,
+            "y": 46964.04
+          },
+          {
+            "x": 10410.2,
+            "y": 47131.43
+          },
+          {
+            "x": 11808.35,
+            "y": 47466.9
+          },
+          {
+            "x": 12479.3,
+            "y": 47634.99
+          },
+          {
+            "x": 13205.8,
+            "y": 47858.64
+          },
+          {
+            "x": 13933.01,
+            "y": 47970.46
+          },
+          {
+            "x": 14547.69,
+            "y": 48194.11
+          },
+          {
+            "x": 15218.64,
+            "y": 48305.93
+          },
+          {
+            "x": 15945.14,
+            "y": 48417.76
+          },
+          {
+            "x": 16504.26,
+            "y": 48529.58
+          },
+          {
+            "x": 17063.38,
+            "y": 48585.14
+          },
+          {
+            "x": 17678.77,
+            "y": 48641.41
+          },
+          {
+            "x": 18349.71,
+            "y": 48641.41
+          },
+          {
+            "x": 18964.4,
+            "y": 48641.41
+          },
+          {
+            "x": 19579.78,
+            "y": 48641.41
+          },
+          {
+            "x": 20362.55,
+            "y": 48585.14
+          },
+          {
+            "x": 20977.23,
+            "y": 48417.76
+          },
+          {
+            "x": 21592.62,
+            "y": 48305.93
+          },
+          {
+            "x": 22151.74,
+            "y": 48194.11
+          },
+          {
+            "x": 22822.68,
+            "y": 47914.2
+          },
+          {
+            "x": 23437.36,
+            "y": 47690.55
+          },
+          {
+            "x": 23996.48,
+            "y": 47299.52
+          },
+          {
+            "x": 24499.34,
+            "y": 46907.78
+          },
+          {
+            "x": 24891.08,
+            "y": 46404.92
+          },
+          {
+            "x": 25282.11,
+            "y": 45957.63
+          },
+          {
+            "x": 25617.58,
+            "y": 45454.07
+          },
+          {
+            "x": 25897.49,
+            "y": 44951.21
+          },
+          {
+            "x": 26121.14,
+            "y": 44392.09
+          },
+          {
+            "x": 26176.7,
+            "y": 43832.97
+          },
+          {
+            "x": 26121.14,
+            "y": 43273.85
+          },
+          {
+            "x": 26009.32,
+            "y": 42714.73
+          },
+          {
+            "x": 25729.41,
+            "y": 42155.6
+          },
+          {
+            "x": 25338.37,
+            "y": 41652.75
+          },
+          {
+            "x": 24834.81,
+            "y": 41205.45
+          },
+          {
+            "x": 24275.69,
+            "y": 40813.71
+          },
+          {
+            "x": 23716.57,
+            "y": 40478.24
+          },
+          {
+            "x": 23213.71,
+            "y": 40142.77
+          },
+          {
+            "x": 22654.59,
+            "y": 39807.3
+          },
+          {
+            "x": 22207.3,
+            "y": 39416.26
+          },
+          {
+            "x": 21704.44,
+            "y": 38968.97
+          },
+          {
+            "x": 21312.7,
+            "y": 38298.02
+          },
+          {
+            "x": 21033.49,
+            "y": 37794.46
+          },
+          {
+            "x": 20809.85,
+            "y": 36956.13
+          },
+          {
+            "x": 20698.02,
+            "y": 36285.19
+          },
+          {
+            "x": 20641.76,
+            "y": 35669.8
+          },
+          {
+            "x": 20586.2,
+            "y": 35111.38
+          },
+          {
+            "x": 20586.2,
+            "y": 34384.18
+          },
+          {
+            "x": 20529.93,
+            "y": 33769.49
+          },
+          {
+            "x": 20474.37,
+            "y": 33210.37
+          },
+          {
+            "x": 20306.29,
+            "y": 32651.25
+          },
+          {
+            "x": 20082.64,
+            "y": 31980.31
+          },
+          {
+            "x": 19747.16,
+            "y": 31253.1
+          },
+          {
+            "x": 19467.96,
+            "y": 30750.24
+          },
+          {
+            "x": 19132.48,
+            "y": 30191.12
+          },
+          {
+            "x": 18852.57,
+            "y": 29687.56
+          },
+          {
+            "x": 18573.36,
+            "y": 29184.7
+          },
+          {
+            "x": 18126.07,
+            "y": 28569.32
+          },
+          {
+            "x": 17622.51,
+            "y": 27954.64
+          },
+          {
+            "x": 17231.47,
+            "y": 27507.34
+          },
+          {
+            "x": 16616.09,
+            "y": 27003.78
+          },
+          {
+            "x": 15889.58,
+            "y": 26445.36
+          },
+          {
+            "x": 15386.02,
+            "y": 25774.42
+          },
+          {
+            "x": 14994.99,
+            "y": 25270.86
+          },
+          {
+            "x": 14603.25,
+            "y": 24823.56
+          },
+          {
+            "x": 14324.04,
+            "y": 24320.7
+          },
+          {
+            "x": 13876.75,
+            "y": 23649.76
+          },
+          {
+            "x": 13541.27,
+            "y": 23146.2
+          },
+          {
+            "x": 13262.07,
+            "y": 22587.08
+          },
+          {
+            "x": 12982.15,
+            "y": 22027.96
+          },
+          {
+            "x": 12814.77,
+            "y": 21468.84
+          },
+          {
+            "x": 12591.12,
+            "y": 20854.15
+          },
+          {
+            "x": 12367.47,
+            "y": 20295.03
+          },
+          {
+            "x": 12087.56,
+            "y": 19735.91
+          },
+          {
+            "x": 11863.91,
+            "y": 19120.53
+          },
+          {
+            "x": 11640.26,
+            "y": 18505.85
+          },
+          {
+            "x": 11361.05,
+            "y": 17890.46
+          },
+          {
+            "x": 11081.14,
+            "y": 17332.04
+          },
+          {
+            "x": 10857.49,
+            "y": 16716.66
+          },
+          {
+            "x": 10522.02,
+            "y": 16213.8
+          },
+          {
+            "x": 10186.55,
+            "y": 15598.42
+          },
+          {
+            "x": 9851.08,
+            "y": 15095.56
+          },
+          {
+            "x": 9460.04,
+            "y": 14536.44
+          },
+          {
+            "x": 9012.75,
+            "y": 14144.7
+          },
+          {
+            "x": 8621.01,
+            "y": 13697.41
+          },
+          {
+            "x": 8229.98,
+            "y": 13194.55
+          },
+          {
+            "x": 7950.07,
+            "y": 12690.99
+          },
+          {
+            "x": 7782.68,
+            "y": 12076.31
+          },
+          {
+            "x": 7670.86,
+            "y": 11460.92
+          },
+          {
+            "x": 7838.24,
+            "y": 10846.24
+          },
+          {
+            "x": 8061.89,
+            "y": 10230.86
+          },
+          {
+            "x": 8341.8,
+            "y": 9728
+          },
+          {
+            "x": 8509.19,
+            "y": 9057.05
+          },
+          {
+            "x": 8621.01,
+            "y": 8497.93
+          },
+          {
+            "x": 8732.84,
+            "y": 7938.81
+          },
+          {
+            "x": 8732.84,
+            "y": 7324.13
+          },
+          {
+            "x": 8565.45,
+            "y": 6765.01
+          },
+          {
+            "x": 8173.71,
+            "y": 6317.71
+          },
+          {
+            "x": 7726.42,
+            "y": 5925.98
+          },
+          {
+            "x": 7055.47,
+            "y": 5702.33
+          },
+          {
+            "x": 6328.97,
+            "y": 5590.51
+          },
+          {
+            "x": 5658.02,
+            "y": 5534.95
+          },
+          {
+            "x": 5043.34,
+            "y": 5534.95
+          },
+          {
+            "x": 4372.4,
+            "y": 5590.51
+          },
+          {
+            "x": 3813.27,
+            "y": 5702.33
+          },
+          {
+            "x": 3197.89,
+            "y": 5870.42
+          },
+          {
+            "x": 2638.77,
+            "y": 6037.8
+          },
+          {
+            "x": 2024.09,
+            "y": 6149.63
+          },
+          {
+            "x": 1464.97,
+            "y": 6261.45
+          },
+          {
+            "x": 849.58,
+            "y": 6429.54
+          },
+          {
+            "x": 178.64,
+            "y": 6653.19
+          },
+          {
+            "x": 0,
+            "y": 6876.84
+          },
+          {
+            "x": 0,
+            "y": 7044.22
+          },
+          {
+            "x": 0,
+            "y": 7267.87
+          },
+          {
+            "x": 0,
+            "y": 7435.96
+          },
+          {
+            "x": 0,
+            "y": 8050.64
+          },
+          {
+            "x": 0,
+            "y": 8050.64
+          },
+          {
+            "x": 0,
+            "y": 7995.08
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9939.39,
+        "y": 27983.66
+      },
+      "crop": {
+        "left": 8960,
+        "top": 27392,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 979.39,
+        "y": 591.66
+      },
+      "atlas_image": "atlas/13-invasiver-tumor-annotiert.jpg",
+      "exercise_image": "pruefung/13-invasiver-tumor.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Invasiver Tumor als diagnostischer Hauptbefund.",
+      "didactic_note": "Invasiver Tumor als diagnostischer Hauptbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "id": 14,
+      "label": "lymphozytäres Entzündungszellinfiltrat",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11818.9,
+            "y": 23131.43
+          },
+          {
+            "x": 11662.77,
+            "y": 23157.45
+          },
+          {
+            "x": 11520,
+            "y": 23183.47
+          },
+          {
+            "x": 11389.89,
+            "y": 23235.52
+          },
+          {
+            "x": 11273.14,
+            "y": 23300.92
+          },
+          {
+            "x": 11169.05,
+            "y": 23391.65
+          },
+          {
+            "x": 11090.99,
+            "y": 23509.1
+          },
+          {
+            "x": 11012.92,
+            "y": 23651.87
+          },
+          {
+            "x": 10986.9,
+            "y": 23781.98
+          },
+          {
+            "x": 10986.9,
+            "y": 23950.77
+          },
+          {
+            "x": 10986.9,
+            "y": 24094.24
+          },
+          {
+            "x": 11000.26,
+            "y": 24249.67
+          },
+          {
+            "x": 11038.95,
+            "y": 24393.14
+          },
+          {
+            "x": 11090.99,
+            "y": 24523.25
+          },
+          {
+            "x": 11169.05,
+            "y": 24640
+          },
+          {
+            "x": 11247.12,
+            "y": 24756.75
+          },
+          {
+            "x": 11337.85,
+            "y": 24860.84
+          },
+          {
+            "x": 11429.27,
+            "y": 24978.29
+          },
+          {
+            "x": 11507.34,
+            "y": 25095.03
+          },
+          {
+            "x": 11585.41,
+            "y": 25225.14
+          },
+          {
+            "x": 11611.43,
+            "y": 25367.91
+          },
+          {
+            "x": 11611.43,
+            "y": 25511.38
+          },
+          {
+            "x": 11611.43,
+            "y": 25667.52
+          },
+          {
+            "x": 11598.07,
+            "y": 25797.63
+          },
+          {
+            "x": 11585.41,
+            "y": 25940.4
+          },
+          {
+            "x": 11585.41,
+            "y": 26083.16
+          },
+          {
+            "x": 11585.41,
+            "y": 26226.64
+          },
+          {
+            "x": 11572.04,
+            "y": 26356.75
+          },
+          {
+            "x": 11559.38,
+            "y": 26512.18
+          },
+          {
+            "x": 11559.38,
+            "y": 26668.31
+          },
+          {
+            "x": 11546.02,
+            "y": 26798.42
+          },
+          {
+            "x": 11546.02,
+            "y": 26954.55
+          },
+          {
+            "x": 11533.36,
+            "y": 27123.34
+          },
+          {
+            "x": 11533.36,
+            "y": 27266.81
+          },
+          {
+            "x": 11533.36,
+            "y": 27422.95
+          },
+          {
+            "x": 11559.38,
+            "y": 27565.71
+          },
+          {
+            "x": 11676.13,
+            "y": 27721.85
+          },
+          {
+            "x": 11818.9,
+            "y": 27812.57
+          },
+          {
+            "x": 11962.37,
+            "y": 27890.64
+          },
+          {
+            "x": 12105.14,
+            "y": 27956.04
+          },
+          {
+            "x": 12261.27,
+            "y": 28020.75
+          },
+          {
+            "x": 12391.38,
+            "y": 28072.79
+          },
+          {
+            "x": 12521.49,
+            "y": 28085.45
+          },
+          {
+            "x": 12664.26,
+            "y": 28085.45
+          },
+          {
+            "x": 12794.37,
+            "y": 28072.79
+          },
+          {
+            "x": 12937.14,
+            "y": 28046.77
+          },
+          {
+            "x": 13067.25,
+            "y": 27994.73
+          },
+          {
+            "x": 13223.38,
+            "y": 27916.66
+          },
+          {
+            "x": 13353.49,
+            "y": 27851.96
+          },
+          {
+            "x": 13483.6,
+            "y": 27760.53
+          },
+          {
+            "x": 13600.35,
+            "y": 27695.82
+          },
+          {
+            "x": 13717.8,
+            "y": 27630.42
+          },
+          {
+            "x": 13834.55,
+            "y": 27565.71
+          },
+          {
+            "x": 13951.3,
+            "y": 27501.01
+          },
+          {
+            "x": 14068.75,
+            "y": 27422.95
+          },
+          {
+            "x": 14211.52,
+            "y": 27318.86
+          },
+          {
+            "x": 14367.65,
+            "y": 27201.41
+          },
+          {
+            "x": 14497.76,
+            "y": 27097.32
+          },
+          {
+            "x": 14640.53,
+            "y": 26980.57
+          },
+          {
+            "x": 14731.96,
+            "y": 26876.48
+          },
+          {
+            "x": 14796.66,
+            "y": 26746.37
+          },
+          {
+            "x": 14810.02,
+            "y": 26616.26
+          },
+          {
+            "x": 14757.98,
+            "y": 26486.15
+          },
+          {
+            "x": 14653.89,
+            "y": 26395.43
+          },
+          {
+            "x": 14549.8,
+            "y": 26304.7
+          },
+          {
+            "x": 14459.08,
+            "y": 26200.62
+          },
+          {
+            "x": 14381.01,
+            "y": 26031.12
+          },
+          {
+            "x": 14328.97,
+            "y": 25888.35
+          },
+          {
+            "x": 14315.6,
+            "y": 25745.58
+          },
+          {
+            "x": 14315.6,
+            "y": 25576.09
+          },
+          {
+            "x": 14302.95,
+            "y": 25445.98
+          },
+          {
+            "x": 14224.88,
+            "y": 25315.87
+          },
+          {
+            "x": 14120.79,
+            "y": 25186.46
+          },
+          {
+            "x": 13990.68,
+            "y": 25121.05
+          },
+          {
+            "x": 13834.55,
+            "y": 25082.37
+          },
+          {
+            "x": 13691.78,
+            "y": 25042.99
+          },
+          {
+            "x": 13535.65,
+            "y": 24964.92
+          },
+          {
+            "x": 13405.54,
+            "y": 24860.84
+          },
+          {
+            "x": 13327.47,
+            "y": 24744.09
+          },
+          {
+            "x": 13288.79,
+            "y": 24601.32
+          },
+          {
+            "x": 13275.43,
+            "y": 24471.21
+          },
+          {
+            "x": 13275.43,
+            "y": 24301.71
+          },
+          {
+            "x": 13275.43,
+            "y": 24158.95
+          },
+          {
+            "x": 13288.79,
+            "y": 24016.18
+          },
+          {
+            "x": 13288.79,
+            "y": 23860.04
+          },
+          {
+            "x": 13288.79,
+            "y": 23703.91
+          },
+          {
+            "x": 13288.79,
+            "y": 23561.14
+          },
+          {
+            "x": 13223.38,
+            "y": 23443.69
+          },
+          {
+            "x": 13132.66,
+            "y": 23313.58
+          },
+          {
+            "x": 12989.19,
+            "y": 23209.49
+          },
+          {
+            "x": 12846.42,
+            "y": 23170.81
+          },
+          {
+            "x": 12703.65,
+            "y": 23131.43
+          },
+          {
+            "x": 12560.18,
+            "y": 23105.41
+          },
+          {
+            "x": 12430.07,
+            "y": 23092.75
+          },
+          {
+            "x": 12287.3,
+            "y": 23079.38
+          },
+          {
+            "x": 12144.53,
+            "y": 23092.75
+          },
+          {
+            "x": 11806.24,
+            "y": 23131.43
+          },
+          {
+            "x": 11806.24,
+            "y": 23131.43
+          },
+          {
+            "x": 11818.9,
+            "y": 23131.43
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12676.87,
+        "y": 25553.93
+      },
+      "crop": {
+        "left": 11776,
+        "top": 24832,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 900.87,
+        "y": 721.93
+      },
+      "atlas_image": "atlas/14-lymphozytares-entzundungszellinfiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/14-lymphozytares-entzundungszellinfiltrat.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „lymphozytäres Entzündungszellinfiltrat“ als morphologischen Teilbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 13,
+      "label": "Invasiver Tumor",
+      "exercise_image": "pruefung/13-invasiver-tumor.jpg",
+      "rationale": "Invasiver Tumor als diagnostischer Hauptbefund.",
+      "didactic_note": "Invasiver Tumor als diagnostischer Hauptbefund. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    },
+    {
+      "annotation_id": 9,
+      "label": "Infiltration der Tunica muscularis propria",
+      "exercise_image": "pruefung/09-infiltration-der-tunica-muscularis-propria.jpg",
+      "rationale": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums.",
+      "didactic_note": "Infiltration der Tunica muscularis propria als Beleg invasiven Wachstums. Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+    }
+  ],
+  "didactic_context": "Das kolorektale Adenokarzinom bildet atypische Drüsen, häufig mit schmutziger Nekrose, die desmoplastisch in die Darmwand infiltrieren; die erreichte Wandschicht bestimmt wesentlich das pT-Stadium."
+}

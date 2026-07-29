@@ -1,0 +1,631 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "044",
+    "name": "Melanozytärer Naevus",
+    "organ": "Haut",
+    "diagnosis": "melanozytärer Naevus",
+    "description": [
+      "verhornendes Plattenepithel;",
+      "Haare, Talgdrüsen;",
+      "Naevus;",
+      "bestehend aus nestförmig angeordneten Melanozyten;",
+      "Hyperpigmentierung;",
+      "Ausbreitung der Naevuszellen zur Tiefe hin;",
+      "hier: dermale und epidermale Anteile;",
+      "fehlende Malignitätskriterien;"
+    ],
+    "slide_id": "d43f5b5a-da31-4906-9035-6a49d12f4553",
+    "slide_path": "Histopathologie 5. Semester/slides/044 - Melanozytärer Naevus.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=d43f5b5a-da31-4906-9035-6a49d12f4553&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2112,
+    "height": 3072,
+    "level_0_to_overview_scale": 0.125,
+    "tile_level": 3,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Melanozytennest",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11086.85,
+            "y": 12914.69
+          },
+          {
+            "x": 11870.98,
+            "y": 13472.26
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11478.91,
+        "y": 13193.47
+      },
+      "crop": {
+        "left": 10496,
+        "top": 12544,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 982.91,
+        "y": 649.47
+      },
+      "atlas_image": "atlas/01-melanozytennest-annotiert.jpg",
+      "exercise_image": "pruefung/01-melanozytennest.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Melanozytennest als charakteristischer Befund des melanozytären Nävus.",
+      "didactic_note": "Melanozytennest als charakteristischer Befund des melanozytären Nävus. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "id": 3,
+      "label": "epidermale Komponente",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10398.72,
+            "y": 21460.99
+          },
+          {
+            "x": 10893.31,
+            "y": 21987.84
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10646.02,
+        "y": 21724.42
+      },
+      "crop": {
+        "left": 9728,
+        "top": 20992,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 918.02,
+        "y": 732.42
+      },
+      "atlas_image": "atlas/03-epidermale-komponente-annotiert.jpg",
+      "exercise_image": "pruefung/03-epidermale-komponente.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „epidermale Komponente“ als morphologischen Teilbefund. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "id": 5,
+      "label": "Haar",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10312.7,
+            "y": 6027.26
+          },
+          {
+            "x": 11125.25,
+            "y": 6451.97
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10718.98,
+        "y": 6239.62
+      },
+      "crop": {
+        "left": 9728,
+        "top": 5632,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 990.98,
+        "y": 607.62
+      },
+      "atlas_image": "atlas/05-haar-annotiert.jpg",
+      "exercise_image": "pruefung/05-haar.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Haar“ als morphologischen Teilbefund. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "id": 7,
+      "label": "dermale Komponente",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9283.58,
+            "y": 11068.42
+          },
+          {
+            "x": 10530.05,
+            "y": 11601.41
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9906.82,
+        "y": 11334.91
+      },
+      "crop": {
+        "left": 8960,
+        "top": 10752,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 946.82,
+        "y": 582.91
+      },
+      "atlas_image": "atlas/07-dermale-komponente-annotiert.jpg",
+      "exercise_image": "pruefung/07-dermale-komponente.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Dermale Nävuskomponente als ergänzende typische Lokalisation.",
+      "didactic_note": "Dermale Nävuskomponente als ergänzende typische Lokalisation. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "id": 13,
+      "label": "Talgdrüse",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9586.94,
+            "y": 6526.46
+          },
+          {
+            "x": 9583.1,
+            "y": 6567.94
+          },
+          {
+            "x": 9583.1,
+            "y": 6590.21
+          },
+          {
+            "x": 9583.1,
+            "y": 6617.86
+          },
+          {
+            "x": 9586.94,
+            "y": 6637.82
+          },
+          {
+            "x": 9596.93,
+            "y": 6656.26
+          },
+          {
+            "x": 9612.29,
+            "y": 6673.92
+          },
+          {
+            "x": 9628.42,
+            "y": 6690.05
+          },
+          {
+            "x": 9642.24,
+            "y": 6707.71
+          },
+          {
+            "x": 9664.51,
+            "y": 6721.54
+          },
+          {
+            "x": 9682.18,
+            "y": 6733.82
+          },
+          {
+            "x": 9700.61,
+            "y": 6743.81
+          },
+          {
+            "x": 9710.59,
+            "y": 6775.3
+          },
+          {
+            "x": 9704.45,
+            "y": 6795.26
+          },
+          {
+            "x": 9694.46,
+            "y": 6817.54
+          },
+          {
+            "x": 9686.02,
+            "y": 6841.34
+          },
+          {
+            "x": 9686.02,
+            "y": 6863.62
+          },
+          {
+            "x": 9694.46,
+            "y": 6885.12
+          },
+          {
+            "x": 9708.29,
+            "y": 6901.25
+          },
+          {
+            "x": 9724.42,
+            "y": 6915.07
+          },
+          {
+            "x": 9745.92,
+            "y": 6925.06
+          },
+          {
+            "x": 9768.19,
+            "y": 6931.2
+          },
+          {
+            "x": 9795.84,
+            "y": 6931.2
+          },
+          {
+            "x": 9815.81,
+            "y": 6928.9
+          },
+          {
+            "x": 9835.78,
+            "y": 6925.06
+          },
+          {
+            "x": 9858.05,
+            "y": 6918.91
+          },
+          {
+            "x": 9879.55,
+            "y": 6911.23
+          },
+          {
+            "x": 9901.82,
+            "y": 6902.78
+          },
+          {
+            "x": 9923.33,
+            "y": 6895.1
+          },
+          {
+            "x": 9945.6,
+            "y": 6885.12
+          },
+          {
+            "x": 9965.57,
+            "y": 6877.44
+          },
+          {
+            "x": 9987.07,
+            "y": 6865.15
+          },
+          {
+            "x": 10007.04,
+            "y": 6851.33
+          },
+          {
+            "x": 10027.01,
+            "y": 6831.36
+          },
+          {
+            "x": 10045.44,
+            "y": 6815.23
+          },
+          {
+            "x": 10065.41,
+            "y": 6799.1
+          },
+          {
+            "x": 10079.23,
+            "y": 6783.74
+          },
+          {
+            "x": 10096.9,
+            "y": 6769.92
+          },
+          {
+            "x": 10116.86,
+            "y": 6759.94
+          },
+          {
+            "x": 10142.98,
+            "y": 6749.95
+          },
+          {
+            "x": 10164.48,
+            "y": 6739.97
+          },
+          {
+            "x": 10189.06,
+            "y": 6729.98
+          },
+          {
+            "x": 10210.56,
+            "y": 6720
+          },
+          {
+            "x": 10232.83,
+            "y": 6705.41
+          },
+          {
+            "x": 10250.5,
+            "y": 6696.19
+          },
+          {
+            "x": 10274.3,
+            "y": 6690.05
+          },
+          {
+            "x": 10296.58,
+            "y": 6680.06
+          },
+          {
+            "x": 10316.54,
+            "y": 6667.78
+          },
+          {
+            "x": 10336.51,
+            "y": 6650.11
+          },
+          {
+            "x": 10351.87,
+            "y": 6633.98
+          },
+          {
+            "x": 10368,
+            "y": 6614.02
+          },
+          {
+            "x": 10384.13,
+            "y": 6600.19
+          },
+          {
+            "x": 10397.95,
+            "y": 6584.06
+          },
+          {
+            "x": 10396.42,
+            "y": 6564.1
+          },
+          {
+            "x": 10381.82,
+            "y": 6546.43
+          },
+          {
+            "x": 10358.02,
+            "y": 6537.98
+          },
+          {
+            "x": 10334.21,
+            "y": 6532.61
+          },
+          {
+            "x": 10302.72,
+            "y": 6532.61
+          },
+          {
+            "x": 10272.77,
+            "y": 6532.61
+          },
+          {
+            "x": 10242.82,
+            "y": 6532.61
+          },
+          {
+            "x": 10214.4,
+            "y": 6532.61
+          },
+          {
+            "x": 10182.91,
+            "y": 6534.14
+          },
+          {
+            "x": 10159.1,
+            "y": 6540.29
+          },
+          {
+            "x": 10125.31,
+            "y": 6547.97
+          },
+          {
+            "x": 10096.9,
+            "y": 6554.11
+          },
+          {
+            "x": 10075.39,
+            "y": 6560.26
+          },
+          {
+            "x": 10053.12,
+            "y": 6566.4
+          },
+          {
+            "x": 10023.17,
+            "y": 6572.54
+          },
+          {
+            "x": 10003.2,
+            "y": 6574.08
+          },
+          {
+            "x": 9979.39,
+            "y": 6574.08
+          },
+          {
+            "x": 9955.58,
+            "y": 6564.1
+          },
+          {
+            "x": 9935.62,
+            "y": 6544.13
+          },
+          {
+            "x": 9917.95,
+            "y": 6532.61
+          },
+          {
+            "x": 9883.39,
+            "y": 6508.8
+          },
+          {
+            "x": 9861.89,
+            "y": 6492.67
+          },
+          {
+            "x": 9839.62,
+            "y": 6482.69
+          },
+          {
+            "x": 9815.81,
+            "y": 6482.69
+          },
+          {
+            "x": 9782.02,
+            "y": 6482.69
+          },
+          {
+            "x": 9734.4,
+            "y": 6488.83
+          },
+          {
+            "x": 9712.13,
+            "y": 6492.67
+          },
+          {
+            "x": 9688.32,
+            "y": 6496.51
+          },
+          {
+            "x": 9664.51,
+            "y": 6500.35
+          },
+          {
+            "x": 9642.24,
+            "y": 6508.8
+          },
+          {
+            "x": 9622.27,
+            "y": 6518.02
+          },
+          {
+            "x": 9583.1,
+            "y": 6526.46
+          },
+          {
+            "x": 9583.1,
+            "y": 6526.46
+          },
+          {
+            "x": 9586.94,
+            "y": 6526.46
+          }
+        ]
+      },
+      "anchor": {
+        "x": 9944.92,
+        "y": 6675.76
+      },
+      "crop": {
+        "left": 8960,
+        "top": 6144,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 984.92,
+        "y": 531.76
+      },
+      "atlas_image": "atlas/13-talgdruse-annotiert.jpg",
+      "exercise_image": "pruefung/13-talgdruse.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Talgdrüse“ dient hier als anatomischer Orientierungspunkt. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "id": 14,
+      "label": "verhornendes Plattenepithel",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 6244.61,
+            "y": 2039.04
+          },
+          {
+            "x": 8583.94,
+            "y": 2862.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 7414.27,
+        "y": 2450.69
+      },
+      "crop": {
+        "left": 6400,
+        "top": 1792,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1014.27,
+        "y": 658.69
+      },
+      "atlas_image": "atlas/14-verhornendes-plattenepithel-annotiert.jpg",
+      "exercise_image": "pruefung/14-verhornendes-plattenepithel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „verhornendes Plattenepithel“ dient hier als anatomischer Orientierungspunkt. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 1,
+      "label": "Melanozytennest",
+      "exercise_image": "pruefung/01-melanozytennest.jpg",
+      "rationale": "Melanozytennest als charakteristischer Befund des melanozytären Nävus.",
+      "didactic_note": "Melanozytennest als charakteristischer Befund des melanozytären Nävus. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    },
+    {
+      "annotation_id": 7,
+      "label": "dermale Komponente",
+      "exercise_image": "pruefung/07-dermale-komponente.jpg",
+      "rationale": "Dermale Nävuskomponente als ergänzende typische Lokalisation.",
+      "didactic_note": "Dermale Nävuskomponente als ergänzende typische Lokalisation. Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+    }
+  ],
+  "didactic_context": "Ein melanozytärer Nävus zeigt symmetrische Nester zytologisch blander Melanozyten; die Reifung zu kleineren Zellen in der Tiefe unterstützt die Benignität."
+}

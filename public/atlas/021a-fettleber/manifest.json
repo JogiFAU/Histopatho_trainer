@@ -1,0 +1,450 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "021a",
+    "name": "Fettleber",
+    "organ": "Leber",
+    "diagnosis": "Fettleber",
+    "description": [
+      "typische Hepatozyten, in Bälkchen angeordnet;",
+      "Periportalfelder (Arterie, Vene, Gallengang);",
+      "Zentralvenen;",
+      "Fettleber: >50% der Hepatozyten sind verfettet",
+      "(wenn <50% verfettet sind spricht man von Leberverfettung);",
+      "verfettete Hepatozyten:",
+      "- Fettvakuolen (keine Fettzellen)",
+      "- randständiger Kern"
+    ],
+    "slide_id": "8a2077e4-85ec-4b1f-a542-9665170d465b",
+    "slide_path": "Histopathologie 5. Semester/slides/021a - Fettleber.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8a2077e4-85ec-4b1f-a542-9665170d465b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4016,
+    "height": 3760,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Zentralvene",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16829,
+            "y": 21379
+          },
+          {
+            "x": 17445,
+            "y": 21872
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17137,
+        "y": 21625.5
+      },
+      "crop": {
+        "left": 16128,
+        "top": 20992,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1009,
+        "y": 633.5
+      },
+      "atlas_image": "atlas/03-zentralvene-annotiert.jpg",
+      "exercise_image": "pruefung/03-zentralvene.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Zentralvene“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 14,
+      "label": "Gallengang",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17901,
+            "y": 28753
+          },
+          {
+            "x": 18428,
+            "y": 29270
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18164.5,
+        "y": 29011.5
+      },
+      "crop": {
+        "left": 17152,
+        "top": 28416,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1012.5,
+        "y": 595.5
+      },
+      "atlas_image": "atlas/14-gallengang-annotiert.jpg",
+      "exercise_image": "pruefung/14-gallengang.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 15,
+      "label": "Vene",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15701,
+            "y": 28005
+          },
+          {
+            "x": 15255,
+            "y": 28656
+          },
+          {
+            "x": 15068,
+            "y": 29833
+          },
+          {
+            "x": 14354,
+            "y": 30198
+          },
+          {
+            "x": 14435,
+            "y": 30484
+          },
+          {
+            "x": 15094,
+            "y": 30377
+          },
+          {
+            "x": 15843,
+            "y": 30715
+          },
+          {
+            "x": 16325,
+            "y": 30573
+          },
+          {
+            "x": 16860,
+            "y": 30591
+          },
+          {
+            "x": 16887,
+            "y": 30341
+          },
+          {
+            "x": 17225,
+            "y": 29351
+          },
+          {
+            "x": 17359,
+            "y": 28674
+          },
+          {
+            "x": 17644,
+            "y": 28165
+          },
+          {
+            "x": 17903,
+            "y": 27907
+          },
+          {
+            "x": 17537,
+            "y": 27390
+          },
+          {
+            "x": 17127,
+            "y": 27265
+          },
+          {
+            "x": 16628,
+            "y": 27292
+          },
+          {
+            "x": 15986,
+            "y": 27720
+          },
+          {
+            "x": 15701,
+            "y": 28005
+          },
+          {
+            "x": 15701,
+            "y": 28005
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16259.58,
+        "y": 29028.53
+      },
+      "crop": {
+        "left": 15360,
+        "top": 28416,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 899.58,
+        "y": 612.53
+      },
+      "atlas_image": "atlas/15-vene-annotiert.jpg",
+      "exercise_image": "pruefung/15-vene.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Vene“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 16,
+      "label": "Arterie",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17594,
+            "y": 28311
+          },
+          {
+            "x": 17452,
+            "y": 28552
+          },
+          {
+            "x": 17371,
+            "y": 28757
+          },
+          {
+            "x": 17354,
+            "y": 28917
+          },
+          {
+            "x": 17443,
+            "y": 28971
+          },
+          {
+            "x": 17630,
+            "y": 28944
+          },
+          {
+            "x": 17853,
+            "y": 28748
+          },
+          {
+            "x": 17995,
+            "y": 28579
+          },
+          {
+            "x": 18111,
+            "y": 28383
+          },
+          {
+            "x": 18146,
+            "y": 28204
+          },
+          {
+            "x": 18004,
+            "y": 28124
+          },
+          {
+            "x": 17870,
+            "y": 28133
+          },
+          {
+            "x": 17728,
+            "y": 28187
+          },
+          {
+            "x": 17630,
+            "y": 28240
+          },
+          {
+            "x": 17585,
+            "y": 28311
+          },
+          {
+            "x": 17585,
+            "y": 28311
+          },
+          {
+            "x": 17594,
+            "y": 28311
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17710,
+        "y": 28479.5
+      },
+      "crop": {
+        "left": 16896,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 814,
+        "y": 575.5
+      },
+      "atlas_image": "atlas/16-arterie-annotiert.jpg",
+      "exercise_image": "pruefung/16-arterie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 17,
+      "label": "Hepatozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 23545,
+            "y": 22927
+          },
+          {
+            "x": 23662,
+            "y": 23104
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23603.5,
+        "y": 23015.5
+      },
+      "crop": {
+        "left": 22784,
+        "top": 22272,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 819.5,
+        "y": 743.5
+      },
+      "atlas_image": "atlas/17-hepatozyt-annotiert.jpg",
+      "exercise_image": "pruefung/17-hepatozyt.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Hepatozyt“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 18,
+      "label": "verfetteter Hepatozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24099,
+            "y": 26215
+          },
+          {
+            "x": 24316,
+            "y": 26427
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24207.5,
+        "y": 26321
+      },
+      "crop": {
+        "left": 23296,
+        "top": 25600,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 911.5,
+        "y": 721
+      },
+      "atlas_image": "atlas/18-verfetteter-hepatozyt-annotiert.jpg",
+      "exercise_image": "pruefung/18-verfetteter-hepatozyt.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber.",
+      "didactic_note": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    },
+    {
+      "id": 19,
+      "label": "Glisson Trias",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 13809,
+            "y": 26506
+          },
+          {
+            "x": 18783,
+            "y": 31396
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16296.0,
+        "y": 28951.0
+      },
+      "crop": {
+        "left": 15360,
+        "top": 28416,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 936.0,
+        "y": 535.0
+      },
+      "atlas_image": "atlas/19-glisson-trias-annotiert.jpg",
+      "exercise_image": "pruefung/19-glisson-trias.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Glisson Trias“ dient hier als anatomischer Orientierungspunkt. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 18,
+      "label": "verfetteter Hepatozyt",
+      "exercise_image": "pruefung/18-verfetteter-hepatozyt.jpg",
+      "rationale": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber.",
+      "didactic_note": "Verfetteter Hepatozyt als zellulärer Leitbefund der Fettleber. Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+    }
+  ],
+  "didactic_context": "Bei der Fettleber füllen Lipidvakuolen das Hepatozytenzytoplasma und können den Zellkern randständig verdrängen; die Steatose ist zunächst potenziell reversibel."
+}

@@ -1,0 +1,382 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "058",
+    "name": "Klarzelliges Nierenzell-Ca",
+    "organ": "Niere",
+    "diagnosis": "klarzelliges Nierenzellkarzinom",
+    "description": [
+      "normals Nierenparenchym;",
+      "Nierenpapille;",
+      "Urothel;",
+      "Tumor mit Kapsel;",
+      "helle, granulierte Zellen, ausgehend vom Epithel der proximalen Tubuli;",
+      "deutliche Zellgrenzen, helles (klares) pflanzenzellartiges Zytoplasma;",
+      "prominente Nucleoli;",
+      "frühe hämatogene Metastasierung",
+      "hohe Affinität zu Gefäßen;",
+      "infiltrierendes Wachstum;",
+      "hier: Perineuralscheideninfiltration;"
+    ],
+    "slide_id": "a71d0fd1-f239-4d7b-b002-817263875554",
+    "slide_path": "Histopathologie 5. Semester/slides/058 - Klarzelliges Nierenzell-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a71d0fd1-f239-4d7b-b002-817263875554&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2584,
+    "height": 3584,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Nierenpapille",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16973.81,
+            "y": 55863.12
+          },
+          {
+            "x": 31877.21,
+            "y": 66569.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24425.51,
+        "y": 61216.23
+      },
+      "crop": {
+        "left": 23552,
+        "top": 60672,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 873.51,
+        "y": 544.23
+      },
+      "atlas_image": "atlas/01-nierenpapille-annotiert.jpg",
+      "exercise_image": "pruefung/01-nierenpapille.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nierenpapille“ als morphologischen Teilbefund. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 3,
+      "label": "Nierenparenchym",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28981.84,
+            "y": 12611.66
+          },
+          {
+            "x": 38911.41,
+            "y": 29000.97
+          }
+        ]
+      },
+      "anchor": {
+        "x": 33946.62,
+        "y": 20806.31
+      },
+      "crop": {
+        "left": 33024,
+        "top": 20224,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 922.62,
+        "y": 582.31
+      },
+      "atlas_image": "atlas/03-nierenparenchym-annotiert.jpg",
+      "exercise_image": "pruefung/03-nierenparenchym.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Nierenparenchym“ dient hier als anatomischer Orientierungspunkt. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 11,
+      "label": "Fettgewebsinfiltration",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9810.84,
+            "y": 97239.33
+          },
+          {
+            "x": 11609.63,
+            "y": 99937.51
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10710.23,
+        "y": 98588.42
+      },
+      "crop": {
+        "left": 9728,
+        "top": 98048,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 982.23,
+        "y": 540.42
+      },
+      "atlas_image": "atlas/11-fettgewebsinfiltration-annotiert.jpg",
+      "exercise_image": "pruefung/11-fettgewebsinfiltration.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Fettgewebsinfiltration als Nachweis invasiven Wachstums.",
+      "didactic_note": "Fettgewebsinfiltration als Nachweis invasiven Wachstums. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 19,
+      "label": "Tumorkapsel",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 45524.08,
+            "y": 80835.93
+          },
+          {
+            "x": 41961.71,
+            "y": 79041.16
+          },
+          {
+            "x": 41987.86,
+            "y": 79041.16
+          },
+          {
+            "x": 41987.86,
+            "y": 79041.16
+          }
+        ]
+      },
+      "anchor": {
+        "x": 43157.88,
+        "y": 79639.41
+      },
+      "crop": {
+        "left": 42240,
+        "top": 79104,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 917.88,
+        "y": 535.41
+      },
+      "atlas_image": "atlas/19-tumorkapsel-annotiert.jpg",
+      "exercise_image": "pruefung/19-tumorkapsel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Tumorkapsel“ dient hier als anatomischer Orientierungspunkt. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 20,
+      "label": "Perineuralscheideninfiltration (PNI)",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11339,
+            "y": 89707.14
+          },
+          {
+            "x": 11776.63,
+            "y": 90601.51
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11557.82,
+        "y": 90154.33
+      },
+      "crop": {
+        "left": 10752,
+        "top": 89600,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 805.82,
+        "y": 554.33
+      },
+      "atlas_image": "atlas/20-perineuralscheideninfiltration-pni-annotiert.jpg",
+      "exercise_image": "pruefung/20-perineuralscheideninfiltration-pni.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Perineuralscheideninfiltration (PNI)“ als morphologischen Teilbefund. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 21,
+      "label": "Venenlumen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 64891.26,
+            "y": 99529.06
+          },
+          {
+            "x": 59002.93,
+            "y": 99048.18
+          },
+          {
+            "x": 59002.93,
+            "y": 99048.18
+          }
+        ]
+      },
+      "anchor": {
+        "x": 59002.93,
+        "y": 99048.18
+      },
+      "crop": {
+        "left": 58112,
+        "top": 98304,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 890.93,
+        "y": 744.18
+      },
+      "atlas_image": "atlas/21-venenlumen-annotiert.jpg",
+      "exercise_image": "pruefung/21-venenlumen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Venenlumen“ dient hier als anatomischer Orientierungspunkt. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 22,
+      "label": "Urothel",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 24146.84,
+            "y": 61654.86
+          },
+          {
+            "x": 21123.7,
+            "y": 61708.18
+          },
+          {
+            "x": 21123.7,
+            "y": 61708.18
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21123.7,
+        "y": 61708.18
+      },
+      "crop": {
+        "left": 20224,
+        "top": 61184,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 899.7,
+        "y": 524.18
+      },
+      "atlas_image": "atlas/22-urothel-annotiert.jpg",
+      "exercise_image": "pruefung/22-urothel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Urothel“ dient hier als anatomischer Orientierungspunkt. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "id": 23,
+      "label": "Tumor",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 43743.39,
+            "y": 55969.76
+          },
+          {
+            "x": 62400.31,
+            "y": 71863.1
+          }
+        ]
+      },
+      "anchor": {
+        "x": 53071.85,
+        "y": 63916.43
+      },
+      "crop": {
+        "left": 52224,
+        "top": 63232,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 847.85,
+        "y": 684.43
+      },
+      "atlas_image": "atlas/23-tumor-annotiert.jpg",
+      "exercise_image": "pruefung/23-tumor.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tumorareal des klarzelligen Nierenzellkarzinoms als Hauptbefund.",
+      "didactic_note": "Tumorareal des klarzelligen Nierenzellkarzinoms als Hauptbefund. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 23,
+      "label": "Tumor",
+      "exercise_image": "pruefung/23-tumor.jpg",
+      "rationale": "Tumorareal des klarzelligen Nierenzellkarzinoms als Hauptbefund.",
+      "didactic_note": "Tumorareal des klarzelligen Nierenzellkarzinoms als Hauptbefund. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    },
+    {
+      "annotation_id": 11,
+      "label": "Fettgewebsinfiltration",
+      "exercise_image": "pruefung/11-fettgewebsinfiltration.jpg",
+      "rationale": "Fettgewebsinfiltration als Nachweis invasiven Wachstums.",
+      "didactic_note": "Fettgewebsinfiltration als Nachweis invasiven Wachstums. Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+    }
+  ],
+  "didactic_context": "Das klarzellige Nierenzellkarzinom wächst in Nestern oder Alveolen aus hellen Tumorzellen in einem feinen Kapillarnetz; Gefäß-, Fettgewebs- oder Perineuralinvasion belegen aggressives Verhalten."
+}

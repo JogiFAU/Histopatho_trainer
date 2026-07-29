@@ -1,0 +1,1535 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "079",
+    "name": "LK-Metastase (verhornendes Plattenepithel-Ca)",
+    "organ": "Lymphknoten",
+    "diagnosis": "Metastase eines verhornendes Plattenepithelkarzinoms",
+    "description": [
+      "im unteren Randbereich residuelles Lymphknotenparenchym;",
+      "Lymphknoten komplett von Metastase durchzogen;",
+      "atypisches Plattenepithel und Hornlamellen;",
+      "Riesenzellen, die Hornlamellen und Fremdkörper abbauen;",
+      "Cholesterolspalten (ausgewaschen durch Fixieren);",
+      "Nekrose;",
+      "am Rand der Tumorinseln: Schrumpfung der Zellen, Zell-Zell Verbindungen (Desmosomen) bleiben erhalten",
+      "--> typisches Ausziehungsmuster;"
+    ],
+    "slide_id": "2460c9cc-4890-4a9f-b7b1-b0a43d531de9",
+    "slide_path": "Histopathologie 5. Semester/slides/079 - LK-Metastase (verhornendes Plattenepithel-Ca).xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2460c9cc-4890-4a9f-b7b1-b0a43d531de9&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2464,
+    "height": 3680,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "plattenepithelial differenzierte Karzinomzellen im Verband",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 16480,
+            "y": 40160
+          },
+          {
+            "x": 18327,
+            "y": 42666
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17403.5,
+        "y": 41413
+      },
+      "crop": {
+        "left": 16384,
+        "top": 40704,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1019.5,
+        "y": 709
+      },
+      "atlas_image": "atlas/03-plattenepithelial-differenzierte-karzinomzellen-im-verband-annotiert.jpg",
+      "exercise_image": "pruefung/03-plattenepithelial-differenzierte-karzinomzellen-im-verband.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „plattenepithelial differenzierte Karzinomzellen im Verband“ dient hier als anatomischer Orientierungspunkt. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 9,
+      "label": "Intrazellularbrücken",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 6592,
+            "y": 40608
+          },
+          {
+            "x": 7370,
+            "y": 41239
+          }
+        ]
+      },
+      "anchor": {
+        "x": 6981.0,
+        "y": 40923.5
+      },
+      "crop": {
+        "left": 6144,
+        "top": 40192,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 837.0,
+        "y": 731.5
+      },
+      "atlas_image": "atlas/09-intrazellularbrucken-annotiert.jpg",
+      "exercise_image": "pruefung/09-intrazellularbrucken.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung.",
+      "didactic_note": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 13,
+      "label": "Riesenzelle",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10977,
+            "y": 32915
+          },
+          {
+            "x": 11335,
+            "y": 33284
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11156.0,
+        "y": 33099.5
+      },
+      "crop": {
+        "left": 10240,
+        "top": 32512,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 916.0,
+        "y": 587.5
+      },
+      "atlas_image": "atlas/13-riesenzelle-annotiert.jpg",
+      "exercise_image": "pruefung/13-riesenzelle.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Riesenzelle“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 14,
+      "label": "Hornlamellen",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19345,
+            "y": 38709
+          },
+          {
+            "x": 19316,
+            "y": 38759
+          },
+          {
+            "x": 19299,
+            "y": 38791
+          },
+          {
+            "x": 19284,
+            "y": 38830
+          },
+          {
+            "x": 19273,
+            "y": 38873
+          },
+          {
+            "x": 19273,
+            "y": 38916
+          },
+          {
+            "x": 19273,
+            "y": 38963
+          },
+          {
+            "x": 19277,
+            "y": 38999
+          },
+          {
+            "x": 19284,
+            "y": 39060
+          },
+          {
+            "x": 19291,
+            "y": 39099
+          },
+          {
+            "x": 19302,
+            "y": 39135
+          },
+          {
+            "x": 19320,
+            "y": 39174
+          },
+          {
+            "x": 19334,
+            "y": 39214
+          },
+          {
+            "x": 19334,
+            "y": 39257
+          },
+          {
+            "x": 19334,
+            "y": 39296
+          },
+          {
+            "x": 19327,
+            "y": 39339
+          },
+          {
+            "x": 19324,
+            "y": 39375
+          },
+          {
+            "x": 19316,
+            "y": 39418
+          },
+          {
+            "x": 19327,
+            "y": 39454
+          },
+          {
+            "x": 19352,
+            "y": 39483
+          },
+          {
+            "x": 19388,
+            "y": 39511
+          },
+          {
+            "x": 19431,
+            "y": 39522
+          },
+          {
+            "x": 19467,
+            "y": 39518
+          },
+          {
+            "x": 19503,
+            "y": 39500
+          },
+          {
+            "x": 19535,
+            "y": 39475
+          },
+          {
+            "x": 19560,
+            "y": 39447
+          },
+          {
+            "x": 19585,
+            "y": 39418
+          },
+          {
+            "x": 19614,
+            "y": 39375
+          },
+          {
+            "x": 19632,
+            "y": 39339
+          },
+          {
+            "x": 19646,
+            "y": 39303
+          },
+          {
+            "x": 19664,
+            "y": 39260
+          },
+          {
+            "x": 19682,
+            "y": 39225
+          },
+          {
+            "x": 19700,
+            "y": 39185
+          },
+          {
+            "x": 19721,
+            "y": 39149
+          },
+          {
+            "x": 19743,
+            "y": 39117
+          },
+          {
+            "x": 19764,
+            "y": 39081
+          },
+          {
+            "x": 19789,
+            "y": 39049
+          },
+          {
+            "x": 19818,
+            "y": 39024
+          },
+          {
+            "x": 19854,
+            "y": 39006
+          },
+          {
+            "x": 19893,
+            "y": 38992
+          },
+          {
+            "x": 19929,
+            "y": 38977
+          },
+          {
+            "x": 19976,
+            "y": 38963
+          },
+          {
+            "x": 20015,
+            "y": 38956
+          },
+          {
+            "x": 20058,
+            "y": 38949
+          },
+          {
+            "x": 20098,
+            "y": 38945
+          },
+          {
+            "x": 20133,
+            "y": 38938
+          },
+          {
+            "x": 20169,
+            "y": 38924
+          },
+          {
+            "x": 20209,
+            "y": 38913
+          },
+          {
+            "x": 20252,
+            "y": 38899
+          },
+          {
+            "x": 20284,
+            "y": 38877
+          },
+          {
+            "x": 20309,
+            "y": 38848
+          },
+          {
+            "x": 20334,
+            "y": 38816
+          },
+          {
+            "x": 20359,
+            "y": 38773
+          },
+          {
+            "x": 20377,
+            "y": 38741
+          },
+          {
+            "x": 20388,
+            "y": 38701
+          },
+          {
+            "x": 20399,
+            "y": 38662
+          },
+          {
+            "x": 20416,
+            "y": 38612
+          },
+          {
+            "x": 20431,
+            "y": 38576
+          },
+          {
+            "x": 20442,
+            "y": 38540
+          },
+          {
+            "x": 20452,
+            "y": 38504
+          },
+          {
+            "x": 20467,
+            "y": 38469
+          },
+          {
+            "x": 20474,
+            "y": 38426
+          },
+          {
+            "x": 20459,
+            "y": 38383
+          },
+          {
+            "x": 20445,
+            "y": 38347
+          },
+          {
+            "x": 20427,
+            "y": 38307
+          },
+          {
+            "x": 20413,
+            "y": 38271
+          },
+          {
+            "x": 20395,
+            "y": 38236
+          },
+          {
+            "x": 20377,
+            "y": 38200
+          },
+          {
+            "x": 20352,
+            "y": 38160
+          },
+          {
+            "x": 20327,
+            "y": 38125
+          },
+          {
+            "x": 20305,
+            "y": 38089
+          },
+          {
+            "x": 20287,
+            "y": 38053
+          },
+          {
+            "x": 20255,
+            "y": 38013
+          },
+          {
+            "x": 20219,
+            "y": 37978
+          },
+          {
+            "x": 20184,
+            "y": 37949
+          },
+          {
+            "x": 20148,
+            "y": 37927
+          },
+          {
+            "x": 20098,
+            "y": 37920
+          },
+          {
+            "x": 20037,
+            "y": 37920
+          },
+          {
+            "x": 19997,
+            "y": 37931
+          },
+          {
+            "x": 19958,
+            "y": 37953
+          },
+          {
+            "x": 19926,
+            "y": 37974
+          },
+          {
+            "x": 19893,
+            "y": 37996
+          },
+          {
+            "x": 19854,
+            "y": 38024
+          },
+          {
+            "x": 19818,
+            "y": 38031
+          },
+          {
+            "x": 19782,
+            "y": 38035
+          },
+          {
+            "x": 19732,
+            "y": 38035
+          },
+          {
+            "x": 19685,
+            "y": 38039
+          },
+          {
+            "x": 19642,
+            "y": 38039
+          },
+          {
+            "x": 19599,
+            "y": 38039
+          },
+          {
+            "x": 19567,
+            "y": 38060
+          },
+          {
+            "x": 19535,
+            "y": 38082
+          },
+          {
+            "x": 19499,
+            "y": 38092
+          },
+          {
+            "x": 19463,
+            "y": 38103
+          },
+          {
+            "x": 19428,
+            "y": 38128
+          },
+          {
+            "x": 19410,
+            "y": 38168
+          },
+          {
+            "x": 19410,
+            "y": 38218
+          },
+          {
+            "x": 19410,
+            "y": 38257
+          },
+          {
+            "x": 19410,
+            "y": 38297
+          },
+          {
+            "x": 19420,
+            "y": 38336
+          },
+          {
+            "x": 19435,
+            "y": 38375
+          },
+          {
+            "x": 19442,
+            "y": 38411
+          },
+          {
+            "x": 19453,
+            "y": 38447
+          },
+          {
+            "x": 19460,
+            "y": 38486
+          },
+          {
+            "x": 19438,
+            "y": 38519
+          },
+          {
+            "x": 19417,
+            "y": 38551
+          },
+          {
+            "x": 19395,
+            "y": 38583
+          },
+          {
+            "x": 19374,
+            "y": 38619
+          },
+          {
+            "x": 19356,
+            "y": 38651
+          },
+          {
+            "x": 19345,
+            "y": 38687
+          },
+          {
+            "x": 19342,
+            "y": 38712
+          },
+          {
+            "x": 19342,
+            "y": 38712
+          },
+          {
+            "x": 19345,
+            "y": 38709
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19775.79,
+        "y": 38676.7
+      },
+      "crop": {
+        "left": 18944,
+        "top": 38144,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 831.79,
+        "y": 532.7
+      },
+      "atlas_image": "atlas/14-hornlamellen-annotiert.jpg",
+      "exercise_image": "pruefung/14-hornlamellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms.",
+      "didactic_note": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 15,
+      "label": "residuelles Parenchym",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 27991,
+            "y": 53912
+          },
+          {
+            "x": 21428,
+            "y": 49900
+          },
+          {
+            "x": 21428,
+            "y": 49900
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21428.0,
+        "y": 49900
+      },
+      "crop": {
+        "left": 20480,
+        "top": 49152,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 948.0,
+        "y": 748
+      },
+      "atlas_image": "atlas/15-residuelles-parenchym-annotiert.jpg",
+      "exercise_image": "pruefung/15-residuelles-parenchym.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „residuelles Parenchym“ dient hier als anatomischer Orientierungspunkt. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 16,
+      "label": "LK-Metastase",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9953,
+            "y": 6193
+          },
+          {
+            "x": 9455,
+            "y": 6690
+          },
+          {
+            "x": 8792,
+            "y": 7299
+          },
+          {
+            "x": 8294,
+            "y": 7852
+          },
+          {
+            "x": 7796,
+            "y": 8349
+          },
+          {
+            "x": 7520,
+            "y": 8847
+          },
+          {
+            "x": 7133,
+            "y": 9566
+          },
+          {
+            "x": 6856,
+            "y": 10119
+          },
+          {
+            "x": 6469,
+            "y": 10672
+          },
+          {
+            "x": 5916,
+            "y": 11225
+          },
+          {
+            "x": 5363,
+            "y": 11722
+          },
+          {
+            "x": 4866,
+            "y": 12275
+          },
+          {
+            "x": 4478,
+            "y": 12773
+          },
+          {
+            "x": 4147,
+            "y": 13271
+          },
+          {
+            "x": 3815,
+            "y": 13768
+          },
+          {
+            "x": 3538,
+            "y": 14376
+          },
+          {
+            "x": 3373,
+            "y": 14929
+          },
+          {
+            "x": 3151,
+            "y": 15759
+          },
+          {
+            "x": 2985,
+            "y": 16478
+          },
+          {
+            "x": 2985,
+            "y": 17086
+          },
+          {
+            "x": 2985,
+            "y": 17694
+          },
+          {
+            "x": 2930,
+            "y": 18579
+          },
+          {
+            "x": 2930,
+            "y": 19298
+          },
+          {
+            "x": 2930,
+            "y": 19906
+          },
+          {
+            "x": 2985,
+            "y": 20570
+          },
+          {
+            "x": 3151,
+            "y": 21399
+          },
+          {
+            "x": 3317,
+            "y": 22007
+          },
+          {
+            "x": 3373,
+            "y": 22781
+          },
+          {
+            "x": 3483,
+            "y": 23556
+          },
+          {
+            "x": 3538,
+            "y": 24274
+          },
+          {
+            "x": 3538,
+            "y": 24938
+          },
+          {
+            "x": 3538,
+            "y": 25546
+          },
+          {
+            "x": 3538,
+            "y": 26431
+          },
+          {
+            "x": 3538,
+            "y": 27316
+          },
+          {
+            "x": 3538,
+            "y": 27924
+          },
+          {
+            "x": 3538,
+            "y": 28643
+          },
+          {
+            "x": 3538,
+            "y": 29583
+          },
+          {
+            "x": 3538,
+            "y": 30578
+          },
+          {
+            "x": 3538,
+            "y": 31352
+          },
+          {
+            "x": 3483,
+            "y": 32016
+          },
+          {
+            "x": 3373,
+            "y": 32624
+          },
+          {
+            "x": 3317,
+            "y": 33343
+          },
+          {
+            "x": 3207,
+            "y": 33951
+          },
+          {
+            "x": 3207,
+            "y": 34615
+          },
+          {
+            "x": 3262,
+            "y": 35389
+          },
+          {
+            "x": 3373,
+            "y": 36108
+          },
+          {
+            "x": 3594,
+            "y": 36771
+          },
+          {
+            "x": 3704,
+            "y": 37324
+          },
+          {
+            "x": 3704,
+            "y": 37988
+          },
+          {
+            "x": 3815,
+            "y": 38596
+          },
+          {
+            "x": 3870,
+            "y": 39204
+          },
+          {
+            "x": 4036,
+            "y": 39868
+          },
+          {
+            "x": 4147,
+            "y": 40421
+          },
+          {
+            "x": 4423,
+            "y": 41084
+          },
+          {
+            "x": 4589,
+            "y": 41637
+          },
+          {
+            "x": 4866,
+            "y": 42246
+          },
+          {
+            "x": 5142,
+            "y": 42743
+          },
+          {
+            "x": 5419,
+            "y": 43407
+          },
+          {
+            "x": 5640,
+            "y": 43960
+          },
+          {
+            "x": 5806,
+            "y": 44568
+          },
+          {
+            "x": 6193,
+            "y": 45121
+          },
+          {
+            "x": 6635,
+            "y": 45508
+          },
+          {
+            "x": 7133,
+            "y": 45895
+          },
+          {
+            "x": 7630,
+            "y": 46172
+          },
+          {
+            "x": 8239,
+            "y": 46503
+          },
+          {
+            "x": 8792,
+            "y": 46780
+          },
+          {
+            "x": 9400,
+            "y": 47001
+          },
+          {
+            "x": 9953,
+            "y": 47112
+          },
+          {
+            "x": 10616,
+            "y": 47222
+          },
+          {
+            "x": 11169,
+            "y": 47278
+          },
+          {
+            "x": 11722,
+            "y": 47333
+          },
+          {
+            "x": 12386,
+            "y": 47333
+          },
+          {
+            "x": 12994,
+            "y": 47333
+          },
+          {
+            "x": 13602,
+            "y": 47333
+          },
+          {
+            "x": 14211,
+            "y": 47443
+          },
+          {
+            "x": 14708,
+            "y": 47720
+          },
+          {
+            "x": 15261,
+            "y": 47941
+          },
+          {
+            "x": 15869,
+            "y": 47996
+          },
+          {
+            "x": 16422,
+            "y": 47886
+          },
+          {
+            "x": 17086,
+            "y": 47499
+          },
+          {
+            "x": 17639,
+            "y": 47167
+          },
+          {
+            "x": 18302,
+            "y": 46669
+          },
+          {
+            "x": 18800,
+            "y": 46282
+          },
+          {
+            "x": 19298,
+            "y": 45895
+          },
+          {
+            "x": 19851,
+            "y": 45508
+          },
+          {
+            "x": 20293,
+            "y": 45121
+          },
+          {
+            "x": 20901,
+            "y": 44679
+          },
+          {
+            "x": 21510,
+            "y": 44457
+          },
+          {
+            "x": 22118,
+            "y": 44402
+          },
+          {
+            "x": 22671,
+            "y": 44457
+          },
+          {
+            "x": 23224,
+            "y": 44623
+          },
+          {
+            "x": 23832,
+            "y": 44900
+          },
+          {
+            "x": 24440,
+            "y": 45121
+          },
+          {
+            "x": 25214,
+            "y": 45453
+          },
+          {
+            "x": 25767,
+            "y": 45729
+          },
+          {
+            "x": 26376,
+            "y": 46006
+          },
+          {
+            "x": 26984,
+            "y": 46282
+          },
+          {
+            "x": 27537,
+            "y": 46503
+          },
+          {
+            "x": 28090,
+            "y": 46614
+          },
+          {
+            "x": 28975,
+            "y": 46780
+          },
+          {
+            "x": 29583,
+            "y": 46780
+          },
+          {
+            "x": 30191,
+            "y": 46780
+          },
+          {
+            "x": 30965,
+            "y": 46393
+          },
+          {
+            "x": 31574,
+            "y": 46172
+          },
+          {
+            "x": 32126,
+            "y": 45895
+          },
+          {
+            "x": 32624,
+            "y": 45453
+          },
+          {
+            "x": 33122,
+            "y": 45010
+          },
+          {
+            "x": 33509,
+            "y": 44513
+          },
+          {
+            "x": 33785,
+            "y": 44015
+          },
+          {
+            "x": 34117,
+            "y": 43462
+          },
+          {
+            "x": 34394,
+            "y": 42964
+          },
+          {
+            "x": 34725,
+            "y": 42246
+          },
+          {
+            "x": 35057,
+            "y": 41693
+          },
+          {
+            "x": 35389,
+            "y": 41140
+          },
+          {
+            "x": 35665,
+            "y": 40531
+          },
+          {
+            "x": 35887,
+            "y": 39979
+          },
+          {
+            "x": 36108,
+            "y": 39426
+          },
+          {
+            "x": 36218,
+            "y": 38817
+          },
+          {
+            "x": 36329,
+            "y": 38154
+          },
+          {
+            "x": 36384,
+            "y": 37601
+          },
+          {
+            "x": 36440,
+            "y": 37048
+          },
+          {
+            "x": 36440,
+            "y": 36384
+          },
+          {
+            "x": 36384,
+            "y": 35776
+          },
+          {
+            "x": 36274,
+            "y": 35112
+          },
+          {
+            "x": 36108,
+            "y": 34449
+          },
+          {
+            "x": 35997,
+            "y": 33896
+          },
+          {
+            "x": 35887,
+            "y": 33232
+          },
+          {
+            "x": 35721,
+            "y": 32569
+          },
+          {
+            "x": 35610,
+            "y": 31850
+          },
+          {
+            "x": 35389,
+            "y": 31186
+          },
+          {
+            "x": 35002,
+            "y": 30191
+          },
+          {
+            "x": 34781,
+            "y": 29472
+          },
+          {
+            "x": 34504,
+            "y": 28864
+          },
+          {
+            "x": 34283,
+            "y": 28035
+          },
+          {
+            "x": 34007,
+            "y": 27260
+          },
+          {
+            "x": 33675,
+            "y": 26597
+          },
+          {
+            "x": 33509,
+            "y": 25989
+          },
+          {
+            "x": 33343,
+            "y": 25380
+          },
+          {
+            "x": 33067,
+            "y": 24662
+          },
+          {
+            "x": 32845,
+            "y": 23832
+          },
+          {
+            "x": 32569,
+            "y": 23058
+          },
+          {
+            "x": 32348,
+            "y": 22505
+          },
+          {
+            "x": 32126,
+            "y": 21897
+          },
+          {
+            "x": 31850,
+            "y": 21067
+          },
+          {
+            "x": 31518,
+            "y": 20238
+          },
+          {
+            "x": 31242,
+            "y": 19408
+          },
+          {
+            "x": 30910,
+            "y": 18579
+          },
+          {
+            "x": 30799,
+            "y": 18026
+          },
+          {
+            "x": 30357,
+            "y": 16644
+          },
+          {
+            "x": 30081,
+            "y": 15925
+          },
+          {
+            "x": 29915,
+            "y": 15316
+          },
+          {
+            "x": 29859,
+            "y": 14764
+          },
+          {
+            "x": 29749,
+            "y": 14155
+          },
+          {
+            "x": 29638,
+            "y": 13326
+          },
+          {
+            "x": 29472,
+            "y": 12607
+          },
+          {
+            "x": 29306,
+            "y": 11778
+          },
+          {
+            "x": 29140,
+            "y": 11003
+          },
+          {
+            "x": 28975,
+            "y": 10395
+          },
+          {
+            "x": 28809,
+            "y": 9621
+          },
+          {
+            "x": 28588,
+            "y": 8957
+          },
+          {
+            "x": 28422,
+            "y": 8349
+          },
+          {
+            "x": 28145,
+            "y": 7686
+          },
+          {
+            "x": 27869,
+            "y": 7188
+          },
+          {
+            "x": 27426,
+            "y": 6580
+          },
+          {
+            "x": 26984,
+            "y": 6137
+          },
+          {
+            "x": 26320,
+            "y": 5584
+          },
+          {
+            "x": 25712,
+            "y": 5197
+          },
+          {
+            "x": 24827,
+            "y": 4644
+          },
+          {
+            "x": 24053,
+            "y": 4368
+          },
+          {
+            "x": 23445,
+            "y": 4202
+          },
+          {
+            "x": 22726,
+            "y": 3926
+          },
+          {
+            "x": 22063,
+            "y": 3815
+          },
+          {
+            "x": 21399,
+            "y": 3704
+          },
+          {
+            "x": 20846,
+            "y": 3649
+          },
+          {
+            "x": 20127,
+            "y": 3649
+          },
+          {
+            "x": 19519,
+            "y": 3649
+          },
+          {
+            "x": 18855,
+            "y": 3594
+          },
+          {
+            "x": 18137,
+            "y": 3594
+          },
+          {
+            "x": 17528,
+            "y": 3594
+          },
+          {
+            "x": 16809,
+            "y": 3760
+          },
+          {
+            "x": 16091,
+            "y": 3926
+          },
+          {
+            "x": 15538,
+            "y": 4091
+          },
+          {
+            "x": 14764,
+            "y": 4368
+          },
+          {
+            "x": 14155,
+            "y": 4478
+          },
+          {
+            "x": 13602,
+            "y": 4589
+          },
+          {
+            "x": 13049,
+            "y": 4700
+          },
+          {
+            "x": 12496,
+            "y": 4810
+          },
+          {
+            "x": 11999,
+            "y": 5142
+          },
+          {
+            "x": 11446,
+            "y": 5363
+          },
+          {
+            "x": 10948,
+            "y": 5695
+          },
+          {
+            "x": 10008,
+            "y": 6248
+          },
+          {
+            "x": 10008,
+            "y": 6248
+          },
+          {
+            "x": 9953,
+            "y": 6193
+          }
+        ]
+      },
+      "anchor": {
+        "x": 18529.68,
+        "y": 27589.03
+      },
+      "crop": {
+        "left": 17664,
+        "top": 26880,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 865.68,
+        "y": 709.03
+      },
+      "atlas_image": "atlas/16-lk-metastase-annotiert.jpg",
+      "exercise_image": "pruefung/16-lk-metastase.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „LK-Metastase“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "id": 17,
+      "label": "Nekrose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 28980,
+            "y": 35498
+          },
+          {
+            "x": 30276,
+            "y": 36741
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29628,
+        "y": 36119.5
+      },
+      "crop": {
+        "left": 28672,
+        "top": 35584,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 956,
+        "y": 535.5
+      },
+      "atlas_image": "atlas/17-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/17-nekrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 9,
+      "label": "Intrazellularbrücken",
+      "exercise_image": "pruefung/09-intrazellularbrucken.jpg",
+      "rationale": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung.",
+      "didactic_note": "Interzellularbrücken als Zeichen plattenepithelialer Differenzierung. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    },
+    {
+      "annotation_id": 14,
+      "label": "Hornlamellen",
+      "exercise_image": "pruefung/14-hornlamellen.jpg",
+      "rationale": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms.",
+      "didactic_note": "Hornlamellen als zweites Merkmal des verhornenden Plattenepithelkarzinoms. Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+    }
+  ],
+  "didactic_context": "Eine Lymphknotenmetastase eines verhornenden Plattenepithelkarzinoms ersetzt das lymphatische Parenchym durch squamöse Tumorverbände; Interzellularbrücken und Hornlamellen sichern die Differenzierung."
+}

@@ -1,0 +1,477 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "027",
+    "name": "Diabetisches Gangrän",
+    "organ": "Zehe",
+    "diagnosis": "Gangrän",
+    "description": [
+      "Knochen; verhornendes Plattenepithel;",
+      "tiefe und oberflächliche Beugersehne, Strecksehne;",
+      "ausgedehnte ischämische Nekrose (Koagulationsnekrose);",
+      "Einblutungen im Randbereich;",
+      "granulozytäres Infiltrat;",
+      "Bild eines feuchten Gangräns;"
+    ],
+    "slide_id": "3f6c5d42-f445-45c3-b4b9-271579817b8b",
+    "slide_path": "Histopathologie 5. Semester/slides/027 - Diabetisches Gangrän.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3f6c5d42-f445-45c3-b4b9-271579817b8b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2848,
+    "height": 3520,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 9,
+      "label": "Knochen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 38144,
+            "y": 40576
+          },
+          {
+            "x": 60248,
+            "y": 51992
+          }
+        ]
+      },
+      "anchor": {
+        "x": 49196.0,
+        "y": 46284.0
+      },
+      "crop": {
+        "left": 48384,
+        "top": 45568,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 812.0,
+        "y": 716.0
+      },
+      "atlas_image": "atlas/09-knochen-annotiert.jpg",
+      "exercise_image": "pruefung/09-knochen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Knochen“ dient hier als anatomischer Orientierungspunkt. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 11,
+      "label": "Beugesehnen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30144,
+            "y": 56400
+          },
+          {
+            "x": 56757,
+            "y": 74609
+          }
+        ]
+      },
+      "anchor": {
+        "x": 43450.5,
+        "y": 65504.5
+      },
+      "crop": {
+        "left": 42496,
+        "top": 64768,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 954.5,
+        "y": 736.5
+      },
+      "atlas_image": "atlas/11-beugesehnen-annotiert.jpg",
+      "exercise_image": "pruefung/11-beugesehnen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Beugesehnen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 18,
+      "label": "Einblutungen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 81499,
+            "y": 16357
+          },
+          {
+            "x": 80828,
+            "y": 29008
+          },
+          {
+            "x": 80828,
+            "y": 29008
+          }
+        ]
+      },
+      "anchor": {
+        "x": 80828,
+        "y": 29008.0
+      },
+      "crop": {
+        "left": 79872,
+        "top": 28416,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 956,
+        "y": 592.0
+      },
+      "atlas_image": "atlas/18-einblutungen-annotiert.jpg",
+      "exercise_image": "pruefung/18-einblutungen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Einblutungen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 19,
+      "label": "neutrophile Granulozyten",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 76274,
+            "y": 47763
+          },
+          {
+            "x": 77573,
+            "y": 48666
+          }
+        ]
+      },
+      "anchor": {
+        "x": 76923.5,
+        "y": 48214.5
+      },
+      "crop": {
+        "left": 76032,
+        "top": 47616,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 891.5,
+        "y": 598.5
+      },
+      "atlas_image": "atlas/19-neutrophile-granulozyten-annotiert.jpg",
+      "exercise_image": "pruefung/19-neutrophile-granulozyten.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „neutrophile Granulozyten“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 20,
+      "label": "Hornschwielen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 69401,
+            "y": 107223
+          },
+          {
+            "x": 50852,
+            "y": 105595
+          },
+          {
+            "x": 50852,
+            "y": 105595
+          }
+        ]
+      },
+      "anchor": {
+        "x": 50852,
+        "y": 105595.0
+      },
+      "crop": {
+        "left": 49920,
+        "top": 104960,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 932,
+        "y": 635.0
+      },
+      "atlas_image": "atlas/20-hornschwielen-annotiert.jpg",
+      "exercise_image": "pruefung/20-hornschwielen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Hornschwielen“ als morphologischen Teilbefund. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 21,
+      "label": "Nekrose",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 85245,
+            "y": 51615
+          },
+          {
+            "x": 84909,
+            "y": 51893
+          },
+          {
+            "x": 84646,
+            "y": 52390
+          },
+          {
+            "x": 84690,
+            "y": 52638
+          },
+          {
+            "x": 84953,
+            "y": 52828
+          },
+          {
+            "x": 85289,
+            "y": 52551
+          },
+          {
+            "x": 85655,
+            "y": 52112
+          },
+          {
+            "x": 86079,
+            "y": 51717
+          },
+          {
+            "x": 86444,
+            "y": 51469
+          },
+          {
+            "x": 86313,
+            "y": 51264
+          },
+          {
+            "x": 85976,
+            "y": 51322
+          },
+          {
+            "x": 85728,
+            "y": 51191
+          },
+          {
+            "x": 85494,
+            "y": 51352
+          },
+          {
+            "x": 85245,
+            "y": 51615
+          },
+          {
+            "x": 85245,
+            "y": 51600
+          },
+          {
+            "x": 85245,
+            "y": 51615
+          }
+        ]
+      },
+      "anchor": {
+        "x": 85447.25,
+        "y": 51823.25
+      },
+      "crop": {
+        "left": 84480,
+        "top": 51200,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 967.25,
+        "y": 623.25
+      },
+      "atlas_image": "atlas/21-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/21-nekrose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Nekrose als zentraler Befund der Gangrän.",
+      "didactic_note": "Nekrose als zentraler Befund der Gangrän. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "id": 22,
+      "label": "Nekrose und eitrige Entzündung",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32626,
+            "y": 25836
+          },
+          {
+            "x": 28651,
+            "y": 29369
+          },
+          {
+            "x": 29535,
+            "y": 31853
+          },
+          {
+            "x": 37926,
+            "y": 29204
+          },
+          {
+            "x": 43281,
+            "y": 28541
+          },
+          {
+            "x": 48305,
+            "y": 28596
+          },
+          {
+            "x": 53329,
+            "y": 29535
+          },
+          {
+            "x": 58132,
+            "y": 30473
+          },
+          {
+            "x": 62162,
+            "y": 32295
+          },
+          {
+            "x": 67241,
+            "y": 35773
+          },
+          {
+            "x": 72264,
+            "y": 39582
+          },
+          {
+            "x": 75687,
+            "y": 46207
+          },
+          {
+            "x": 81760,
+            "y": 41735
+          },
+          {
+            "x": 78282,
+            "y": 32295
+          },
+          {
+            "x": 70829,
+            "y": 24069
+          },
+          {
+            "x": 64867,
+            "y": 20536
+          },
+          {
+            "x": 59236,
+            "y": 19653
+          },
+          {
+            "x": 52611,
+            "y": 18770
+          },
+          {
+            "x": 45213,
+            "y": 18880
+          },
+          {
+            "x": 37871,
+            "y": 20923
+          },
+          {
+            "x": 34835,
+            "y": 22855
+          },
+          {
+            "x": 32571,
+            "y": 25891
+          },
+          {
+            "x": 32571,
+            "y": 25891
+          },
+          {
+            "x": 32626,
+            "y": 25836
+          }
+        ]
+      },
+      "anchor": {
+        "x": 52166.96,
+        "y": 28639.43
+      },
+      "crop": {
+        "left": 51200,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 966.96,
+        "y": 735.43
+      },
+      "atlas_image": "atlas/22-nekrose-und-eitrige-entzundung-annotiert.jpg",
+      "exercise_image": "pruefung/22-nekrose-und-eitrige-entzundung.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion.",
+      "didactic_note": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 21,
+      "label": "Nekrose",
+      "exercise_image": "pruefung/21-nekrose.jpg",
+      "rationale": "Nekrose als zentraler Befund der Gangrän.",
+      "didactic_note": "Nekrose als zentraler Befund der Gangrän. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    },
+    {
+      "annotation_id": 22,
+      "label": "Nekrose und eitrige Entzündung",
+      "exercise_image": "pruefung/22-nekrose-und-eitrige-entzundung.jpg",
+      "rationale": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion.",
+      "didactic_note": "Nekrose mit eitriger Entzündung zeigt die bakterielle Superinfektion. Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+    }
+  ],
+  "didactic_context": "Die Gangrän kombiniert ausgedehnte ischämische Nekrose mit, bei Infektion, neutrophiler Entzündung und Verflüssigung; fehlende Kernfärbung und Gewebszerfall markieren avitales Gewebe."
+}

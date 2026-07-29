@@ -1,0 +1,192 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "007",
+    "name": "Chronisch lymphatische Cholezystitis",
+    "organ": "Gallenblase",
+    "diagnosis": "chronisch-lymphoplasmazelluläre Cholezystitis",
+    "description": [
+      "für Gallenblase typisches, einschichtig-hochprismatisches Epithel;",
+      "verdickte Gallenblasenwand;",
+      "lymphozytäres und plasmazelluläres Entzündungsinfiltrat, hauptsächlich in Lamina propria;",
+      "Erosionen;",
+      "Lymphfollikel;"
+    ],
+    "slide_id": "a7dcf0f6-f6d0-4870-bde3-0e2321cd49f7",
+    "slide_path": "Histopathologie 5. Semester/slides/007 - Chronisch lymphatische Cholezystitis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a7dcf0f6-f6d0-4870-bde3-0e2321cd49f7&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4432,
+    "height": 5568,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 36,
+      "label": "Lymphfollikel",
+      "original_shape": null,
+      "original_geometry": null,
+      "anchor": {
+        "x": 40119.15,
+        "y": 12784.29
+      },
+      "crop": {
+        "left": 39168,
+        "top": 12032,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 951.15,
+        "y": 752.29
+      },
+      "atlas_image": "atlas/36-lymphfollikel-annotiert.jpg",
+      "exercise_image": "pruefung/36-lymphfollikel.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung.",
+      "didactic_note": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    },
+    {
+      "id": 37,
+      "label": "lymphozytäres Infiltrat",
+      "original_shape": null,
+      "original_geometry": null,
+      "anchor": {
+        "x": 13989.44,
+        "y": 28543.54
+      },
+      "crop": {
+        "left": 13056,
+        "top": 27904,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 933.44,
+        "y": 639.54
+      },
+      "atlas_image": "atlas/37-lymphozytares-infiltrat-annotiert.jpg",
+      "exercise_image": "pruefung/37-lymphozytares-infiltrat.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis.",
+      "didactic_note": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    },
+    {
+      "id": 38,
+      "label": "Erosion",
+      "original_shape": null,
+      "original_geometry": null,
+      "anchor": {
+        "x": 48561.05,
+        "y": 31277.29
+      },
+      "crop": {
+        "left": 47616,
+        "top": 30720,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 945.05,
+        "y": 557.29
+      },
+      "atlas_image": "atlas/38-erosion-annotiert.jpg",
+      "exercise_image": "pruefung/38-erosion.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Erosion“ als morphologischen Teilbefund. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    },
+    {
+      "id": 39,
+      "label": "Tunica muscularis",
+      "original_shape": null,
+      "original_geometry": null,
+      "anchor": {
+        "x": 44701.9,
+        "y": 14955.21
+      },
+      "crop": {
+        "left": 43776,
+        "top": 14336,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 925.9,
+        "y": 619.21
+      },
+      "atlas_image": "atlas/39-tunica-muscularis-annotiert.jpg",
+      "exercise_image": "pruefung/39-tunica-muscularis.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Tunica muscularis“ als morphologischen Teilbefund. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    },
+    {
+      "id": 40,
+      "label": "Serosa",
+      "original_shape": null,
+      "original_geometry": null,
+      "anchor": {
+        "x": 49123.85,
+        "y": 9487.71
+      },
+      "crop": {
+        "left": 48128,
+        "top": 8960,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 995.85,
+        "y": 527.71
+      },
+      "atlas_image": "atlas/40-serosa-annotiert.jpg",
+      "exercise_image": "pruefung/40-serosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 37,
+      "label": "lymphozytäres Infiltrat",
+      "exercise_image": "pruefung/37-lymphozytares-infiltrat.jpg",
+      "rationale": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis.",
+      "didactic_note": "Lymphozytäres Infiltrat als zellulärer Leitbefund der chronischen Cholezystitis. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    },
+    {
+      "annotation_id": 36,
+      "label": "Lymphfollikel",
+      "exercise_image": "pruefung/36-lymphfollikel.jpg",
+      "rationale": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung.",
+      "didactic_note": "Lymphfollikel als Ausdruck der chronischen lymphatischen Entzündung. Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+    }
+  ],
+  "didactic_context": "Eine chronische Cholezystitis wird durch lymphozytäre und plasmazelluläre Infiltrate, häufig mit Lymphfollikeln, sowie einen chronisch-fibrosierenden Umbau der Gallenblasenwand geprägt."
+}

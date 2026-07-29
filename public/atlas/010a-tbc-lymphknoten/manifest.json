@@ -1,0 +1,256 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "010a",
+    "name": "TBC-Lymphknoten",
+    "organ": "Lymphknoten",
+    "diagnosis": "Tuberkulose-Lymphknoten",
+    "description": [
+      "teilweise unauffälliges Lymphknotenparenchym mit Lymphfollikeln;",
+      "Epitheloidzellgranulom:",
+      "verkäsende Nekrose im Zentrum;",
+      "umgeben von einem Wall aus pallisadenförmig angeordneten Histiozyten (=Epitheloidzellen, siehe auch #37);",
+      "vereinzelt Langhans Riesenzellen (verschmolzene Makrophagen, Zellkerne im Randbereich halbmondförmig angeordnet);"
+    ],
+    "slide_id": "e9065b5a-785f-4f67-85e1-1e29462def23",
+    "slide_path": "Histopathologie 5. Semester/slides/010a - TBC-Lymphknoten.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=e9065b5a-785f-4f67-85e1-1e29462def23&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2760,
+    "height": 2416,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "verkäsende Nekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 7933.1,
+            "y": 28509.26
+          },
+          {
+            "x": 18687.96,
+            "y": 36291.63
+          }
+        ]
+      },
+      "anchor": {
+        "x": 13310.53,
+        "y": 32400.45
+      },
+      "crop": {
+        "left": 12288,
+        "top": 31744,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1022.53,
+        "y": 656.45
+      },
+      "atlas_image": "atlas/03-verkasende-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/03-verkasende-nekrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „verkäsende Nekrose“ als morphologischen Teilbefund. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    },
+    {
+      "id": 5,
+      "label": "Langerhans Riesenzellen",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15747.53,
+            "y": 17210.4
+          },
+          {
+            "x": 16634.17,
+            "y": 18177.18
+          }
+        ]
+      },
+      "anchor": {
+        "x": 16190.85,
+        "y": 17693.79
+      },
+      "crop": {
+        "left": 15360,
+        "top": 17152,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 830.85,
+        "y": 541.79
+      },
+      "atlas_image": "atlas/05-langerhans-riesenzellen-annotiert.jpg",
+      "exercise_image": "pruefung/05-langerhans-riesenzellen.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Langhans-Riesenzelle als klassischer zellulärer Tuberkulosebefund.",
+      "didactic_note": "Langhans-Riesenzelle als klassischer zellulärer Tuberkulosebefund. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    },
+    {
+      "id": 7,
+      "label": "Epitheloidzellgranulom",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 32009.56,
+            "y": 10844.64
+          },
+          {
+            "x": 67875.8,
+            "y": 39050.73
+          }
+        ]
+      },
+      "anchor": {
+        "x": 49942.68,
+        "y": 24947.69
+      },
+      "crop": {
+        "left": 49152,
+        "top": 24320,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 790.68,
+        "y": 627.69
+      },
+      "atlas_image": "atlas/07-epitheloidzellgranulom-annotiert.jpg",
+      "exercise_image": "pruefung/07-epitheloidzellgranulom.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Epitheloidzellgranulom als charakteristische granulomatöse Reaktion.",
+      "didactic_note": "Epitheloidzellgranulom als charakteristische granulomatöse Reaktion. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    },
+    {
+      "id": 20,
+      "label": "Epitheloidzellen",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 54791.63,
+            "y": 43860.61
+          },
+          {
+            "x": 53047.41,
+            "y": 42949.93
+          },
+          {
+            "x": 53047.41,
+            "y": 42949.93
+          }
+        ]
+      },
+      "anchor": {
+        "x": 53047.41,
+        "y": 42949.93
+      },
+      "crop": {
+        "left": 52224,
+        "top": 42240,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 823.41,
+        "y": 709.93
+      },
+      "atlas_image": "atlas/20-epitheloidzellen-annotiert.jpg",
+      "exercise_image": "pruefung/20-epitheloidzellen.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Epitheloidzellen“ als morphologischen Teilbefund. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    },
+    {
+      "id": 21,
+      "label": "aktivierter Lymphfollikel",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 69377.57,
+            "y": 65053.75
+          },
+          {
+            "x": 71544.57,
+            "y": 67164.65
+          }
+        ]
+      },
+      "anchor": {
+        "x": 70461.07,
+        "y": 66109.2
+      },
+      "crop": {
+        "left": 69632,
+        "top": 65536,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 829.07,
+        "y": 573.2
+      },
+      "atlas_image": "atlas/21-aktivierter-lymphfollikel-annotiert.jpg",
+      "exercise_image": "pruefung/21-aktivierter-lymphfollikel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „aktivierter Lymphfollikel“ als morphologischen Teilbefund. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 5,
+      "label": "Langerhans Riesenzellen",
+      "exercise_image": "pruefung/05-langerhans-riesenzellen.jpg",
+      "rationale": "Langhans-Riesenzelle als klassischer zellulärer Tuberkulosebefund.",
+      "didactic_note": "Langhans-Riesenzelle als klassischer zellulärer Tuberkulosebefund. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    },
+    {
+      "annotation_id": 7,
+      "label": "Epitheloidzellgranulom",
+      "exercise_image": "pruefung/07-epitheloidzellgranulom.jpg",
+      "rationale": "Epitheloidzellgranulom als charakteristische granulomatöse Reaktion.",
+      "didactic_note": "Epitheloidzellgranulom als charakteristische granulomatöse Reaktion. Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+    }
+  ],
+  "didactic_context": "Die Tuberkulose bildet nekrotisierende Epitheloidzellgranulome mit Langhans-Riesenzellen und zentraler verkäsender Nekrose; die Kombination ist typischer als jeder Einzelbefund."
+}

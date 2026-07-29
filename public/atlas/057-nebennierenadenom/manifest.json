@@ -1,0 +1,173 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "057",
+    "name": "Nebennierenadenom",
+    "organ": "Nebennniere",
+    "diagnosis": "Nebennierenrindenadenom",
+    "description": [
+      "Zona glomerulosa der normalen Nebenniere;",
+      "Rindenadenom: gut abgegrenzter, homogener, nicht invasiver Tumor;",
+      "morphologisch ähnlich der Zona fasciculata (schaumzellartiges, fettähnliches Gewebe);",
+      "zarte bindegewebige Tumorkapsel;",
+      "hellzelliger lockerer homogener Verbund, pyknotische kerne, kaum Mitosen;",
+      "scharfe Zellgrenzen;",
+      "expansives Wachstumsmuster;"
+    ],
+    "slide_id": "bed8cfbc-25e7-4c7e-b2f2-83320c02c7bc",
+    "slide_path": "Histopathologie 5. Semester/slides/057 - Nebennierenadenom.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=bed8cfbc-25e7-4c7e-b2f2-83320c02c7bc&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2912,
+    "height": 3488,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Zona glomerulosa",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 46800.28,
+            "y": 104048.54
+          },
+          {
+            "x": 51571.66,
+            "y": 107783.54
+          }
+        ]
+      },
+      "anchor": {
+        "x": 49185.97,
+        "y": 105916.04
+      },
+      "crop": {
+        "left": 48384,
+        "top": 105216,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 801.97,
+        "y": 700.04
+      },
+      "atlas_image": "atlas/03-zona-glomerulosa-annotiert.jpg",
+      "exercise_image": "pruefung/03-zona-glomerulosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Zona glomerulosa“ dient hier als anatomischer Orientierungspunkt. Das Nebennierenrindenadenom ist ein umschriebener Tumor aus lipidreichen, an die Zona fasciculata erinnernden Zellen; fehlende Gefäß- oder Kapselinvasion stützt die Benignität."
+    },
+    {
+      "id": 5,
+      "label": "Linie #5",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 93184,
+            "y": 57544.32
+          },
+          {
+            "x": 93184,
+            "y": 69304.06
+          }
+        ]
+      },
+      "anchor": {
+        "x": 93184,
+        "y": 69304.06
+      },
+      "crop": {
+        "left": 91648,
+        "top": 68608,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1536,
+        "y": 696.06
+      },
+      "atlas_image": "atlas/05-linie-5-annotiert.jpg",
+      "exercise_image": "pruefung/05-linie-5.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Linie #5“ als morphologischen Teilbefund. Das Nebennierenrindenadenom ist ein umschriebener Tumor aus lipidreichen, an die Zona fasciculata erinnernden Zellen; fehlende Gefäß- oder Kapselinvasion stützt die Benignität."
+    },
+    {
+      "id": 8,
+      "label": "Tumor",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 1230.31,
+            "y": 6392.89
+          },
+          {
+            "x": 93184,
+            "y": 106645.02
+          }
+        ]
+      },
+      "anchor": {
+        "x": 47207.15,
+        "y": 56518.95
+      },
+      "crop": {
+        "left": 46336,
+        "top": 55808,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 871.15,
+        "y": 710.95
+      },
+      "atlas_image": "atlas/08-tumor-annotiert.jpg",
+      "exercise_image": "pruefung/08-tumor.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tumorgewebe des Nebennierenrindenadenoms als definierender Befund.",
+      "didactic_note": "Tumorgewebe des Nebennierenrindenadenoms als definierender Befund. Das Nebennierenrindenadenom ist ein umschriebener Tumor aus lipidreichen, an die Zona fasciculata erinnernden Zellen; fehlende Gefäß- oder Kapselinvasion stützt die Benignität."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 8,
+      "label": "Tumor",
+      "exercise_image": "pruefung/08-tumor.jpg",
+      "rationale": "Tumorgewebe des Nebennierenrindenadenoms als definierender Befund.",
+      "didactic_note": "Tumorgewebe des Nebennierenrindenadenoms als definierender Befund. Das Nebennierenrindenadenom ist ein umschriebener Tumor aus lipidreichen, an die Zona fasciculata erinnernden Zellen; fehlende Gefäß- oder Kapselinvasion stützt die Benignität."
+    }
+  ],
+  "didactic_context": "Das Nebennierenrindenadenom ist ein umschriebener Tumor aus lipidreichen, an die Zona fasciculata erinnernden Zellen; fehlende Gefäß- oder Kapselinvasion stützt die Benignität."
+}

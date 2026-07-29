@@ -1,0 +1,626 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "050",
+    "name": "Leiomyoma uteri",
+    "organ": "Uterus",
+    "diagnosis": "Leiomyom",
+    "description": [
+      "hypervaskularisiertes Myometrium;",
+      "zum Moymetrium gut abgrenzbarer Tumor aus glatten Muskelzellen;",
+      "spindelzellige verwirbelte Architektur;",
+      "zigarrenförmige Kerne mit leicht eosinophilem Zytoplasma;",
+      "im Randbereich Kompression des Myometriums durch expansives Tumorwachstum;",
+      "keine erhöhte Mitoserate;",
+      "keine Nekrosen;"
+    ],
+    "slide_id": "8295c433-8903-4001-b734-b4a5fd19e76b",
+    "slide_path": "Histopathologie 5. Semester/slides/050 - Leiomyoma uteri.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8295c433-8903-4001-b734-b4a5fd19e76b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2616,
+    "height": 2792,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "zigarrenförmige Kerne",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 26323.54,
+            "y": 53034.71
+          },
+          {
+            "x": 26897.08,
+            "y": 53854.63
+          }
+        ]
+      },
+      "anchor": {
+        "x": 26610.31,
+        "y": 53444.67
+      },
+      "crop": {
+        "left": 25600,
+        "top": 52736,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1010.31,
+        "y": 708.67
+      },
+      "atlas_image": "atlas/01-zigarrenformige-kerne-annotiert.jpg",
+      "exercise_image": "pruefung/01-zigarrenformige-kerne.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms.",
+      "didactic_note": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    },
+    {
+      "id": 9,
+      "label": "Tumor",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 5693.05,
+            "y": 40425.81
+          },
+          {
+            "x": 3027.84,
+            "y": 85379.38
+          },
+          {
+            "x": 47466.72,
+            "y": 84949.47
+          },
+          {
+            "x": 48153.97,
+            "y": 84176.44
+          },
+          {
+            "x": 48239.75,
+            "y": 83144.07
+          },
+          {
+            "x": 48669.66,
+            "y": 82285.25
+          },
+          {
+            "x": 49271.12,
+            "y": 81511.22
+          },
+          {
+            "x": 50045.15,
+            "y": 80823.97
+          },
+          {
+            "x": 50818.19,
+            "y": 80222.5
+          },
+          {
+            "x": 51592.22,
+            "y": 79706.82
+          },
+          {
+            "x": 52279.47,
+            "y": 79104.35
+          },
+          {
+            "x": 52967.71,
+            "y": 78502.88
+          },
+          {
+            "x": 53740.75,
+            "y": 77901.41
+          },
+          {
+            "x": 54343.21,
+            "y": 77214.16
+          },
+          {
+            "x": 55030.46,
+            "y": 76525.91
+          },
+          {
+            "x": 55460.37,
+            "y": 75666.1
+          },
+          {
+            "x": 55976.06,
+            "y": 74807.29
+          },
+          {
+            "x": 56320.18,
+            "y": 73947.48
+          },
+          {
+            "x": 56663.31,
+            "y": 73087.67
+          },
+          {
+            "x": 57007.43,
+            "y": 72142.07
+          },
+          {
+            "x": 57264.78,
+            "y": 71283.26
+          },
+          {
+            "x": 57523.12,
+            "y": 70423.45
+          },
+          {
+            "x": 57780.46,
+            "y": 69477.86
+          },
+          {
+            "x": 57953.02,
+            "y": 68618.04
+          },
+          {
+            "x": 58210.37,
+            "y": 67759.23
+          },
+          {
+            "x": 58382.93,
+            "y": 66813.64
+          },
+          {
+            "x": 58640.27,
+            "y": 65695.48
+          },
+          {
+            "x": 58898.62,
+            "y": 64749.89
+          },
+          {
+            "x": 58984.4,
+            "y": 63805.3
+          },
+          {
+            "x": 59070.18,
+            "y": 62945.48
+          },
+          {
+            "x": 59155.96,
+            "y": 61828.33
+          },
+          {
+            "x": 59155.96,
+            "y": 60796.95
+          },
+          {
+            "x": 59155.96,
+            "y": 59764.58
+          },
+          {
+            "x": 59155.96,
+            "y": 58561.64
+          },
+          {
+            "x": 59070.18,
+            "y": 57530.27
+          },
+          {
+            "x": 58898.62,
+            "y": 56584.68
+          },
+          {
+            "x": 58468.71,
+            "y": 55553.3
+          },
+          {
+            "x": 58038.81,
+            "y": 54693.49
+          },
+          {
+            "x": 57608.9,
+            "y": 53920.46
+          },
+          {
+            "x": 57178.99,
+            "y": 53060.65
+          },
+          {
+            "x": 56749.09,
+            "y": 52286.62
+          },
+          {
+            "x": 56233.4,
+            "y": 51255.24
+          },
+          {
+            "x": 55717.71,
+            "y": 50482.21
+          },
+          {
+            "x": 55116.25,
+            "y": 49365.05
+          },
+          {
+            "x": 54514.78,
+            "y": 48332.68
+          },
+          {
+            "x": 53999.09,
+            "y": 47473.87
+          },
+          {
+            "x": 53483.4,
+            "y": 46614.06
+          },
+          {
+            "x": 52709.37,
+            "y": 45754.25
+          },
+          {
+            "x": 51936.34,
+            "y": 44981.21
+          },
+          {
+            "x": 50990.75,
+            "y": 44292.96
+          },
+          {
+            "x": 50216.72,
+            "y": 43519.93
+          },
+          {
+            "x": 49443.69,
+            "y": 42918.46
+          },
+          {
+            "x": 48583.87,
+            "y": 42230.22
+          },
+          {
+            "x": 47809.84,
+            "y": 41628.75
+          },
+          {
+            "x": 46951.03,
+            "y": 40941.5
+          },
+          {
+            "x": 46091.22,
+            "y": 40425.81
+          },
+          {
+            "x": 45403.97,
+            "y": 39737.56
+          },
+          {
+            "x": 44629.94,
+            "y": 39050.31
+          },
+          {
+            "x": 44200.03,
+            "y": 38276.28
+          },
+          {
+            "x": 43512.78,
+            "y": 37589.03
+          },
+          {
+            "x": 42308.85,
+            "y": 36900.78
+          },
+          {
+            "x": 41450.03,
+            "y": 36471.87
+          },
+          {
+            "x": 40418.66,
+            "y": 36127.75
+          },
+          {
+            "x": 39473.07,
+            "y": 35783.63
+          },
+          {
+            "x": 38183.35,
+            "y": 35353.72
+          },
+          {
+            "x": 37151.97,
+            "y": 35182.16
+          },
+          {
+            "x": 36034.82,
+            "y": 34752.25
+          },
+          {
+            "x": 35003.44,
+            "y": 34580.69
+          },
+          {
+            "x": 34143.63,
+            "y": 34236.56
+          },
+          {
+            "x": 33283.82,
+            "y": 33979.22
+          },
+          {
+            "x": 32080.88,
+            "y": 33549.31
+          },
+          {
+            "x": 31221.07,
+            "y": 33290.97
+          },
+          {
+            "x": 30189.7,
+            "y": 33119.41
+          },
+          {
+            "x": 29329.89,
+            "y": 32947.84
+          },
+          {
+            "x": 28298.51,
+            "y": 32775.28
+          },
+          {
+            "x": 27438.7,
+            "y": 32603.72
+          },
+          {
+            "x": 26579.89,
+            "y": 32431.16
+          },
+          {
+            "x": 25720.07,
+            "y": 32345.38
+          },
+          {
+            "x": 24688.7,
+            "y": 32517.94
+          },
+          {
+            "x": 23828.89,
+            "y": 32775.28
+          },
+          {
+            "x": 22969.08,
+            "y": 32947.84
+          },
+          {
+            "x": 22110.26,
+            "y": 33119.41
+          },
+          {
+            "x": 21164.67,
+            "y": 33376.75
+          },
+          {
+            "x": 20219.08,
+            "y": 33635.09
+          },
+          {
+            "x": 19359.27,
+            "y": 34150.78
+          },
+          {
+            "x": 18586.23,
+            "y": 34666.47
+          },
+          {
+            "x": 17726.42,
+            "y": 35267.94
+          },
+          {
+            "x": 16866.61,
+            "y": 35869.41
+          },
+          {
+            "x": 16093.58,
+            "y": 36471.87
+          },
+          {
+            "x": 15062.2,
+            "y": 36987.56
+          },
+          {
+            "x": 14202.39,
+            "y": 37330.69
+          },
+          {
+            "x": 13171.02,
+            "y": 37674.81
+          },
+          {
+            "x": 12311.21,
+            "y": 37933.15
+          },
+          {
+            "x": 11451.4,
+            "y": 38104.72
+          },
+          {
+            "x": 10592.58,
+            "y": 38276.28
+          },
+          {
+            "x": 9474.43,
+            "y": 38620.4
+          },
+          {
+            "x": 8528.84,
+            "y": 38877.75
+          },
+          {
+            "x": 7670.02,
+            "y": 39050.31
+          },
+          {
+            "x": 6810.21,
+            "y": 39393.44
+          },
+          {
+            "x": 5950.4,
+            "y": 39823.34
+          },
+          {
+            "x": 5693.05,
+            "y": 40683.15
+          },
+          {
+            "x": 5693.05,
+            "y": 41113.06
+          },
+          {
+            "x": 5693.05,
+            "y": 41113.06
+          },
+          {
+            "x": 5693.05,
+            "y": 40425.81
+          }
+        ]
+      },
+      "anchor": {
+        "x": 39746.44,
+        "y": 50563.8
+      },
+      "crop": {
+        "left": 38912,
+        "top": 49920,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 834.44,
+        "y": 643.8
+      },
+      "atlas_image": "atlas/09-tumor-annotiert.jpg",
+      "exercise_image": "pruefung/09-tumor.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Tumorgewebe als ergänzender Gesamtbefund.",
+      "didactic_note": "Tumorgewebe als ergänzender Gesamtbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    },
+    {
+      "id": 10,
+      "label": "glatte Uterusmuskulatur",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 49834.69,
+            "y": 6112.16
+          },
+          {
+            "x": 76577.61,
+            "y": 26929.17
+          }
+        ]
+      },
+      "anchor": {
+        "x": 63206.15,
+        "y": 16520.66
+      },
+      "crop": {
+        "left": 62208,
+        "top": 15872,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 998.15,
+        "y": 648.66
+      },
+      "atlas_image": "atlas/10-glatte-uterusmuskulatur-annotiert.jpg",
+      "exercise_image": "pruefung/10-glatte-uterusmuskulatur.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „glatte Uterusmuskulatur“ dient hier als anatomischer Orientierungspunkt. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    },
+    {
+      "id": 11,
+      "label": "gut vaskularisierte Myometrium",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 66968.08,
+            "y": 56612.6
+          },
+          {
+            "x": 71588.32,
+            "y": 67147.79
+          }
+        ]
+      },
+      "anchor": {
+        "x": 69278.2,
+        "y": 61880.2
+      },
+      "crop": {
+        "left": 68352,
+        "top": 61184,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 926.2,
+        "y": 696.2
+      },
+      "atlas_image": "atlas/11-gut-vaskularisierte-myometrium-annotiert.jpg",
+      "exercise_image": "pruefung/11-gut-vaskularisierte-myometrium.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „gut vaskularisierte Myometrium“ als morphologischen Teilbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 1,
+      "label": "zigarrenförmige Kerne",
+      "exercise_image": "pruefung/01-zigarrenformige-kerne.jpg",
+      "rationale": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms.",
+      "didactic_note": "Zigarrenförmige Kerne als charakteristische Zellmorphologie des Leiomyoms. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    },
+    {
+      "annotation_id": 9,
+      "label": "Tumor",
+      "exercise_image": "pruefung/09-tumor.jpg",
+      "rationale": "Tumorgewebe als ergänzender Gesamtbefund.",
+      "didactic_note": "Tumorgewebe als ergänzender Gesamtbefund. Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+    }
+  ],
+  "didactic_context": "Das Leiomyom besteht aus sich kreuzenden Bündeln gleichförmiger Spindelzellen mit zigarrenförmigen Kernen; fehlende relevante Atypie, Tumorzellnekrose und hohe Mitoseaktivität sprechen für Benignität."
+}

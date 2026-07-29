@@ -1,0 +1,831 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "036",
+    "name": "Eitrige aszendierende Nephritis",
+    "organ": "Niere",
+    "diagnosis": "Eitrig-abszedierende Nephritis",
+    "description": [
+      "Glomeruli;",
+      "akute bakterielle Nephritis;",
+      "aus den Harnwegen aufsteigende Entzündung;",
+      "Hyperämie & Hämorrhagien;",
+      "Granulozytenstraßen im Mark;",
+      "Degeneration d. Tubusepithelien;",
+      "disseminierte Mikroabszesse;",
+      "narbige Ausheilung (bei Häufung: Schrumpfniere);"
+    ],
+    "slide_id": "f1af257a-14e0-44bb-926b-7563c9e453a8",
+    "slide_path": "Histopathologie 5. Semester/slides/036 - Eitrige aszendierende Nephritis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f1af257a-14e0-44bb-926b-7563c9e453a8&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2520,
+    "height": 3496,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 5,
+      "label": "Mikroabszess 2",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40625.11,
+            "y": 52933.12
+          },
+          {
+            "x": 44031.45,
+            "y": 57782.69
+          }
+        ]
+      },
+      "anchor": {
+        "x": 42328.28,
+        "y": 55357.91
+      },
+      "crop": {
+        "left": 41472,
+        "top": 54784,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 856.28,
+        "y": 573.91
+      },
+      "atlas_image": "atlas/05-mikroabszess-2-annotiert.jpg",
+      "exercise_image": "pruefung/05-mikroabszess-2.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Mikroabszess als typisches entzündliches Gewebsmuster.",
+      "didactic_note": "Mikroabszess als typisches entzündliches Gewebsmuster. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 7,
+      "label": "Granulozytenstraße",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 40721.45,
+            "y": 26276.54
+          },
+          {
+            "x": 48309.95,
+            "y": 44945.18
+          }
+        ]
+      },
+      "anchor": {
+        "x": 44515.7,
+        "y": 35610.86
+      },
+      "crop": {
+        "left": 43520,
+        "top": 35072,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 995.7,
+        "y": 538.86
+      },
+      "atlas_image": "atlas/07-granulozytenstrasse-annotiert.jpg",
+      "exercise_image": "pruefung/07-granulozytenstrasse.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Granulozytenstraße“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 11,
+      "label": "Hämorrhagie",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4670.84,
+            "y": 93271.27
+          },
+          {
+            "x": 9908.81,
+            "y": 100095
+          }
+        ]
+      },
+      "anchor": {
+        "x": 7289.83,
+        "y": 96683.13
+      },
+      "crop": {
+        "left": 6400,
+        "top": 96000,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 889.83,
+        "y": 683.13
+      },
+      "atlas_image": "atlas/11-hamorrhagie-annotiert.jpg",
+      "exercise_image": "pruefung/11-hamorrhagie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Hämorrhagie“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 13,
+      "label": "Mikroabszess 1",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3883.99,
+            "y": 65940.25
+          },
+          {
+            "x": 6840.7,
+            "y": 68450.34
+          }
+        ]
+      },
+      "anchor": {
+        "x": 5362.34,
+        "y": 67195.29
+      },
+      "crop": {
+        "left": 4352,
+        "top": 66560,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1010.34,
+        "y": 635.29
+      },
+      "atlas_image": "atlas/13-mikroabszess-1-annotiert.jpg",
+      "exercise_image": "pruefung/13-mikroabszess-1.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mikroabszess 1“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 15,
+      "label": "Vernarbung",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19588.89,
+            "y": 52412.23
+          },
+          {
+            "x": 23007.27,
+            "y": 56016.29
+          }
+        ]
+      },
+      "anchor": {
+        "x": 21298.08,
+        "y": 54214.26
+      },
+      "crop": {
+        "left": 20480,
+        "top": 53504,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 818.08,
+        "y": 710.26
+      },
+      "atlas_image": "atlas/15-vernarbung-annotiert.jpg",
+      "exercise_image": "pruefung/15-vernarbung.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Vernarbung“ als morphologischen Teilbefund. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 16,
+      "label": "degenerierte Tubulusepithelien",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 46086.89,
+            "y": 50467.19
+          },
+          {
+            "x": 47689.7,
+            "y": 51884.32
+          }
+        ]
+      },
+      "anchor": {
+        "x": 46888.3,
+        "y": 51175.75
+      },
+      "crop": {
+        "left": 46080,
+        "top": 50432,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 808.3,
+        "y": 743.75
+      },
+      "atlas_image": "atlas/16-degenerierte-tubulusepithelien-annotiert.jpg",
+      "exercise_image": "pruefung/16-degenerierte-tubulusepithelien.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „degenerierte Tubulusepithelien“ dient hier als anatomischer Orientierungspunkt. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "id": 17,
+      "label": "Bakterien im Tubulus",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 60485.06,
+            "y": 14702.6
+          },
+          {
+            "x": 60451.94,
+            "y": 14750.78
+          },
+          {
+            "x": 60454.95,
+            "y": 14813
+          },
+          {
+            "x": 60458.97,
+            "y": 14828.06
+          },
+          {
+            "x": 60459.97,
+            "y": 14842.11
+          },
+          {
+            "x": 60461.98,
+            "y": 14854.15
+          },
+          {
+            "x": 60463.99,
+            "y": 14867.2
+          },
+          {
+            "x": 60470.01,
+            "y": 14879.24
+          },
+          {
+            "x": 60474.02,
+            "y": 14891.29
+          },
+          {
+            "x": 60480.04,
+            "y": 14904.33
+          },
+          {
+            "x": 60486.07,
+            "y": 14916.38
+          },
+          {
+            "x": 60495.1,
+            "y": 14927.42
+          },
+          {
+            "x": 60503.13,
+            "y": 14938.46
+          },
+          {
+            "x": 60513.16,
+            "y": 14948.49
+          },
+          {
+            "x": 60526.21,
+            "y": 14958.53
+          },
+          {
+            "x": 60536.25,
+            "y": 14967.56
+          },
+          {
+            "x": 60548.29,
+            "y": 14975.59
+          },
+          {
+            "x": 60560.33,
+            "y": 14987.64
+          },
+          {
+            "x": 60570.37,
+            "y": 14997.67
+          },
+          {
+            "x": 60579.4,
+            "y": 15006.71
+          },
+          {
+            "x": 60585.43,
+            "y": 15018.75
+          },
+          {
+            "x": 60591.45,
+            "y": 15032.8
+          },
+          {
+            "x": 60597.47,
+            "y": 15044.84
+          },
+          {
+            "x": 60605.5,
+            "y": 15057.89
+          },
+          {
+            "x": 60614.53,
+            "y": 15072.95
+          },
+          {
+            "x": 60624.57,
+            "y": 15087
+          },
+          {
+            "x": 60632.6,
+            "y": 15097.03
+          },
+          {
+            "x": 60640.63,
+            "y": 15107.07
+          },
+          {
+            "x": 60650.66,
+            "y": 15118.11
+          },
+          {
+            "x": 60659.69,
+            "y": 15129.15
+          },
+          {
+            "x": 60669.73,
+            "y": 15139.19
+          },
+          {
+            "x": 60678.76,
+            "y": 15150.23
+          },
+          {
+            "x": 60688.8,
+            "y": 15160.26
+          },
+          {
+            "x": 60699.84,
+            "y": 15168.29
+          },
+          {
+            "x": 60711.88,
+            "y": 15173.31
+          },
+          {
+            "x": 60726.94,
+            "y": 15181.34
+          },
+          {
+            "x": 60741.99,
+            "y": 15189.37
+          },
+          {
+            "x": 60754.04,
+            "y": 15195.39
+          },
+          {
+            "x": 60766.08,
+            "y": 15197.4
+          },
+          {
+            "x": 60779.13,
+            "y": 15201.41
+          },
+          {
+            "x": 60793.18,
+            "y": 15202.41
+          },
+          {
+            "x": 60805.22,
+            "y": 15205.43
+          },
+          {
+            "x": 60817.27,
+            "y": 15209.44
+          },
+          {
+            "x": 60829.31,
+            "y": 15214.46
+          },
+          {
+            "x": 60840.35,
+            "y": 15220.48
+          },
+          {
+            "x": 60852.39,
+            "y": 15225.5
+          },
+          {
+            "x": 60863.43,
+            "y": 15232.52
+          },
+          {
+            "x": 60874.47,
+            "y": 15238.55
+          },
+          {
+            "x": 60885.51,
+            "y": 15244.57
+          },
+          {
+            "x": 60899.56,
+            "y": 15245.57
+          },
+          {
+            "x": 60913.61,
+            "y": 15239.55
+          },
+          {
+            "x": 60922.65,
+            "y": 15229.51
+          },
+          {
+            "x": 60924.65,
+            "y": 15215.46
+          },
+          {
+            "x": 60925.66,
+            "y": 15201.41
+          },
+          {
+            "x": 60927.67,
+            "y": 15189.37
+          },
+          {
+            "x": 60933.69,
+            "y": 15178.33
+          },
+          {
+            "x": 60942.72,
+            "y": 15169.29
+          },
+          {
+            "x": 60953.76,
+            "y": 15162.27
+          },
+          {
+            "x": 60965.8,
+            "y": 15157.25
+          },
+          {
+            "x": 60977.85,
+            "y": 15154.24
+          },
+          {
+            "x": 60989.89,
+            "y": 15151.23
+          },
+          {
+            "x": 61002.94,
+            "y": 15149.22
+          },
+          {
+            "x": 61017.99,
+            "y": 15147.21
+          },
+          {
+            "x": 61031.04,
+            "y": 15145.21
+          },
+          {
+            "x": 61044.09,
+            "y": 15144.2
+          },
+          {
+            "x": 61056.13,
+            "y": 15142.2
+          },
+          {
+            "x": 61068.17,
+            "y": 15137.18
+          },
+          {
+            "x": 61079.21,
+            "y": 15129.15
+          },
+          {
+            "x": 61084.23,
+            "y": 15115.1
+          },
+          {
+            "x": 61079.21,
+            "y": 15103.05
+          },
+          {
+            "x": 61068.17,
+            "y": 15091.01
+          },
+          {
+            "x": 61054.12,
+            "y": 15076.96
+          },
+          {
+            "x": 61042.08,
+            "y": 15069.93
+          },
+          {
+            "x": 61030.04,
+            "y": 15063.91
+          },
+          {
+            "x": 61019,
+            "y": 15056.89
+          },
+          {
+            "x": 61006.95,
+            "y": 15045.85
+          },
+          {
+            "x": 60997.92,
+            "y": 15034.81
+          },
+          {
+            "x": 60989.89,
+            "y": 15023.77
+          },
+          {
+            "x": 60981.86,
+            "y": 15010.72
+          },
+          {
+            "x": 60975.84,
+            "y": 14999.68
+          },
+          {
+            "x": 60969.82,
+            "y": 14984.63
+          },
+          {
+            "x": 60963.8,
+            "y": 14970.57
+          },
+          {
+            "x": 60955.77,
+            "y": 14958.53
+          },
+          {
+            "x": 60949.75,
+            "y": 14945.48
+          },
+          {
+            "x": 60941.72,
+            "y": 14936.45
+          },
+          {
+            "x": 60934.69,
+            "y": 14925.41
+          },
+          {
+            "x": 60925.66,
+            "y": 14914.37
+          },
+          {
+            "x": 60916.63,
+            "y": 14901.32
+          },
+          {
+            "x": 60906.59,
+            "y": 14889.28
+          },
+          {
+            "x": 60891.53,
+            "y": 14870.21
+          },
+          {
+            "x": 60881.5,
+            "y": 14856.16
+          },
+          {
+            "x": 60873.47,
+            "y": 14847.13
+          },
+          {
+            "x": 60862.43,
+            "y": 14836.09
+          },
+          {
+            "x": 60852.39,
+            "y": 14826.05
+          },
+          {
+            "x": 60843.36,
+            "y": 14818.02
+          },
+          {
+            "x": 60833.32,
+            "y": 14809.99
+          },
+          {
+            "x": 60820.28,
+            "y": 14797.95
+          },
+          {
+            "x": 60810.24,
+            "y": 14788.92
+          },
+          {
+            "x": 60797.19,
+            "y": 14782.89
+          },
+          {
+            "x": 60785.15,
+            "y": 14779.88
+          },
+          {
+            "x": 60773.11,
+            "y": 14774.87
+          },
+          {
+            "x": 60760.06,
+            "y": 14768.84
+          },
+          {
+            "x": 60749.02,
+            "y": 14762.82
+          },
+          {
+            "x": 60737.98,
+            "y": 14755.8
+          },
+          {
+            "x": 60728.95,
+            "y": 14746.76
+          },
+          {
+            "x": 60717.91,
+            "y": 14739.74
+          },
+          {
+            "x": 60706.87,
+            "y": 14732.71
+          },
+          {
+            "x": 60693.82,
+            "y": 14723.68
+          },
+          {
+            "x": 60678.76,
+            "y": 14715.65
+          },
+          {
+            "x": 60665.72,
+            "y": 14705.61
+          },
+          {
+            "x": 60651.67,
+            "y": 14696.58
+          },
+          {
+            "x": 60640.63,
+            "y": 14689.56
+          },
+          {
+            "x": 60628.58,
+            "y": 14686.55
+          },
+          {
+            "x": 60616.54,
+            "y": 14684.54
+          },
+          {
+            "x": 60604.49,
+            "y": 14680.52
+          },
+          {
+            "x": 60591.45,
+            "y": 14674.5
+          },
+          {
+            "x": 60579.4,
+            "y": 14672.49
+          },
+          {
+            "x": 60567.36,
+            "y": 14669.48
+          },
+          {
+            "x": 60555.32,
+            "y": 14667.48
+          },
+          {
+            "x": 60542.27,
+            "y": 14666.47
+          },
+          {
+            "x": 60527.21,
+            "y": 14666.47
+          },
+          {
+            "x": 60514.17,
+            "y": 14668.48
+          },
+          {
+            "x": 60502.12,
+            "y": 14671.49
+          },
+          {
+            "x": 60492.09,
+            "y": 14679.52
+          },
+          {
+            "x": 60483.05,
+            "y": 14687.55
+          },
+          {
+            "x": 60484.06,
+            "y": 14704.61
+          },
+          {
+            "x": 60484.06,
+            "y": 14704.61
+          },
+          {
+            "x": 60485.06,
+            "y": 14702.6
+          }
+        ]
+      },
+      "anchor": {
+        "x": 60757.95,
+        "y": 14967.61
+      },
+      "crop": {
+        "left": 59904,
+        "top": 14336,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 853.95,
+        "y": 631.61
+      },
+      "atlas_image": "atlas/17-bakterien-im-tubulus-annotiert.jpg",
+      "exercise_image": "pruefung/17-bakterien-im-tubulus.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis.",
+      "didactic_note": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 17,
+      "label": "Bakterien im Tubulus",
+      "exercise_image": "pruefung/17-bakterien-im-tubulus.jpg",
+      "rationale": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis.",
+      "didactic_note": "Bakterien im Tubulus als besonders spezifischer Befund der eitrigen Nephritis. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    },
+    {
+      "annotation_id": 5,
+      "label": "Mikroabszess 2",
+      "exercise_image": "pruefung/05-mikroabszess-2.jpg",
+      "rationale": "Mikroabszess als typisches entzündliches Gewebsmuster.",
+      "didactic_note": "Mikroabszess als typisches entzündliches Gewebsmuster. Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+    }
+  ],
+  "didactic_context": "Die eitrig-abszedierende Nephritis zeigt neutrophile Granulozyten in Interstitium und Tubuli bis hin zu Mikroabszessen; intratubuläre Bakterien stützen eine aufsteigende Infektion."
+}

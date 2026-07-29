@@ -1,0 +1,223 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "041",
+    "name": "Skelettmuskelatrophie",
+    "organ": "quergestreifte Muskulatur",
+    "diagnosis": "Skelettmuskelatrophie",
+    "description": [
+      "Quergestreifte Muskulatur;",
+      "vermehrt Fettzellen;",
+      "Atrophie der Muskelfasern;",
+      "Kaliberschwankung der Muskelfasern untereinander (kleine und große);"
+    ],
+    "slide_id": "8c0fd8ef-4e40-4681-b0c3-73b63993b900",
+    "slide_path": "Histopathologie 5. Semester/slides/041 - Skelettmuskelatrophie.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8c0fd8ef-4e40-4681-b0c3-73b63993b900&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2448,
+    "height": 3008,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 7,
+      "label": "unauffällige Myozytendicke",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 10752.86,
+            "y": 33609.62
+          },
+          {
+            "x": 11549.16,
+            "y": 33368.13
+          },
+          {
+            "x": 12369.41,
+            "y": 34429.87
+          },
+          {
+            "x": 11838.54,
+            "y": 35226.17
+          },
+          {
+            "x": 12682.74,
+            "y": 36407.64
+          },
+          {
+            "x": 12007.18,
+            "y": 36745.92
+          },
+          {
+            "x": 10415.58,
+            "y": 34285.17
+          },
+          {
+            "x": 10752.86,
+            "y": 33609.62
+          },
+          {
+            "x": 10752.86,
+            "y": 33609.62
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11546.04,
+        "y": 34710.27
+      },
+      "crop": {
+        "left": 10752,
+        "top": 34048,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 794.04,
+        "y": 662.27
+      },
+      "atlas_image": "atlas/07-unauffallige-myozytendicke-annotiert.jpg",
+      "exercise_image": "pruefung/07-unauffallige-myozytendicke.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „unauffällige Myozytendicke“ dient hier als anatomischer Orientierungspunkt. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+    },
+    {
+      "id": 8,
+      "label": "dünne, atrophe Myozyten",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 9838.81,
+            "y": 36360.74
+          },
+          {
+            "x": 9258.05,
+            "y": 36723.97
+          },
+          {
+            "x": 10419.57,
+            "y": 38780.58
+          },
+          {
+            "x": 11145.02,
+            "y": 38320.56
+          },
+          {
+            "x": 9838.81,
+            "y": 36360.74
+          },
+          {
+            "x": 9838.81,
+            "y": 36360.74
+          }
+        ]
+      },
+      "anchor": {
+        "x": 10100.05,
+        "y": 37309.32
+      },
+      "crop": {
+        "left": 9216,
+        "top": 36608,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 884.05,
+        "y": 701.32
+      },
+      "atlas_image": "atlas/08-dunne-atrophe-myozyten-annotiert.jpg",
+      "exercise_image": "pruefung/08-dunne-atrophe-myozyten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund.",
+      "didactic_note": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+    },
+    {
+      "id": 9,
+      "label": "atrophe Muskelfasern im Querschnitt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18910.44,
+            "y": 18802.24
+          },
+          {
+            "x": 21746.38,
+            "y": 21497.48
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20328.41,
+        "y": 20149.86
+      },
+      "crop": {
+        "left": 19456,
+        "top": 19456,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 872.41,
+        "y": 693.86
+      },
+      "atlas_image": "atlas/09-atrophe-muskelfasern-im-querschnitt-annotiert.jpg",
+      "exercise_image": "pruefung/09-atrophe-muskelfasern-im-querschnitt.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene.",
+      "didactic_note": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 8,
+      "label": "dünne, atrophe Myozyten",
+      "exercise_image": "pruefung/08-dunne-atrophe-myozyten.jpg",
+      "rationale": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund.",
+      "didactic_note": "Dünne atrophe Myozyten im Längsschnitt als zellulärer Leitbefund. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+    },
+    {
+      "annotation_id": 9,
+      "label": "atrophe Muskelfasern im Querschnitt",
+      "exercise_image": "pruefung/09-atrophe-muskelfasern-im-querschnitt.jpg",
+      "rationale": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene.",
+      "didactic_note": "Atrophe Muskelfasern im Querschnitt als komplementäre Schnittebene. Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+    }
+  ],
+  "didactic_context": "Atrophe Muskelfasern fallen durch einen verminderten Durchmesser auf und sind im Querschnitt deutlich kleiner als benachbarte Fasern; Verteilung und Gruppenbildung helfen bei der ätiologischen Einordnung."
+}

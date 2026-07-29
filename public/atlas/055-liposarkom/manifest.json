@@ -1,0 +1,293 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "055",
+    "name": "Liposarkom",
+    "organ": "Fettgewebe/Weichgewebe",
+    "diagnosis": "Liposarkom",
+    "description": [
+      "Schnitt besteht komplett aus Tumormaterial;",
+      "maligner mesenchymaler Tumor;",
+      "pleomorphes Liposarkom, undifferenziert;",
+      "vorwiegend Spindelzellen und unreife Fettgewebszellen (Lipoblasten mit mittigem Kern und Nucleolus);",
+      "Zelldysplasien, riesige dysplastische Kerne;",
+      "benigne Form: Lipom (siehe #54)"
+    ],
+    "slide_id": "73e1ab30-0e52-4986-97b9-45bed2b1bd35",
+    "slide_path": "Histopathologie 5. Semester/slides/055 - Liposarkom.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=73e1ab30-0e52-4986-97b9-45bed2b1bd35&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 4096,
+    "height": 4096,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Adipozyten",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 11242.55,
+            "y": 8041.88
+          },
+          {
+            "x": 12510.49,
+            "y": 9943.79
+          }
+        ]
+      },
+      "anchor": {
+        "x": 11876.52,
+        "y": 8992.84
+      },
+      "crop": {
+        "left": 11008,
+        "top": 8448,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 868.52,
+        "y": 544.84
+      },
+      "atlas_image": "atlas/01-adipozyten-annotiert.jpg",
+      "exercise_image": "pruefung/01-adipozyten.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Adipozyten“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "id": 8,
+      "label": "Lipoblast 1",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12304.08,
+            "y": 11406.07
+          },
+          {
+            "x": 12507.14,
+            "y": 11609.13
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12405.61,
+        "y": 11507.6
+      },
+      "crop": {
+        "left": 11520,
+        "top": 10752,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 885.61,
+        "y": 755.6
+      },
+      "atlas_image": "atlas/08-lipoblast-1-annotiert.jpg",
+      "exercise_image": "pruefung/08-lipoblast-1.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms.",
+      "didactic_note": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "id": 9,
+      "label": "Adipozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 12543.33,
+            "y": 9254.2
+          },
+          {
+            "x": 12745.72,
+            "y": 9478.7
+          }
+        ]
+      },
+      "anchor": {
+        "x": 12644.52,
+        "y": 9366.45
+      },
+      "crop": {
+        "left": 11776,
+        "top": 8704,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 868.52,
+        "y": 662.45
+      },
+      "atlas_image": "atlas/09-adipozyt-annotiert.jpg",
+      "exercise_image": "pruefung/09-adipozyt.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Adipozyt“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "id": 10,
+      "label": "Lipoblast 2",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17507.85,
+            "y": 15122.09
+          },
+          {
+            "x": 17679.41,
+            "y": 15274.89
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17593.63,
+        "y": 15198.49
+      },
+      "crop": {
+        "left": 16640,
+        "top": 14592,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 953.63,
+        "y": 606.49
+      },
+      "atlas_image": "atlas/10-lipoblast-2-annotiert.jpg",
+      "exercise_image": "pruefung/10-lipoblast-2.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lipoblast 2“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "id": 11,
+      "label": "pleomorper Zellkern",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17655.96,
+            "y": 14998.12
+          },
+          {
+            "x": 17767.87,
+            "y": 15118.74
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17711.92,
+        "y": 15058.43
+      },
+      "crop": {
+        "left": 16896,
+        "top": 14336,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 815.92,
+        "y": 722.43
+      },
+      "atlas_image": "atlas/11-pleomorper-zellkern-annotiert.jpg",
+      "exercise_image": "pruefung/11-pleomorper-zellkern.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Pleomorpher Zellkern als Zeichen der malignen Atypie.",
+      "didactic_note": "Pleomorpher Zellkern als Zeichen der malignen Atypie. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "id": 12,
+      "label": "Makronukleolus",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 18208.17,
+            "y": 15486.66
+          },
+          {
+            "x": 17955.52,
+            "y": 15429.03
+          },
+          {
+            "x": 17955.52,
+            "y": 15429.03
+          }
+        ]
+      },
+      "anchor": {
+        "x": 17955.52,
+        "y": 15429.03
+      },
+      "crop": {
+        "left": 17152,
+        "top": 14848,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 803.52,
+        "y": 581.03
+      },
+      "atlas_image": "atlas/12-makronukleolus-annotiert.jpg",
+      "exercise_image": "pruefung/12-makronukleolus.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Makronukleolus“ als morphologischen Teilbefund. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 8,
+      "label": "Lipoblast 1",
+      "exercise_image": "pruefung/08-lipoblast-1.jpg",
+      "rationale": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms.",
+      "didactic_note": "Lipoblast als diagnostisch wichtige Tumorzelle des Liposarkoms. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    },
+    {
+      "annotation_id": 11,
+      "label": "pleomorper Zellkern",
+      "exercise_image": "pruefung/11-pleomorper-zellkern.jpg",
+      "rationale": "Pleomorpher Zellkern als Zeichen der malignen Atypie.",
+      "didactic_note": "Pleomorpher Zellkern als Zeichen der malignen Atypie. Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+    }
+  ],
+  "didactic_context": "Das Liposarkom zeigt atypische Fettzellvorstufen mit vakuolisiertem Zytoplasma und eingekerbten hyperchromatischen Kernen; Lipoblasten und Kernpleomorphie sind diagnostisch besonders wichtig."
+}

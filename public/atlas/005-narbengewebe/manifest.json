@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "005",
+    "name": "Narbengewebe",
+    "organ": "Weichgewebe",
+    "diagnosis": "Narbengewebe",
+    "description": [
+      "homogenes Bild;",
+      "lockere Bindegewebsstränge aus Fibrozyten;",
+      "extrazelluläre kollagene Matrix;",
+      "keine Fibroblasten wie in Präparat #4",
+      "Endprodukt der Narbenbildung (- des Granulationsgewebes)"
+    ],
+    "slide_id": "a016e8dd-14c7-4454-ba6d-263757011d5b",
+    "slide_path": "Histopathologie 5. Semester/slides/005 - Narbengewebe.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a016e8dd-14c7-4454-ba6d-263757011d5b&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 3328,
+    "height": 3120,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "label": "Bindegewebsstränge und Fibrozyten",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 17784,
+            "y": 23231
+          },
+          {
+            "x": 21094,
+            "y": 24706
+          }
+        ]
+      },
+      "anchor": {
+        "x": 19439.0,
+        "y": 23968.5
+      },
+      "crop": {
+        "left": 18432,
+        "top": 23296,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1007.0,
+        "y": 672.5
+      },
+      "atlas_image": "atlas/03-bindegewebsstrange-und-fibrozyten-annotiert.jpg",
+      "exercise_image": "pruefung/03-bindegewebsstrange-und-fibrozyten.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund.",
+      "didactic_note": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 3,
+      "label": "Bindegewebsstränge und Fibrozyten",
+      "exercise_image": "pruefung/03-bindegewebsstrange-und-fibrozyten.jpg",
+      "rationale": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund.",
+      "didactic_note": "Bindegewebsstränge mit Fibrozyten bilden den charakteristischen Narbenbefund. Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."
+    }
+  ],
+  "didactic_context": "Reifes Narbengewebe ist kollagenreich, gefäßarm und relativ zellarm; schmale Fibrozyten ersetzen die zellreichen Fibroblasten des frühen Reparationsstadiums."
+}

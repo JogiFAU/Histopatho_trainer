@@ -1,0 +1,802 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "076",
+    "name": "Lebermetastase eines Kolon-Ca",
+    "organ": "Leber",
+    "diagnosis": "Metastase eines Kolonkarzinoms",
+    "description": [
+      "typische Hepatozyten in bälkchenartiger Anordnung;",
+      "Periportalfelder (Arterie, Vene, Gallengang);",
+      "Zentralvenen;",
+      "unscharf begrenzte Metastase mit sezernierendem Schleimhautepithel;",
+      "oft mehrreihiges Epithel;",
+      "Zell- und Kernatypien (Mitosen, verschobene Kern-Plasmarelation, schütteres Karyoplasma, Verlust der Zellpolarität);",
+      "Nekrosen;"
+    ],
+    "slide_id": "82d753ed-06c7-4d95-9c81-5dfb9f4cfc73",
+    "slide_path": "Histopathologie 5. Semester/slides/076 - Lebermetastase eines Kolon-Ca.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=82d753ed-06c7-4d95-9c81-5dfb9f4cfc73&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 1832,
+    "height": 2600,
+    "level_0_to_overview_scale": 0.03125,
+    "tile_level": 5,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "label": "Nekrose",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 4965.05,
+            "y": 65294.09
+          },
+          {
+            "x": 5960.27,
+            "y": 66411.71
+          }
+        ]
+      },
+      "anchor": {
+        "x": 5462.66,
+        "y": 65852.9
+      },
+      "crop": {
+        "left": 4608,
+        "top": 65280,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 854.66,
+        "y": 572.9
+      },
+      "atlas_image": "atlas/01-nekrose-annotiert.jpg",
+      "exercise_image": "pruefung/01-nekrose.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Nekrose“ als morphologischen Teilbefund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 17,
+      "label": "Mitose",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 22738.6,
+            "y": 57732.44
+          },
+          {
+            "x": 22857.03,
+            "y": 57851.87
+          }
+        ]
+      },
+      "anchor": {
+        "x": 22797.82,
+        "y": 57792.15
+      },
+      "crop": {
+        "left": 22016,
+        "top": 57088,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 781.82,
+        "y": 704.15
+      },
+      "atlas_image": "atlas/17-mitose-annotiert.jpg",
+      "exercise_image": "pruefung/17-mitose.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Mitose als Zeichen der malignen Proliferation.",
+      "didactic_note": "Mitose als Zeichen der malignen Proliferation. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 18,
+      "label": "Zentralvene",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29126.89,
+            "y": 14409.72
+          },
+          {
+            "x": 29744.92,
+            "y": 14833.68
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29435.9,
+        "y": 14621.7
+      },
+      "crop": {
+        "left": 28416,
+        "top": 14080,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 1019.9,
+        "y": 541.7
+      },
+      "atlas_image": "atlas/18-zentralvene-annotiert.jpg",
+      "exercise_image": "pruefung/18-zentralvene.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Zentralvene“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 19,
+      "label": "Hepatozyt",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 31746.3,
+            "y": 17507.83
+          },
+          {
+            "x": 31994.11,
+            "y": 17673.03
+          }
+        ]
+      },
+      "anchor": {
+        "x": 31870.2,
+        "y": 17590.43
+      },
+      "crop": {
+        "left": 30976,
+        "top": 16896,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 894.2,
+        "y": 694.43
+      },
+      "atlas_image": "atlas/19-hepatozyt-annotiert.jpg",
+      "exercise_image": "pruefung/19-hepatozyt.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Hepatozyt“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 20,
+      "label": "Gallengang",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29629.47,
+            "y": 16801.22
+          },
+          {
+            "x": 29879.27,
+            "y": 17004.25
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29754.37,
+        "y": 16902.74
+      },
+      "crop": {
+        "left": 28928,
+        "top": 16384,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 826.37,
+        "y": 518.74
+      },
+      "atlas_image": "atlas/20-gallengang-annotiert.jpg",
+      "exercise_image": "pruefung/20-gallengang.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Gallengang“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 21,
+      "label": "Vene",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29362.76,
+            "y": 16448.92
+          },
+          {
+            "x": 29785.72,
+            "y": 16760.42
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29574.24,
+        "y": 16604.67
+      },
+      "crop": {
+        "left": 28672,
+        "top": 15872,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 902.24,
+        "y": 732.67
+      },
+      "atlas_image": "atlas/21-vene-annotiert.jpg",
+      "exercise_image": "pruefung/21-vene.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Vene“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 22,
+      "label": "Arterie",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29227.41,
+            "y": 16497.68
+          },
+          {
+            "x": 29402.56,
+            "y": 16689.76
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29314.99,
+        "y": 16593.72
+      },
+      "crop": {
+        "left": 28416,
+        "top": 15872,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 898.99,
+        "y": 721.72
+      },
+      "atlas_image": "atlas/22-arterie-annotiert.jpg",
+      "exercise_image": "pruefung/22-arterie.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Arterie“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 23,
+      "label": "Glisson Trias",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 29111.96,
+            "y": 16019.98
+          },
+          {
+            "x": 30452.52,
+            "y": 17206.28
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29782.24,
+        "y": 16613.13
+      },
+      "crop": {
+        "left": 28928,
+        "top": 15872,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 854.24,
+        "y": 741.13
+      },
+      "atlas_image": "atlas/23-glisson-trias-annotiert.jpg",
+      "exercise_image": "pruefung/23-glisson-trias.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Glisson Trias“ dient hier als anatomischer Orientierungspunkt. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "id": 24,
+      "label": "Metastase",
+      "original_shape": "polyline",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 3589.67,
+            "y": 28182.51
+          },
+          {
+            "x": 1194.18,
+            "y": 58754.53
+          },
+          {
+            "x": 1194.18,
+            "y": 79455
+          },
+          {
+            "x": 2535.73,
+            "y": 79455
+          },
+          {
+            "x": 3589.67,
+            "y": 79455
+          },
+          {
+            "x": 4835.67,
+            "y": 79741.63
+          },
+          {
+            "x": 5986.14,
+            "y": 79933.7
+          },
+          {
+            "x": 7040.08,
+            "y": 80029.24
+          },
+          {
+            "x": 8094.01,
+            "y": 80125.78
+          },
+          {
+            "x": 9435.56,
+            "y": 80316.86
+          },
+          {
+            "x": 10586.03,
+            "y": 80508.94
+          },
+          {
+            "x": 11544.42,
+            "y": 80604.48
+          },
+          {
+            "x": 12502.81,
+            "y": 80700.02
+          },
+          {
+            "x": 13652.29,
+            "y": 80700.02
+          },
+          {
+            "x": 14610.68,
+            "y": 80508.94
+          },
+          {
+            "x": 15952.23,
+            "y": 80316.86
+          },
+          {
+            "x": 16910.62,
+            "y": 80029.24
+          },
+          {
+            "x": 17869.01,
+            "y": 79741.63
+          },
+          {
+            "x": 18827.41,
+            "y": 79550.55
+          },
+          {
+            "x": 19977.88,
+            "y": 79262.93
+          },
+          {
+            "x": 21127.35,
+            "y": 78975.31
+          },
+          {
+            "x": 22085.74,
+            "y": 78783.23
+          },
+          {
+            "x": 23044.13,
+            "y": 78496.61
+          },
+          {
+            "x": 24194.6,
+            "y": 77921.38
+          },
+          {
+            "x": 25057.45,
+            "y": 77346.14
+          },
+          {
+            "x": 25919.31,
+            "y": 76770.91
+          },
+          {
+            "x": 26686.62,
+            "y": 75909.05
+          },
+          {
+            "x": 27357.4,
+            "y": 75046.2
+          },
+          {
+            "x": 28123.71,
+            "y": 74375.43
+          },
+          {
+            "x": 28890.03,
+            "y": 73417.03
+          },
+          {
+            "x": 29752.88,
+            "y": 72649.72
+          },
+          {
+            "x": 30806.81,
+            "y": 71787.87
+          },
+          {
+            "x": 31669.67,
+            "y": 70829.47
+          },
+          {
+            "x": 32532.52,
+            "y": 69966.62
+          },
+          {
+            "x": 33203.29,
+            "y": 69200.31
+          },
+          {
+            "x": 33874.07,
+            "y": 68241.91
+          },
+          {
+            "x": 34449.3,
+            "y": 67091.44
+          },
+          {
+            "x": 34832.46,
+            "y": 66133.05
+          },
+          {
+            "x": 35215.62,
+            "y": 65174.66
+          },
+          {
+            "x": 35790.85,
+            "y": 64312.8
+          },
+          {
+            "x": 36269.55,
+            "y": 63354.41
+          },
+          {
+            "x": 36749.24,
+            "y": 62491.56
+          },
+          {
+            "x": 37323.48,
+            "y": 61533.17
+          },
+          {
+            "x": 37611.1,
+            "y": 60383.69
+          },
+          {
+            "x": 37707.64,
+            "y": 59425.3
+          },
+          {
+            "x": 37515.56,
+            "y": 58466.91
+          },
+          {
+            "x": 37323.48,
+            "y": 57508.52
+          },
+          {
+            "x": 37132.4,
+            "y": 56550.12
+          },
+          {
+            "x": 36844.78,
+            "y": 55495.2
+          },
+          {
+            "x": 36461.63,
+            "y": 54441.26
+          },
+          {
+            "x": 36365.09,
+            "y": 53387.33
+          },
+          {
+            "x": 36365.09,
+            "y": 52236.86
+          },
+          {
+            "x": 36365.09,
+            "y": 51182.93
+          },
+          {
+            "x": 36365.09,
+            "y": 50033.45
+          },
+          {
+            "x": 36461.63,
+            "y": 48690.91
+          },
+          {
+            "x": 36557.17,
+            "y": 47445.89
+          },
+          {
+            "x": 36652.71,
+            "y": 46295.43
+          },
+          {
+            "x": 36652.71,
+            "y": 45049.42
+          },
+          {
+            "x": 36652.71,
+            "y": 43899.94
+          },
+          {
+            "x": 36652.71,
+            "y": 42845.01
+          },
+          {
+            "x": 36652.71,
+            "y": 41695.54
+          },
+          {
+            "x": 36269.55,
+            "y": 40449.53
+          },
+          {
+            "x": 36269.55,
+            "y": 39299.06
+          },
+          {
+            "x": 36269.55,
+            "y": 38245.13
+          },
+          {
+            "x": 36174.01,
+            "y": 37095.66
+          },
+          {
+            "x": 36078.47,
+            "y": 36137.26
+          },
+          {
+            "x": 35790.85,
+            "y": 35178.87
+          },
+          {
+            "x": 35311.16,
+            "y": 34220.48
+          },
+          {
+            "x": 34832.46,
+            "y": 33357.63
+          },
+          {
+            "x": 34257.22,
+            "y": 32494.78
+          },
+          {
+            "x": 33586.45,
+            "y": 31728.46
+          },
+          {
+            "x": 32820.13,
+            "y": 31057.68
+          },
+          {
+            "x": 32052.82,
+            "y": 30386.91
+          },
+          {
+            "x": 31189.97,
+            "y": 29524.06
+          },
+          {
+            "x": 29848.42,
+            "y": 28374.58
+          },
+          {
+            "x": 28986.56,
+            "y": 27799.35
+          },
+          {
+            "x": 28028.17,
+            "y": 27128.57
+          },
+          {
+            "x": 26782.16,
+            "y": 26457.8
+          },
+          {
+            "x": 25823.77,
+            "y": 25978.11
+          },
+          {
+            "x": 24769.84,
+            "y": 25499.41
+          },
+          {
+            "x": 23619.37,
+            "y": 25307.33
+          },
+          {
+            "x": 22565.44,
+            "y": 25116.25
+          },
+          {
+            "x": 21607.04,
+            "y": 24828.63
+          },
+          {
+            "x": 20648.65,
+            "y": 24541.01
+          },
+          {
+            "x": 19690.26,
+            "y": 24253.4
+          },
+          {
+            "x": 18731.87,
+            "y": 24061.32
+          },
+          {
+            "x": 17677.93,
+            "y": 24061.32
+          },
+          {
+            "x": 16527.46,
+            "y": 24061.32
+          },
+          {
+            "x": 15473.53,
+            "y": 24061.32
+          },
+          {
+            "x": 14515.14,
+            "y": 24348.94
+          },
+          {
+            "x": 13556.75,
+            "y": 24828.63
+          },
+          {
+            "x": 12790.43,
+            "y": 25499.41
+          },
+          {
+            "x": 11832.04,
+            "y": 25978.11
+          },
+          {
+            "x": 10873.65,
+            "y": 26361.26
+          },
+          {
+            "x": 9915.25,
+            "y": 26745.42
+          },
+          {
+            "x": 8956.86,
+            "y": 27128.57
+          },
+          {
+            "x": 7998.47,
+            "y": 27416.19
+          },
+          {
+            "x": 6944.54,
+            "y": 27607.27
+          },
+          {
+            "x": 5986.14,
+            "y": 27799.35
+          },
+          {
+            "x": 4931.22,
+            "y": 27990.43
+          },
+          {
+            "x": 3589.67,
+            "y": 28278.05
+          },
+          {
+            "x": 3589.67,
+            "y": 28278.05
+          },
+          {
+            "x": 3589.67,
+            "y": 28182.51
+          }
+        ]
+      },
+      "anchor": {
+        "x": 24160.65,
+        "y": 51677.3
+      },
+      "crop": {
+        "left": 23296,
+        "top": 50944,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 864.65,
+        "y": 733.3
+      },
+      "atlas_image": "atlas/24-metastase-annotiert.jpg",
+      "exercise_image": "pruefung/24-metastase.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Metastatisches Kolonkarzinom in der Leber als definierender Befund.",
+      "didactic_note": "Metastatisches Kolonkarzinom in der Leber als definierender Befund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 24,
+      "label": "Metastase",
+      "exercise_image": "pruefung/24-metastase.jpg",
+      "rationale": "Metastatisches Kolonkarzinom in der Leber als definierender Befund.",
+      "didactic_note": "Metastatisches Kolonkarzinom in der Leber als definierender Befund. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    },
+    {
+      "annotation_id": 17,
+      "label": "Mitose",
+      "exercise_image": "pruefung/17-mitose.jpg",
+      "rationale": "Mitose als Zeichen der malignen Proliferation.",
+      "didactic_note": "Mitose als Zeichen der malignen Proliferation. Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+    }
+  ],
+  "didactic_context": "Eine Kolonkarzinommetastase in der Leber bildet atypische Drüsen mit schmutziger Nekrose, die sich vom trabekulären Aufbau der Hepatozyten abheben; Mitosen unterstreichen die Proliferationsaktivität."
+}

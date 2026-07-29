@@ -1,0 +1,1359 @@
+{
+  "source": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=course&cid=3",
+  "course_id": 3,
+  "course_title": "Histopathologie 5. Semester Erlangen",
+  "extracted_on": "2026-07-28",
+  "record_count": 78,
+  "records": [
+    {
+      "number": "001",
+      "name": "Kolon",
+      "organ": "Kolon",
+      "diagnosis": "Referenz",
+      "description": [
+        "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Krypten mit Becherzellen;",
+        "Lymphfollikel;",
+        "Plexus myentericus;",
+        "pericolisches Fettgewebe;",
+        "Serosa;"
+      ],
+      "slide_id": "4667cbde-5dec-421f-8bc1-d5883cfbe880",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4667cbde-5dec-421f-8bc1-d5883cfbe880&courseid=3"
+    },
+    {
+      "number": "002a",
+      "name": "Ulcero-phlegmonöse Entzündung",
+      "organ": "Appendix",
+      "diagnosis": "ulcero-phlegmonöse Appendizitis",
+      "description": [
+        "typische Schichtung der GI Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Schleimhaut mit Krypten und Becherzellen;",
+        "Serosa, Mesoappendix;",
+        "transmurale phlegmonöse Entzündungsausbreitung;",
+        "neutrophiles granulozytäres Entzündungsinfiltrat;",
+        "Nekrose, Ulzeration;",
+        "Periappendizitis und lokale Peritonitis;"
+      ],
+      "slide_id": "b64c938b-f228-4ce3-b903-c74ac157a0df",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=b64c938b-f228-4ce3-b903-c74ac157a0df&courseid=3"
+    },
+    {
+      "number": "003a",
+      "name": "Oxyuriasis",
+      "organ": "Appendix",
+      "diagnosis": "Oxyuriasis",
+      "description": [
+        "typische Schichtung der GI Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Schleimhaut mit Krypten und Becherzellen;",
+        "Serosa, Mesoappendix;",
+        "Oxyuren;",
+        "prominente aktivierte Lymphfollikel;",
+        "vereinzelt Granulozyten in lokaler Entzündungsreaktion;"
+      ],
+      "slide_id": "48754bcd-4226-42f6-a5aa-bc0b58a8e537",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=48754bcd-4226-42f6-a5aa-bc0b58a8e537&courseid=3"
+    },
+    {
+      "number": "004",
+      "name": "Granulationsgewebe",
+      "organ": "periarticuläres Weichgewebe",
+      "diagnosis": "Granulationsgewebe",
+      "description": [
+        "quergestreifte Muskulatur;",
+        "hämorrhagischer Randsaum (durch defekte Gefäße);",
+        "einwandernde Granulozyten & Makrophagen (resorbieren abgestorbenes Gewebe);",
+        "einsprießende Kapillare;",
+        "Fibroblasten (bilden bindegewebige Narbe);",
+        "unten: fortgeschrittenes Granulationsgewebe mit zurückgebildeten Kapillaren;",
+        "Narbengewebe (siehe #5)"
+      ],
+      "slide_id": "2950688c-47f6-45b8-8f1e-492af3f87aed",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2950688c-47f6-45b8-8f1e-492af3f87aed&courseid=3"
+    },
+    {
+      "number": "005",
+      "name": "Narbengewebe",
+      "organ": "Weichgewebe",
+      "diagnosis": "Narbengewebe",
+      "description": [
+        "homogenes Bild;",
+        "lockere Bindegewebsstränge aus Fibrozyten;",
+        "extrazelluläre kollagene Matrix;",
+        "keine Fibroblasten wie in Präparat #4",
+        "Endprodukt der Narbenbildung (- des Granulationsgewebes)"
+      ],
+      "slide_id": "a016e8dd-14c7-4454-ba6d-263757011d5b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a016e8dd-14c7-4454-ba6d-263757011d5b&courseid=3"
+    },
+    {
+      "number": "006",
+      "name": "Eitrige Bronchopneumonie",
+      "organ": "Lunge",
+      "diagnosis": "eitrige Bronchopneumonie",
+      "description": [
+        "meist viele kleine Herde in mehreren Lobuli;",
+        "häufig gleichzeitiges Vorhandensein der unterschiedlichen Stadien;",
+        "- Ödem (Transsudat);",
+        "- Desquamation und seröse Exsudation (Erreger und Zellen in Alveolen)",
+        "- rote Hepatisation: Erythrozyten-Fibrin-Pfröpfe in Alveolen",
+        "- graue Hepatisation: granulozytäres Infiltrat (in Kapillare & Alveolen)",
+        "( hier nicht zu sehen: gelbe Hepatisation (verfettete Makrophagen im Zuge der Abräumreaktion))",
+        "Nekrosebereiche;",
+        "abgeschilferte hochprismatische Bronchusepithelien;"
+      ],
+      "slide_id": "6d497cc5-e0b0-489f-9372-e38fc15d298f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=6d497cc5-e0b0-489f-9372-e38fc15d298f&courseid=3"
+    },
+    {
+      "number": "007",
+      "name": "Chronisch lymphatische Cholezystitis",
+      "organ": "Gallenblase",
+      "diagnosis": "chronisch-lymphoplasmazelluläre Cholezystitis",
+      "description": [
+        "für Gallenblase typisches, einschichtig-hochprismatisches Epithel;",
+        "verdickte Gallenblasenwand;",
+        "lymphozytäres und plasmazelluläres Entzündungsinfiltrat, hauptsächlich in Lamina propria;",
+        "Erosionen;",
+        "Lymphfollikel;"
+      ],
+      "slide_id": "a7dcf0f6-f6d0-4870-bde3-0e2321cd49f7",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a7dcf0f6-f6d0-4870-bde3-0e2321cd49f7&courseid=3"
+    },
+    {
+      "number": "008a",
+      "name": "Akute Pankreatitis",
+      "organ": "Pankreas",
+      "diagnosis": "Pankreatitis",
+      "description": [
+        "Pankreas: typisches Drüsengewebe mit Langerhans Inseln (ß-Zellen);",
+        "zusätzlich fibrotisch verändertes Gewebe;",
+        "ausgedehnte großflächige Nekrosezone;",
+        "Fettgewebsnekrose (=Kolliquationsnekrose);",
+        "Makroskopisch imponieren Kalkspritzer durch Ausfallen von Fettsäuren mit Kalziumsalzen;",
+        "entzüdliches granulozytäres Infiltrat;",
+        "Hämorrhagien;"
+      ],
+      "slide_id": "3660f244-1d6e-4071-a546-17be3730b226",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3660f244-1d6e-4071-a546-17be3730b226&courseid=3"
+    },
+    {
+      "number": "009",
+      "name": "Pilonidalsinusabszess",
+      "organ": "Haut und subcutanes Weichgewebe",
+      "diagnosis": "Pilonidalsinusabszess",
+      "description": [
+        "verhornendes Plattenepithel;",
+        "Melanozyten und Melaninhaltige Keratinozyten;",
+        "Hautanhangsgebilde:",
+        "- Haarfollikel",
+        "- Talgdrüse",
+        "Fremdkörperabszess;",
+        "Fremdkörper (meist eingewachsenes Haar) hier nicht zu sehen;",
+        "Fremdkörpergranulom (Granulozyten, Riesenzellen);",
+        "ausgedehnte umgebende Vernarbung;",
+        "chronische Entzündungskomponente (lymphozytär und plasmazellulär);"
+      ],
+      "slide_id": "52d8af30-7908-477e-adde-a956f7938c3f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=52d8af30-7908-477e-adde-a956f7938c3f&courseid=3"
+    },
+    {
+      "number": "010a",
+      "name": "TBC-Lymphknoten",
+      "organ": "Lymphknoten",
+      "diagnosis": "Tuberkulose-Lymphknoten",
+      "description": [
+        "teilweise unauffälliges Lymphknotenparenchym mit Lymphfollikeln;",
+        "Epitheloidzellgranulom:",
+        "verkäsende Nekrose im Zentrum;",
+        "umgeben von einem Wall aus pallisadenförmig angeordneten Histiozyten (=Epitheloidzellen, siehe auch #37);",
+        "vereinzelt Langhans Riesenzellen (verschmolzene Makrophagen, Zellkerne im Randbereich halbmondförmig angeordnet);"
+      ],
+      "slide_id": "e9065b5a-785f-4f67-85e1-1e29462def23",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=e9065b5a-785f-4f67-85e1-1e29462def23&courseid=3"
+    },
+    {
+      "number": "011",
+      "name": "Hochdifferenziertes Adeno-CA der Lunge",
+      "organ": "Lunge",
+      "diagnosis": "Adenokarzinom",
+      "description": [
+        "dys- und atelektatisches Lungengewebe;",
+        "Bronchiolus;",
+        "tröpfchenförmiges Wachstumsmuster des Tumors (nicht solide);",
+        "Tumor wächst invasiv und ist unscharf begrenzt;",
+        "Architekturstörung: hochprismatische Zellen kleiden Tumor aus;",
+        "dys- und neoplastisches Drüsengewebe des Bronchialsystems mit Kernatypien:",
+        "- hyperchromatische Kerne",
+        "- verschobene Kern-Plasma Relation",
+        "- Mitosen",
+        "- Zellkerne mit erhaltener und mit verlorener Polarität zur BM;",
+        "Retentionspneumonie mit Exsudat;",
+        "Alveolen gefüllt mit Entzündungszellen"
+      ],
+      "slide_id": "2089907a-60b6-4066-94d6-3f9e77199814",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2089907a-60b6-4066-94d6-3f9e77199814&courseid=3"
+    },
+    {
+      "number": "012",
+      "name": "Gering differenziertes nicht verhornendes Plattenepithel-CA der Lunge",
+      "organ": "Lunge",
+      "diagnosis": "nicht verhornendes Plattenepithelkarzinom",
+      "description": [
+        "dys- und atelektatisches Lungengewebe;",
+        "diffus abgrenzbarer, invasiver Tumor;",
+        "Neoplasie atypischen Plattenepithels;",
+        "Zell- und Kernatypien:",
+        "- hyperchromatische Kerne",
+        "- deutliche Nucleoli",
+        "- verschobene Kern-Plasma Relation",
+        "- Mitosen",
+        "solides Wachstumsmuster (siehe #11)",
+        "Nekrosen;"
+      ],
+      "slide_id": "94972732-15a2-409e-b713-a2e6e9a95dd4",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=94972732-15a2-409e-b713-a2e6e9a95dd4&courseid=3"
+    },
+    {
+      "number": "013",
+      "name": "Graft vs Host Reaktion Colon",
+      "organ": "Kolon",
+      "diagnosis": "Graft vs Host Reaktion (GvHD)",
+      "description": [
+        "Krypten mit Becherzellen;",
+        "subtotaler Kryptenuntergang;",
+        "total untergegangene Krypten;",
+        "Apoptosen;",
+        "ödematöse Auflockerung;"
+      ],
+      "slide_id": "9c2e30cf-a7f2-4699-a3e7-8a4eae104a27",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=9c2e30cf-a7f2-4699-a3e7-8a4eae104a27&courseid=3"
+    },
+    {
+      "number": "014",
+      "name": "Lungenmetastase Rectum-Ca",
+      "organ": "Lunge",
+      "diagnosis": "Lungenmetastase eines kolorektalen Adenokarzinoms",
+      "description": [
+        "Lungengewebe;",
+        "Metastase eines Rektumkarzinoms;",
+        "ausgedehnte Nekrose;",
+        "blumenkohlartiges invasiv-destruierendes Wachstumsmuster, unscharf begrenzt;",
+        "Zell- und Kernanomalien (Mitosen, große blasige Zellkerne, deutliche Nukleoli, teilweise Verlust der Zellpolarität, Hyperchromasie, verschobene Kern-Plasmarelation);",
+        "entzündliche Randreaktion (Lymphozyten, Granulozyten & Schaumzellen);",
+        "zusätzlich Anthrakose;"
+      ],
+      "slide_id": "96387df8-1beb-4734-81b5-03e243bb6164",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=96387df8-1beb-4734-81b5-03e243bb6164&courseid=3"
+    },
+    {
+      "number": "015",
+      "name": "Lungenmetastase mäßig differenziertes klarzelliges Nierenzell-CA",
+      "organ": "Lunge",
+      "diagnosis": "Metastase eines klarzelligen Nierenzellkarzinoms",
+      "description": [
+        "Alveolen, Bronchioli;",
+        "Knorpelspangen der Bronchien;",
+        "abgekapselter Tumor bestehend aus hellen, schaumigen Zellen;",
+        "scharfe gut abtrennbare Zellwände;",
+        "wenig Mitosen;",
+        "ausgeprägte Fibrose im Randbereich;",
+        "Morphologie typisch (vergleichen Sie hierzu #58);",
+        "lymphozytäres & granulozytäres Infiltrat;"
+      ],
+      "slide_id": "76d19bd6-5329-4b2e-9a76-ed3f50fc36eb",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=76d19bd6-5329-4b2e-9a76-ed3f50fc36eb&courseid=3"
+    },
+    {
+      "number": "016",
+      "name": "Interstitielle Nephritis",
+      "organ": "Niere",
+      "diagnosis": "interstitielle Nephritis",
+      "description": [
+        "hyalinisierte Glomeruli (Vergl.: normales Glomerulus #58);",
+        "Glomerulosklerose;",
+        "normale Tubulusgröße;",
+        "Weitung der Tubuluslichtung;",
+        "lymphozytäres & plasmazelluläres Infiltrat im Interstitium;",
+        "Verschmälerung der Nierenrinde;",
+        "höckerige Oberfläche mit Einziehungen;"
+      ],
+      "slide_id": "23e3886b-a519-4656-b839-30574abfd6f8",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=23e3886b-a519-4656-b839-30574abfd6f8&courseid=3"
+    },
+    {
+      "number": "017a",
+      "name": "Allergische Sinusitis",
+      "organ": "Nasennebenhöhlen",
+      "diagnosis": "allergische Sinusitis",
+      "description": [
+        "Knochenlamellen;",
+        "respiratorisches Flimmerepithel;",
+        "interstitielles Ödem;",
+        "ödematös aufgelockerte, hyperämische Schleimhaut;",
+        "Hyperplasie der Drüsen, luminal vrschleimt",
+        "eosinophile Granulozyten;",
+        "seromuköses Exsudat;",
+        "Lymphfollikel; verdickte Basalmembran",
+        "(Zeichen eines längere andauernden bzw. chronisch entzündlichen Prozesses);"
+      ],
+      "slide_id": "0e3e2030-c36a-484a-9ecf-d424f7fde07f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0e3e2030-c36a-484a-9ecf-d424f7fde07f&courseid=3"
+    },
+    {
+      "number": "018",
+      "name": "Amyloidose Niere",
+      "organ": "Niere",
+      "diagnosis": "Amyloidose",
+      "description": [
+        "Glomeruli, Tubuli;",
+        "extrazelluläre hyaline Ablagerungen;",
+        "(häufig an Basalmembranen, Vas afferentes & Tubuli);",
+        "polarisiert in Kongorot Färbung grün (siehe #19);"
+      ],
+      "slide_id": "69341f17-b6eb-409a-8947-520084e95b86",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=69341f17-b6eb-409a-8947-520084e95b86&courseid=3"
+    },
+    {
+      "number": "019",
+      "name": "Amyloidose Niere (Kongorot)",
+      "organ": "Niere",
+      "diagnosis": "Amyloidose",
+      "description": [
+        "Kongorot Färbung (hier keine grüne Polarisation, da nicht unter Polarisationsmikroskop gescannt);",
+        "Glomeruli, Tubuli;",
+        "extrazelluläre hyaline Ablagerungen",
+        "(häufig an Basalmembranen, Vas afferentes, Tubuli);",
+        "HE-Färbung siehe #18;"
+      ],
+      "slide_id": "c9f6abce-1cf0-4c18-acc8-79f70bbd23cc",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c9f6abce-1cf0-4c18-acc8-79f70bbd23cc&courseid=3"
+    },
+    {
+      "number": "020",
+      "name": "Leberzirrhose",
+      "organ": "Leber",
+      "diagnosis": "Zirrhose",
+      "description": [
+        "typische Hepatozyten in Bälkchen angeordnet;",
+        "Periportalfelder (Arterie, Vene, Gallengang);",
+        "Zirrhose = Fibrose + Regeneratknoten;",
+        "ausgeprägt fibrosierte Bindegewebssepten;",
+        "knotige Architekturveränderung (Regeneratknoten o.a. Pseudolobuli);",
+        "Gallengangsproliferate;",
+        "Steatose;",
+        "hier zusätzlich noch floride Entzündungskomponente mit überwiegend lymphozytärem Infiltrat;",
+        "also hier Zirrhose mit aktiver Hepatitis;",
+        "Nekrosen;",
+        "Sirius Färbung siehe #22"
+      ],
+      "slide_id": "946543b4-afd8-457a-949a-2b5dbcc1cee7",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=946543b4-afd8-457a-949a-2b5dbcc1cee7&courseid=3"
+    },
+    {
+      "number": "021a",
+      "name": "Fettleber",
+      "organ": "Leber",
+      "diagnosis": "Fettleber",
+      "description": [
+        "typische Hepatozyten, in Bälkchen angeordnet;",
+        "Periportalfelder (Arterie, Vene, Gallengang);",
+        "Zentralvenen;",
+        "Fettleber: >50% der Hepatozyten sind verfettet",
+        "(wenn <50% verfettet sind spricht man von Leberverfettung);",
+        "verfettete Hepatozyten:",
+        "- Fettvakuolen (keine Fettzellen)",
+        "- randständiger Kern"
+      ],
+      "slide_id": "8a2077e4-85ec-4b1f-a542-9665170d465b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8a2077e4-85ec-4b1f-a542-9665170d465b&courseid=3"
+    },
+    {
+      "number": "022",
+      "name": "Leberzirrhose (Sirius)",
+      "organ": "Leber",
+      "diagnosis": "Zirrhose",
+      "description": [
+        "Sirius Färbung (BG=rot, Parenchym=gelb);",
+        "typische Hepatozyten in Bälkchen angeordnet;",
+        "Zentralvenen;",
+        "Periportalfelder (Arterie, Vene, Gallengang);",
+        "fibrosierte Bindegewebssepten (rot gefärbt) mit vielen kleinen Gallengangsproliferaten;",
+        "knotige Regeneratknoten (Pseudolobuli);",
+        "hier ohne prominente Begleitentzündung;",
+        "HE Färbung siehe #20"
+      ],
+      "slide_id": "4470bae3-8f6f-45e7-b9a3-578622c4e68a",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4470bae3-8f6f-45e7-b9a3-578622c4e68a&courseid=3"
+    },
+    {
+      "number": "023",
+      "name": "Gichttophus",
+      "organ": "Synovia",
+      "diagnosis": "Gicht",
+      "description": [
+        "Uratausfällung (bevorzugt in Gelenken [in Synovialmembran])",
+        "Reste des Synovialepithels;",
+        "amorphe Matrix der Ablagerungen;",
+        "Fremdkörperriesenzellen (Zusammenschluss von Makrophagen, Zellkerne diffus verteilt);",
+        "unspezifische Entzündungsreaktion umgibt Fremdkörper;"
+      ],
+      "slide_id": "a249d44f-f10e-4702-87e4-00adc8236347",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a249d44f-f10e-4702-87e4-00adc8236347&courseid=3"
+    },
+    {
+      "number": "024",
+      "name": "Pseudogicht",
+      "organ": "Synovia",
+      "diagnosis": "Pseudogicht o. Chondrokalzinose",
+      "description": [
+        "Kapselwand;",
+        "Synoviaepithelreste;",
+        "Ablagerung von Kalziumpyrophosphat (andere Morphologie als Urat);",
+        "scharf begrenzte basophile Herde;",
+        "viele Riesenzellen (hier beim Abbau);",
+        "lymphozytäres Infiltrat als Anzeichen für chronisches Geschehen;"
+      ],
+      "slide_id": "2e1211d5-bdcd-41a8-98b8-3d2a9eddbd31",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2e1211d5-bdcd-41a8-98b8-3d2a9eddbd31&courseid=3"
+    },
+    {
+      "number": "025",
+      "name": "Chronisch interstitielle nichtspezifische Pneumonie",
+      "organ": "Lunge",
+      "diagnosis": "chronisch interstitielle Pneumonie",
+      "description": [
+        "Bronchiolus mit Schleim gefüllt;",
+        "lymphozytäre Infiltration der Alveolarwände",
+        "Entzündungsausbreitung im Gewebe;",
+        "Lymphozyten bilden follikuläre Strukturen (chronische Komponente);",
+        "Hyperämie;",
+        "Exsudat;",
+        "bindegewebige Verdickung der Alveolarwände (--> Fibrosierung durch andauernde Entzündung, behindert Gasaustausch);"
+      ],
+      "slide_id": "94d60a7d-9033-412f-9e93-cd6e5cecfef1",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=94d60a7d-9033-412f-9e93-cd6e5cecfef1&courseid=3"
+    },
+    {
+      "number": "026",
+      "name": "Lungenödem",
+      "organ": "Lunge",
+      "diagnosis": "Ödem",
+      "description": [
+        "im Randbereich alveoläres Lungengewebe gut erkennbar;",
+        "Ödem (Transsudat) im Alveolarraum;",
+        "ödematös angeschwollene Alveolarwände;",
+        "Exsudat mit Entzündungskomponente;",
+        "Granulozyten im Alveolarraum, an sich aber wenige entzündliche Prozesse;",
+        "blutgestaute Alveolarwände;",
+        "thrombosierte Gefäße;"
+      ],
+      "slide_id": "92803558-8d4a-4c64-afed-4d8115f89015",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=92803558-8d4a-4c64-afed-4d8115f89015&courseid=3"
+    },
+    {
+      "number": "027",
+      "name": "Diabetisches Gangrän",
+      "organ": "Zehe",
+      "diagnosis": "Gangrän",
+      "description": [
+        "Knochen; verhornendes Plattenepithel;",
+        "tiefe und oberflächliche Beugersehne, Strecksehne;",
+        "ausgedehnte ischämische Nekrose (Koagulationsnekrose);",
+        "Einblutungen im Randbereich;",
+        "granulozytäres Infiltrat;",
+        "Bild eines feuchten Gangräns;"
+      ],
+      "slide_id": "3f6c5d42-f445-45c3-b4b9-271579817b8b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3f6c5d42-f445-45c3-b4b9-271579817b8b&courseid=3"
+    },
+    {
+      "number": "028",
+      "name": "Lungentuberkulose",
+      "organ": "Lunge",
+      "diagnosis": "Tuberkulose",
+      "description": [
+        "Bronchus mit Knorpelspangen;",
+        "respiratorisches Flimmerepithel;",
+        "Alveolarsepten und -räume;",
+        "Epitheloidzellgranulom;",
+        "zentral verkäsende Nekrose;",
+        "umgeben von einem Wall aus Histiozyten (Epitheloidzellen, siehe auch #37);",
+        "Langhans Riesenzellen (Zusammenschluss von Makrophagen mit halbmondförmige Anordnung der Zellkerne);",
+        "granulomatöse Entzündung;",
+        "prominente Lymphfollikel;",
+        "lymphozytäre Randkomponente;"
+      ],
+      "slide_id": "12962790-77c8-4353-a805-e7623622d043",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=12962790-77c8-4353-a805-e7623622d043&courseid=3"
+    },
+    {
+      "number": "029",
+      "name": "Frischer Myokardinfarkt",
+      "organ": "Herz",
+      "diagnosis": "frischer Myokardinfarkt",
+      "description": [
+        "spärlich vitale Myokardfasern;",
+        "Myokardfaserödem;",
+        "Verlust der Querstreifung;",
+        "Auflösung der Zellkerne (Kernschatten);",
+        "homogenes eosinophiles Zytoplasma des Myokards;",
+        "Myolyse (nekrotisches Plasma wird herausgelöst, Zellmembranen bleiben noch erhalten);",
+        "Koagulationsnekrose;",
+        "später erst Einwandern von Granulozyten, dann Makrophagen;",
+        "Hämorhagischer Randsaum erst ab ca. 24h postinfarziell sichtbar;"
+      ],
+      "slide_id": "4df3672d-79e3-4592-9f21-2346abd58d46",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4df3672d-79e3-4592-9f21-2346abd58d46&courseid=3"
+    },
+    {
+      "number": "030",
+      "name": "Akute lymphozytäre Myokarditis",
+      "organ": "Herz",
+      "diagnosis": "akute lymphozytäre Myokarditis",
+      "description": [
+        "quergestreifte Herzmuskulatur mit zentralen Kernen;",
+        "interstitielle lymphozytäre Infiltrate;",
+        "Degeneration der Muskelzellen (inhomogenes Plasma);",
+        "Nekrotisierende Myokardfasern;",
+        "Herzmuskeldilatation;"
+      ],
+      "slide_id": "cd1e4264-4506-44d7-979d-27f0836a8962",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=cd1e4264-4506-44d7-979d-27f0836a8962&courseid=3"
+    },
+    {
+      "number": "032",
+      "name": "Frischer Niereninfarkt",
+      "organ": "Niere",
+      "diagnosis": "frischer Niereninfarkt",
+      "description": [
+        "vitale Glomeruli;",
+        "vereinzelt vitale Tubuli; akute Tubulusnekrosen (Schockzeichen);",
+        "hämorrhagischer Randsaum;",
+        "Tubulusatrophie und Nekrosen (beginnend und ausgeprägt);",
+        "granulozytäres Infiltrat;",
+        "später: granulzytärer Wall;"
+      ],
+      "slide_id": "700a9678-fe4d-4ee2-8995-5b41bc6f275e",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=700a9678-fe4d-4ee2-8995-5b41bc6f275e&courseid=3"
+    },
+    {
+      "number": "033",
+      "name": "Alter Myokardinfarkt mit Herzwandaneurysma",
+      "organ": "Herz",
+      "diagnosis": "Alter Myokardinfarkt (mit Herzwandaneurysma)",
+      "description": [
+        "intakte Myokardfasern;",
+        "verschlossenes Gefäß (Einsprossung von Kapillaren zur Blutversorgung);",
+        "z.n. transmuralem Infarkt (gebildete Narbe bildet Teil der Herzkammer);",
+        "Kammerdruck führt zu Aussackungen, es kann sich ein Parietalthrombus (=Gerinnungsthrombus durch intravasale Gerinnung) bilden;"
+      ],
+      "slide_id": "00fd7c45-49fd-4d2f-8457-9b2f4496d1f2",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=00fd7c45-49fd-4d2f-8457-9b2f4496d1f2&courseid=3"
+    },
+    {
+      "number": "035",
+      "name": "Arteriosklerose (pavk)",
+      "organ": "Gefäßsystem",
+      "diagnosis": "Arteriosklerose (periphere arterielle Verschlusskrankheit - pAVK)",
+      "description": [
+        "Schichtung der arteriellen Wand: Intima, Membrana elastica interna, Media, Adventitia);",
+        "Einlagerung von Lipiden in Intima;",
+        "Ausfällung von Cholesterinkristallen (Atherom);",
+        "Entzündungsreaktion, u.a. Schaumzellen (Fett abbauende Makrophagen);",
+        "Endothelschädigung;",
+        "Bild entspricht dem einer chronischen Entzündung;",
+        "Bildung von fibrösen Plaques (Intimafibrose);",
+        "zusätzlich benachbarte Venen mit Phlebosklerose;"
+      ],
+      "slide_id": "ceb4631e-0891-4fd1-8518-bd2d92ebdbb0",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=ceb4631e-0891-4fd1-8518-bd2d92ebdbb0&courseid=3"
+    },
+    {
+      "number": "036",
+      "name": "Eitrige aszendierende Nephritis",
+      "organ": "Niere",
+      "diagnosis": "Eitrig-abszedierende Nephritis",
+      "description": [
+        "Glomeruli;",
+        "akute bakterielle Nephritis;",
+        "aus den Harnwegen aufsteigende Entzündung;",
+        "Hyperämie & Hämorrhagien;",
+        "Granulozytenstraßen im Mark;",
+        "Degeneration d. Tubusepithelien;",
+        "disseminierte Mikroabszesse;",
+        "narbige Ausheilung (bei Häufung: Schrumpfniere);"
+      ],
+      "slide_id": "f1af257a-14e0-44bb-926b-7563c9e453a8",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f1af257a-14e0-44bb-926b-7563c9e453a8&courseid=3"
+    },
+    {
+      "number": "037",
+      "name": "Fremdkörpergranulom der Serosa (Magenperforation)",
+      "organ": "Peritoneum und Subserosa",
+      "diagnosis": "Fremdkörpergranulom",
+      "description": [
+        "Fremdmaterialien (Samenkörner);",
+        "umgeben von Fremdkörperriesenzellen (Zusammenschluss von Makrophagen);",
+        "Epitheloidzellwall;",
+        "floride eitrig phlegmonöse Entzündung und Hämorrhagie;",
+        "ausgeprägte Fibrose;"
+      ],
+      "slide_id": "57039a10-610f-461e-a874-5929462cee1b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=57039a10-610f-461e-a874-5929462cee1b&courseid=3"
+    },
+    {
+      "number": "038",
+      "name": "Thrombose (Hämorrhoidalknoten)",
+      "organ": "Gefäßsystem",
+      "diagnosis": "Thrombose",
+      "description": [
+        "verhornendes Plattenepithel;",
+        "pigmentierte Haut (Melanin aufnehmende basale Zellschicht);",
+        "ektatischer gestauter Venenplexus mit",
+        "vielen thrombosierten venösen Gefäßen (Parietalthromben);"
+      ],
+      "slide_id": "04dfaebb-aab4-47f1-9e3c-9f4afe6ebd6b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=04dfaebb-aab4-47f1-9e3c-9f4afe6ebd6b&courseid=3"
+    },
+    {
+      "number": "039",
+      "name": "Hautatrophie",
+      "organ": "Haut",
+      "diagnosis": "Atrophie",
+      "description": [
+        "gesamtes Präparat mit",
+        "verhornendem atrophen Plattenepithel:",
+        "- sehr dünner Epithelschicht;",
+        "- nicht vorhandenen bzw. nur flachen Epithelzapfen (vergleiche #9);",
+        "Schweißdrüsen;"
+      ],
+      "slide_id": "c04500fd-4566-4302-84f1-8ae656e184b5",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c04500fd-4566-4302-84f1-8ae656e184b5&courseid=3"
+    },
+    {
+      "number": "040",
+      "name": "Struma colloides nodosa",
+      "organ": "Weichgewebe",
+      "diagnosis": "Struma colloides nodosa",
+      "description": [
+        "im unteren Randbereich unauffälliges Schilddrüsengewebe;",
+        "im restlichen Präparat Hyperplasie der Thyreozyten;",
+        "knotige Umwandlung des Schilddrüsengewebes (Pseudolobuli)",
+        "(makroskopisch sichtbar --> rauszoomen!);",
+        "umgeben von Pseudokapsel;",
+        "zystische Degeneration im Knoten;",
+        "Schaumzellen, die Kolloid abbauen;"
+      ],
+      "slide_id": "c06fc96a-a1f9-4e15-adb7-0633300d160d",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=c06fc96a-a1f9-4e15-adb7-0633300d160d&courseid=3"
+    },
+    {
+      "number": "041",
+      "name": "Skelettmuskelatrophie",
+      "organ": "quergestreifte Muskulatur",
+      "diagnosis": "Skelettmuskelatrophie",
+      "description": [
+        "Quergestreifte Muskulatur;",
+        "vermehrt Fettzellen;",
+        "Atrophie der Muskelfasern;",
+        "Kaliberschwankung der Muskelfasern untereinander (kleine und große);"
+      ],
+      "slide_id": "8c0fd8ef-4e40-4681-b0c3-73b63993b900",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8c0fd8ef-4e40-4681-b0c3-73b63993b900&courseid=3"
+    },
+    {
+      "number": "042",
+      "name": "Adeno-Ca des Ösophagus (Barrett-Ca)",
+      "organ": "Ösophagus/ösophagogastraler Übergang",
+      "diagnosis": "Adenokarzinom des Ösophagus/ösophagogastralen Übergangs (Barrett Karzinom)",
+      "description": [
+        "typische Schichtung der Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Plattenepithel;",
+        "Barrett Metaplasie (Plattenepithel wird durch intestinales Zylinderepithel ersetzt);",
+        "Tumorgrenze;",
+        "kleindrüsiges, diffus infiltrierendes Wachstumsmuster;",
+        "lymphozytäres Infiltrat (chronische Komponente mit follikulärer Anordnung);",
+        "Zell- und Kernanomalien (deutliche Nucleoli, helle blasige Kerne, Mitosen);",
+        "Schleimsezernierung;",
+        "Nekrosen;",
+        "pT2 (Infiltration der Muskulatur);"
+      ],
+      "slide_id": "d9b6d907-9c77-4e8e-8e74-fcaded71da7b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=d9b6d907-9c77-4e8e-8e74-fcaded71da7b&courseid=3"
+    },
+    {
+      "number": "043a",
+      "name": "Kavernöses Hämangiom",
+      "organ": "Leber",
+      "diagnosis": "Kavernöses Hämangiom",
+      "description": [
+        "Hepatozyten, bälkchenartig angeordnet;",
+        "Zentralvenen;",
+        "Periportalfelder (Arterie, Vene, Gallengang);",
+        "umschriebener, nicht abgekapselt benigner Tumor;",
+        "mit einreihigem Endothel ausgekleidete Räume ohne atypien (Vergleich Venenendotehel mit Tumorendothel),",
+        "die blutgefüllt sind",
+        "(kavernöses Blutgefäßkonvolut);",
+        "randständig kapilläres -, mittig kavernöses Muster;",
+        "Thrombosierte Räume;",
+        "expansives Wachstumsmuster;"
+      ],
+      "slide_id": "6b90fe97-223a-4e88-9860-f2bb05b41526",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=6b90fe97-223a-4e88-9860-f2bb05b41526&courseid=3"
+    },
+    {
+      "number": "044",
+      "name": "Melanozytärer Naevus",
+      "organ": "Haut",
+      "diagnosis": "melanozytärer Naevus",
+      "description": [
+        "verhornendes Plattenepithel;",
+        "Haare, Talgdrüsen;",
+        "Naevus;",
+        "bestehend aus nestförmig angeordneten Melanozyten;",
+        "Hyperpigmentierung;",
+        "Ausbreitung der Naevuszellen zur Tiefe hin;",
+        "hier: dermale und epidermale Anteile;",
+        "fehlende Malignitätskriterien;"
+      ],
+      "slide_id": "d43f5b5a-da31-4906-9035-6a49d12f4553",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=d43f5b5a-da31-4906-9035-6a49d12f4553&courseid=3"
+    },
+    {
+      "number": "045",
+      "name": "Barrett-Mukosa (HE)",
+      "organ": "Ösophagus/ösophagogastraler Übergang",
+      "diagnosis": "Barrett-Mukosa",
+      "description": [
+        "Plattenepithel des Ösophagus;",
+        "typische Kardia Schleimhaut;",
+        "mucinöse Drüsenzellen, kaum dysplastisch;",
+        "geringe lymphozytäre und granulozytäre Begleitentzündung;",
+        "Präkanzerose;",
+        "Alz-Pas Färbung siehe #46;"
+      ],
+      "slide_id": "2e6bcd7f-5b57-4502-94e8-8446f7660765",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2e6bcd7f-5b57-4502-94e8-8446f7660765&courseid=3"
+    },
+    {
+      "number": "046",
+      "name": "Barrett-Mukosa (Alz-Pas)",
+      "organ": "Ösophagus/ösophagogastraler Übergang",
+      "diagnosis": "Barrett-Mukosa",
+      "description": [
+        "Alcianblau-Pas-Färbung (blau: saure Glykosaminglykane = Becherzellen",
+        "rot: neutrale Glykosaminglykane);",
+        "Plattenepithel des Ösophagus;",
+        "Glandulae Ösophageales;",
+        "Zylinderzellmetaplasie im Ösophagus vom intestinalen Typ;",
+        "gering Dysplastisch;",
+        "HE Färbung siehe #45;"
+      ],
+      "slide_id": "06ba7a0f-713b-46d0-b976-e8691520f927",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=06ba7a0f-713b-46d0-b976-e8691520f927&courseid=3"
+    },
+    {
+      "number": "047",
+      "name": "Peritonealkarzinose eines Adeno-Ca",
+      "organ": "Peritoneum und Subserosa",
+      "diagnosis": "Peritonealkarzinose eines Adenokarzinoms",
+      "description": [
+        "peritoneales Mesothel;",
+        "subseröses Fettgewebe mit fein lobulierter Architektur (passend für Omentum majus);",
+        "Drüsenverbände im Fettgewebe (Metastase eines Karzinoms, passend für Kolonkarzinom #74, #86);",
+        "desmoplastische Reaktion (=Neubildung von Bindegewebe);",
+        "lymphozytäre Entzündung mit Follikelbildung (chronische Komponente);",
+        "Peritonealkarzinose ist i.d.R. eine Metastase kann aber auch Ausdehnung (pT der TNM Klassifikation) bestimmter Primärtumore sein (z.B. beim Ovarialkarzinom);"
+      ],
+      "slide_id": "3c75baeb-6691-4e95-bae3-489d7c6e0ac7",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3c75baeb-6691-4e95-bae3-489d7c6e0ac7&courseid=3"
+    },
+    {
+      "number": "048a",
+      "name": "Helicobactergastritis (HE)",
+      "organ": "Magen",
+      "diagnosis": "Helicobactergastritis",
+      "description": [
+        "Corpusschleimhaut (Foveolen, Hauptzellen - blau, Belegzellen - rot);",
+        "Muskulatur, Lamina muscularis mucosae;",
+        "Atrophie der Schleimhaut;",
+        "Hyperplasie der Foveolen (Helicobactergastritis ist Präkanzerose);",
+        "lymphozytäres, plasmazelluläres und granulozytäres Infiltrat;",
+        "Bakterien auf Oberfläche der Foveolen (siehe #49)"
+      ],
+      "slide_id": "33d2f42b-d438-44b1-89fa-37d777641e0d",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=33d2f42b-d438-44b1-89fa-37d777641e0d&courseid=3"
+    },
+    {
+      "number": "049a",
+      "name": "Helicobactergastritis (WS)",
+      "organ": "Magen",
+      "diagnosis": "Helicobactergastritis",
+      "description": [
+        "WS-Färbung (Warthin-Starry);",
+        "Bakterien auf Schleimhautoberfläche;",
+        "HE-Färbung siehe #48;"
+      ],
+      "slide_id": "0079cd62-ec24-4720-afe1-d0fe37cacd5c",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0079cd62-ec24-4720-afe1-d0fe37cacd5c&courseid=3"
+    },
+    {
+      "number": "050",
+      "name": "Leiomyoma uteri",
+      "organ": "Uterus",
+      "diagnosis": "Leiomyom",
+      "description": [
+        "hypervaskularisiertes Myometrium;",
+        "zum Moymetrium gut abgrenzbarer Tumor aus glatten Muskelzellen;",
+        "spindelzellige verwirbelte Architektur;",
+        "zigarrenförmige Kerne mit leicht eosinophilem Zytoplasma;",
+        "im Randbereich Kompression des Myometriums durch expansives Tumorwachstum;",
+        "keine erhöhte Mitoserate;",
+        "keine Nekrosen;"
+      ],
+      "slide_id": "8295c433-8903-4001-b734-b4a5fd19e76b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8295c433-8903-4001-b734-b4a5fd19e76b&courseid=3"
+    },
+    {
+      "number": "051",
+      "name": "Seborrhoische Keratose",
+      "organ": "Haut",
+      "diagnosis": "seborrhoische Keratose",
+      "description": [
+        "verhornendes Plattenepithel;",
+        "Talgdrüsen;",
+        "benigne papilläre Epidermisverdickung aus basaloiden Zellen (=Basalzelladenom);",
+        "nicht invasives, scharf begrenztes polypoides Wachstum;",
+        "hyperkeratotische Verhornung (typische Hornperlen);",
+        "Hyperkeratose zieht sich Kryptenartig in die Tiefe;",
+        "Hyperpigmentierung im Bereich der Keratose;",
+        "seborrhoisch = warzenartig;"
+      ],
+      "slide_id": "4f8a6fca-8833-4ab2-aaaa-caa6e4dbb497",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4f8a6fca-8833-4ab2-aaaa-caa6e4dbb497&courseid=3"
+    },
+    {
+      "number": "052",
+      "name": "Narbenknochen",
+      "organ": "Weichgewebe",
+      "diagnosis": "Narbenknochen",
+      "description": [
+        "narbiges Bindegewebe;",
+        "Knochen;",
+        "hyaliner Knorpel;",
+        "desmale Ossifikationszone (Knochen entsteht aus Bindegewebe);",
+        "enchondrale Ossifikationszone (Knorpel wird durch Knochen ersetzt);",
+        "Osteoblasten, Osteozyten; Osteoklasten;",
+        "entsteht z.B. bei extremer wiederholender o. andauernder Belastung",
+        "(z.B. Exerzierknochen, große Bauch-OP);"
+      ],
+      "slide_id": "396c77e1-9240-41f5-ab39-9c266ddd4d02",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=396c77e1-9240-41f5-ab39-9c266ddd4d02&courseid=3"
+    },
+    {
+      "number": "053",
+      "name": "Plattenepithelmetaplasie im Respirationstrakt",
+      "organ": "Respirationstrakt",
+      "diagnosis": "Plattenepithelmetaplasie",
+      "description": [
+        "Knorpelspangen;",
+        "Flimmerepithel; Trachealmuskulatur; Trachealdrüsen;",
+        "Übergang von Flimmer- zu Plattenepithel;"
+      ],
+      "slide_id": "3c49ac59-119b-42cd-9b26-6b100452c26b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=3c49ac59-119b-42cd-9b26-6b100452c26b&courseid=3"
+    },
+    {
+      "number": "054a",
+      "name": "Lipom",
+      "organ": "Fettgewebe/Weichgewebe",
+      "diagnosis": "Lipom",
+      "description": [
+        "Schnitt besteht komplett aus Tumormaterial;",
+        "mesenchymaler benigner Tumor aus Fettzellen (Adipozyten);",
+        "zarte bindegewebige Kapsel;",
+        "durchzogen von dünnen Septen;",
+        "expansives Wachstumsmuster;",
+        "keine Dysplasie der Adipozyten;",
+        "maligne Form: Liposarkom (siehe #55)"
+      ],
+      "slide_id": "5066ec99-3317-4c0b-bade-187408add9a6",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=5066ec99-3317-4c0b-bade-187408add9a6&courseid=3"
+    },
+    {
+      "number": "055",
+      "name": "Liposarkom",
+      "organ": "Fettgewebe/Weichgewebe",
+      "diagnosis": "Liposarkom",
+      "description": [
+        "Schnitt besteht komplett aus Tumormaterial;",
+        "maligner mesenchymaler Tumor;",
+        "pleomorphes Liposarkom, undifferenziert;",
+        "vorwiegend Spindelzellen und unreife Fettgewebszellen (Lipoblasten mit mittigem Kern und Nucleolus);",
+        "Zelldysplasien, riesige dysplastische Kerne;",
+        "benigne Form: Lipom (siehe #54)"
+      ],
+      "slide_id": "73e1ab30-0e52-4986-97b9-45bed2b1bd35",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=73e1ab30-0e52-4986-97b9-45bed2b1bd35&courseid=3"
+    },
+    {
+      "number": "056",
+      "name": "Chondrom",
+      "organ": "Lunge",
+      "diagnosis": "Chondrom",
+      "description": [
+        "Lungengewebe;",
+        "benigner mesenchymaler Tumor;",
+        "scharf abgegrenzt, randständige Kompression durch expansives Wachstum;",
+        "keine Infiltration;",
+        "Chondrom (nicht abgekapseltes hyalines Knorpelgewebe);",
+        "einzelständige Chondrozyten in Höhle (im Gegensatz zum Chondrosarkom);",
+        "Randfibrose (verdickte Alveolarwände, Lumen);"
+      ],
+      "slide_id": "4d7bd7a5-31e8-4e59-8bc3-aa1ad381c48f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=4d7bd7a5-31e8-4e59-8bc3-aa1ad381c48f&courseid=3"
+    },
+    {
+      "number": "057",
+      "name": "Nebennierenadenom",
+      "organ": "Nebennniere",
+      "diagnosis": "Nebennierenrindenadenom",
+      "description": [
+        "Zona glomerulosa der normalen Nebenniere;",
+        "Rindenadenom: gut abgegrenzter, homogener, nicht invasiver Tumor;",
+        "morphologisch ähnlich der Zona fasciculata (schaumzellartiges, fettähnliches Gewebe);",
+        "zarte bindegewebige Tumorkapsel;",
+        "hellzelliger lockerer homogener Verbund, pyknotische kerne, kaum Mitosen;",
+        "scharfe Zellgrenzen;",
+        "expansives Wachstumsmuster;"
+      ],
+      "slide_id": "bed8cfbc-25e7-4c7e-b2f2-83320c02c7bc",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=bed8cfbc-25e7-4c7e-b2f2-83320c02c7bc&courseid=3"
+    },
+    {
+      "number": "058",
+      "name": "Klarzelliges Nierenzell-Ca",
+      "organ": "Niere",
+      "diagnosis": "klarzelliges Nierenzellkarzinom",
+      "description": [
+        "normals Nierenparenchym;",
+        "Nierenpapille;",
+        "Urothel;",
+        "Tumor mit Kapsel;",
+        "helle, granulierte Zellen, ausgehend vom Epithel der proximalen Tubuli;",
+        "deutliche Zellgrenzen, helles (klares) pflanzenzellartiges Zytoplasma;",
+        "prominente Nucleoli;",
+        "frühe hämatogene Metastasierung",
+        "hohe Affinität zu Gefäßen;",
+        "infiltrierendes Wachstum;",
+        "hier: Perineuralscheideninfiltration;"
+      ],
+      "slide_id": "a71d0fd1-f239-4d7b-b002-817263875554",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=a71d0fd1-f239-4d7b-b002-817263875554&courseid=3"
+    },
+    {
+      "number": "065a",
+      "name": "Fibrinöse Perikarditis",
+      "organ": "Perikard",
+      "diagnosis": "fibrinöse Perikarditis",
+      "description": [
+        "Herzmuskulatur;",
+        "Epikard mit feinen eosinophilen Fibrinauflagerungen;",
+        "Epikard: lockeres BG;",
+        "Randreaktion mit lymphozytärem Infiltrat & Ödem;"
+      ],
+      "slide_id": "405bf9c8-9b4d-4bb4-b330-22ed94aa3fd5",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=405bf9c8-9b4d-4bb4-b330-22ed94aa3fd5&courseid=3"
+    },
+    {
+      "number": "066",
+      "name": "Leichte Dysplasie der Cervix (CIN I)",
+      "organ": "Cervix",
+      "diagnosis": "leichte plattenepiteliale Dysplasie/ cervikale intraepitheliale Neoplasie/Carcinoma in situ (CIN I) der Cervix uteri",
+      "description": [
+        "Cervixschleimhaut mit hochprismatischem einschichtigem Epithel;",
+        "Cervikaldrüsen;",
+        "verschlossene Cervikaldrüse mit eingedicktem Sekret (Ovula naboti);",
+        "Schaumzellen;",
+        "Kauterrand durch operative Entfernung des Gewebes;",
+        "Koilozyten in denen sich HPV vermehrt (große Epithelzellen mit weißem Hof und dysplastischem Kern, kaum Zytoplasma);",
+        "Hyperplasie des betroffenen Epithels;",
+        "Cervicale intraepitheliale geringgradige Dysplasie im basalen 1/3",
+        "aber vollständiger Ausreifung bis zum obersten 1/3;",
+        "keine Mitosen;",
+        "CIN III siehe #67"
+      ],
+      "slide_id": "52a434a3-e44a-4148-a3c5-703f113c9636",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=52a434a3-e44a-4148-a3c5-703f113c9636&courseid=3"
+    },
+    {
+      "number": "067",
+      "name": "Schwere Dysplasie der Cervix (CIN III)",
+      "organ": "Cervix",
+      "diagnosis": "schwere plattenepiteliale Dysplasie/ cervikale intraepitheliale Neoplasie/Carcinoma in situ (CIN III) der Cervix uteri",
+      "description": [
+        "Kauterrand durch operative Gewebsentfernung;",
+        "Cervixdrüsen, Cervixschleimhaut;",
+        "fehlende Ausreifung des Cervixepithels;",
+        "aufgehobene Zellschichtung, fehlende Ausreifung bis ins oberste 1/3;",
+        "hochgradige Dysplasie (Mitosen, verschobene Kern-Plasmarelation);",
+        "Mitosen bis ins oberste 1/3 des Epithels;",
+        "Beteiligung cervikaler Drüsen (Metaplasie);"
+      ],
+      "slide_id": "e3deeeed-c41f-4ae6-ba21-4060acb2135d",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=e3deeeed-c41f-4ae6-ba21-4060acb2135d&courseid=3"
+    },
+    {
+      "number": "068",
+      "name": "DCIS intraduktales Mamma-Ca",
+      "organ": "Mamma",
+      "diagnosis": "Duktales Carcinoma in situ (DCIS)",
+      "description": [
+        "Resektionrand (mit Tusche gefärbt);",
+        "Vermehrung des Drüsengangepithels, in das Lumen hinein wachsend;",
+        "kein infiltratives Wachstum, Basalmembran bleibt intakt;",
+        "dilatierte Gänge;",
+        "nekrotisiert ins Lumen, sog. Komedonekrosen (deswegen auch Komedokarzinom);",
+        "Vorstufe des intraduktalen Mamma-CA (siehe #69);",
+        "hyperchromatische Kerne;"
+      ],
+      "slide_id": "edeb5180-8552-4ab8-8092-e24c04637f4b",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=edeb5180-8552-4ab8-8092-e24c04637f4b&courseid=3"
+    },
+    {
+      "number": "069",
+      "name": "Invasives duktales Mamma-Ca",
+      "organ": "Mamma",
+      "diagnosis": "invasives Mammakarzinom (NST), ehemals invasives-duktales Mammakarzinom (IDC)",
+      "description": [
+        "Drüsenartiges Wachstum (Mamma-Ca ist Adenokarzinom);",
+        "invasives Wachstum;",
+        "Tumorabsiedelungen, diffuse Infiltration ins Fettgewebe;",
+        "Zell- und Kernatypien (große blasige Kerne);",
+        "bindegewebige Begleitreaktion;",
+        "Vergleichen Sie mit dem DCIS Mamma-CA (siehe #68);"
+      ],
+      "slide_id": "8253882c-a230-4728-8702-df7aac8ad5ab",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8253882c-a230-4728-8702-df7aac8ad5ab&courseid=3"
+    },
+    {
+      "number": "071",
+      "name": "Magen-Ca intestinaler Typ, pT1sm",
+      "organ": "Magen",
+      "diagnosis": "Magenfrühkarzinom (intestinales Adenokarzinom)",
+      "description": [
+        "Antrumschleimhaut bei atropher chronischer Gastritis;",
+        "intestinale Metaplasie (siehe #45, #46);",
+        "Tumor mit drüsiger (intestinaler) Differenzierung;",
+        "invasives Wachstumsmuster;",
+        "hyperchromatische dysplastische Kerne mit prominenten Nucleoli;",
+        "lymphozytäres Begleitinfiltrat;",
+        "Nerv;",
+        "Perineuralscheideninfiltration;",
+        "pT1sm (infiltriert Lamina muscularis mucosae & Submucosa);",
+        "Invasion nicht über Submucosa hinaus Magenfrühkarzinom;"
+      ],
+      "slide_id": "9ceb8b74-9b35-4ebc-ba90-c11d71365a45",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=9ceb8b74-9b35-4ebc-ba90-c11d71365a45&courseid=3"
+    },
+    {
+      "number": "072",
+      "name": "Siegelringzell-Ca",
+      "organ": "Magen",
+      "diagnosis": "Siegelringzellkarzinom",
+      "description": [
+        "Siegelringzellhaltiges Magenkarzinom mit diffuser Infiltration in die Muskulatur;",
+        "Einteilung nach Lauren, hier liegt ein diffuser Typ n. Lauren vor;",
+        "Siegelringzellen sind prall mit Schleim gefüllt, Zellkerne an den Rand gedrängt;",
+        "bildet haufig lymphogene Metastasen;",
+        "Lymphgefäßinfiltration;",
+        "Serosadurchbruch;",
+        "in PAS Färbung erscheint Zellinhalt tiefrot (vergleichen Sie hierzu #83)",
+        "Karzinom ist erblich bedingt bei einer E-Cadherin Mutation;"
+      ],
+      "slide_id": "293baa7e-7aa0-49f1-b513-4d9e5d16b97f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=293baa7e-7aa0-49f1-b513-4d9e5d16b97f&courseid=3"
+    },
+    {
+      "number": "073",
+      "name": "Tubulovillöses Kolonadenom",
+      "organ": "Kolon",
+      "diagnosis": "tubulovillöses Kolonadenom",
+      "description": [
+        "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Krypten mit Becherzellen;",
+        "Auerbach Plexus;",
+        "polypenartige Wucherung; nicht invasiv;",
+        "Pallisadenartige Aufreihung der Zellen;",
+        "Dysplasie gering:",
+        "wenig Zellatypien, wenige Mitosen;",
+        "Zellpolarität erhalten (Zellekerne basalständig);",
+        "intakte Basalmembran;",
+        "mehrreihiges Epithel;",
+        "Kryptenektasie (Verzweigung);",
+        "Vergleichen Sie Krypten und Zellen mit Tumorzellen aus #86 & #74"
+      ],
+      "slide_id": "0672e10b-75b1-4dbb-bdbf-cc353f6acb31",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0672e10b-75b1-4dbb-bdbf-cc353f6acb31&courseid=3"
+    },
+    {
+      "number": "074",
+      "name": "Adeno-Ca des Kolon - Fall 1",
+      "organ": "Kolon",
+      "diagnosis": "Adenokarzinom",
+      "description": [
+        "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "normale Colonschleimhaut mit Krypten & Becherzellen;",
+        "invasiver Tumor mit infiltrierendem Tiefenwachstum;",
+        "schwere Dysplasie (Mitosen, Hyperchromasie, deutliche Nucleoli, verschobene Kern-Plasmarelation, aufgegebene Zellpolarität);",
+        "lymphozytäres Entzündungsinfiltrat;",
+        "pT2a (Infiltration der inneren Schicht der Lamina muscularis propria);"
+      ],
+      "slide_id": "09a4e7ec-26ad-4142-af08-7ad1378d30d5",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=09a4e7ec-26ad-4142-af08-7ad1378d30d5&courseid=3"
+    },
+    {
+      "number": "075",
+      "name": "Verhornendes Plattenepithel-Ca (Zunge)",
+      "organ": "Zunge",
+      "diagnosis": "verhornendes Plattenepithelkarzinom",
+      "description": [
+        "Verlauf der Zungenmuskulatur;",
+        "unauffälliges Plattenepithel;",
+        "Tumor wächst invasiv in Form von tiefen Plattenepithelzapfen",
+        "und multipler Inselbildung in der Tiefe des Gewebes (diskontinuierliches Wachstum);",
+        "schwere Dysplasie (viele Mitosen, hyperchromatische Kerne, Nucleoli; verschobene Kern- Plasmarelation);",
+        "Hornperlen, sogenannte Königskugeln;",
+        "buntes tumorbegleitendes entzündliches Infiltrat",
+        "mit vielen Riesenzellen (fressen Hornperlen);",
+        "Ulzerationen;"
+      ],
+      "slide_id": "8f9dcfd8-840a-43b4-9cdd-ad6f12f5676f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8f9dcfd8-840a-43b4-9cdd-ad6f12f5676f&courseid=3"
+    },
+    {
+      "number": "076",
+      "name": "Lebermetastase eines Kolon-Ca",
+      "organ": "Leber",
+      "diagnosis": "Metastase eines Kolonkarzinoms",
+      "description": [
+        "typische Hepatozyten in bälkchenartiger Anordnung;",
+        "Periportalfelder (Arterie, Vene, Gallengang);",
+        "Zentralvenen;",
+        "unscharf begrenzte Metastase mit sezernierendem Schleimhautepithel;",
+        "oft mehrreihiges Epithel;",
+        "Zell- und Kernatypien (Mitosen, verschobene Kern-Plasmarelation, schütteres Karyoplasma, Verlust der Zellpolarität);",
+        "Nekrosen;"
+      ],
+      "slide_id": "82d753ed-06c7-4d95-9c81-5dfb9f4cfc73",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=82d753ed-06c7-4d95-9c81-5dfb9f4cfc73&courseid=3"
+    },
+    {
+      "number": "077",
+      "name": "Basalzell-Ca (ehemals Basaliom)",
+      "organ": "Haut",
+      "diagnosis": "Basalzellkarzinom",
+      "description": [
+        "verhornendes Plattenepithel;",
+        "Neoplasie der basophilen Basalzellen des Plattenepithels",
+        "(häufig im Bereich der Haarwurzeln);",
+        "nodulär-cystisches Wachstum mit Pallisadenstellung der",
+        "Tumorzellen im Randbereich;",
+        "Dysplasien (Mitosen, Hyperchromasie, verschobene Kern- Plasmarelation);",
+        "Tumor umgeben von lockerem Stroma mit Myofibroblasten;",
+        "metastasiert so gut wie nie;",
+        "aber:häufiges Auftreten eines Lokalrezidivs;",
+        "gelegentlich sehr großes Ausmaß",
+        "mit ausgeprägten langstreckigen Ulzerationen (sog. Ulcus rodens);"
+      ],
+      "slide_id": "fdb86ea1-47a1-44d0-8d4c-7a6aeb81fe74",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=fdb86ea1-47a1-44d0-8d4c-7a6aeb81fe74&courseid=3"
+    },
+    {
+      "number": "078",
+      "name": "Prostata-Ca",
+      "organ": "Prostata",
+      "diagnosis": "Adenokarzinom der Prostata",
+      "description": [
+        "oft bereits Übersichtsdiagnose;",
+        "normales Prostatagewebe:",
+        "- zweireihiges Drüsenepithel",
+        "- große Drüsenlumina;",
+        "Tumor (im Präparat weit ausgebreitet):",
+        "- kleine Lumina;",
+        "- Drüsenepithel einreihig;",
+        "- Wachstum zwischen den bereits existierenden Drüsen;",
+        "- Zerstörung der Läppchenstruktur;",
+        "- hohe Zell- & Kernpleomorphie:",
+        "- hypochromatische Kerne;",
+        "- deutliche Nucleoli;",
+        "Perineuralscheideninfiltration;"
+      ],
+      "slide_id": "f6d5f47f-99d3-4651-af7d-f1f3678e9a87",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f6d5f47f-99d3-4651-af7d-f1f3678e9a87&courseid=3"
+    },
+    {
+      "number": "079",
+      "name": "LK-Metastase (verhornendes Plattenepithel-Ca)",
+      "organ": "Lymphknoten",
+      "diagnosis": "Metastase eines verhornendes Plattenepithelkarzinoms",
+      "description": [
+        "im unteren Randbereich residuelles Lymphknotenparenchym;",
+        "Lymphknoten komplett von Metastase durchzogen;",
+        "atypisches Plattenepithel und Hornlamellen;",
+        "Riesenzellen, die Hornlamellen und Fremdkörper abbauen;",
+        "Cholesterolspalten (ausgewaschen durch Fixieren);",
+        "Nekrose;",
+        "am Rand der Tumorinseln: Schrumpfung der Zellen, Zell-Zell Verbindungen (Desmosomen) bleiben erhalten",
+        "--> typisches Ausziehungsmuster;"
+      ],
+      "slide_id": "2460c9cc-4890-4a9f-b7b1-b0a43d531de9",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=2460c9cc-4890-4a9f-b7b1-b0a43d531de9&courseid=3"
+    },
+    {
+      "number": "080",
+      "name": "Ossäre Metastase Prostata-Ca",
+      "organ": "Knochen",
+      "diagnosis": "Metastase eines Prostatakarzinoms",
+      "description": [
+        "Knochengewebe mit verbreiterten Knochentrabekeln",
+        "(durch osteoplastischen Charakter der Metastase;",
+        "maligne metastasierte Drüsenverbände mit kribriformen Wachstumsmuster",
+        "füllen Markraum fast komplett aus;",
+        "Drüsenzellen mit prominenten Nucleoli;",
+        "PSA Färbung siehe #81;"
+      ],
+      "slide_id": "8932aac8-04e4-49d9-acfc-bd0e078056c3",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=8932aac8-04e4-49d9-acfc-bd0e078056c3&courseid=3"
+    },
+    {
+      "number": "081",
+      "name": "PSA Immunhistochemie ossäre Metastase",
+      "organ": "Knochen",
+      "diagnosis": "Metastase eines Prostatakarzinoms",
+      "description": [
+        "PSA Immun-Färbung (= prostate-specific antigen)",
+        "zytoplasmatische Färbung (rot) der metastasierten Zellen;",
+        "Luftblasenartefakte;",
+        "Knochengewebe mit verbreiterten Knochentrabekeln;",
+        "metastasierte Drüsenverbände mit kribriformen Wachstumsmuster",
+        "füllen Markraum fast komplett aus;",
+        "HE Fäbrung siehe #80;"
+      ],
+      "slide_id": "ed2dd051-651b-4747-9a33-cd7e524cd11a",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=ed2dd051-651b-4747-9a33-cd7e524cd11a&courseid=3"
+    },
+    {
+      "number": "082",
+      "name": "Krukenberg Tumor",
+      "organ": "Ovar",
+      "diagnosis": "Krukenberg Tumor",
+      "description": [
+        "Siegelringzelltumor des Ovars;",
+        "z.B. als Abtropfmetastase des Siegelringzellkarzinoms des Magens (#72)",
+        "Serosa;",
+        "Siegelringzellen sind prall mit Schleim gefüllt;",
+        "Zellkerne an den Rand gedrängt;",
+        "PAS Färbung siehe #83;"
+      ],
+      "slide_id": "fc9d1dc3-6153-4002-98a1-a29b5047bf1d",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=fc9d1dc3-6153-4002-98a1-a29b5047bf1d&courseid=3"
+    },
+    {
+      "number": "083",
+      "name": "Krukenberg Tumor (PAS)",
+      "organ": "Ovar",
+      "diagnosis": "Krukenberg Tumor",
+      "description": [
+        "Serosa;",
+        "z.B. als Abtropfmetastase des Siegelringzellkarzinoms des Magens (#72);",
+        "Siegelringzellen sind prall mit Schleim gefüllt;",
+        "Zellkerne an den Rand gedrängt;",
+        "Mitosen;",
+        "PAS Färbung --> Schleimbildende Zellen erscheinen violett;",
+        "HE Färbung siehe #82"
+      ],
+      "slide_id": "bfb97cda-f55c-4b42-9010-35d7282e9d0f",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=bfb97cda-f55c-4b42-9010-35d7282e9d0f&courseid=3"
+    },
+    {
+      "number": "084",
+      "name": "Nebenschilddrüse",
+      "organ": "Nebenschilddrüse & Schilddrüse",
+      "diagnosis": "Nebenschilddrüse mit Struma colloides nodosa",
+      "description": [
+        "Nebenschilddrüse:",
+        "liegt Schilddrüse auf",
+        "ist von Bindegewebskapsel umgeben und septiert",
+        "Hauptzellen bilden Parathormon",
+        "lipomatös durchsetzt",
+        "Schrumpfungsartefakte vom Fixieren",
+        "Schilddrüse mit Follikelepithelzellen (Thyreozyten);",
+        "Kolloid;",
+        "Strumaknoten mit fokaler Hyperplasie (siehe #40);"
+      ],
+      "slide_id": "0e344844-da98-4614-8e28-8edac630d2d2",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=0e344844-da98-4614-8e28-8edac630d2d2&courseid=3"
+    },
+    {
+      "number": "085",
+      "name": "Nebenschilddrüsenadenom",
+      "organ": "Nebenschilddrüse",
+      "diagnosis": "Adenom",
+      "description": [
+        "Nebenschilddrüse (siehe auch #84);",
+        "Adenom geht von dem Gewebe der Nebenschilddrüse aus;",
+        "knotiger Tumor mit expansivem Wachstumsmuster;",
+        "immer von Kapsel umgeben;",
+        "Gewebe oft atroph(aufgelockert & ungeordnet);",
+        "keine Dysplasie vorhanden;",
+        "Tumor ist gut vaskularisiert (endokriner Tumor);"
+      ],
+      "slide_id": "67c086a9-6a20-4b60-a130-66e38a172e6a",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=67c086a9-6a20-4b60-a130-66e38a172e6a&courseid=3"
+    },
+    {
+      "number": "086",
+      "name": "Adeno-Ca des Kolon - Fall 2",
+      "organ": "Kolon",
+      "diagnosis": "Adenokarzinom",
+      "description": [
+        "typische Schichtung der GI-Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+        "Appendix Epiploicae;",
+        "Plexus Myentericus;",
+        "Colonadenom als Vorstufe (siehe #73);",
+        "invasives Wachstum der maligne entarteten Drüsen;",
+        "Serosadurchbruch, damit pT4;",
+        "schwere Dysplasie:",
+        "- viele Mitosen",
+        "- große, hyperchromatische Zellkerne;",
+        "- deutliche Nucleoli;",
+        "- mehrreihiges Epithel der Drüsen;",
+        "- Verlust der Zellpolarität (Zellkerne nicht mehr basal);",
+        "Nekrosen;",
+        "lymphozytäre Begleitentzündung;"
+      ],
+      "slide_id": "30d61db7-5192-495a-8e4d-cf7de207ed05",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=30d61db7-5192-495a-8e4d-cf7de207ed05&courseid=3"
+    },
+    {
+      "number": "100",
+      "name": "Diffuses großzelliges B-Zell-Lymphom (NHL)",
+      "organ": "Lymphknoten",
+      "diagnosis": "diffuses großzelliges B-Zell-Lymphom",
+      "description": [
+        "fibrosierte Kapsel;",
+        "Randsinus;",
+        "Zerstörung der Lymphknotenarchitektur, kein follikuläres Bild;",
+        "Lymphoblasten mit große Zellkerne, rasenartig vermehrt (Zentroblasten mit Kernen am äußeren Rand);",
+        "maligne Neoplasie des Lymphsystems;",
+        "Tumorzellen diffus im gesamten Lymphknoten ausgebreitet;",
+        "deutliche Nukleoli und viele Mitosen;",
+        "Fixierfehler: Riss, mittige Aufhellung im Lymphknoten;"
+      ],
+      "slide_id": "f9bee563-3807-4fd9-8aca-a68503d209fb",
+      "url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=f9bee563-3807-4fd9-8aca-a68503d209fb&courseid=3"
+    }
+  ]
+}

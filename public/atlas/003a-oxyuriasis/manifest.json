@@ -1,0 +1,293 @@
+{
+  "schema_version": 3,
+  "slide": {
+    "number": "003a",
+    "name": "Oxyuriasis",
+    "organ": "Appendix",
+    "diagnosis": "Oxyuriasis",
+    "description": [
+      "typische Schichtung der GI Muskulatur (äußere Längs- und innere Ringmuskulatur);",
+      "Schleimhaut mit Krypten und Becherzellen;",
+      "Serosa, Mesoappendix;",
+      "Oxyuren;",
+      "prominente aktivierte Lymphfollikel;",
+      "vereinzelt Granulozyten in lokaler Entzündungsreaktion;"
+    ],
+    "slide_id": "48754bcd-4226-42f6-a5aa-bc0b58a8e537",
+    "slide_path": "Histopathologie 5. Semester/slides/003a - Oxyuriasis.xml",
+    "source_url": "https://pathoskopieren.uk-erlangen.de/dss/mobilesuite.aspx?opt=showimage&application=Pathologie-Erlangen&slideId=48754bcd-4226-42f6-a5aa-bc0b58a8e537&courseid=3"
+  },
+  "overview": {
+    "path": "uebersicht-hochaufloesend.jpg",
+    "preview_path": "uebersicht-vorschau.jpg",
+    "atlas_path": "uebersicht-atlas-annotiert.jpg",
+    "atlas_preview_path": "uebersicht-atlas-annotiert-vorschau.jpg",
+    "width": 2384,
+    "height": 2720,
+    "level_0_to_overview_scale": 0.0625,
+    "tile_level": 4,
+    "missing_tiles": [],
+    "atlas_boxes_match_detail_crops": true
+  },
+  "detail_profile": {
+    "coordinate_space": "slide_level_0_pixels",
+    "tile_level": 0,
+    "tile_size": 256,
+    "tile_grid": {
+      "columns": 6,
+      "rows": 4
+    },
+    "width": 1536,
+    "height": 1024,
+    "viewer_zoom_reference": 40,
+    "atlas_overlay": "annotation_text_only",
+    "exercise_images_are_annotation_free": true
+  },
+  "annotations": [
+    {
+      "id": 11,
+      "label": "Mesoappendix",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 15712,
+            "y": 2808
+          },
+          {
+            "x": 31094,
+            "y": 10031
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23403.0,
+        "y": 6419.5
+      },
+      "crop": {
+        "left": 22528,
+        "top": 5888,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 875.0,
+        "y": 531.5
+      },
+      "atlas_image": "atlas/11-mesoappendix-annotiert.jpg",
+      "exercise_image": "pruefung/11-mesoappendix.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Mesoappendix“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "id": 15,
+      "label": "Ulzeration",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19796,
+            "y": 30712
+          },
+          {
+            "x": 20564,
+            "y": 31477
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20180.0,
+        "y": 31094.5
+      },
+      "crop": {
+        "left": 19200,
+        "top": 30464,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 980.0,
+        "y": 630.5
+      },
+      "atlas_image": "atlas/15-ulzeration-annotiert.jpg",
+      "exercise_image": "pruefung/15-ulzeration.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Ulzeration zeigt die zugehörige Schleimhautschädigung.",
+      "didactic_note": "Ulzeration zeigt die zugehörige Schleimhautschädigung. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "id": 16,
+      "label": "Enterobius vermicularis",
+      "original_shape": "rect",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 19564,
+            "y": 28997
+          },
+          {
+            "x": 20830,
+            "y": 30472
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20197,
+        "y": 29734.5
+      },
+      "crop": {
+        "left": 19200,
+        "top": 29184,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 997,
+        "y": 550.5
+      },
+      "atlas_image": "atlas/16-enterobius-vermicularis-annotiert.jpg",
+      "exercise_image": "pruefung/16-enterobius-vermicularis.jpg",
+      "missing_tiles": [],
+      "exam_representative": true,
+      "exam_rationale": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis.",
+      "didactic_note": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "id": 17,
+      "label": "Stuhl",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20087,
+            "y": 25018
+          },
+          {
+            "x": 21514,
+            "y": 27301
+          }
+        ]
+      },
+      "anchor": {
+        "x": 20800.5,
+        "y": 26159.5
+      },
+      "crop": {
+        "left": 19968,
+        "top": 25600,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 832.5,
+        "y": 559.5
+      },
+      "atlas_image": "atlas/17-stuhl-annotiert.jpg",
+      "exercise_image": "pruefung/17-stuhl.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Stuhl“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "id": 18,
+      "label": "Lymphfollikel",
+      "original_shape": "ellipse",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 20593,
+            "y": 19485
+          },
+          {
+            "x": 25913,
+            "y": 25071
+          }
+        ]
+      },
+      "anchor": {
+        "x": 23253.0,
+        "y": 22278.0
+      },
+      "crop": {
+        "left": 22272,
+        "top": 21760,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 981.0,
+        "y": 518.0
+      },
+      "atlas_image": "atlas/18-lymphfollikel-annotiert.jpg",
+      "exercise_image": "pruefung/18-lymphfollikel.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Der Ausschnitt zeigt „Lymphfollikel“ als morphologischen Teilbefund. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "id": 20,
+      "label": "Serosa",
+      "original_shape": "arrow",
+      "original_geometry": {
+        "coordinate_space": "slide_level_0_pixels",
+        "points": [
+          {
+            "x": 30715,
+            "y": 40868
+          },
+          {
+            "x": 29725,
+            "y": 37515
+          },
+          {
+            "x": 29725,
+            "y": 37515
+          }
+        ]
+      },
+      "anchor": {
+        "x": 29725.0,
+        "y": 37515
+      },
+      "crop": {
+        "left": 28928,
+        "top": 36864,
+        "width": 1536,
+        "height": 1024
+      },
+      "target_in_image": {
+        "x": 797.0,
+        "y": 651
+      },
+      "atlas_image": "atlas/20-serosa-annotiert.jpg",
+      "exercise_image": "pruefung/20-serosa.jpg",
+      "missing_tiles": [],
+      "didactic_note": "Die markierte Struktur „Serosa“ dient hier als anatomischer Orientierungspunkt. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    }
+  ],
+  "quality": {
+    "overview_complete": true,
+    "details_complete": true
+  },
+  "exam_representative_annotations": [
+    {
+      "annotation_id": 16,
+      "label": "Enterobius vermicularis",
+      "exercise_image": "pruefung/16-enterobius-vermicularis.jpg",
+      "rationale": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis.",
+      "didactic_note": "Enterobius vermicularis ist der krankheitsdefinierende Erregernachweis. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    },
+    {
+      "annotation_id": 15,
+      "label": "Ulzeration",
+      "exercise_image": "pruefung/15-ulzeration.jpg",
+      "rationale": "Ulzeration zeigt die zugehörige Schleimhautschädigung.",
+      "didactic_note": "Ulzeration zeigt die zugehörige Schleimhautschädigung. Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+    }
+  ],
+  "didactic_context": "Der Nachweis von Enterobius vermicularis beziehungsweise typischen Eiern begründet die Oxyuriasis; die Parasiten können Ulzeration und eine entzündliche Reaktion der Appendixschleimhaut auslösen."
+}

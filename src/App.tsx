@@ -69,25 +69,32 @@ type AtlasIndex = {
   preparations: CourseRecord[];
 };
 
-function relativeAssetPath(path?: string) {
-  return path?.startsWith("/") ? `.${path}` : path;
+const PUBLIC_BASE = import.meta.env.BASE_URL;
+
+function assetPath(path: string): string;
+function assetPath(path: undefined): undefined;
+function assetPath(path: string | undefined): string | undefined;
+function assetPath(path?: string) {
+  if (!path) return path;
+
+  return `${PUBLIC_BASE}${path.replace(/^\.?\//, "")}`;
 }
 
 function normalizeRecordAssets(record: CourseRecord): CourseRecord {
   return {
     ...record,
-    overview: relativeAssetPath(record.overview),
-    atlas_overview: relativeAssetPath(record.atlas_overview),
-    examImage: relativeAssetPath(record.examImage),
+    overview: assetPath(record.overview),
+    atlas_overview: assetPath(record.atlas_overview),
+    examImage: assetPath(record.examImage),
     annotations: record.annotations?.map((annotation) => ({
       ...annotation,
-      atlas_image: relativeAssetPath(annotation.atlas_image) ?? "",
-      exercise_image: relativeAssetPath(annotation.exercise_image) ?? "",
+      atlas_image: assetPath(annotation.atlas_image) ?? "",
+      exercise_image: assetPath(annotation.exercise_image) ?? "",
     })),
     exam_representative_images: record.exam_representative_images?.map(
       (image) => ({
         ...image,
-        exercise_image: relativeAssetPath(image.exercise_image) ?? "",
+        exercise_image: assetPath(image.exercise_image) ?? "",
       }),
     ),
   };
@@ -109,7 +116,7 @@ type OrganSystem = {
   organs: string[];
 };
 
-const ASSET_ROOT = "atlas/001-kolon";
+const ASSET_ROOT = assetPath("atlas/001-kolon");
 
 const ORGAN_SYSTEMS: OrganSystem[] = [
   {
@@ -1784,7 +1791,7 @@ function LegacyTrainingMode() {
       }
     }
 
-    fetch("data/praeparate_kurs_3.json")
+    fetch(assetPath("data/praeparate_kurs_3.json"))
       .then((response) => response.json())
       .then((data: CourseData) => {
         const organs = Array.from(
@@ -2759,8 +2766,10 @@ export default function Home() {
       number: "001",
       organ: "Kolon",
       diagnosis: "Referenz",
-      overview: "./atlas/001-kolon/uebersicht-hochaufloesend.jpg",
-      atlas_overview: "./atlas/001-kolon/uebersicht-atlas-annotiert.jpg",
+      overview: assetPath("atlas/001-kolon/uebersicht-hochaufloesend.jpg"),
+      atlas_overview: assetPath(
+        "atlas/001-kolon/uebersicht-atlas-annotiert.jpg",
+      ),
     },
   ]);
   const organSystems = useMemo(
@@ -2783,13 +2792,13 @@ export default function Home() {
 
   useEffect(() => {
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("sw.js").catch(() => {
+      navigator.serviceWorker.register(assetPath("sw.js")).catch(() => {
         // The app remains fully usable online if service-worker registration is
         // unavailable in a particular local browser.
       });
     }
 
-    fetch("./atlas/index.json")
+    fetch(assetPath("atlas/index.json"))
       .then((response) => response.json())
       .then((data: AtlasIndex) =>
         setCourseRecords(data.preparations.map(normalizeRecordAssets)),
